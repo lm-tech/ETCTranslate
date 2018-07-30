@@ -57,7 +57,8 @@
     "game_not_opening": "竞猜不在开放下注的状态",
     "option_sum_amount_is_beyond": "选项可接受的下注额度已达上限",
     "game_sum_amount_is_beyond": "竞猜可接受的下注额度已达上限",
-    "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录"
+    "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录",
+    "withdraw_address_invalid": "提币地址无效"
   },
   "en": {
     "error_messages_no_user": "no such user",
@@ -117,7 +118,8 @@
     "game_not_opening": "game not open",
     "option_sum_amount_is_beyond": "option sum amount exceed",
     "game_sum_amount_is_beyond": "game sum amount exceed",
-    "account_locked_two_hours": "wrong password, to safeguard your account security, login disabled for 2 hours"
+    "account_locked_two_hours": "wrong password, to safeguard your account security, login disabled for 2 hours",
+    "withdraw_address_invalid": "提币地址无效"
   },
   "ko": {
     "error_messages_no_user": "유저없음",
@@ -173,7 +175,8 @@
     "game_not_opening": "예측사항이 오픈상태가 아님",
     "option_sum_amount_is_beyond": "예측사항의 총 예측금액 한도를 초과함",
     "game_sum_amount_is_beyond": "예측의 총 예측금액 한도를 초과함",
-    "account_locked_two_hours": "비밀번호가 틀렸습니다.계정 안전을 보호하기위해 2시간안에 로그인을 할 수 없습니다."
+    "account_locked_two_hours": "비밀번호가 틀렸습니다.계정 안전을 보호하기위해 2시간안에 로그인을 할 수 없습니다.",
+    "withdraw_address_invalid": "提币地址无效"
   },
   "ja": {
     "error_messages_no_user": "用户不存在",
@@ -229,7 +232,8 @@
     "game_not_opening": "ベッティングが始まりません",
     "option_sum_amount_is_beyond": "マキシマムオーダーに達しました",
     "game_sum_amount_is_beyond": "マキシマムオーダーに達しました",
-    "account_locked_two_hours": "パスワードが間違っています。安全確保のために、これからの二時間でログインできません。"
+    "account_locked_two_hours": "パスワードが間違っています。安全確保のために、これからの二時間でログインできません。",
+    "withdraw_address_invalid": "提币地址无效"
   },
   "ru": {
     "error_messages_no_user": "用户不存在",
@@ -286,7 +290,8 @@
     "game_not_opening": "Статус прогноза не в открытой ставке",
     "option_sum_amount_is_beyond": "Лимит ставки, который может быть принят этой опцией, достиг верхнего предела.",
     "game_sum_amount_is_beyond": "Лимит ставки, которую может принять данный прогноз, достиг верхнего предела.",
-    "account_locked_two_hours": "Неверный пароль. Для того, чтобы защитить вашу учетную запись безопасности, вы не можете войти в течение 2 часов."
+    "account_locked_two_hours": "Неверный пароль. Для того, чтобы защитить вашу учетную запись безопасности, вы не можете войти в течение 2 часов.",
+    "withdraw_address_invalid": "提币地址无效"
   },
   "vi": {
     "error_messages_no_user": "tài khoảng không tồn tại",
@@ -344,7 +349,8 @@
     "game_not_opening": "Cuộc thi đố đang không trong trạng thái đặc cược",
     "option_sum_amount_is_beyond": "Tùy chọn có thể chấp nhận được giới hạn cá cược đạt đến giới hạn trên",
     "game_sum_amount_is_beyond": "Đoán giới hạn cá cược chấp nhận được lên đến giới hạn",
-    "account_locked_two_hours": "Mật khẩu lỗi, để bảo vệ bảo mật tài khoản của bạn, không thể đăng nhập trong 2 giờ"
+    "account_locked_two_hours": "Mật khẩu lỗi, để bảo vệ bảo mật tài khoản của bạn, không thể đăng nhập trong 2 giờ",
+    "withdraw_address_invalid": "提币地址无效"
   },
   "zh-Hant": {
     "error_messages_no_user": "用戶不存在",
@@ -404,6 +410,7 @@
     "game_not_opening": "競猜不在開放下注的狀態",
     "option_sum_amount_is_beyond": "選項可接受的下注額度已達上限",
     "game_sum_amount_is_beyond": "競猜可接受的下注額度已達上限",
-    "account_locked_two_hours": "密碼錯誤，為了保護您的帳戶安全，2小時內無法登錄"
+    "account_locked_two_hours": "密碼錯誤，為了保護您的帳戶安全，2小時內無法登錄",
+    "withdraw_address_invalid": "提币地址无效"
   }
 }
