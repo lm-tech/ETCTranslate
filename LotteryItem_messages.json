@@ -1,0 +1,86 @@
+{
+  "zh": {
+    "detal_header_opening": "进行中",
+    "detal_header_closed": "已截止",
+    "detal_header_published": "已开奖",
+    "detail_game_word_cup": "足球",
+    "detail_game_sessions": "第{sessions}轮",
+    "detail_game_time": "比赛时间：{time}分",
+    "detail_game_stop_bet": "下注即将截止",
+    "quick_button_home_team": "主队",
+    "quick_button_away_team": "客队",
+    "quick_button_pin": "平"
+  },
+  "en": {
+    "detal_header_opening": "Available now",
+    "detal_header_closed": "Closed",
+    "detal_header_published": "Result Announced",
+    "detail_game_word_cup": "Soccer",
+    "detail_game_sessions": "Round {sessions}",
+    "detail_game_time": "Time Elapsed: {time} minutes",
+    "detail_game_stop_bet": "Orders will be closed soon.",
+    "quick_button_home_team": "Home Team",
+    "quick_button_away_team": "Away Team",
+    "quick_button_pin": "Draw"
+  },
+  "ja": {
+    "detal_header_opening": "進行中",
+    "detal_header_closed": "これまでに",
+    "detal_header_published": "既に賞を出した",
+    "detail_game_word_cup": "サッカー",
+    "detail_game_sessions": "第{sessions}回",
+    "detail_game_time": "試合時間：{time}分",
+    "detail_game_stop_bet": "間もなくベッティングが終了", 
+    "quick_button_home_team": "ホームチーム",
+    "quick_button_away_team": "アウェイチーム",
+    "quick_button_pin": "引き分け"
+  },
+  "ko": {
+    "detal_header_opening": "진행중",
+    "detal_header_closed": "마감",
+    "detal_header_published": "당첨마감",
+    "detail_game_word_cup": "축구",
+    "detail_game_sessions": "제{sessions}회",
+    "detail_game_time": "경기시간: {time}분分",
+    "detail_game_stop_bet": "배팅 마감 예정",
+    "quick_button_home_team": "홈 팀",
+    "quick_button_away_team": "원정 팀",
+    "quick_button_pin": "무승부"
+  },
+  "ru": {
+    "detal_header_opening": "Обработка",
+    "detal_header_closed": "Был закрыт",
+    "detal_header_published": "Уже награжден",
+    "detail_game_word_cup": "Кубок мира",
+    "detail_game_sessions": "{sessions} раунд",
+    "detail_game_time": "Время соревнований: {time} минуты",
+    "detail_game_stop_bet": "Ставка будет закрыта",
+    "quick_button_home_team": "Домашняя команда",
+    "quick_button_away_team": "Команда гостей",
+    "quick_button_pin": "В галстуке"
+  },
+  "vi": {
+    "detal_header_opening": "Đang tiến hành",
+    "detal_header_closed": "đã kết thúc",
+    "detal_header_published": "Đã mở thưởng",
+    "detail_game_word_cup": "word_cup",
+    "detail_game_sessions": "Thứ{sessions}Vòng",
+    "detail_game_time": "：Thời gian thi đấu{time}phút",
+    "detail_game_stop_bet": "Đặc  cược sắp hết hạn.",
+    "quick_button_home_team": "Đội nhà",
+    "quick_button_away_team": "Đội khách",
+    "quick_button_pin": "Bằng"
+  },
+  "zh-Hant": {
+    "detal_header_opening": "進行中",
+    "detal_header_closed": "已截止",
+    "detal_header_published": "已開獎",
+    "detail_game_word_cup": "足球",
+    "detail_game_sessions": "第{sessions}輪",
+    "detail_game_time": "比賽時間：{time}分",
+    "detail_game_stop_bet": "下注即將截止",
+    "quick_button_home_team": "主隊",
+    "quick_button_away_team": "客隊",
+    "quick_button_pin": "平"
+  }
+}

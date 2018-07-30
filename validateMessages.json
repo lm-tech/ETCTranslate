@@ -117,7 +117,7 @@
     "game_not_opening": "game not open",
     "option_sum_amount_is_beyond": "option sum amount exceed",
     "game_sum_amount_is_beyond": "game sum amount exceed",
-    "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录"
+    "account_locked_two_hours": "wrong password, to safeguard your account security, login disabled for 2 hours"
   },
   "ko": {
     "error_messages_no_user": "유저없음",
@@ -173,7 +173,7 @@
     "game_not_opening": "예측사항이 오픈상태가 아님",
     "option_sum_amount_is_beyond": "예측사항의 총 예측금액 한도를 초과함",
     "game_sum_amount_is_beyond": "예측의 총 예측금액 한도를 초과함",
-    "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录"
+    "account_locked_two_hours": "비밀번호가 틀렸습니다.계정 안전을 보호하기위해 2시간안에 로그인을 할 수 없습니다."
   },
   "ja": {
     "error_messages_no_user": "用户不存在",
@@ -229,7 +229,7 @@
     "game_not_opening": "ベッティングが始まりません",
     "option_sum_amount_is_beyond": "マキシマムオーダーに達しました",
     "game_sum_amount_is_beyond": "マキシマムオーダーに達しました",
-    "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录"
+    "account_locked_two_hours": "パスワードが間違っています。安全確保のために、これからの二時間でログインできません。"
   },
   "ru": {
     "error_messages_no_user": "用户不存在",
@@ -286,28 +286,28 @@
     "game_not_opening": "Статус прогноза не в открытой ставке",
     "option_sum_amount_is_beyond": "Лимит ставки, который может быть принят этой опцией, достиг верхнего предела.",
     "game_sum_amount_is_beyond": "Лимит ставки, которую может принять данный прогноз, достиг верхнего предела.",
-    "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录"
+    "account_locked_two_hours": "Неверный пароль. Для того, чтобы защитить вашу учетную запись безопасности, вы не можете войти в течение 2 часов."
   },
   "vi": {
-    "error_messages_no_user": "用户不存在",
-    "error_messages_existed_phone": "手机号已存在",
-    "error_messages_existed_email": "邮箱无效",
-    "error_messages_registered_email": "邮箱已注册，请直接登录",
-    "error_messages_existed_nickname": "该昵称已经存在",
-    "error_messages_invalid_trade_password": "资金密码错误",
-    "error_messages_existed_trade_password": "不能与原资金密码相同",
-    "error_messages_invalid_old_trade_password": "原资金密码不正确",
-    "error_messages_invalid_old_password": "原密码错误",
+    "error_messages_no_user": "tài khoảng không tồn tại",
+    "error_messages_existed_phone": "số điện thoại đã tồn tại",
+    "error_messages_existed_email": "hộp thư vô hiệu",
+    "error_messages_registered_email": "hộp thư đã đăng ký,xin đăng nhập trực tiếp",
+    "error_messages_existed_nickname": "biệt danh đã tồn tại",
+    "error_messages_invalid_trade_password": "mật khẩu số tiền cũ không đúng",
+    "error_messages_existed_trade_password": "không được trùng khớp với mật khẩu cũ",
+    "error_messages_invalid_old_trade_password": "mật khẩu số tiền cũ không chính xác",
+    "error_messages_invalid_old_password": "mật khẩu cũ không đúng",
     "error_messages_invalid_code": "Mã xác thực không hợp lệ",
     "error_messages_too_much_times": "Mã xác minh không hợp lệ, hãy gửi lại",
     "error_messages_code_not_found": "Mã xác minh không hợp lệ, hãy gửi lại",
-    "error_messages_wrong_password": "邮箱或密码错误",
-    "error_messages_invalid_flow": "页面过期，请重新刷新页面后在尝试",
-    "error_messages_networks": "网络错误",
-    "error_messages_invalid_phone": "无效的手机号",
-    "error_messages_invalid_email": "邮箱错误",
+    "error_messages_wrong_password": "hộp thư hoặc mật khẩu không đúng",
+    "error_messages_invalid_flow": "Trang hết hạn, hãy làm mới trang và thử lại",
+    "error_messages_networks": "mất mạng",
+    "error_messages_invalid_phone": "số điện thoại ko thiết thực",
+    "error_messages_invalid_email": "sai hộp thư",
     "error_messages_invalid_arguments": "Mã xác thực không hợp lệ",
-    "withdraw_form_withdrawal_error_concurrent": "币种余额不足",
+    "withdraw_form_withdrawal_error_concurrent": "Không đủ số dư tiền tệ",
     "withdraw_last_time": "Mật khẩu sai {time}, bạn còn",
     "withdraw_rate_limit_exceeded": "Vượt quá giới hạn tần số",
     "unkown_error": "unkown error",
@@ -341,10 +341,10 @@
     "amount_scale_is_too_big": "Độ chính xác số tiền quá cao (chỉ có một điểm thập phân được cho phép lên đến một)",
     "option_not_exist": "tùy chọn không tồn tại",
     "game_not_exist": "Thi đố không tồn tại",
-    "game_not_opening": "竞猜不在开放下注的状态",
-    "option_sum_amount_is_beyond": "选项可接受的下注额度已达上限",
-    "game_sum_amount_is_beyond": "竞猜可接受的下注额度已达上限",
-    "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录"
+    "game_not_opening": "Cuộc thi đố đang không trong trạng thái đặc cược",
+    "option_sum_amount_is_beyond": "Tùy chọn có thể chấp nhận được giới hạn cá cược đạt đến giới hạn trên",
+    "game_sum_amount_is_beyond": "Đoán giới hạn cá cược chấp nhận được lên đến giới hạn",
+    "account_locked_two_hours": "Mật khẩu lỗi, để bảo vệ bảo mật tài khoản của bạn, không thể đăng nhập trong 2 giờ"
   },
   "zh-Hant": {
     "error_messages_no_user": "用戶不存在",

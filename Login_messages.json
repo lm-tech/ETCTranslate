@@ -1,0 +1,30 @@
+{
+  "zh": {
+    "login_to_register": "立即注册",
+    "login_forgot_password": "忘记密码"
+  },
+  "en": {
+    "login_to_register": "Register Now",
+    "login_forgot_password": "Forgot password"
+  },
+  "ko": {
+    "login_to_register": "회원가입하기",
+    "login_forgot_password": "비밀번호찾기"
+  },
+  "ja": {
+    "login_to_register": "登録",
+    "login_forgot_password": "パスワードを忘れた"
+  },
+  "ru": {
+    "login_to_register": "Зарегистрироваться сейчас",
+    "login_forgot_password": "Забыть пароль"
+  },
+  "vi": {
+    "login_to_register": "lập tức đăng ký",
+    "login_forgot_password": "quên mật khẩu"
+  },
+  "zh-Hant": {
+    "login_to_register": "立即註冊",
+    "login_forgot_password": "忘記密碼"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "zh": {
+    "deposit_address_title": "充值地址：",
+    "deposit_address_focus_one": "重要提示：禁止向ETC地址充值除ETC之外的资产，任何充入ETC地址的非ETC资产将不可找回。",
+    "deposit_qrcode": "智能合约二维码",
+    "detail_forecast_copied": "已复制"
+  },
+  "en": {
+    "deposit_address_title": "Deposit address：",
+    "deposit_address_focus_one": "Please note: Depositing non-ETC assets to ETC address is prohibited and any deposited assets are irretrievable",
+    "deposit_qrcode": "Smart contract QR code",
+    "detail_forecast_copied": "Copied"
+  },
+  "ko": {
+    "deposit_address_title": "코인 입금 주소：",
+    "deposit_address_focus_one": " 주의사항: ETC의 주소로 ETC가 아닌 기타 코인을 입금할 시, 환불이 되지 않는 점 유의바랍니다. ",
+    "deposit_qrcode": "스마트 컨트렉트 QR코드",
+    "detail_forecast_copied": "복사됨"
+  },
+  "ja": {
+    "deposit_address_title": "ウオレットアドレス：",
+    "deposit_address_focus_one": "注意：ETC以外の資産をETCアドレスにチャージすることは禁じられています。チャージされたETC以外の資産は回収できません。",
+    "deposit_qrcode": "スマートコントラクトのQRコード",
+    "detail_forecast_copied": "コピー完了"
+  },
+  "ru": {
+    "deposit_address_title": "Адрес перезарядки：",
+    "deposit_address_focus_one": "Важная Подсказка：Запрещается перезарядка ETC адреса. За исключением активов, отличных от ETC, любые не-ETC активы, возвращенные на адрес ETC, не будут восстановлены.",
+    "deposit_qrcode": "QR-код смарт-контракта",
+    "detail_forecast_copied": "Уже скопировано"
+  },
+  "vi": {
+    "deposit_address_title": "địa chỉ nạp tiền：",
+    "deposit_address_focus_one": "Gợi ý: cấm địa chỉ quan trọng với ETC nạp tiền trừ ETC ngoài tài sản, bất kỳ nạp vào địa chỉ ETC phi ETC sẽ không thể lấy lại tài sản",
+    "deposit_qrcode": "Hợp đồng minh hai kích thước mã",
+    "detail_forecast_copied": "đã được sau chép"
+  },
+  "zh-Hant": {
+    "deposit_address_title": "充值地址：",
+    "deposit_address_focus_one": "重要提示：禁止向ETC地址充值除ETC之外的資產，任何充入ETC地址的非ETC資產將不可找回。",
+    "deposit_qrcode": "智能合約二維碼",
+    "detail_forecast_copied": "已複製"
+  }
+}
