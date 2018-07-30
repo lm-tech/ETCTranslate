@@ -43,7 +43,9 @@
     "detail_game_min_amount": "最小单笔预测金额",
     "detail_game_address": "竞猜下注地址",
     "detail_game_qrcode_tip": "智能合约二维码",
-    "detail_game_stop_bet": "下注即将截止"
+    "detail_game_stop_bet": "下注即将截止",
+    "detail_esports_type_victory": "胜负",
+    "detail_esports_type_victory_tip": "竞猜两队在本局的比赛结果"
   },
   "en": {
     "detal_header_opening": "Available now",
@@ -86,7 +88,9 @@
     "detail_game_type_balls": "O/U",
     "detail_game_type_balls_tip": "O/U - Predict the game within 90 minutes (including injury time) ",
     "detail_game_max_ammount": "Total Cap Size",
-    "detail_game_stop_bet": "Orders will be closed soon."
+    "detail_game_stop_bet": "Orders will be closed soon.",
+    "detail_esports_type_victory": "胜负",
+    "detail_esports_type_victory_tip": "竞猜两队在本局的比赛结果"
   },
   "ja": {
     "detal_header_opening": "進行中",
@@ -129,7 +133,9 @@
     "detail_game_type_balls": "オーバー/アンダーベット",
     "detail_game_type_balls_tip": "両チームそれぞれのゴール数（ロスタイムを含む）",
     "detail_game_max_ammount": "マキシマムベット",
-    "detail_game_stop_bet": "間もなくベッティングを締め切ります"
+    "detail_game_stop_bet": "間もなくベッティングを締め切ります",
+    "detail_esports_type_victory": "胜负",
+    "detail_esports_type_victory_tip": "竞猜两队在本局的比赛结果"
   },
   "ko": {
     "detal_header_opening": "진행중",
@@ -172,7 +178,9 @@
     "detail_game_type_balls": "오버/언더",
     "detail_game_type_balls_tip": "양팀 90분(추가시간 포함) 내의 총 득점수 오버/언더 예측",
     "detail_game_max_ammount": "배팅 제한 가격",
-    "detail_game_stop_bet": "배팅 마감 예정"
+    "detail_game_stop_bet": "배팅 마감 예정",
+    "detail_esports_type_victory": "胜负",
+    "detail_esports_type_victory_tip": "竞猜两队在本局的比赛结果"
   },
   "ru": {
     "detal_header_opening": "В обработке",
@@ -215,7 +223,9 @@
     "detail_game_type_balls": "O/U",
     "detail_game_type_balls_tip": "O/U - предсказать результат матча (90 минут плюс компенсированное время )",
     "detail_game_max_ammount": "Лимит ставок",
-    "detail_game_stop_bet": "Ставка будет остановлена"
+    "detail_game_stop_bet": "Ставка будет остановлена",
+    "detail_esports_type_victory": "胜负",
+    "detail_esports_type_victory_tip": "竞猜两队在本局的比赛结果"
   },
   "vi": {
     "detal_header_opening": "Đang tiến hành",
@@ -261,7 +271,9 @@
     "detail_game_min_amount": "Đơn dự báo số tiền nhỏ nhất",
     "detail_game_address": "Địa điểm đặc cược thi đố",
     "detail_game_qrcode_tip": "Hợp đồng thông minh hai chiều",
-    "detail_game_stop_bet": "Đặc  cược sắp hết hạn."
+    "detail_game_stop_bet": "Đặc  cược sắp hết hạn.",
+    "detail_esports_type_victory": "胜负",
+    "detail_esports_type_victory_tip": "竞猜两队在本局的比赛结果"
   },
   "zh-Hant": {
     "detal_header_opening": "進行中",
@@ -307,6 +319,8 @@
     "detail_game_min_amount": "最小單筆預測金額",
     "detail_game_address": "競猜下注地址",
     "detail_game_qrcode_tip": "智能合約二維碼",
-    "detail_game_stop_bet": "下注即將截止"
+    "detail_game_stop_bet": "下注即將截止",
+    "detail_esports_type_victory": "胜负",
+    "detail_esports_type_victory_tip": "竞猜两队在本局的比赛结果"
   }
 }
