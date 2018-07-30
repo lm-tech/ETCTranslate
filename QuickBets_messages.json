@@ -11,7 +11,8 @@
     "error_001": "下注金额不能小于0.5",
     "error_002": "下注金额不能超过账号可用余额",
     "assets_center_focus": "该账户尚未设置提币密码，为保障您的账户安全，请先设置提币密码",
-    "assets_center_goto_set_password": "前往设置提币密码"
+    "assets_center_goto_set_password": "前往设置提币密码",
+    "quick_recharge": "余额不足？点我进行充值"
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
@@ -25,7 +26,8 @@
     "error_001": "Minimum 0.5 stake",
     "error_002": "Stake exceeding account balance",
     "assets_center_focus": "No withdrawal password, please set withdrawal password for account security",
-    "assets_center_goto_set_password": "Go set withdrawal password"
+    "assets_center_goto_set_password": "Go set withdrawal password",
+    "quick_recharge": "余额不足？点我进行充值"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
@@ -39,7 +41,8 @@
     "error_001": "ミニマムオーダーは0.5",
     "error_002": "オーダーは残高を超えました。",
     "assets_center_focus": "安全確保のために、出金パスワードを設定してください。",
-    "assets_center_goto_set_password": "出金パスワード設定"
+    "assets_center_goto_set_password": "出金パスワード設定",
+    "quick_recharge": "余额不足？点我进行充值"
   },
   "ko": {
     "detail_forecast_title": " {currency}예측",
@@ -53,7 +56,8 @@
     "error_001": "배팅 최소 금액은 0.5입니다",
     "error_002": "배팅금액이 잔액을 초과하였습니다",
     "assets_center_focus": "해당 계정은 코인출금 비밀번호를 설정하지 않았습니다. 계정의 보안성을 위해 코인출금 비밀번호를 설정해 주세요",
-    "assets_center_goto_set_password": "코인출금 비밀번호 설정하기"
+    "assets_center_goto_set_password": "코인출금 비밀번호 설정하기",
+    "quick_recharge": "余额不足？点我进行充值"
   },
   "ru": {
     "detail_forecast_title": "{currency}Прогнозирование",
@@ -67,7 +71,8 @@
     "error_001": "Сумма ставки не может быть меньше 0,5",
     "error_002": "Сумма ставки не может превышать доступный баланс счета",
     "assets_center_focus": "Для учетной записи не задан пароль извлечения. чтобы защитить свою учетную запись, сначала установите пароль для извлечения.",
-    "assets_center_goto_set_password": "Перейти к установке пароля для извлечения виртуальной валюты"
+    "assets_center_goto_set_password": "Перейти к установке пароля для извлечения виртуальной валюты",
+    "quick_recharge": "余额不足？点我进行充值"
   },
   "vi": {
     "detail_forecast_title": "{currency}dự báo",
@@ -81,7 +86,8 @@
     "error_001": "số xi đặc cược không thể nhỏ hơn 0.5",
     "error_002": "số xu đặc cược không thể vượt qúa số tiền có thể dùng",
     "assets_center_focus": "Tài khoản chưa được thiết lập mật khẩu tiền tệ, để bảo vệ bảo mật tài khoản của bạn, hãy thiết lập mã tiền tệ",
-    "assets_center_goto_set_password": "Đi đến thiết lập mã tiền tệ"
+    "assets_center_goto_set_password": "Đi đến thiết lập mã tiền tệ",
+    "quick_recharge": "余额不足？点我进行充值"
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
@@ -95,6 +101,7 @@
     "error_001": "下注金額不能小於0.5",
     "error_002": "下注金額不能超過帳號可用餘額",
     "assets_center_focus": "該帳戶尚未設置提幣密碼，為保障您的帳戶安全，請先設置提幣密碼",
-    "assets_center_goto_set_password": "前往設置提幣密碼"
+    "assets_center_goto_set_password": "前往設置提幣密碼",
+    "quick_recharge": "余额不足？点我进行充值"
   }
 }
