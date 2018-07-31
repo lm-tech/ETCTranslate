@@ -8,7 +8,7 @@
     "detail_forecast_notice": "禁止从交易所直接提币至预测地址,请使用官方或私人钱包充值ETC到预测地址. 建议将Gas Limit设置为150,000以确保ETC能成功转币到预测地址",
     "detail_forecast_all": "最小单笔预测金额：{amount}{currency}",
     "detail_forecast_copied": "已复制",
-    "detail_game_qrcode_tip": "智能合约二维码",
+    "detail_game_qrcode_tip": "充值二维码",
     "old_bets_tip": "本场比赛暂不接受快速下注"
   },
   "en": {
@@ -19,7 +19,7 @@
     "detail_forecast_notice": "Direct withdrawal from the exchange to the prediction forcast address is prohibited. Transfer of ETC is only allowed from your personal wallet to the prediction forcast address. Please set appropriate Gas Limit to 150,000 to ensure successful transfer of ETC to the prediction forcast address.",
     "detail_forecast_all": "Minimum forecast stake amount: {amount}{currency}",
     "detail_forecast_copied": "Copied",
-    "detail_game_qrcode_tip": "Smart Contract QR Code",
+    "detail_game_qrcode_tip": "Deposit QR code",
     "detail_forecast_title_link": "Click here to see how to participate in prediction",
     "old_bets_tip": "Fast prediction is not available for this match temporarily"
   },
@@ -31,7 +31,7 @@
     "detail_forecast_notice": "取引所から直接予測アドレスまでにコインを引き出すことは禁止されている. 公式または個人の財布を使用してETCを予測アドレスまでにチャージしてください. Gas Limitを150,000に設定するのはお勧め、すると、 ETCを予測アドレスまでにチャージの確保できる.",
     "detail_forecast_all": "ミニマムベット： {amount}{currency}",
     "detail_forecast_copied": "コピー済み",
-    "detail_game_qrcode_tip": "スマートコントラクトアドレスのQRコード",
+    "detail_game_qrcode_tip": "チャージ・QRコード",
     "detail_forecast_title_link": "ここをクリックしてベッティング方法を見る",
     "old_bets_tip": "この試合はしばらくクイックベットができません"
   },
@@ -43,7 +43,7 @@
     "detail_forecast_notice": "거래소에서 직접 예측주소로 코인을 입금하는건 금지사항입니다. 공식 지갑 또는 개인 지갑을 사용하여 ETC를 예측주소로 입금하세요. Gas Limit를 150,000으로 설정을 추천합니다. 이는 ETC가 정확히 예측주소로 입금됨을 위함입니다.",
     "detail_forecast_all": "최소 일회 예측 금액 ： {amount}{currency}",
     "detail_forecast_copied": "복사됨",
-    "detail_game_qrcode_tip": "스마트 컨트렉트 QR코드",
+    "detail_game_qrcode_tip": "충전 QR코드",
     "detail_forecast_title_link": "여기를 클릭하여 예측방법을 확인하세요",
     "old_bets_tip": "이번 경기는 간편배팅이 아직 불가능이다"
   },
@@ -55,7 +55,7 @@
     "detail_forecast_notice": "Запретить прямой вывод средств с биржи на прогнозный адрес. Перевод ETC допускается только с официального или личного кошелька на прогнозный адрес. Рекомендуется установить《Gas Limit》на 150,000, чтобы обеспечить успешную передачу прогнозируемого адреса.",
     "detail_forecast_all": "Минимальная сумма прогноза： {amount}{currency}",
     "detail_forecast_copied": "скопированный",
-    "detail_game_qrcode_tip": "Смарт-контракт QR-код",
+    "detail_game_qrcode_tip": "Пополнить QR-код",
     "detail_forecast_title_link": "Щелкните меня, чтобы посмотреть, как участвовать в прогнозировании",
     "old_bets_tip": "Fast prediction is not available for this match temporarily"
   },
@@ -68,7 +68,7 @@
     "detail_forecast_notice": "Cấm mua bán xu từ địa điểm dự đoán,Xin vui lòng sử dụng chính thức từ ví tiền cá nhân để nạp tiền ETC đến địa chỉ dự đoán. Khuyến cáo rằng giới hạn Gas Limit   được thiết lập để 150.000 để đảm bảo rằng ETC thành công chuyển đến địa chỉ dự báo",
     "detail_forecast_all": "Đơn dự báo số tiền nhỏ nhất：{amount}{currency}",
     "detail_forecast_copied": "Đã được sao chép",
-    "detail_game_qrcode_tip": "Hợp đồng thông minh hai chiều",
+    "detail_game_qrcode_tip": "Nạp tiền mã QR",
     "old_bets_tip": "Fast prediction is not available for this match temporarily"
   },
   "zh-Hant": {
@@ -80,7 +80,7 @@
     "detail_forecast_notice": "禁止從交易所直接提幣至預測地址,請使用官方或私人錢包充值ETC到預測地址. 建議將Gas Limit設置為150,000以確保ETC能成功轉幣到預測地址",
     "detail_forecast_all": "最小單筆預測金額：{amount}{currency}",
     "detail_forecast_copied": "已複製",
-    "detail_game_qrcode_tip": "智能合約二維碼",
+    "detail_game_qrcode_tip": "充值二維碼",
     "old_bets_tip": "本場比賽不接受快速下註"
   }
 }
