@@ -248,6 +248,7 @@
     "detail_finance_number_asset_content_one": "The closing time is based on 0 UTC. The closing price is calculated based on the weighted average of the volume of each market.",
     "detail_finance_number_asset_content_two": "Prediction selections only have two outcomes: up or down; if there is 0% up/down, the prediction will be refunded.",
     "detail_finance_number_asset_content_three": "Market trading data and result are subject to https://coinmarketcap.com/",
+    "detail_lottery_title": "Lottery Prediction",
     "detail_lottery_title_content_one": "If the results of the lottery cannot be formally confirmed, the platform will have the right to retain the delayed payout until an official confirmation is obtained.",
     "detail_lottery_title_content_two": "If the odds are obviously wrong, the platform reserves the right to cancel the prediction. This includes more than one odds error than the average market odds.",
     "detail_lottery_title_content_three": "If the live broadcast is paused and the lottery results are not affected, all prediction types will be awarded based on the results. When the result of a prediction type cannot be formally confirmed, the platform reserves the right to void the prediction.",
