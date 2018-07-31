@@ -377,7 +377,7 @@
     "detail_finance_number_asset": "디지털자산 시장의 등락",
     "detail_finance_number_asset_content_one": "종가 기준시간은 세계 통일 시간(UTC) 0시를 기준으로 한다. 종가는 마켓 거래량가중평균치로 계산하여 획득한다.",
     "detail_finance_number_asset_content_two": "배팅항목은 오직 상승 또는 하락 두 가지 결과만 있으며, 등락폭이 0%일 경우 배팅금액은 환불된다. ",
-    "detail_finance_number_asset_content_three": "市场交易数据、交易结果以https://coinmarketcap.com/为准。","detail_lottery_title": "Lottery Prediction",
+    "detail_finance_number_asset_content_three": "시장거래 데이터와 결과는 https://coinmarketcap.com기준으로 한다.","detail_lottery_title": "Lottery Prediction",
     "detail_lottery_title": "복권 예측",
     "detail_lottery_title_content_one": "당첨 결과를 공식적으로 확인할 수 없을 경우 플랫폼은  공식적인 발표가 이루어질 때까지 지연된 당첨금을 보유 할 권리가 있다.",
     "detail_lottery_title_content_two": "배당률이 명백히 오류로 판단될 경우, 플랫폼은 배팅을 취소 할 수있는 권리가 있다. 여기에는 평균 마켓보다 2배 이상의 확률 오차가 포함된다.",
