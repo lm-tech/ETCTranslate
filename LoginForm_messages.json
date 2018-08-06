@@ -12,14 +12,14 @@
     "login_title": "欢迎登录EtcGame"
   },
   "en": {
-    "input_validate_empty_email": "Please enter email",
-    "input_validate_empty_login_password": "Please enter login password",
-    "input_validate_empty_validation_code": "Please enter validation code",
+    "input_validate_empty_email": "Email",
+    "input_validate_empty_login_password": "Choose a login password",
+    "input_validate_empty_validation_code": "Enter validation code",
     "input_send_success": "Sent. Please review.",
     "input_label_email": "Email:",
     "input_label_password": "Password:",
     "input_label_validation_code": "Verification code:",
-    "input_button_sign_in": "Sign in",
+    "input_button_sign_in": "Create Account",
     "input_button_security_notice": "Security Notice",
     "login_title": "Welcome to EtcGame"
   },
