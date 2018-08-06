@@ -8,7 +8,7 @@
     "register_time": "{year}年{month}月{day}日"
   },
   "en": {
-    "user_center_title": "Account Management",
+    "user_center_title": "Settings",
     "user_center_account": "Account: ",
     "user_center_login_password": "Login password: ",
     "user_center_withdraw_password": "Withdrawal password: ",
