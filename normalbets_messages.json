@@ -9,7 +9,9 @@
     "detail_forecast_all": "最小单笔预测金额：{amount}{currency}",
     "detail_forecast_copied": "已复制",
     "detail_game_qrcode_tip": "智能合约二维码",
-    "old_bets_tip": "本场比赛暂不接受快速下注"
+    "old_bets_tip": "本场比赛暂不接受快速下注",
+    "select_bets_currency": "选择投注币种",
+    "max_bets_amount": "下注上限" 
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
@@ -21,7 +23,9 @@
     "detail_forecast_copied": "Copied",
     "detail_game_qrcode_tip": "Smart contract QR code",
     "detail_forecast_title_link": "Click here to see how to participate in prediction",
-    "old_bets_tip": "Fast prediction is not available for this match temporarily"
+    "old_bets_tip": "Fast prediction is not available for this match temporarily",
+    "select_bets_currency": "选择投注币种",
+    "max_bets_amount": "下注上限" 
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
@@ -33,7 +37,9 @@
     "detail_forecast_copied": "コピー済み",
     "detail_game_qrcode_tip": "スマートコントラクトのQRコード",
     "detail_forecast_title_link": "ここをクリックしてベッティング方法を見る",
-    "old_bets_tip": "この試合はしばらくクイックベットができません"
+    "old_bets_tip": "この試合はしばらくクイックベットができません",
+    "select_bets_currency": "选择投注币种",
+    "max_bets_amount": "下注上限" 
   },
   "ko": {
     "detail_forecast_title": "{currency}예측",
@@ -45,7 +51,9 @@
     "detail_forecast_copied": "복사됨",
     "detail_game_qrcode_tip": "스마트 컨트렉트 QR코드",
     "detail_forecast_title_link": "여기를 클릭하여 예측방법을 확인하세요",
-    "old_bets_tip": "이번 경기는 간편배팅이 아직 불가능이다"
+    "old_bets_tip": "이번 경기는 간편배팅이 아직 불가능이다",
+    "select_bets_currency": "选择投注币种",
+    "max_bets_amount": "下注上限" 
   },
   "ru": {
     "detail_forecast_title": "{currency} Прогноз",
@@ -57,7 +65,9 @@
     "detail_forecast_copied": "скопированный",
     "detail_game_qrcode_tip": "QR-код смарт-контракта",
     "detail_forecast_title_link": "Щелкните меня, чтобы посмотреть, как участвовать в прогнозировании",
-    "old_bets_tip": "Fast prediction is not available for this match temporarily"
+    "old_bets_tip": "Fast prediction is not available for this match temporarily",
+    "select_bets_currency": "选择投注币种",
+    "max_bets_amount": "下注上限" 
   },
   "vi": {
     "detail_forecast_title": "{currency}Dự báo",
@@ -69,7 +79,9 @@
     "detail_forecast_all": "Đơn dự báo số tiền nhỏ nhất：{amount}{currency}",
     "detail_forecast_copied": "Đã được sao chép",
     "detail_game_qrcode_tip": "Hợp đồng minh hai kích thước mã",
-    "old_bets_tip": "Fast prediction is not available for this match temporarily"
+    "old_bets_tip": "Fast prediction is not available for this match temporarily",
+    "select_bets_currency": "选择投注币种",
+    "max_bets_amount": "下注上限" 
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
@@ -81,6 +93,8 @@
     "detail_forecast_all": "最小單筆預測金額：{amount}{currency}",
     "detail_forecast_copied": "已複製",
     "detail_game_qrcode_tip": "智能合約二維碼",
-    "old_bets_tip": "本場比賽不接受快速下註"
+    "old_bets_tip": "本場比賽不接受快速下註",
+    "select_bets_currency": "选择投注币种",
+    "max_bets_amount": "下注上限" 
   }
 }
