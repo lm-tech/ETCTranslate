@@ -30,8 +30,8 @@
     "header_message_center": "Message Center",
     "header_Login_out": "Logout",
     "header_see_detail": "Details",
-    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
-    "i_konw": "我知道了"
+    "bets_currency_tip": "Choose your preferred currency for prediction and you will find currency-related options",
+    "i_konw": "I know"
   },
   "ja": {
     "header_title_word_cup": "サッカー",
