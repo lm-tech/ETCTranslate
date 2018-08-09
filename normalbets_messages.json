@@ -52,8 +52,8 @@
     "detail_game_qrcode_tip": "스마트 컨트렉트 QR코드",
     "detail_forecast_title_link": "여기를 클릭하여 예측방법을 확인하세요",
     "old_bets_tip": "이번 경기는 간편배팅이 아직 불가능이다",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限" 
+    "select_bets_currency": "배팅 화폐 종류를 선택하세요.",
+    "max_bets_amount": "최고 배팅금액 " 
   },
   "ru": {
     "detail_forecast_title": "{currency} Прогноз",
