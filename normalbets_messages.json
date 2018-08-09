@@ -24,8 +24,8 @@
     "detail_game_qrcode_tip": "Smart contract QR code",
     "detail_forecast_title_link": "Click here to see how to participate in prediction",
     "old_bets_tip": "Fast prediction is not available for this match temporarily",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限" 
+    "select_bets_currency": "Choose the currency for prediction",
+    "max_bets_amount": "Maximum stake" 
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
