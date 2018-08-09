@@ -12,7 +12,9 @@
     "header_account_center": "账户管理",
     "header_message_center": "消息中心",
     "header_Login_out": "退出账号",
-    "header_see_detail": "查看详情"
+    "header_see_detail": "查看详情",
+    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "i_konw": "我知道了"
   },
   "en": {
     "header_title_word_cup": "Soccer",
@@ -27,7 +29,9 @@
     "header_account_center": "Settings",
     "header_message_center": "Message Center",
     "header_Login_out": "Logout",
-    "header_see_detail": "Details"
+    "header_see_detail": "Details",
+    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "i_konw": "我知道了"
   },
   "ja": {
     "header_title_word_cup": "サッカー",
@@ -42,7 +46,9 @@
     "header_account_center": "アカウント管理",
     "header_message_center": "メッセージ管理",
     "header_Login_out": "ログアウト",
-    "header_see_detail": "詳細"
+    "header_see_detail": "詳細",
+    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "i_konw": "我知道了"
   },
   "ko": {
     "header_title_word_cup": "축구",
@@ -57,7 +63,9 @@
     "header_account_center": "계정 관리",
     "header_message_center": "알람 센터",
     "header_Login_out": "로그아웃",
-    "header_see_detail": "상세내역"
+    "header_see_detail": "상세내역",
+    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "i_konw": "我知道了"
   },
   "ru": {
     "header_title_word_cup": "Футбол",
@@ -72,7 +80,9 @@
     "header_account_center": "Управление аккаунтом",
     "header_message_center": "Центр сообщений",
     "header_Login_out": "Счет выхода",
-    "header_see_detail": "Подробности см"
+    "header_see_detail": "Подробности см",
+    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "i_konw": "我知道了"
   },
   "vi": {
     "header_title_word_cup": "Bóng đá",
@@ -87,7 +97,9 @@
     "header_account_center": "Quản lý tài khoản",
     "header_message_center": "Trung tâm tin tức",
     "header_Login_out": "Thoát tài khoản",
-    "header_see_detail": "Xem chi tiết"
+    "header_see_detail": "Xem chi tiết",
+    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "i_konw": "我知道了"
   },
   "zh-Hant": {
     "header_title_word_cup": "足球",
@@ -102,6 +114,8 @@
     "header_account_center": "帳戶管理",
     "header_message_center": "消息中心",
     "header_Login_out": "退出帳號",
-    "header_see_detail": "查看詳情"
+    "header_see_detail": "查看詳情",
+    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "i_konw": "我知道了"
   }
 }
