@@ -23,10 +23,10 @@
     "forcast_changeScreen_close": "Closed Orders",
     "forcast_changeScreen_publish": "Settled Orders",
     "detail_history_no_data": "No data",
-    "content_bet_365": "All data is referenced from bet365",
-    "content_coin_mark": "All data is referenced from CoinMarketCap",
-    "content_esports": "The betting deadline will be adjusted depending on the acutal game start time",
-    "tip_link": "To find predictions before June 11th, please click here."
+    "content_bet_365": "All data has been referenced from bet365",
+    "content_coin_mark": "All data has been referenced from CoinMarketCap",
+    "content_esports": "The deadline for predictions will be adjusted based on the actual start time of the game.",
+    "tip_link": "Please click here to find predictions before June 11th."
   },
   "ja": {
     "soccer": "サッカー",
