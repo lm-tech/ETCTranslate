@@ -10,8 +10,8 @@
   "en": {
     "user_center_title": "Settings",
     "user_center_account": "Account: ",
-    "user_center_login_password": "Login password: ",
-    "user_center_withdraw_password": "Withdrawal password: ",
+    "user_center_login_password": "Login Password: ",
+    "user_center_withdraw_password": "Withdrawal Password: ",
     "user_center_register_time": "Member Since:",
     "register_time": "{year} year {month} month {day} day"
   },

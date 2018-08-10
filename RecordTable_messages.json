@@ -59,8 +59,8 @@
     "record_table_cancel_forecast": "撤销"
   },
   "en": {
-    "record_table_bets_time": "Time of predicting",
-    "record_table_confirm_time": "Time of confirming",
+    "record_table_bets_time": "Prediction time",
+    "record_table_confirm_time": "Confirmation time",
     "record_table_time": "Time",
     "record_table_option": "Forecast option",
     "record_table_amount": "Forecast amount",
@@ -92,7 +92,7 @@
     "record_table_fetch": "Announced",
     "record_table_lose": "Not announced",
     "record_table_betting": "Prediction in progress",
-    "record_table_betting_fail": "Predicting failed",
+    "record_table_betting_fail": "Prediction failed",
     "record_table_detail_type": "Deposit",
     "record_table_income_cancel": "Cancel forecast",
     "record_table_income_award": "Forecast winnings",
@@ -104,7 +104,7 @@
     "record_table_status_auto_confirm": "Contract confirming",
     "record_table_status_not_frozen": "Not frozen",
     "record_table_status_pending": "Pending",
-    "record_table_status_rejected": "Withdrawal failed, go back",
+    "record_table_status_rejected": "Withdrawal failed, try again",
     "record_table_status_invalid": "Doc invalidated",
     "record_table_all_award": "Award (all win)",
     "record_table_half_win": "Award (half win)",
@@ -112,9 +112,9 @@
     "record_table_draw": "Awared (draw)",
     "record_table_income_bet": "Prediction",
     "record_table_status_under_review": "Reviewing",
-    "record_table_detail_status_processing": "Contract confirming",
+    "record_table_detail_status_processing": "Contract pending",
     "withdraw_form_HASH": "Hash value:",
-    "withdraw_form_HASH_failed": "Hash Confriming",
+    "withdraw_form_HASH_failed": "Hash pending",
     "record_table_cancel_forecast": "Cancel"
   },
   "ko": {

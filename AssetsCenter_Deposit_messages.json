@@ -7,7 +7,7 @@
   },
   "en": {
     "deposit_address_title": "Deposit address：",
-    "deposit_address_focus_one": "Please note: Depositing non-ETC assets to ETC address is prohibited and any deposited assets are irretrievable",
+    "deposit_address_focus_one": "Please note: Depositing non-ETC assets to the ETC address is prohibited and any deposited assets are irretrievable",
     "deposit_qrcode": "Deposit QR code",
     "detail_forecast_copied": "Copied"
   },

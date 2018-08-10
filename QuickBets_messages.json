@@ -17,7 +17,7 @@
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
-    "detail_forecast_title_link": "Click here to see how to participate in prediction",
+    "detail_forecast_title_link": "Click here for a step-by-step guide on how to make a prediction.",
     "detail_forecast_choose": "Option",
     "detail_forecast_odds": "Odds",
     "detail_forecast_all": "Minimum forecast stake amount: {amount}{currency}",
@@ -26,10 +26,10 @@
     "error_000": "Error entry, re-enter",
     "error_001": "Minimum 0.5 stake",
     "error_002": "Stake exceeding account balance",
-    "assets_center_focus": "No withdrawal password, please set withdrawal password for account security",
-    "assets_center_goto_set_password": "Go set withdrawal password",
+    "assets_center_focus": "Please set withdrawal password for account security",
+    "assets_center_goto_set_password": "Please set withdrawal password",
     "quick_recharge": "Current available balance",
-    "quick_recharte_btn": "Go deposit"
+    "quick_recharte_btn": "Please deposit"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
