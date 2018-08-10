@@ -19,11 +19,11 @@
     "input_new_vcode": "请输入新邮箱验证码"
   },
   "en": {
-    "change_email_form_validate_empty_email": "Enter email address",
-    "change_email_form_validate_error_email": "Enter valid email address",
-    "change_email_form_validate_empty_vcode": "Enter verification code",
-    "change_email_form_validate_six_vcode": "Enter 6-digit verification code",
-    "change_email_form_validate_empty_trade_password": "Enter fund password",
+    "change_email_form_validate_empty_email": "Please enter your email address",
+    "change_email_form_validate_error_email": "Please enter a valid email address",
+    "change_email_form_validate_empty_vcode": "Please enter the verification code",
+    "change_email_form_validate_six_vcode": "Please enter the 6-digit verification code",
+    "change_email_form_validate_empty_trade_password": "Please enter fund password",
     "change_email_form_send_success": "Successfully sent, please check",
     "change_email_form_label_email": "New email address:",
     "change_email_form_label_vcode": "New email verification code:",
@@ -32,10 +32,10 @@
     "change_email_form_confirm": "Confirm change",
     "change_email_form_success": "Successfully changed!",
     "change_email_form_label_formal_vcode": "Old verification code:",
-    "input_button_focus": "Please check your junk or spam folders in case email does not reach your inbox",
-    "input_new_email": "Please enter new email address",
-    "input_old_vcode": "Please enter old verification code",
-    "input_new_vcode": "Please enter new verification code"
+    "input_button_focus": "If you do not receive an email, please check your junk or spam folders.",
+    "input_new_email": "Please enter a new email address",
+    "input_old_vcode": "Please enter the old verification code",
+    "input_new_vcode": "Please enter the new verification code"
   },
   "ko": {
     "change_email_form_validate_empty_email": "이메일을 입력해주세요",
