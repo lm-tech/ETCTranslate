@@ -7,9 +7,9 @@
     "go_bets": "直接下注"
   },
   "en": {
-    "back_normal_bets": "Back to smart contract prediction",
-    "back_quick_bets": "Back to previous page",
-    "login_and_quick_bets": "Login to make a prediction.",
+    "back_normal_bets": "Return to smart contract prediction",
+    "back_quick_bets": "Return to previous page",
+    "login_and_quick_bets": "Login to make a prediction",
     "go_login": "Member login",
     "go_bets": "Make a prediction"
   },
