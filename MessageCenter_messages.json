@@ -15,8 +15,8 @@
   "en": {
     "messages_title": "My messages",
     "messages_select_all": "Select all",
-    "messages_delete_selected": "Delete the selected",
-    "messages_read_all": "All read",
+    "messages_delete_selected": "Delete the selected messages",
+    "messages_read_all": "Mark as read",
     "messages_theme": "Theme",
     "messages_time": "Time",
     "messages_part_1": "(Total",
