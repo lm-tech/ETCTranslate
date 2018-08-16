@@ -88,7 +88,7 @@
     "detail_game_type_balls": "O/U",
     "detail_game_type_balls_tip": "O/U - Predict the game within 90 minutes (including injury time) ",
     "detail_game_max_ammount": "Total Cap Size",
-    "detail_game_stop_bet": "Orders will be closed soon.",
+    "detail_game_stop_bet": "Orders will be closed soon",
     "detail_esports_type_victory": "Match winner",
     "detail_esports_type_victory_tip": "Predict the result of a competition between two teams"
   },
