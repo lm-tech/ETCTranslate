@@ -9,13 +9,13 @@
     "guide_step_three_vip": "快速下注简单快捷"
   },
   "en": {
-    "banner_order_title": "Total Winnings Distributed:",
-    "guide_step_one": "Register and purchase virtual currencies",
-    "guide_step_two": "Transfer the currencies to your private wallet",
-    "guide_step_three": "Transfer the currencies from the wallet to the contract address of the prediction option",
+    "banner_order_title": "Total Distributed Winnings:",
+    "guide_step_one": "Register to purchase virtual currencies",
+    "guide_step_two": "Transfer the purchased currencies to your private wallet",
+    "guide_step_three": "Transfer currency from your wallet to the contract address of the selected prediction option",
     "guide_step_one_vip": "Complete registration and login",
-    "guide_step_two_vip": "Set withdrawal password and deposit into the account",
-    "guide_step_three_vip": "Quick prediction, easy and quick"
+    "guide_step_two_vip": "Set a withdrawal password and deposit funds into your account",
+    "guide_step_three_vip": "QuickPredict, make instant predictions"
   },
   "ko": {
     "banner_order_title": " 당첨금：",
