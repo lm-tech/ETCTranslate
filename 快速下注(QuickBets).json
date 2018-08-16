@@ -50,8 +50,8 @@
     "assets_center_goto_set_password": "出金パスワード設定",
     "quick_recharge": "残高",
     "quick_recharte_btn": "今すぐチャージ",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "select_bets_currency": "ベッティングコインを選択",
+    "max_bets_amount": "マキシマムオーダー"
   },
   "ko": {
     "detail_forecast_title": " {currency}예측",
