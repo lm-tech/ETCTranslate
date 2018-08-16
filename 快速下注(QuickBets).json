@@ -31,9 +31,9 @@
     "assets_center_focus": "Please set a withdrawal password for account security",
     "assets_center_goto_set_password": "Please set a withdrawal password",
     "quick_recharge": "Current available balance",
-    "quick_recharte_btn": "Please make a deposit",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "quick_recharte_btn": "Please deposit",
+    "select_bets_currency": "Select the currency for prediction",
+    "max_bets_amount": "Prediction cap"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
@@ -50,8 +50,8 @@
     "assets_center_goto_set_password": "出金パスワード設定",
     "quick_recharge": "残高",
     "quick_recharte_btn": "今すぐチャージ",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "select_bets_currency": "ベッティングコインを選択",
+    "max_bets_amount": "マキシマムオーダー"
   },
   "ko": {
     "detail_forecast_title": " {currency}예측",
@@ -68,8 +68,8 @@
     "assets_center_goto_set_password": "코인출금 비밀번호 설정하기",
     "quick_recharge": "현재 잔액",
     "quick_recharte_btn": "즉시 충전",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "select_bets_currency": "배팅 화폐 종류를 선택하세요.",
+    "max_bets_amount": "최고 배팅금액"
   },
   "ru": {
     "detail_forecast_title": "{currency}Прогнозирование",
