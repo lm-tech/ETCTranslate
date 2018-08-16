@@ -59,7 +59,7 @@
     "record_table_cancel_forecast": "撤销"
   },
   "en": {
-    "record_table_bets_time": "Prediction time",
+    "record_table_bets_time": "Time of prediction",
     "record_table_confirm_time": "Confirmation time",
     "record_table_time": "Time",
     "record_table_option": "Forecast option",
