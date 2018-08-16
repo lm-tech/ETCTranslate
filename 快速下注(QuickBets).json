@@ -68,8 +68,8 @@
     "assets_center_goto_set_password": "코인출금 비밀번호 설정하기",
     "quick_recharge": "현재 잔액",
     "quick_recharte_btn": "즉시 충전",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "select_bets_currency": "배팅 화폐 종류를 선택하세요.",
+    "max_bets_amount": "최고 배팅금액"
   },
   "ru": {
     "detail_forecast_title": "{currency}Прогнозирование",
