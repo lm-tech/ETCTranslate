@@ -12,8 +12,8 @@
   "en": {
     "assets_center_focus": "No withdrawal password, please set withdrawal password for account security",
     "assets_center_goto_set_password": "Set withdrawal password",
-    "assets_center_deposit": "To deposit",
-    "assets_center_withdraw": "To withdraw",
+    "assets_center_deposit": "Deposit ETC",
+    "assets_center_withdraw": "Withdraw ETC",
     "assets_center_all": "Total assets",
     "assets_center_nofrozen": "Available assets",
     "assets_center_go_to_all_balance": "Check total assets",
