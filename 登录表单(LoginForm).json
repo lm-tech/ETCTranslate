@@ -19,7 +19,7 @@
     "input_label_email": "Email:",
     "input_label_password": "Password:",
     "input_label_validation_code": "Verification code:",
-    "input_button_sign_in": "Create Account",
+    "input_button_sign_in": "Login",
     "input_button_security_notice": "Security Notice",
     "login_title": "Welcome to ETCGame"
   },
