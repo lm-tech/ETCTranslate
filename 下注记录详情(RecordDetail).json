@@ -7,7 +7,7 @@
     "record_detail_output": "支出记录"
   },
   "en": {
-    "record_detail_later_30": "Recent 30 days",
+    "record_detail_later_30": "Past 30 days",
     "record_detail_custom": "Default",
     "record_detail_forecast": "Forecast records",
     "record_detail_input": "Income records",
