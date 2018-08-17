@@ -15,7 +15,9 @@
     "quick_recharge": "当前可用余额",
     "quick_recharte_btn": "立刻充值",
     "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "max_bets_amount": "下注上限",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
@@ -33,7 +35,9 @@
     "quick_recharge": "Current available balance",
     "quick_recharte_btn": "Please deposit",
     "select_bets_currency": "Select the currency for prediction",
-    "max_bets_amount": "Prediction cap"
+    "max_bets_amount": "Prediction cap",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
@@ -51,7 +55,9 @@
     "quick_recharge": "残高",
     "quick_recharte_btn": "今すぐチャージ",
     "select_bets_currency": "ベッティングコインを選択",
-    "max_bets_amount": "マキシマムオーダー"
+    "max_bets_amount": "マキシマムオーダー",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "ko": {
     "detail_forecast_title": " {currency}예측",
@@ -69,7 +75,9 @@
     "quick_recharge": "현재 잔액",
     "quick_recharte_btn": "즉시 충전",
     "select_bets_currency": "배팅 화폐 종류를 선택하세요.",
-    "max_bets_amount": "최고 배팅금액"
+    "max_bets_amount": "최고 배팅금액",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "ru": {
     "detail_forecast_title": "{currency}Прогнозирование",
@@ -87,7 +95,9 @@
     "quick_recharge": "Текущий доступный баланс",
     "quick_recharte_btn": "Немедленно перезарядить",
     "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "max_bets_amount": "下注上限",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "vi": {
     "detail_forecast_title": "{currency}dự báo",
@@ -105,7 +115,9 @@
     "quick_recharge": "Số dư hiện tại có sẵn",
     "quick_recharte_btn": "Nạp tiền ngay lập tức",
     "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "max_bets_amount": "下注上限",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
@@ -123,6 +135,8 @@
     "quick_recharge": "當前可用餘額",
     "quick_recharte_btn": "立刻充值",
     "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "max_bets_amount": "下注上限",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   }
 }
