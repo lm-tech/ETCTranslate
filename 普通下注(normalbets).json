@@ -11,7 +11,9 @@
     "detail_game_qrcode_tip": "智能合约二维码",
     "old_bets_tip": "本场比赛暂不接受快速下注",
     "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限"
+    "max_bets_amount": "下注上限",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
@@ -25,7 +27,9 @@
     "detail_forecast_title_link": "Click here for step-by-step instructions on how to make a prediction.",
     "old_bets_tip": "QuickPredict is temporarily not available for this match",
     "select_bets_currency": "Select your preferred currency to make a prediction",
-    "max_bets_amount": "Maximum stake" 
+    "max_bets_amount": "Maximum stake",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
@@ -39,7 +43,9 @@
     "detail_forecast_title_link": "ここをクリックしてベッティング方法を見る",
     "old_bets_tip": "この試合はしばらくクイックベットができません",
     "select_bets_currency": "ベッティングコインを選択",
-    "max_bets_amount": "マキシマムオーダー" 
+    "max_bets_amount": "マキシマムオーダー",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "ko": {
     "detail_forecast_title": "{currency}예측",
@@ -53,7 +59,9 @@
     "detail_forecast_title_link": "여기를 클릭하여 예측방법을 확인하세요",
     "old_bets_tip": "이번 경기는 간편배팅이 아직 불가능이다",
     "select_bets_currency": "배팅 화폐 종류를 선택하세요.",
-    "max_bets_amount": "최고 배팅금액 " 
+    "max_bets_amount": "최고 배팅금액 ",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "ru": {
     "detail_forecast_title": "{currency} Прогноз",
@@ -67,7 +75,9 @@
     "detail_forecast_title_link": "Щелкните меня, чтобы посмотреть, как участвовать в прогнозировании",
     "old_bets_tip": "Fast prediction is not available for this match temporarily",
     "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限" 
+    "max_bets_amount": "下注上限",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "vi": {
     "detail_forecast_title": "{currency}Dự báo",
@@ -81,7 +91,9 @@
     "detail_game_qrcode_tip": "Hợp đồng minh hai kích thước mã",
     "old_bets_tip": "Fast prediction is not available for this match temporarily",
     "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限" 
+    "max_bets_amount": "下注上限",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
@@ -95,6 +107,8 @@
     "detail_game_qrcode_tip": "智能合約二維碼",
     "old_bets_tip": "本場比賽不接受快速下註",
     "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限" 
+    "max_bets_amount": "下注上限",
+    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
+    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   }
 }
