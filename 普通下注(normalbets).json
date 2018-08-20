@@ -77,12 +77,12 @@
     "detail_forecast_copied": "скопированный",
     "detail_game_qrcode_tip": "QR-код смарт-контракта",
     "detail_forecast_title_link": "Щелкните меня, чтобы посмотреть, как участвовать в прогнозировании",
-    "old_bets_tip": "Fast prediction is not available for this match temporarily",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限",
-    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
-    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注",
-    "not_bets_tip3": "非常抱歉，该选项当前币种下注已截止"
+    "old_bets_tip": "В этом соревновании пока не принимать быструю ставку",
+    "select_bets_currency": "Выберите тип валюты ставки",
+    "max_bets_amount": "Максимум ставки",
+    "not_bets_tip1": "Эта опция подтверждается в блокчейне, позже посмотрите состояние ставки",
+    "not_bets_tip2": "Извините, эта опция не может делать ставку этой валютой",
+    "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку"
   },
   "vi": {
     "detail_forecast_title": "{currency}Dự báo",
