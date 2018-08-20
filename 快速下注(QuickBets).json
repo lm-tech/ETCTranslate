@@ -56,8 +56,8 @@
     "quick_recharte_btn": "今すぐチャージ",
     "select_bets_currency": "ベッティングコインを選択",
     "max_bets_amount": "マキシマムオーダー",
-    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
-    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
+    "not_bets_tip1": "このオプションはブロックチェーン確認中で、ベッティング状態になるまでしばらくお待ち下さい。",
+    "not_bets_tip2": "申し訳ありませんが、この種の貨幣はオプションで使用できません。"
   },
   "ko": {
     "detail_forecast_title": " {currency}예측",
@@ -76,8 +76,8 @@
     "quick_recharte_btn": "즉시 충전",
     "select_bets_currency": "배팅 화폐 종류를 선택하세요.",
     "max_bets_amount": "최고 배팅금액",
-    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
-    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
+    "not_bets_tip1": "해당 항목은 블록체인에서 확인중이며 잠시후 배팅 가능상태를 확인 부탁드립니다.",
+    "not_bets_tip2": "죄송하지만 이 항목은 선택하신 코인으로 배팅 할 수 없습니다."
   },
   "ru": {
     "detail_forecast_title": "{currency}Прогнозирование",
@@ -94,8 +94,8 @@
     "assets_center_goto_set_password": "Перейти к установке пароля для извлечения виртуальной валюты",
     "quick_recharge": "Текущий доступный баланс",
     "quick_recharte_btn": "Немедленно перезарядить",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限",
+    "select_bets_currency": "Выберите тип валюты ставки ",
+    "max_bets_amount": "Максимум ставки ",
     "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
     "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
   },
@@ -134,9 +134,10 @@
     "assets_center_goto_set_password": "前往設置提幣密碼",
     "quick_recharge": "當前可用餘額",
     "quick_recharte_btn": "立刻充值",
-    "select_bets_currency": "选择投注币种",
+    "select_bets_currency": "選擇投注幣種",
     "max_bets_amount": "下注上限",
-    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
-    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
+    "not_bets_tip1": "該選項正在區塊鏈確認中,請稍後關注可下注狀態",
+    "not_bets_tip2": "非常抱歉，該選項無法用該幣種下注"
+
   }
 }
