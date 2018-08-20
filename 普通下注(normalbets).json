@@ -44,8 +44,8 @@
     "old_bets_tip": "この試合はしばらくクイックベットができません",
     "select_bets_currency": "ベッティングコインを選択",
     "max_bets_amount": "マキシマムオーダー",
-    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
-    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注"
+    "not_bets_tip1": "このオプションはブロックチェーン確認中で、ベッティング状態になるまでしばらくお待ち下さい。",
+    "not_bets_tip2": "申し訳ありませんが、この種の貨幣はオプションで使用できません。"
   },
   "ko": {
     "detail_forecast_title": "{currency}예측",
