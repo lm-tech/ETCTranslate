@@ -14,7 +14,7 @@
     "max_bets_amount": "下注上限",
     "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
     "not_bets_tip2": "非常抱歉，该选项无法用该币种下注",
-    "not_bets_tip3": "非常抱歉，该选项当前币种下注已截止"
+    "not_bets_tip3": "非常抱歉，该币种预测已封盘，无法下注"
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
