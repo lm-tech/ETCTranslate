@@ -95,11 +95,11 @@
     "detail_forecast_copied": "Đã được sao chép",
     "detail_game_qrcode_tip": "Hợp đồng minh hai kích thước mã",
     "old_bets_tip": " Cược nhanh không được chấp nhận cho trò chơi này",
-    "select_bets_currency": "选择投注币种",
-    "max_bets_amount": "下注上限",
+    "select_bets_currency": "Đang lựa chọn đặc cược",
+    "max_bets_amount": "cá độ đã tiến hành",
     "not_bets_tip1": "Tùy chọn này đang trong khối xác nhận chuỗi,sau một thời gian hãy chú ý đến tình trạng cá cược",
     "not_bets_tip2": "Xin lỗi, tùy chọn này không có sẵn cho cá cược trong loại tiền tệ này",
-    "not_bets_tip3": "非常抱歉，该选项当前币种下注已截止"
+    "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược."
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
@@ -116,6 +116,6 @@
     "max_bets_amount": "下注上限",
     "not_bets_tip1": "該選項正在區塊鏈確認中,請稍後關注可下注狀態",
     "not_bets_tip2": "非常抱歉，該選項無法用該幣種下注",
-    "not_bets_tip3": "非常抱歉，该选项当前币种下注已截止"
+    "not_bets_tip3": "非常抱歉，該幣種預測已封盤，無法下注"
   }
 }
