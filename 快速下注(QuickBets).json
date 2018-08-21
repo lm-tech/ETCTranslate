@@ -37,9 +37,9 @@
     "quick_recharte_btn": "Please deposit",
     "select_bets_currency": "Select the currency for prediction",
     "max_bets_amount": "Prediction cap",
-    "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
-    "not_bets_tip2": "非常抱歉，该选项无法用该币种下注",
-    "not_bets_tip3": "非常抱歉，该币种预测已封盘，无法下注"
+    "not_bets_tip1": "This option is awaiting confirmation, please make your prediction later",
+    "not_bets_tip2": "We apologize for the inconvenience, the token used is not available for this option",
+    "not_bets_tip3": "We apologize for the inconvenience，but predictions for this option are closed"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
