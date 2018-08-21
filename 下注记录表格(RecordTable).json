@@ -56,7 +56,8 @@
     "record_table_detail_status_processing": "合约确认中",
     "withdraw_form_HASH": "HASH值：",
     "withdraw_form_HASH_failed": "Hash值确认中",
-    "record_table_cancel_forecast": "撤销"
+    "record_table_cancel_forecast": "撤销",
+    "record_table_wait_award": "奖金发放中"
   },
   "en": {
     "record_table_bets_time": "Time of prediction",
@@ -115,7 +116,8 @@
     "record_table_detail_status_processing": "Contract pending",
     "withdraw_form_HASH": "Hash value:",
     "withdraw_form_HASH_failed": "Hash pending",
-    "record_table_cancel_forecast": "Cancel"
+    "record_table_cancel_forecast": "Cancel",
+    "record_table_wait_award": "奖金发放中"
   },
   "ko": {
     "record_table_bets_time": "배팅 시간",
@@ -174,7 +176,8 @@
     "record_table_detail_status_processing": "계약 심사중",
     "withdraw_form_HASH": "해시수치：",
     "withdraw_form_HASH_failed": "Hash수치 확인중",
-    "record_table_cancel_forecast": "취소"
+    "record_table_cancel_forecast": "취소",
+    "record_table_wait_award": "奖金发放中"
   },
   "ja": {
     "record_table_bets_time": "ベッティングをする時間",
@@ -233,7 +236,8 @@
     "record_table_detail_status_processing": "コントラクト確認中",
     "withdraw_form_HASH": "HASH値：",
     "withdraw_form_HASH_failed": "Hash値を確認中",
-    "record_table_cancel_forecast": "キャンセル"
+    "record_table_cancel_forecast": "キャンセル",
+    "record_table_wait_award": "奖金发放中"
   },
   "ru": {
     "record_table_bets_time": "Время ставки",
@@ -292,7 +296,8 @@
     "record_table_detail_status_processing": "Подтверждение контракта",
     "withdraw_form_HASH": "Значение HASH:",
     "withdraw_form_HASH_failed": "Подтвердить значение хеша",
-    "record_table_cancel_forecast": "Отмена"
+    "record_table_cancel_forecast": "Отмена",
+    "record_table_wait_award": "奖金发放中"
   },
   "vi": {
     "record_table_bets_time": "thời gian đặc cược",
@@ -351,7 +356,8 @@
     "record_table_detail_status_processing": "đang xác nhận hộp đồng",
     "withdraw_form_HASH": "giá trị HASH:",
     "withdraw_form_HASH_failed": "Xác nhận giá trị băm",
-    "record_table_cancel_forecast": "thu hồi"
+    "record_table_cancel_forecast": "thu hồi",
+    "record_table_wait_award": "奖金发放中"
   },
   "zh-Hant": {
     "record_table_bets_time": "下注時間",
@@ -410,6 +416,7 @@
     "record_table_detail_status_processing": "合約確認中",
     "withdraw_form_HASH": "HASH值：",
     "withdraw_form_HASH_failed": "Hash值確認中",
-    "record_table_cancel_forecast": "撤销"
+    "record_table_cancel_forecast": "撤销",
+    "record_table_wait_award": "奖金发放中"
   }
 }
