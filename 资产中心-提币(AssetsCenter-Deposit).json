@@ -37,7 +37,7 @@
   },
   "zh-Hant": {
     "deposit_address_title": "充值地址：",
-    "deposit_address_focus_one": "重要提示：禁止向{currency}地址充值除{currency}之外的資產，任何充入{currency}地址的非E{currency}資產將不可找回。",
+    "deposit_address_focus_one": "重要提示：禁止向{currency}地址充值除{currency}之外的資產，任何充入{currency}地址的非{currency}資產將不可找回。",
     "deposit_qrcode": "充值二維碼",
     "detail_forecast_copied": "已複製"
   }
