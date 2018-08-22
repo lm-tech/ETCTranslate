@@ -38,7 +38,7 @@
     "detail_forecast_choose": "選択",
     "detail_forecast_odds": "倍率",
     "detail_forecast_address": "スマートコントラクトのアドレスに{currency}をチャージしてベットを終了させます",
-    "detail_forecast_notice": "取引所から直接予測アドレスまでにコインを引き出すことは禁止されている. 公式または個人の財布を使用して{currency}を予測アドレスまでにチャージしてください. Gas Limitを150,000に設定するのはお勧め、すると、 {currency}を予測アドレスまでにチャージの確保できる.",
+    "detail_forecast_notice": "取引所から直接予測アドレスまでにコインを引き出すことは禁止されている。公式または個人の財布を使用して{currency}を予測アドレスまでにチャージしてください。Gas Limitを150,000に設定するのはお勧め、すると、 {currency}を予測アドレスまでにチャージの確保できる。{currency}のスマートコントラクト・アドレスに{currency}以外の資産をチャージすることは禁止されている。{currency}のアドレスにチャージされる{currency}以外の資産は取り戻すことができない。",
     "detail_forecast_all": "ミニマムベット： {amount}{currency}",
     "detail_forecast_copied": "コピー済み",
     "detail_game_qrcode_tip": "スマートコントラクトのQRコード",
