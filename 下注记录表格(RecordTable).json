@@ -111,15 +111,15 @@
     "record_table_all_award": "Award (all win)",
     "record_table_half_win": "Award (half win)",
     "record_table_half_lost": "Award (half lose)",
-    "record_table_draw": "Awared (draw)",
+    "record_table_draw": "Award (draw)",
     "record_table_income_bet": "Prediction",
     "record_table_status_under_review": "Reviewing",
     "record_table_detail_status_processing": "Contract pending",
     "withdraw_form_HASH": "Hash value:",
     "withdraw_form_HASH_failed": "Hash pending",
     "record_table_cancel_forecast": "Cancel",
-    "record_table_wait_award": "奖金发放中",
-    "record_table_closed": "已下架"
+    "record_table_wait_award": "Now paying the winnings",
+    "record_table_closed": "No longer available"
   },
   "ko": {
     "record_table_bets_time": "배팅 시간",
