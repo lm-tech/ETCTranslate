@@ -45,7 +45,11 @@
     "detail_game_qrcode_tip": "智能合约二维码",
     "detail_game_stop_bet": "下注即将截止",
     "detail_esports_type_victory": "胜负",
-    "detail_esports_type_victory_tip": "竞猜两队在本局的比赛结果"
+    "detail_esports_type_victory_tip": "竞猜两队在本局的比赛结果",
+    "detail_game_win": "胜",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
+    
   },
   "en": {
     "detal_header_opening": "Available now",
@@ -90,7 +94,10 @@
     "detail_game_max_ammount": "Total Cap Size",
     "detail_game_stop_bet": "Orders will be closed soon",
     "detail_esports_type_victory": "Match winner",
-    "detail_esports_type_victory_tip": "Predict the result of a competition between two teams"
+    "detail_esports_type_victory_tip": "Predict the result of a competition between two teams",
+    "detail_game_win": "胜",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "ja": {
     "detal_header_opening": "進行中",
@@ -135,7 +142,10 @@
     "detail_game_max_ammount": "マキシマムベット",
     "detail_game_stop_bet": "間もなくベッティングを締め切ります",
     "detail_esports_type_victory": "勝者",
-    "detail_esports_type_victory_tip": "この試合の結果をベッティング"
+    "detail_esports_type_victory_tip": "この試合の結果をベッティング",
+    "detail_game_win": "胜",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "ko": {
     "detal_header_opening": "진행중",
@@ -180,7 +190,10 @@
     "detail_game_max_ammount": "배팅 제한 가격",
     "detail_game_stop_bet": "배팅 마감 예정",
     "detail_esports_type_victory": "매치 위너 ",
-    "detail_esports_type_victory_tip": "이 라운드에서 두 팀의 결과를 예측한다"
+    "detail_esports_type_victory_tip": "이 라운드에서 두 팀의 결과를 예측한다",
+    "detail_game_win": "胜",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "ru": {
     "detal_header_opening": "В обработке",
@@ -225,7 +238,10 @@
     "detail_game_max_ammount": "Лимит ставок",
     "detail_game_stop_bet": "Ставка будет остановлена",
     "detail_esports_type_victory": "Победитель матча",
-    "detail_esports_type_victory_tip": "предсказать результат соревнования между двумя командами"
+    "detail_esports_type_victory_tip": "предсказать результат соревнования между двумя командами",
+    "detail_game_win": "胜",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "vi": {
     "detal_header_opening": "Đang tiến hành",
@@ -273,7 +289,10 @@
     "detail_game_qrcode_tip": "Hợp đồng thông minh hai chiều",
     "detail_game_stop_bet": "Đặc  cược sắp hết hạn.",
     "detail_esports_type_victory": "Người chiến thắng trận đấu",
-    "detail_esports_type_victory_tip": "Dự đoán kết quả của một cuộc thi giữa hai đội"
+    "detail_esports_type_victory_tip": "Dự đoán kết quả của một cuộc thi giữa hai đội",
+    "detail_game_win": "胜",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "zh-Hant": {
     "detal_header_opening": "進行中",
@@ -321,6 +340,9 @@
     "detail_game_qrcode_tip": "智能合約二維碼",
     "detail_game_stop_bet": "下注即將截止",
     "detail_esports_type_victory": "勝負",
-    "detail_esports_type_victory_tip": "競猜兩隊在本輪比賽的結果"
+    "detail_esports_type_victory_tip": "競猜兩隊在本輪比賽的結果",
+    "detail_game_win": "胜",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   }
 }
