@@ -55,7 +55,7 @@
     "detail_forecast_choose": "선택",
     "detail_forecast_odds": "배상률",
     "detail_forecast_address": "{currency}를 스마트 컨트렉트 주소로 입금하여 예측을 완료하세요.",
-    "detail_forecast_notice": "거래소에서 직접 예측주소로 코인을 입금하는건 금지사항입니다. 공식 지갑 또는 개인 지갑을 사용하여 {currency}를 예측주소로 입금하세요. Gas Limit를 150,000으로 설정을 추천합니다. 이는 {currency}가 정확히 예측주소로 입금됨을 위함입니다. 禁止向{currency}智能合约地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回。",
+    "detail_forecast_notice": "거래소에서 직접 예측주소로 코인을 입금하는건 금지사항입니다. 공식 지갑 또는 개인 지갑을 사용하여 {currency}를 예측주소로 입금하세요. Gas Limit를 150,000으로 설정을 추천합니다. 이는 {currency}가 정확히 예측주소로 입금됨을 위함입니다. {currency} 스마트 계약 주소로 {currency} 이외의 자산 충전을 금지하며 주소로 충전한 자산이 {currency} 이 아닐 경우, 모든 자산은 되찾을 수 없습니다.",
     "detail_forecast_all": "최소 일회 예측 금액 ： {amount}{currency}",
     "detail_forecast_copied": "복사됨",
     "detail_game_qrcode_tip": "스마트 컨트렉트 QR코드",
