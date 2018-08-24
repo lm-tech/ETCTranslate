@@ -57,7 +57,7 @@
     "withdraw_form_fee_detail_content": "0.01{currency} per withdrawal",
     "withdraw_form_success": "Successfully withdrawn",
     "withdraw_form_special_apply": "Special withdrawal service",
-    "withdraw_form_special_hover_content_one": "There is a maximum limit of three withdrawals per day up to a total value of {amount} {currency}. If you have reached the maximum amount or number of withdrawals on the same day, please send an email to our customer service team at support@etcgame.com. If you do not send an email within 24 hours, your withdrawal application will be automatically declined. The email template can be found below.",
+    "withdraw_form_special_hover_content_one": "There is a maximum limit of three withdrawals per day up to a total value of {amount} {currency}. If you have reached the maximum amount or number of withdrawals on the same day, please send an email to our customer service team at support@coingame.org. If you do not send an email within 24 hours, your withdrawal application will be automatically declined. The email template can be found below.",
     "withdraw_form_special_hover_content_three": ". Failure to send such an email will lead to the cancellation of the withdrawal application by our customer service within 24 hours.",
     "withdraw_form_special_hover_content_apply_modal": "Template:",
     "withdraw_form_apply_modal_title": "Letter of Application",
