@@ -179,8 +179,8 @@
     "withdraw_form_HASH": "해시수치：",
     "withdraw_form_HASH_failed": "Hash수치 확인중",
     "record_table_cancel_forecast": "취소",
-    "record_table_wait_award": "奖金发放中",
-    "record_table_closed": "已下架"
+    "record_table_wait_award": "코인 입금 중",
+    "record_table_closed": "마강됨"
   },
   "ja": {
     "record_table_bets_time": "ベッティングをする時間",
