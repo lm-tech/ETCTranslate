@@ -1,7 +1,7 @@
 {
   "zh": {
     "detail_big_title": "下一代的预测平台",
-    "detail_paragraph_one": "EtcGame作为革命性的全新平台，允许加密货币粉丝参与预测并使用完全安全和透明的方法投注。我们的系统使用智能合约技术，具备完全透明、不可更改、不可篡改的功能，确保参与者无需第三方信任即可使用ETC执行投注。",
+    "detail_paragraph_one": "Ciongame作为革命性的全新平台，允许加密货币粉丝参与预测并使用完全安全和透明的方法投注。我们的系统使用智能合约技术，具备完全透明、不可更改、不可篡改的功能，确保参与者无需第三方信任即可使用ETC执行投注。",
     "detail_forecast_rules": "预测规则",
     "detail_forecast_football": "体育预测",
     "detail_forecast_rules_paragraph_one": "如果比赛结果无法得到正式确认，本平台将有权利保留延迟派彩直至得到官方的正式确认。",
@@ -124,11 +124,11 @@
     "detail_lottery_title_content_eight": "中国福利彩票，开奖信息可在http://www.cwl.gov.cn查询。",
     "detail_lottery_title_content_nine": "韩国Lotto，开奖信息可在http://www.nlotto.co.kr查询。",
     "detail_lottery_title_content_ten": "美国PowerBall，开奖信息可在https://www.powerball.com/查询。",
-    "detail_notice": "如有遇到任何问题，请通过客服email与我们联系：support@etcgame.com"
+    "detail_notice": "如有遇到任何问题，请通过客服email与我们联系：support@coingame.org"
   },
   "en": {
     "detail_big_title": "A Next Generation Prediction Platform",
-    "detail_paragraph_one": "ETCGame is a revolutionary new platform allowing crypto enthusiasts to predict event outcomes securely with Ethereum Classic. The platform uses smart contracts, which are transparent, unalterable, and tamper-proof, ensuring that participants do not have to trust a third party to honor the prediction.",
+    "detail_paragraph_one": "Ciongame is a revolutionary new platform allowing crypto enthusiasts to predict event outcomes securely with Ethereum Classic. The platform uses smart contracts, which are transparent, unalterable, and tamper-proof, ensuring that participants do not have to trust a third party to honor the prediction.",
     "detail_forecast_rules": "Prediction Rules",
     "detail_forecast_football": "Sports Prediction",
     "detail_forecast_rules_paragraph_one": "If the results of the competition cannot be formally confirmed, the platform reserves the right to retain or delay the payout until an official confirmation is obtained.",
@@ -251,7 +251,7 @@
     "detail_lottery_title_content_eight": "China Welfare Lottery, the lottery information can be found at http://www.cwl.gov.cn.",
     "detail_lottery_title_content_nine": "South Korea Lotto, the lottery information can be found at http://www.nlotto.co.kr.",
     "detail_lottery_title_content_ten": "US PowerBall, the lottery information can be found at https://www.powerball.com/.",
-    "detail_notice": "If you have any concerns, please contact customer service at: support@etcgame.com"
+    "detail_notice": "If you have any concerns, please contact customer service at: support@coingame.org"
   },
   "ko": {
     "detail_big_title": "차세대 예측 플랫폼",
@@ -378,7 +378,7 @@
     "detail_lottery_title_content_eight": "중국 복지 복권,추첨 정보는 http://www.cwl.gov.cn에서 확인할 수 있다.",
     "detail_lottery_title_content_nine": "한국Lotto, 추첨 정보는 http://www.nlotto.co.kr에서 확인할 수 있다.",
     "detail_lottery_title_content_ten": "미국 PowerBall, 추첨 정보는 https://www.powerball.com/에서 확인할 수 있다.",
-    "detail_notice": "문제가 발생하면 고객 서비스 이메일 support@etcgame.com을 통해 문의하십시오"
+    "detail_notice": "문제가 발생하면 고객 서비스 이메일 support@coingame.org을 통해 문의하십시오"
   },
   "ja": {
     "detail_big_title": "次世代のスポーツベッティングプラットフォーム",
@@ -504,7 +504,7 @@
     "detail_lottery_title_content_eight": "中国福利宝くじ、抽選結果に関する：http://www.cwl.gov.cnで検索できます。",
     "detail_lottery_title_content_nine": "韓国Lotto、抽選結果に関する：http://www.nlotto.co.krで検索できます。",
     "detail_lottery_title_content_ten": "アメリカPowerBall、抽選結果に関する：https://www.powerball.com/で検索できます。",
-    "detail_notice": "何か問題がありましたら、こちらのメール（support@etcgame.com）までご連絡ください。"
+    "detail_notice": "何か問題がありましたら、こちらのメール（support@coingame.org）までご連絡ください。"
   },
   "ru": {
     "detail_big_title": "Платформа угадывания следующего поколения",
@@ -631,11 +631,11 @@
     "detail_lottery_title_content_eight": "Китай благосостояния лотереи, информация лотереи можно найти на http://www.cwl.gov.cn",
     "detail_lottery_title_content_nine": "Южная Корея Лото, информация лотереи можно найти на http://www.nlotto.co.kr",
     "detail_lottery_title_content_ten": "US PowerBall, информация лотереи можно найти на https://www.powerball.com",
-    "detail_notice": "Если у вас возникли проблемы, свяжитесь с нами по электронной почте:  support@etcgame.com"
+    "detail_notice": "Если у вас возникли проблемы, свяжитесь с нами по электронной почте:  support@coingame.org"
   },
   "vi": {
     "detail_big_title": "Dự đoán nền tảng cho các thế hệ kế tiếp",
-    "detail_paragraph_one": "EtcGame Như một nền tảng mới cách mạng,Cho phép người hâm mộ mã hóa tiền tệ để tham gia dự báo và sử dụng đầy đủ các phương pháp an toàn và minh bạch của cá cược. Hệ thống của chúng tôi sử dụng công nghệ hợp đồng thông minh,Sở hữu hoàn toàn minh bạch, không thể thay đổi, không thể thay đổi chức năng của những người tham gia, đảm bảo không cần bên thứ 3 tin dùng ETC thực hiện đặt cược.",
+    "detail_paragraph_one": "Ciongame Như một nền tảng mới cách mạng,Cho phép người hâm mộ mã hóa tiền tệ để tham gia dự báo và sử dụng đầy đủ các phương pháp an toàn và minh bạch của cá cược. Hệ thống của chúng tôi sử dụng công nghệ hợp đồng thông minh,Sở hữu hoàn toàn minh bạch, không thể thay đổi, không thể thay đổi chức năng của những người tham gia, đảm bảo không cần bên thứ 3 tin dùng ETC thực hiện đặt cược.",
     "detail_forecast_rules": "Dự báo quy định",
     "detail_forecast_football": "Dự báo thể thao",
     "detail_forecast_rules_paragraph_one": "Nếu kết quả không được chính thức xác nhận, nền tảng sẽ có quyền giữ lại sự chậm trễ trong xổ số cho đến khi chính thức xác nhận.",
@@ -758,11 +758,11 @@
     "detail_lottery_title_content_eight": "Trung Quốc xổ số phúc lợi, thông tin xổ số có sẵn trong :http://www.cwl.gov.cn .mời kiểm tra.",
     "detail_lottery_title_content_nine": "Hàn Quốc Lotto thông tin xổ số có sẵn trong : http://www.nlotto.co.kr  mời kiểm tra.",
     "detail_lottery_title_content_ten": "Mỹ PowerBall, thông tin xổ số có sẵn trong: www.powerball.com/ mời kiểm tra.",
-    "detail_notice": "Nếu có gặp vấn đề gì, xin hãy liên lạc với chúng tôi qua email trực tiếp: support@etcgame.com"
+    "detail_notice": "Nếu có gặp vấn đề gì, xin hãy liên lạc với chúng tôi qua email trực tiếp: support@coingame.org"
   },
   "zh-Hant": {
     "detail_big_title": "下一代的預測平台",
-    "detail_paragraph_one": "EtcGame作為革命性的全新平台，允許加密貨幣粉絲參與預測並使用完全安全和透明的方法投注。我們的系統使用智能合約技術，具備完全透明、不可更改、不可篡改的功能，確保參與者無需第三方信任即可使用ETC執行投注。",
+    "detail_paragraph_one": "Ciongame作為革命性的全新平台，允許加密貨幣粉絲參與預測並使用完全安全和透明的方法投注。我們的系統使用智能合約技術，具備完全透明、不可更改、不可篡改的功能，確保參與者無需第三方信任即可使用ETC執行投注。",
     "detail_forecast_rules": "預測規則",
     "detail_forecast_football": "體育預測",
     "detail_forecast_rules_paragraph_one": "如果比賽結果無法得到正式確認，本平台將有權利保留延遲派彩直至得到官方的正式確認。",
@@ -885,6 +885,6 @@
     "detail_lottery_title_content_eight": "中國福利彩票，開獎信息可在http://www.cwl.gov.cn查詢。",
     "detail_lottery_title_content_nine": "韓國Lotto，開獎信息可在http://www.nlotto.co.kr查詢。",
     "detail_lottery_title_content_ten": "美國PowerBall，開獎信息可在https://www.powerball.com/查詢。",
-    "detail_notice": "如有遇到任何問題，請通過客服email與我們聯繫：support@etcgame.com"
+    "detail_notice": "如有遇到任何問題，請通過客服email與我們聯繫：support@coingame.org"
   }
 }
