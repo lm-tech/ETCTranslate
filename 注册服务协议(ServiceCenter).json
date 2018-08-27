@@ -1,7 +1,7 @@
 {
   "zh": {
     "service_center_content_title": "服务协议",
-    "service_center_content_paragraph_one": "1.   以下条款适用于由同一公司拥有，运营或托管的网址为www.etcgame.com的网站，移动网站和/或移动应用程序（以下合称为“本网站”）提供的钱包服务。请仔细阅读以下服务条款。通过点击“注册”按钮或使用本网站钱包服务，视为您同意接受本服务协议所有条款约束。",
+    "service_center_content_paragraph_one": "1.   以下条款适用于由同一公司拥有，运营或托管的网址为www.coingame.org的网站，移动网站和/或移动应用程序（以下合称为“本网站”）提供的钱包服务。请仔细阅读以下服务条款。通过点击“注册”按钮或使用本网站钱包服务，视为您同意接受本服务协议所有条款约束。",
     "service_center_content_paragraph_two": "2.   本协议与本网站公布的其他规则、条款、声明和协议构成用户与网站之间的",
     "service_center_content_paragraph_two_a": "完整合约",
     "service_center_content_paragraph_two_b" : "。本协议未涉事宜应参照本网站公布的用户",
@@ -50,7 +50,7 @@
   },
   "en": {
     "service_center_content_title": "Terms of service",
-    "service_center_content_paragraph_one": "1.   This service agreement is applicable to wallet services provided by the website: www.etcgame.com, mobile site and/or mobile application owned, operated or hosted by the same company. (collectively the ‘Site’). You are advised to read carefully this Agreement stated hereunder. By clicking the ‘register’ button or using wallet services on the Site, you are deemed to accept and abide by any and all terms of this Agreement. ",
+    "service_center_content_paragraph_one": "1.   This service agreement is applicable to wallet services provided by the website: www.coingame.org, mobile site and/or mobile application owned, operated or hosted by the same company. (collectively the ‘Site’). You are advised to read carefully this Agreement stated hereunder. By clicking the ‘register’ button or using wallet services on the Site, you are deemed to accept and abide by any and all terms of this Agreement. ",
     "service_center_content_paragraph_two": "2.   This Agreement and other rules, terms, statements or agreements provided or posted on the Site constitute the ",
     "service_center_content_paragraph_two_a": " Entire Agreement ",
     "service_center_content_paragraph_two_b" : "between the users and the Site. Any matter not covered in this Agreement shall be implemented according to relevant regulations or definitions under the ",
@@ -99,7 +99,7 @@
   },
   "ko": {
     "service_center_content_title": "서비스 협의",
-    "service_center_content_paragraph_one": "1.   이 약관은 동일한 회사에 의해 운영되고 소유되는 홈페이지(www.etcgame.com), 모바일 사이트, 모바일 애플리케이션이 제공하는 지갑 서비스에 적용됩니다. (총칭하여 “사이트”) 본 계약서를 주의 깊게 읽어 보시길 바랍니다. “등록” 버튼을 클릭하거나 사이트의 지갑 서비스를 실제 이용하기 시작함으로써 본 약관의 모든 조항에 동의하고 이를 준수하는 것으로 간주됩니다.",
+    "service_center_content_paragraph_one": "1.   이 약관은 동일한 회사에 의해 운영되고 소유되는 홈페이지(www.coingame.org), 모바일 사이트, 모바일 애플리케이션이 제공하는 지갑 서비스에 적용됩니다. (총칭하여 “사이트”) 본 계약서를 주의 깊게 읽어 보시길 바랍니다. “등록” 버튼을 클릭하거나 사이트의 지갑 서비스를 실제 이용하기 시작함으로써 본 약관의 모든 조항에 동의하고 이를 준수하는 것으로 간주됩니다.",
     "service_center_content_paragraph_two": "2.   본 계약 및 사이트에서 제공되거나 게시된 기타의 규칙, 조항, 진술 또는 계약은 사용자와 사이트 간에 완전하고 최종적인 합의입니다. 본 계약에 ",
     "service_center_content_paragraph_two_a": "명시되지",
     "service_center_content_paragraph_two_b" : " 않은 사항에 대해서는 사이트의 재량에 따라 임의로 사이트의 내용을 수정하거나, 사이트의 서비스를 정정하고 종료할 권리를 포함하며, 사이트에 게시된 ",
@@ -148,7 +148,7 @@
   },
   "ja": {
     "service_center_content_title": "サービス契約",
-    "service_center_content_paragraph_one": "1.   以下の条件は、同じ会社によって所有、運営、ホストされているウェブサイトwww.etcgame.com、モバイルウェブサイトおよび/またはモバイルアプリケーション（以下、総称して「当サイト」と呼ぶ）によって提供されるウォレットサービスに適用されます。以下のサービス条件をよくよくお読みになってください。「登録」ボタンをクリックする、またはこのウェブサイトのウォレットサービスを使用することで、このサービス契約のすべての条件に拘束されることに同意したものとみなされます。",
+    "service_center_content_paragraph_one": "1.   以下の条件は、同じ会社によって所有、運営、ホストされているウェブサイトwww.coingame.org、モバイルウェブサイトおよび/またはモバイルアプリケーション（以下、総称して「当サイト」と呼ぶ）によって提供されるウォレットサービスに適用されます。以下のサービス条件をよくよくお読みになってください。「登録」ボタンをクリックする、またはこのウェブサイトのウォレットサービスを使用することで、このサービス契約のすべての条件に拘束されることに同意したものとみなされます。",
     "service_center_content_paragraph_two": "2.   本契約および当サイトに掲載されているその他の規則、条件、宣言および契約は、ユーザーとウェブサイトの間の",
     "service_center_content_paragraph_two_a": "契約全体",
     "service_center_content_paragraph_two_b" : "を構成します。本契約に記載されていない事項（ウェブサイトの内容およびサービスをいつでも変更できる権利を含むがそれに限られない）は、当サイトに掲載されているユーザーの",
@@ -197,7 +197,7 @@
   },
   "ru": {
     "service_center_content_title": "Сервисное соглашение",
-    "service_center_content_paragraph_one": "1.   Следующие термины применяются к той же компании, веб-сайт, который работает или размещен, является www.etcgame.com, услуги кошелька, предоставляемые мобильными веб-сайтами и / или мобильными приложениями (далее 'этот сайт'). Пожалуйста, внимательно прочитайте следующие условия обслуживания. Нажимая кнопку «Регистрация» или используя службу кошелька веб-сайта, это рассматривается как ваше согласие соблюдать все условия настоящего соглашения об оказании услуг.",
+    "service_center_content_paragraph_one": "1.   Следующие термины применяются к той же компании, веб-сайт, который работает или размещен, является www.coingame.org, услуги кошелька, предоставляемые мобильными веб-сайтами и / или мобильными приложениями (далее 'этот сайт'). Пожалуйста, внимательно прочитайте следующие условия обслуживания. Нажимая кнопку «Регистрация» или используя службу кошелька веб-сайта, это рассматривается как ваше согласие соблюдать все условия настоящего соглашения об оказании услуг.",
     "service_center_content_paragraph_two": "2.   Настоящее Соглашение и другие правила, условия, уведомления и соглашения, опубликованные на данном веб-сайте, составляют ",
     "service_center_content_paragraph_two_a": "полный контракт ",
     "service_center_content_paragraph_two_b" : "между пользователем и веб-сайтом. Вопросы, не охватываемые настоящим соглашением, должны выполняться в соответствии с соответствующими определениями и положениями пользовательских ",
@@ -247,7 +247,7 @@
   },
   "vi": {
     "service_center_content_title": "Terms of service",
-    "service_center_content_paragraph_one": "1.   This service agreement is applicable to wallet services provided by the website: www.etcgame.com, mobile site and/or mobile application owned, operated or hosted by the same company. (collectively the ‘Site’). You are advised to read carefully this Agreement stated hereunder. By clicking the ‘register’ button or using wallet services on the Site, you are deemed to accept and abide by any and all terms of this Agreement. ",
+    "service_center_content_paragraph_one": "1.   This service agreement is applicable to wallet services provided by the website: www.coingame.org, mobile site and/or mobile application owned, operated or hosted by the same company. (collectively the ‘Site’). You are advised to read carefully this Agreement stated hereunder. By clicking the ‘register’ button or using wallet services on the Site, you are deemed to accept and abide by any and all terms of this Agreement. ",
     "service_center_content_paragraph_two": "2.   This Agreement and other rules, terms, statements or agreements provided or posted on the Site constitute the ",
     "service_center_content_paragraph_two_a": " Entire Agreement ",
     "service_center_content_paragraph_two_b" : "between the users and the Site. Any matter not covered in this Agreement shall be implemented according to relevant regulations or definitions under the ",
@@ -296,7 +296,7 @@
   },
   "zh-Hant": {
     "service_center_content_title": "服務協定",
-    "service_center_content_paragraph_one": "1.   以下條款適用於由同一公司擁有，運營或託管的網址為www.etcgame.com的網站，移動網站和/或移動應用程式（以下合稱為“本網站”）提供的錢包服務。請仔細閱讀以下服務條款。通過點擊“註冊”按鈕或使用本網站錢包服務，視為您同意接受本服務協定所有條款約束。",
+    "service_center_content_paragraph_one": "1.   以下條款適用於由同一公司擁有，運營或託管的網址為www.coingame.org的網站，移動網站和/或移動應用程式（以下合稱為“本網站”）提供的錢包服務。請仔細閱讀以下服務條款。通過點擊“註冊”按鈕或使用本網站錢包服務，視為您同意接受本服務協定所有條款約束。",
     "service_center_content_paragraph_two": "2.   本協定與本網站公佈的其他規則、條款、聲明和協議構成使用者與網站之間的",
     "service_center_content_paragraph_two_a": "完整合約",
     "service_center_content_paragraph_two_b" : "。本協議未涉事宜應參照本網站公佈的用戶",

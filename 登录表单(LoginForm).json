@@ -9,7 +9,7 @@
     "input_label_validation_code": "验证码：",
     "input_button_sign_in": "登录",
     "input_button_security_notice": "此账号已开启安全策略，请输入验证码后登录",
-    "login_title": "欢迎登录EtcGame"
+    "login_title": "欢迎登录Coingame"
   },
   "en": {
     "input_validate_empty_email": "Email",
@@ -21,7 +21,7 @@
     "input_label_validation_code": "Verification code:",
     "input_button_sign_in": "Login",
     "input_button_security_notice": "Security Notice",
-    "login_title": "Welcome to ETCGame"
+    "login_title": "Welcome to Coingame"
   },
   "ko": {
     "input_validate_empty_email": "이메일 주소를 입력해 주세요",
@@ -33,7 +33,7 @@
     "input_label_validation_code": "인증코드: ",
     "input_button_sign_in": "로그인",
     "input_button_security_notice": "해당 계정은 안전모드로 전환되었습니다. 인증코드 입력 후 로그인 부탁드립니다. ",
-    "login_title": "EtcGame에 로그인한 것을 축하드립니다. "
+    "login_title": "Coingame에 로그인한 것을 축하드립니다. "
   },
   "ja": {
     "input_validate_empty_email": "メールアドレスを入力してください",
@@ -45,7 +45,7 @@
     "input_label_validation_code": "認証コード：",
     "input_button_sign_in": "ログイン",
     "input_button_security_notice": "このアカウントは既にセキュリティ対策を実施したため、認証コードを入力し登録します",
-    "login_title": " EtcGame登録へようこそ。"
+    "login_title": " Coingame登録へようこそ。"
   },
   "ru": {
     "input_validate_empty_email": "Пожалуйста, введите свой адрес электронной почты",
@@ -57,7 +57,7 @@
     "input_label_validation_code": "Проверочный код:",
     "input_button_sign_in": "Авторизоваться",
     "input_button_security_notice": "Для этой учетной записи активирована политика безопасности. Пожалуйста, введите проверочный код для входа.",
-    "login_title": "Добро пожаловать чтобы залогиниться! EtcGame"
+    "login_title": "Добро пожаловать чтобы залогиниться! Coingame"
   },
   "vi": {
     "input_validate_empty_email": "xin nhập hộp thư vào",
@@ -69,7 +69,7 @@
     "input_label_validation_code": "mã  xác  nhận：",
     "input_button_sign_in": "đăng nhập",
     "input_button_security_notice": "Trương mục này đã được mở chính sách bảo mật, vui lòng nhập mã xác minh sau khi đăng nhập",
-    "login_title": "hoan nghênh EtcGame"
+    "login_title": "hoan nghênh Coingame"
   },
   "zh-Hant": {
     "input_validate_empty_email": "請輸入郵箱",
@@ -81,6 +81,6 @@
     "input_label_validation_code": "驗證碼：",
     "input_button_sign_in": "登錄",
     "input_button_security_notice": "此帳號已開啟安全策略，請輸入驗證碼後登錄",
-    "login_title": "歡迎登錄EtcGame"
+    "login_title": "歡迎登錄Coingame"
   }
 }
