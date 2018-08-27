@@ -20,7 +20,7 @@
   "ja": {
     "deposit_address_title": "ウオレットアドレス：",
     "deposit_address_focus_one": "注意：{currency}以外の資産を{currency}アドレスにチャージすることは禁じられています。チャージされた{currency}以外の資産は回収できません。",
-    "deposit_qrcode": "チャージ・QRコード 스마트 컨트렉트 QR코드",
+    "deposit_qrcode": "チャージ・QRコード",
     "detail_forecast_copied": "コピー完了"
   },
   "ru": {
