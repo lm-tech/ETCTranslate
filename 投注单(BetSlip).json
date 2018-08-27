@@ -13,7 +13,8 @@
       "err_from_server": "已失效/投注额已满",
       "ball_over": "高于",
       "ball_under": "低于",
-      "err_value_max": "投注金额不能大于{maxAmount}"
+      "err_value_max": "投注金额不能大于{maxAmount}",
+      "detail_bet_expired_noNumber": "请输入投注金额"
     },
     "en": {
       "bet_slip_title": "投注单",
@@ -30,6 +31,7 @@
       "ball_over": "高于",
       "ball_under": "低于",
       "err_value_max": "投注金额不能大于{maxAmount}",
+      "detail_bet_expired_noNumber": "请输入投注金额"
     },
     "ja": {
       "bet_slip_title": "投注单",
@@ -45,7 +47,8 @@
       "err_from_server": "已失效/投注额已满",
       "ball_over": "高于",
       "ball_under": "低于",
-      "err_value_max": "投注金额不能大于{maxAmount}"
+      "err_value_max": "投注金额不能大于{maxAmount}",
+      "detail_bet_expired_noNumber": "请输入投注金额"
     },
     "ko": {
       "bet_slip_title": "投注单",
@@ -61,7 +64,8 @@
       "err_from_server": "已失效/投注额已满",
       "ball_over": "高于",
       "ball_under": "低于",
-      "err_value_max": "投注金额不能大于{maxAmount}"
+      "err_value_max": "投注金额不能大于{maxAmount}",
+      "detail_bet_expired_noNumber": "请输入投注金额"
     },
     "ru": {
       "bet_slip_title": "投注单",
@@ -77,7 +81,8 @@
       "err_from_server": "已失效/投注额已满",
       "ball_over": "高于",
       "ball_under": "低于",
-      "err_value_max": "投注金额不能大于{maxAmount}"
+      "err_value_max": "投注金额不能大于{maxAmount}",
+      "detail_bet_expired_noNumber": "请输入投注金额"
     },
     "vi": {
       "bet_slip_title": "投注单",
@@ -93,7 +98,8 @@
       "err_from_server": "已失效/投注额已满",
       "ball_over": "高于",
       "ball_under": "低于",
-      "err_value_max": "投注金额不能大于{maxAmount}"
+      "err_value_max": "投注金额不能大于{maxAmount}",
+      "detail_bet_expired_noNumber": "请输入投注金额"
     },
     "zh-Hant": {
       "bet_slip_title": "投注單",
@@ -109,7 +115,8 @@
       "err_from_server": "已失效/投注額已滿",
       "ball_over": "高於",
       "ball_under": "低於",
-      "err_value_max": "投注金额不能大于{maxAmount}"
+      "err_value_max": "投注金额不能大于{maxAmount}",
+      "detail_bet_expired_noNumber": "请输入投注金额"
     }
   }
   
