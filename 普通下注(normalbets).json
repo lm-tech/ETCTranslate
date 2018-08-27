@@ -90,7 +90,7 @@
     "detail_forecast_choose": "Lựa chọn",
     "detail_forecast_odds": "Tỉ lệ bồi thường",
     "detail_forecast_address": "Xin vui lòng đặt {currency} vào địa chỉ hợp đồng thông minh để hoàn thành việc đặt cược",
-    "detail_forecast_notice": "Cấm mua bán xu từ địa điểm dự đoán,Xin vui lòng sử dụng chính thức từ ví tiền cá nhân để nạp tiền {currency} đến địa chỉ dự đoán. Khuyến cáo rằng giới hạn Gas Limit   được thiết lập để 150.000 để đảm bảo rằng {currency} thành công chuyển đến địa chỉ dự báo。禁止向{currency}智能合约地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回。",
+    "detail_forecast_notice": "Cấm mua bán xu từ địa điểm dự đoán,Xin vui lòng sử dụng chính thức từ ví tiền cá nhân để nạp tiền {currency} đến địa chỉ dự đoán. Khuyến cáo rằng giới hạn Gas Limit   được thiết lập để 150.000 để đảm bảo rằng {currency} thành công chuyển đến địa chỉ dự báo。Không có tài sản khác hơn {currency} có thể được nạp lại cho các {currency} thông minh hợp đồng địa chỉ, và bất kỳ không (currency) tài sản điền vào {currency} địa chỉ sẽ không được lấy.",
     "detail_forecast_all": "Đơn dự báo số tiền nhỏ nhất：{amount}{currency}",
     "detail_forecast_copied": "Đã được sao chép",
     "detail_game_qrcode_tip": "Hợp đồng minh hai kích thước mã",
