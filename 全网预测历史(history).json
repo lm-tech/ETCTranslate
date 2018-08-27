@@ -76,14 +76,15 @@
     "detail_history_title_handicap": "마켓정보",
     "detail_history_loading": "로딩중",
     "detail_history_title_amount_back": "환불",
-    "history_show_detail": "查看更多",
-    "detail_history_title": "投注历史",
-    "detail_history_search": "预测地址搜索",
-    "detail_history_tips": "玩法-选项:",
-    "home_team_win": "主胜",
-    "away_team_win": "客胜",
-    "ball_over": "高于",
-    "ball_under": "低于"
+    "detail_history_peding_kj": "체인에 업로드 중 ",
+    "history_show_detail": "더보기",
+    "detail_history_title": "배팅기록",
+    "detail_history_search": "예측 주소검색",
+    "detail_history_tips": "배팅방법-항목",
+    "home_team_win": "홈팀 승리",
+    "away_team_win": "원정팀 승리",
+    "ball_over": "이상",
+    "ball_under": "이하"
   },
   "ru": {
     "detail_all_forecast_history": "Вся история прогнозирования сети",
