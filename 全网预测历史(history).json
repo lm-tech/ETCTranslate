@@ -34,14 +34,14 @@
     "detail_history_loading": "Loading",
     "detail_history_title_amount_back": "Back",
     "detail_history_peding_kj": "上链中",
-    "history_show_detail": "查看更多",
-    "detail_history_title": "投注历史",
-    "detail_history_search": "预测地址搜索",
-    "detail_history_tips": "玩法-选项:",
-    "home_team_win": "主胜",
-    "away_team_win": "客胜",
-    "ball_over": "高于",
-    "ball_under": "低于"
+    "history_show_detail": "Check out more",
+    "detail_history_title": "Prediction history",
+    "detail_history_search": "Forecast address search",
+    "detail_history_tips": "How-options:",
+    "home_team_win": "Home win",
+    "away_team_win": "Away win",
+    "ball_over": "above",
+    "ball_under": "under"
   },
   "ja": {
     "detail_all_forecast_history": "全ユーザーのベッティング履歴一覧",
