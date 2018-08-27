@@ -362,8 +362,8 @@
     "withdraw_form_HASH": "giá trị HASH:",
     "withdraw_form_HASH_failed": "Xác nhận giá trị băm",
     "record_table_cancel_forecast": "thu hồi",
-    "record_table_wait_award": "奖金发放中",
-    "record_table_closed": "已下架"
+    "record_table_wait_award": "Trong việc phân phối tiền thưởng",
+    "record_table_closed": "đã được tắt"
   },
   "zh-Hant": {
     "record_table_bets_time": "下注時間",
