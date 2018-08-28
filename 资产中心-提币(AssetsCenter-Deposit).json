@@ -1,44 +1,44 @@
 {
   "zh": {
-    "deposit_address_title": "充值地址：",
+    "deposit_address_title": "{currency}充值地址：",
     "deposit_address_focus_one": "重要提示：禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回。",
-    "deposit_qrcode": "充值二维码",
+    "deposit_qrcode": "{currency}充值二维码",
     "detail_forecast_copied": "已复制"
   },
   "en": {
-    "deposit_address_title": "Deposit address：",
+    "deposit_address_title": "{currency}Deposit address：",
     "deposit_address_focus_one": "Please note, depositing non-{currency} assets to an {currency} address is prohibited and any deposited assets will be irretrievable",
-    "deposit_qrcode": "Deposit QR code",
+    "deposit_qrcode": "{currency}Deposit QR code",
     "detail_forecast_copied": "Copied"
   },
   "ko": {
-    "deposit_address_title": "코인 입금 주소：",
+    "deposit_address_title": "{currency}코인 입금 주소：",
     "deposit_address_focus_one": " 주의사항: {currency}의 주소로 {currency}가 아닌 기타 코인을 입금할 시, 환불이 되지 않는 점 유의바랍니다. ",
-    "deposit_qrcode": "충전 QR코드",
+    "deposit_qrcode": "{currency}충전 QR코드",
     "detail_forecast_copied": "복사됨"
   },
   "ja": {
-    "deposit_address_title": "ウオレットアドレス：",
+    "deposit_address_title": "{currency}ウオレットアドレス：",
     "deposit_address_focus_one": "注意：{currency}以外の資産を{currency}アドレスにチャージすることは禁じられています。チャージされた{currency}以外の資産は回収できません。",
-    "deposit_qrcode": "チャージ・QRコード",
+    "deposit_qrcode": "{currency}チャージ・QRコード",
     "detail_forecast_copied": "コピー完了"
   },
   "ru": {
-    "deposit_address_title": "Адрес перезарядки：",
+    "deposit_address_title": "{currency}Адрес перезарядки：",
     "deposit_address_focus_one": "Важная Подсказка：Запрещается перезарядка {currency} адреса. За исключением активов, отличных от {currency}, любые не-{currency} активы, возвращенные на адрес {currency}, не будут восстановлены.",
-    "deposit_qrcode": "Пополнить QR-код",
+    "deposit_qrcode": "{currency}Пополнить QR-код",
     "detail_forecast_copied": "Уже скопировано"
   },
   "vi": {
-    "deposit_address_title": "địa chỉ nạp tiền：",
+    "deposit_address_title": "{currency}địa chỉ nạp tiền：",
     "deposit_address_focus_one": "Gợi ý: cấm địa chỉ quan trọng với {currency} nạp tiền trừ {currency} ngoài tài sản, bất kỳ nạp vào địa chỉ {currency} phi {currency} sẽ không thể lấy lại tài sản",
-    "deposit_qrcode": "Nạp tiền mã QR",
+    "deposit_qrcode": "{currency}Nạp tiền mã QR",
     "detail_forecast_copied": "đã được sau chép"
   },
   "zh-Hant": {
-    "deposit_address_title": "充值地址：",
+    "deposit_address_title": "{currency}充值地址：",
     "deposit_address_focus_one": "重要提示：禁止向{currency}地址充值除{currency}之外的資產，任何充入{currency}地址的非{currency}資產將不可找回。",
-    "deposit_qrcode": "充值二維碼",
+    "deposit_qrcode": "{currency}充值二維碼",
     "detail_forecast_copied": "已複製"
   }
 }
