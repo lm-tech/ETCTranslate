@@ -6,7 +6,8 @@
     "detail_forecast_copied": "已复制",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}充值地址",
+    "i_konw": "我知道了"
   },
   "en": {
     "deposit_address_title": "{currency}Deposit address：",
@@ -15,7 +16,8 @@
     "detail_forecast_copied": "Copied",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}充值地址",
+    "i_konw": "我知道了"
   },
   "ko": {
     "deposit_address_title": "{currency}코인 입금 주소：",
@@ -24,7 +26,8 @@
     "detail_forecast_copied": "복사됨",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}充值地址",
+    "i_konw": "我知道了"
   },
   "ja": {
     "deposit_address_title": "{currency}ウオレットアドレス：",
@@ -33,7 +36,8 @@
     "detail_forecast_copied": "コピー完了",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}充值地址",
+    "i_konw": "我知道了"
   },
   "ru": {
     "deposit_address_title": "{currency}Адрес перезарядки：",
@@ -42,7 +46,8 @@
     "detail_forecast_copied": "Уже скопировано",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}充值地址",
+    "i_konw": "我知道了"
   },
   "vi": {
     "deposit_address_title": "{currency}địa chỉ nạp tiền：",
@@ -51,7 +56,8 @@
     "detail_forecast_copied": "đã được sau chép",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "当前复制的地址为{currency}充值地址"
+    "copy_address_tip": "当前复制的地址为{currency}充值地址",
+    "i_konw": "我知道了"
   },
   "zh-Hant": {
     "deposit_address_title": "{currency}充值地址：",
@@ -60,6 +66,7 @@
     "detail_forecast_copied": "已複製",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}充值地址",
+    "i_konw": "我知道了"
   }
 }
