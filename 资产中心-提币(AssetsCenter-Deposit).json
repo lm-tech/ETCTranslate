@@ -5,6 +5,7 @@
     "deposit_qrcode": "{currency}充值二维码",
     "detail_forecast_copied": "已复制",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
   },
   "en": {
@@ -13,6 +14,7 @@
     "deposit_qrcode": "{currency}Deposit QR code",
     "detail_forecast_copied": "Copied",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
   },
   "ko": {
@@ -21,6 +23,7 @@
     "deposit_qrcode": "{currency}충전 QR코드",
     "detail_forecast_copied": "복사됨",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
   },
   "ja": {
@@ -29,6 +32,7 @@
     "deposit_qrcode": "{currency}チャージ・QRコード",
     "detail_forecast_copied": "コピー完了",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
   },
   "ru": {
@@ -37,6 +41,7 @@
     "deposit_qrcode": "{currency}Пополнить QR-код",
     "detail_forecast_copied": "Уже скопировано",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
   },
   "vi": {
@@ -45,6 +50,7 @@
     "deposit_qrcode": "{currency}Nạp tiền mã QR",
     "detail_forecast_copied": "đã được sau chép",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "当前复制的地址为{currency}充值地址"
   },
   "zh-Hant": {
@@ -53,6 +59,7 @@
     "deposit_qrcode": "{currency}充值二維碼",
     "detail_forecast_copied": "已複製",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}充值地址"
   }
 }
