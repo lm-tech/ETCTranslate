@@ -8,6 +8,7 @@
     "copy_address_waring": "注意",
     "copy_address_tip1": "您当前所复制的地址为",
     "copy_address_tip2": "充值地址",
+    "copy_address_tip3": "禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回。",
     "i_konw": "我知道了"
   },
   "en": {
@@ -19,6 +20,7 @@
     "copy_address_waring": "Note",
     "copy_address_tip1": "The address you copied is the",
     "copy_address_tip2": "deposit address",
+    "copy_address_tip3": "depositing non-{currency} assets to an {currency} address is prohibited and any deposited assets will be irretrievable",
     "i_konw": "I know"
   },
   "ko": {
@@ -30,6 +32,7 @@
     "copy_address_waring": "주의",
     "copy_address_tip1": "복사한 주소는 ",
     "copy_address_tip2": "충전 주소입니다",
+    "copy_address_tip3": "{currency}의 주소로 {currency}가 아닌 기타 코인을 입금할 시, 환불이 되지 않는 점 유의바랍니다. ",
     "i_konw": "확인하였습니다"
   },
   "ja": {
@@ -41,6 +44,7 @@
     "copy_address_waring": "ご注意",
     "copy_address_tip1": "あなたがコピーしたアドレスは",
     "copy_address_tip2": "のチャージアドレスです",
+    "copy_address_tip3": "{currency}以外の資産を{currency}アドレスにチャージすることは禁じられています。チャージされた{currency}以外の資産は回収できません。",
     "i_konw": "かしこまりました"
   },
   "ru": {
@@ -52,6 +56,7 @@
     "copy_address_waring": "Note",
     "copy_address_tip1": "The address you copied is the",
     "copy_address_tip2": "deposit address",
+    "copy_address_tip3": "Запрещается перезарядка {currency} адреса. За исключением активов, отличных от {currency}, любые не-{currency} активы, возвращенные на адрес {currency}, не будут восстановлены.",
     "i_konw": "I know"
   },
   "vi": {
@@ -63,6 +68,7 @@
     "copy_address_waring": "Note",
     "copy_address_tip1": "The address you copied is the",
     "copy_address_tip2": "deposit address",
+    "copy_address_tip3": "cấm địa chỉ quan trọng với {currency} nạp tiền trừ {currency} ngoài tài sản, bất kỳ nạp vào địa chỉ {currency} phi {currency} sẽ không thể lấy lại tài sản",
     "i_konw": "I know"
   },
   "zh-Hant": {
@@ -74,6 +80,7 @@
     "copy_address_waring": "註意",
     "copy_address_tip1": "您當前所復制的地址為",
     "copy_address_tip2": "充值地址",
+    "copy_address_tip3": "禁止向{currency}地址充值除{currency}之外的資產，任何充入{currency}地址的非{currency}資產將不可找回。",
     "i_konw": "我知道了"
   }
 }
