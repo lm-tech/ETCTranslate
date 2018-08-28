@@ -107,6 +107,7 @@
     "not_bets_tip1": "Эта опция подтверждается в блокчейне, позже посмотрите состояние ставки",
     "not_bets_tip2": "Извините, эта опция не может делать ставку этой валютой",
     "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку",
+    "copy_address": "Copy",
     "copy_address_waring": "Note",
     "copy_address_tip1": "The address you copied is the",
     "copy_address_tip2": "prediction address",
