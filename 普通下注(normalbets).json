@@ -17,7 +17,8 @@
     "not_bets_tip3": "非常抱歉，该币种预测已封盘，无法下注",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址",
+    "i_konw": "我知道了"
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
@@ -37,7 +38,8 @@
     "not_bets_tip3": "We apologize for the inconvenience，but predictions for this option are closed",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址",
+    "i_konw": "我知道了"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
@@ -57,7 +59,8 @@
     "not_bets_tip3": "申し訳ありませんが、お選び頂いた貨幣のベッティングが終了しました。",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址",
+    "i_konw": "我知道了"
   },
   "ko": {
     "detail_forecast_title": "{currency}예측",
@@ -77,7 +80,8 @@
     "not_bets_tip3": "죄송하지만 이 항목이 선택하신 코인으로 배팅은 마강되었습니다.",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址",
+    "i_konw": "我知道了"
   },
   "ru": {
     "detail_forecast_title": "{currency} Прогноз",
@@ -97,7 +101,8 @@
     "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址",
+    "i_konw": "我知道了"
   },
   "vi": {
     "detail_forecast_title": "{currency}Dự báo",
@@ -117,7 +122,8 @@
     "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược.",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址",
+    "i_konw": "我知道了"
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
@@ -137,6 +143,7 @@
     "not_bets_tip3": "非常抱歉，該幣種預測已封盤，無法下注",
     "copy_address": "复制",
     "copy_address_waring": "注意",
-    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址",
+    "i_konw": "我知道了"
   }
 }
