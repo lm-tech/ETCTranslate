@@ -16,6 +16,7 @@
     "not_bets_tip2": "非常抱歉，该选项无法用该币种下注",
     "not_bets_tip3": "非常抱歉，该币种预测已封盘，无法下注",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "en": {
@@ -35,6 +36,7 @@
     "not_bets_tip2": "We apologize for the inconvenience, the token used is not available for this option",
     "not_bets_tip3": "We apologize for the inconvenience，but predictions for this option are closed",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "ja": {
@@ -54,6 +56,7 @@
     "not_bets_tip2": "申し訳ありませんが、この種の貨幣はオプションで使用できません。",
     "not_bets_tip3": "申し訳ありませんが、お選び頂いた貨幣のベッティングが終了しました。",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "ko": {
@@ -73,6 +76,7 @@
     "not_bets_tip2": "죄송하지만 이 항목은 선택하신 코인으로 배팅 할 수 없습니다.",
     "not_bets_tip3": "죄송하지만 이 항목이 선택하신 코인으로 배팅은 마강되었습니다.",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "ru": {
@@ -92,6 +96,7 @@
     "not_bets_tip2": "Извините, эта опция не может делать ставку этой валютой",
     "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "vi": {
@@ -111,6 +116,7 @@
     "not_bets_tip2": "Xin lỗi, tùy chọn này không có sẵn cho cá cược trong loại tiền tệ này",
     "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược.",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "zh-Hant": {
@@ -130,6 +136,7 @@
     "not_bets_tip2": "非常抱歉，該選項無法用該幣種下注",
     "not_bets_tip3": "非常抱歉，該幣種預測已封盤，無法下注",
     "copy_address": "复制",
+    "copy_address_waring": "注意",
     "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   }
 }
