@@ -8,30 +8,34 @@
     "detail_forecast_notice": "禁止从交易所直接提币至预测地址,请使用官方或私人钱包充值{currency}到预测地址. 建议将Gas Limit设置为150,000以确保{currency}能成功转币到预测地址。禁止向{currency}智能合约地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回。",
     "detail_forecast_all": "最小单笔预测金额：{amount}{currency}",
     "detail_forecast_copied": "已复制",
-    "detail_game_qrcode_tip": "智能合约二维码",
+    "detail_game_qrcode_tip": "{currency}智能合约二维码",
     "old_bets_tip": "本场比赛暂不接受快速下注",
     "select_bets_currency": "选择投注币种",
     "max_bets_amount": "下注上限",
     "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
     "not_bets_tip2": "非常抱歉，该选项无法用该币种下注",
-    "not_bets_tip3": "非常抱歉，该币种预测已封盘，无法下注"
+    "not_bets_tip3": "非常抱歉，该币种预测已封盘，无法下注",
+    "copy_address": "复制",
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
     "detail_forecast_choose": "Option",
     "detail_forecast_odds": "Odds",
-    "detail_forecast_address": "To complete your prediction, please transfer your ETC to the following smart contract address:",
+    "detail_forecast_address": "To complete your prediction, please transfer your {currency} to the following smart contract address:",
     "detail_forecast_notice": "Direct deposit from the exchange to the prediction forecast address is prohibited. Transfer of {currency} is only allowed from your personal wallet to the prediction forecast address. Please set an appropriate Gas Limit of 150,000 to successfully transfer {currency} to the prediction forcast address。Don't deposit to {currency} smart contract address assets other than {currency}, any deposit to {currency} address with non {currency} assets will be irretrievable.",
     "detail_forecast_all": "Minimum forecast stake amount: {amount}{currency}",
     "detail_forecast_copied": "Copied",
-    "detail_game_qrcode_tip": "Smart contract QR code",
+    "detail_game_qrcode_tip": "{currency} Smart contract QR code",
     "detail_forecast_title_link": "Click here for step-by-step instructions on how to make a prediction.",
     "old_bets_tip": "QuickPredict is temporarily not available for this match",
     "select_bets_currency": "Select your preferred currency to make a prediction",
     "max_bets_amount": "Maximum stake",
     "not_bets_tip1": "This option is awaiting confirmation, please make your prediction later",
     "not_bets_tip2": "We apologize for the inconvenience, the token used is not available for this option",
-    "not_bets_tip3": "We apologize for the inconvenience，but predictions for this option are closed"
+    "not_bets_tip3": "We apologize for the inconvenience，but predictions for this option are closed",
+    "copy_address": "复制",
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
@@ -41,14 +45,16 @@
     "detail_forecast_notice": "取引所から直接予測アドレスまでにコインを引き出すことは禁止されている。公式または個人の財布を使用して{currency}を予測アドレスまでにチャージしてください。Gas Limitを150,000に設定するのはお勧め、すると、 {currency}を予測アドレスまでにチャージの確保できる。{currency}のスマートコントラクト・アドレスに{currency}以外の資産をチャージすることは禁止されている。{currency}のアドレスにチャージされる{currency}以外の資産は取り戻すことができない。",
     "detail_forecast_all": "ミニマムベット： {amount}{currency}",
     "detail_forecast_copied": "コピー済み",
-    "detail_game_qrcode_tip": "スマートコントラクトのQRコード",
+    "detail_game_qrcode_tip": "{currency} スマートコントラクトのQRコード",
     "detail_forecast_title_link": "ここをクリックしてベッティング方法を見る",
     "old_bets_tip": "この試合はしばらくクイックベットができません",
     "select_bets_currency": "ベッティングコインを選択",
     "max_bets_amount": "マキシマムオーダー",
     "not_bets_tip1": "このオプションはブロックチェーン確認中で、ベッティング状態になるまでしばらくお待ち下さい。",
     "not_bets_tip2": "申し訳ありませんが、この種の貨幣はオプションで使用できません。",
-    "not_bets_tip3": "申し訳ありませんが、お選び頂いた貨幣のベッティングが終了しました。"
+    "not_bets_tip3": "申し訳ありませんが、お選び頂いた貨幣のベッティングが終了しました。",
+    "copy_address": "复制",
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "ko": {
     "detail_forecast_title": "{currency}예측",
@@ -58,14 +64,16 @@
     "detail_forecast_notice": "거래소에서 직접 예측주소로 코인을 입금하는건 금지사항입니다. 공식 지갑 또는 개인 지갑을 사용하여 {currency}를 예측주소로 입금하세요. Gas Limit를 150,000으로 설정을 추천합니다. 이는 {currency}가 정확히 예측주소로 입금됨을 위함입니다. {currency} 스마트 계약 주소로 {currency} 이외의 자산 충전을 금지하며 주소로 충전한 자산이 {currency} 이 아닐 경우, 모든 자산은 되찾을 수 없습니다.",
     "detail_forecast_all": "최소 일회 예측 금액 ： {amount}{currency}",
     "detail_forecast_copied": "복사됨",
-    "detail_game_qrcode_tip": "스마트 컨트렉트 QR코드",
+    "detail_game_qrcode_tip": "{currency} 스마트 컨트렉트 QR코드",
     "detail_forecast_title_link": "여기를 클릭하여 예측방법을 확인하세요",
     "old_bets_tip": "이번 경기는 간편배팅이 아직 불가능이다",
     "select_bets_currency": "배팅 화폐 종류를 선택하세요.",
     "max_bets_amount": "최고 배팅금액 ",
     "not_bets_tip1": "해당 항목은 블록체인에서 확인중이며 잠시후 배팅 가능상태를 확인 부탁드립니다.",
     "not_bets_tip2": "죄송하지만 이 항목은 선택하신 코인으로 배팅 할 수 없습니다.",
-    "not_bets_tip3": "죄송하지만 이 항목이 선택하신 코인으로 배팅은 마강되었습니다."
+    "not_bets_tip3": "죄송하지만 이 항목이 선택하신 코인으로 배팅은 마강되었습니다.",
+    "copy_address": "复制",
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "ru": {
     "detail_forecast_title": "{currency} Прогноз",
@@ -75,14 +83,16 @@
     "detail_forecast_notice": "Запретить прямой вывод средств с биржи на прогнозный адрес. Перевод {currency} допускается только с официального или личного кошелька на прогнозный адрес. Рекомендуется установить《Gas Limit》на 150,000, чтобы обеспечить успешную передачу прогнозируемого адреса. Запрещается пополнять баланс средств кроме{currency} в адрес интеллектуального соглашения {currency}, нельзя вернуть средства, которые не являются {currency}, и баланс которых пополнять в адрес {currency}. ",
     "detail_forecast_all": "Минимальная сумма прогноза： {amount}{currency}",
     "detail_forecast_copied": "скопированный",
-    "detail_game_qrcode_tip": "QR-код смарт-контракта",
+    "detail_game_qrcode_tip": "{currency} QR-код смарт-контракта",
     "detail_forecast_title_link": "Щелкните меня, чтобы посмотреть, как участвовать в прогнозировании",
     "old_bets_tip": "В этом соревновании пока не принимать быструю ставку",
     "select_bets_currency": "Выберите тип валюты ставки",
     "max_bets_amount": "Максимум ставки",
     "not_bets_tip1": "Эта опция подтверждается в блокчейне, позже посмотрите состояние ставки",
     "not_bets_tip2": "Извините, эта опция не может делать ставку этой валютой",
-    "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку"
+    "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку",
+    "copy_address": "复制",
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "vi": {
     "detail_forecast_title": "{currency}Dự báo",
@@ -93,13 +103,15 @@
     "detail_forecast_notice": "Cấm mua bán xu từ địa điểm dự đoán,Xin vui lòng sử dụng chính thức từ ví tiền cá nhân để nạp tiền {currency} đến địa chỉ dự đoán. Khuyến cáo rằng giới hạn Gas Limit   được thiết lập để 150.000 để đảm bảo rằng {currency} thành công chuyển đến địa chỉ dự báo。Không có tài sản khác hơn {currency} có thể được nạp lại cho các {currency} thông minh hợp đồng địa chỉ, và bất kỳ không (currency) tài sản điền vào {currency} địa chỉ sẽ không được lấy.",
     "detail_forecast_all": "Đơn dự báo số tiền nhỏ nhất：{amount}{currency}",
     "detail_forecast_copied": "Đã được sao chép",
-    "detail_game_qrcode_tip": "Hợp đồng minh hai kích thước mã",
+    "detail_game_qrcode_tip": "{currency} Hợp đồng minh hai kích thước mã",
     "old_bets_tip": " Cược nhanh không được chấp nhận cho trò chơi này",
     "select_bets_currency": "Đang lựa chọn đặc cược",
     "max_bets_amount": "cá độ đã tiến hành",
     "not_bets_tip1": "Tùy chọn này đang trong khối xác nhận chuỗi,sau một thời gian hãy chú ý đến tình trạng cá cược",
     "not_bets_tip2": "Xin lỗi, tùy chọn này không có sẵn cho cá cược trong loại tiền tệ này",
-    "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược."
+    "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược.",
+    "copy_address": "复制",
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
@@ -110,12 +122,14 @@
     "detail_forecast_notice": "禁止從交易所直接提幣至預測位址,請使用官方或私人錢包充值{currency}到預測地址. 建議將Gas Limit設置為150,000以確保{currency}能成功轉幣到預測地址。禁止向{currency}智能合約位址充值除{currency}之外的資產，任何充入{currency}位址的非{currency}資產將不可找回。",
     "detail_forecast_all": "最小單筆預測金額：{amount}{currency}",
     "detail_forecast_copied": "已複製",
-    "detail_game_qrcode_tip": "智能合約二維碼",
+    "detail_game_qrcode_tip": "{currency} 智能合約二維碼",
     "old_bets_tip": "本場比賽不接受快速下註",
     "select_bets_currency": "选择投注币种",
     "max_bets_amount": "下注上限",
     "not_bets_tip1": "該選項正在區塊鏈確認中,請稍後關注可下注狀態",
     "not_bets_tip2": "非常抱歉，該選項無法用該幣種下注",
-    "not_bets_tip3": "非常抱歉，該幣種預測已封盤，無法下注"
+    "not_bets_tip3": "非常抱歉，該幣種預測已封盤，無法下注",
+    "copy_address": "复制",
+    "copy_address_tip": "您当前所复制的地址为{currency}下注地址"
   }
 }
