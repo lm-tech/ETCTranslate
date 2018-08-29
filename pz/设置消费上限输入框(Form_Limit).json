@@ -1,0 +1,37 @@
+{
+  "zh": {
+    "set_limit_input_title": "Setting your spending amout for one natural day",
+    "set_limit_btn_cancel": "取消",
+    "set_limit_btn_save": "保存"
+  },
+  "en": {
+    "set_limit_input_title": "Setting your spending amout for one natural day",
+    "set_limit_btn_cancel": "取消",
+    "set_limit_btn_save": "保存"
+  },
+  "ko": {
+    "set_limit_input_title": "Setting your spending amout for one natural day",
+    "set_limit_btn_cancel": "取消",
+    "set_limit_btn_save": "保存"
+  },
+  "ja": {
+    "set_limit_input_title": "Setting your spending amout for one natural day",
+    "set_limit_btn_cancel": "取消",
+    "set_limit_btn_save": "保存"
+  },
+  "ru": {
+    "set_limit_input_title": "Setting your spending amout for one natural day",
+    "set_limit_btn_cancel": "取消",
+    "set_limit_btn_save": "保存"
+  },
+  "vi": {
+    "set_limit_input_title": "Setting your spending amout for one natural day",
+    "set_limit_btn_cancel": "取消",
+    "set_limit_btn_save": "保存"
+  },
+  "zh-Hant": {
+    "set_limit_input_title": "Setting your spending amout for one natural day",
+    "set_limit_btn_cancel": "取消",
+    "set_limit_btn_save": "保存"
+  }
+}
