@@ -14,7 +14,10 @@
       "ball_over": "高于",
       "ball_under": "低于",
       "err_value_max": "投注金额不能大于{maxAmount}",
-      "detail_bet_expired_noNumber": "请输入投注金额"
+      "detail_bet_expired_noNumber": "请输入投注金额",
+      "bet_success": "投注成功",
+      "bet_failed": "投注失败",
+      "bet_number": "条"
     },
     "en": {
       "bet_slip_title": "投注单",
@@ -31,7 +34,10 @@
       "ball_over": "高于",
       "ball_under": "低于",
       "err_value_max": "投注金额不能大于{maxAmount}",
-      "detail_bet_expired_noNumber": "请输入投注金额"
+      "detail_bet_expired_noNumber": "请输入投注金额",
+      "bet_success": "投注成功",
+      "bet_failed": "投注失败",
+      "bet_number": "条"
     },
     "ja": {
       "bet_slip_title": "投注单",
@@ -48,7 +54,10 @@
       "ball_over": "高于",
       "ball_under": "低于",
       "err_value_max": "投注金额不能大于{maxAmount}",
-      "detail_bet_expired_noNumber": "请输入投注金额"
+      "detail_bet_expired_noNumber": "请输入投注金额",
+      "bet_success": "投注成功",
+      "bet_failed": "投注失败",
+      "bet_number": "条"
     },
     "ko": {
       "bet_slip_title": "投注单",
@@ -65,7 +74,10 @@
       "ball_over": "高于",
       "ball_under": "低于",
       "err_value_max": "投注金额不能大于{maxAmount}",
-      "detail_bet_expired_noNumber": "请输入投注金额"
+      "detail_bet_expired_noNumber": "请输入投注金额",
+      "bet_success": "投注成功",
+      "bet_failed": "投注失败",
+      "bet_number": "条"
     },
     "ru": {
       "bet_slip_title": "投注单",
@@ -82,7 +94,10 @@
       "ball_over": "高于",
       "ball_under": "低于",
       "err_value_max": "投注金额不能大于{maxAmount}",
-      "detail_bet_expired_noNumber": "请输入投注金额"
+      "detail_bet_expired_noNumber": "请输入投注金额",
+      "bet_success": "投注成功",
+      "bet_failed": "投注失败",
+      "bet_number": "条"
     },
     "vi": {
       "bet_slip_title": "投注单",
@@ -99,7 +114,10 @@
       "ball_over": "高于",
       "ball_under": "低于",
       "err_value_max": "投注金额不能大于{maxAmount}",
-      "detail_bet_expired_noNumber": "请输入投注金额"
+      "detail_bet_expired_noNumber": "请输入投注金额",
+      "bet_success": "投注成功",
+      "bet_failed": "投注失败",
+      "bet_number": "条"
     },
     "zh-Hant": {
       "bet_slip_title": "投注單",
@@ -116,7 +134,10 @@
       "ball_over": "高於",
       "ball_under": "低於",
       "err_value_max": "投注金额不能大于{maxAmount}",
-      "detail_bet_expired_noNumber": "请输入投注金额"
+      "detail_bet_expired_noNumber": "请输入投注金额",
+      "bet_success": "投注成功",
+      "bet_failed": "投注失败",
+      "bet_number": "条"
     }
   }
   
