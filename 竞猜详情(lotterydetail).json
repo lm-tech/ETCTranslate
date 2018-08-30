@@ -97,8 +97,8 @@
     "detail_game_type_info_matchwinner": "Predict the result of a competition between two teams",
     "detail_game_type_title_win_draw_lose": "1X2",
     "detail_game_type_info_win_draw_lose": "Predict the result of a competition between two teams",
-    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
-    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
+    "no_data1": "Sorry, this prediction currently does not support the selected ({currency}), please switch to the right currency for prediction",
+    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait"
   },
   "ja": {
     "detal_header_opening": "進行中",
