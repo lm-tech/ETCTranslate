@@ -101,8 +101,8 @@
     "detail_game_today_closed": "ベッティングが今日中に終了",
     "detail_game_yestoday_closed": "ベッティングが昨日で終了",
     "detail_game_quote_change": "増減幅",
-    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
-    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
+    "no_data1": "申し訳ございませんが、ただいま選んでいただきコイン({currency})でこのベッティングに参加できませんので、サポートされるコインに変更してください",
+    "no_data2": "申し訳ございませんが、選んでいただきコイン({currency})で参加できるベッティングがアップロードされているところで、少々お待ちください"
   },
   "ko": {
     "detal_header_opening": "진행중",
@@ -136,8 +136,8 @@
     "detail_game_today_closed": "금일개장",
     "detail_game_yestoday_closed": "전일개장",
     "detail_game_quote_change": "승락폭",
-    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
-    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
+    "no_data1": "죄송합니다, 해당 코인 ({currency})으로  베팅은 기획 중이어서 코인 종류를 변경 후 베팅을 진행하세요./죄송합니다, 해당 코인 ",
+    "no_data2": "({currency})의 예측은 체인에 업로드 중이어서 잠시만 기다려주세요."
   },
   "ru": {
     "detal_header_opening": "В обработке",
@@ -171,8 +171,8 @@
     "detail_game_today_closed": "Открывающийся сегодня",
     "detail_game_yestoday_closed": "Открывающийся  вчера",
     "detail_game_quote_change": "Увеличение или уменьшение",
-    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
-    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
+    "no_data1": "Sorry, this prediction currently does not support the selected ({currency}), please switch to the right currency for prediction",
+    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait"
   },
   "vi": {
     "detal_header_opening": "Đang tiến hành",
@@ -206,8 +206,8 @@
     "detail_game_today_closed": "mở bàn hôm nay",
     "detail_game_yestoday_closed": "mở bàn hôm qua",
     "detail_game_quote_change": " tăng giá tranh",
-    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
-    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
+    "no_data1": "Sorry, this prediction currently does not support the selected ({currency}), please switch to the right currency for prediction",
+    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait"
   },
   "zh-Hant": {
     "detal_header_opening": "進行中",
@@ -241,7 +241,7 @@
     "detail_game_today_closed": "今天開盤",
     "detail_game_yestoday_closed": "昨日開盤",
     "detail_game_quote_change": "漲跌幅",
-    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
-    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
+    "no_data1": "非常抱歉，該競猜暫不支持用所選幣種({currency})下注，請您切換支持幣種後進行下注",
+    "no_data2": "非常抱歉，所選幣種({currency})的競猜正在上鏈中，請您等待"
   }
 }
