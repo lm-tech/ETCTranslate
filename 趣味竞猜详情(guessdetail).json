@@ -1,4 +1,4 @@
-﻿{
+{
   "zh": {
     "detal_header_opening": "进行中",
     "detal_header_closed": "已截止",
@@ -30,7 +30,9 @@
     "detail_game_stop_bet": "下注即将截止",
     "detail_game_today_closed": "今天开盘",
     "detail_game_yestoday_closed": "昨日开盘",
-    "detail_game_quote_change": "涨跌幅"
+    "detail_game_quote_change": "涨跌幅",
+    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
+    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
   },
   "en": {
     "detal_header_opening": "Available now",
@@ -60,10 +62,12 @@
     "detail_guess_radio": "Approval rate:",
     "detail_game_fun_guess": "Prediction",
     "detail_game_max_ammount": "Total cap size",
-    "detail_game_stop_bet": "Orders will be closed soon.",
+    "detail_game_stop_bet": "Orders will be closed soon",
     "detail_game_today_closed": "Open Price Today",
     "detail_game_yestoday_closed": "Open Price Last Day",
-    "detail_game_quote_change": "Percentage Change"
+    "detail_game_quote_change": "Percentage Change",
+    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
+    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
   },
   "ja": {
     "detal_header_opening": "進行中",
@@ -96,7 +100,9 @@
     "detail_game_stop_bet": "間もなくベッティングを締め切ります",
     "detail_game_today_closed": "ベッティングが今日中に終了",
     "detail_game_yestoday_closed": "ベッティングが昨日で終了",
-    "detail_game_quote_change": "増減幅"
+    "detail_game_quote_change": "増減幅",
+    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
+    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
   },
   "ko": {
     "detal_header_opening": "진행중",
@@ -129,7 +135,9 @@
     "detail_game_stop_bet": "배팅 마감 예정",
     "detail_game_today_closed": "금일개장",
     "detail_game_yestoday_closed": "전일개장",
-    "detail_game_quote_change": "승락폭"
+    "detail_game_quote_change": "승락폭",
+    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
+    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
   },
   "ru": {
     "detal_header_opening": "В обработке",
@@ -162,7 +170,9 @@
     "detail_game_stop_bet": "Ставка будет остановлена",
     "detail_game_today_closed": "Открывающийся сегодня",
     "detail_game_yestoday_closed": "Открывающийся  вчера",
-    "detail_game_quote_change": "Увеличение или уменьшение"
+    "detail_game_quote_change": "Увеличение или уменьшение",
+    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
+    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
   },
   "vi": {
     "detal_header_opening": "Đang tiến hành",
@@ -195,7 +205,9 @@
     "detail_game_stop_bet": "Đặc cược sắp hết hạn",
     "detail_game_today_closed": "mở bàn hôm nay",
     "detail_game_yestoday_closed": "mở bàn hôm qua",
-    "detail_game_quote_change": " tăng giá tranh"
+    "detail_game_quote_change": " tăng giá tranh",
+    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
+    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
   },
   "zh-Hant": {
     "detal_header_opening": "進行中",
@@ -228,6 +240,8 @@
     "detail_game_stop_bet": "下注即將截止",
     "detail_game_today_closed": "今天開盤",
     "detail_game_yestoday_closed": "昨日開盤",
-    "detail_game_quote_change": "漲跌幅"
+    "detail_game_quote_change": "漲跌幅",
+    "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
+    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
   }
 }
