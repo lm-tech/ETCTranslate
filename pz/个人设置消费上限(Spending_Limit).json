@@ -1,0 +1,86 @@
+{
+  "zh": {
+    "spending_limit_header_title": "Spending limit function is designed to help you stay in complete budgetary control of how much you are spending on gambling.",
+    "spending_limit_current_set": "当前设置",
+    "spending_limit_no_set": "暂无",
+    "spending_limit_daily": "Daily Limit",
+    "spending_limit_weekly": "Weekly Limit",
+    "spending_limit_monthly": "Monthly Limiit",
+    "spending_limit_yearly": "Yearly Limit",
+    "spending_limit_delete": "删除",
+    "spending_limit_modify": "修改",
+    "spending_limit_input_error": "请输入大于0的整数"
+  },
+  "en": {
+    "spending_limit_header_title": "Spending limit function is designed to help you stay in complete budgetary control of how much you are spending on gambling.",
+    "spending_limit_current_set": "当前设置",
+    "spending_limit_no_set": "暂无",
+    "spending_limit_daily": "Daily Limit",
+    "spending_limit_weekly": "Weekly Limit",
+    "spending_limit_monthly": "Monthly Limiit",
+    "spending_limit_yearly": "Yearly Limit",
+    "spending_limit_delete": "删除",
+    "spending_limit_modify": "修改",
+    "spending_limit_input_error": "请输入大于0的整数"
+  },
+  "ja": {
+    "spending_limit_header_title": "Spending limit function is designed to help you stay in complete budgetary control of how much you are spending on gambling.",
+    "spending_limit_current_set": "当前设置",
+    "spending_limit_no_set": "暂无",
+    "spending_limit_daily": "Daily Limit",
+    "spending_limit_weekly": "Weekly Limit",
+    "spending_limit_monthly": "Monthly Limiit",
+    "spending_limit_yearly": "Yearly Limit",
+    "spending_limit_delete": "删除",
+    "spending_limit_modify": "修改",
+    "spending_limit_input_error": "请输入大于0的整数"
+  },
+  "ko": {
+    "spending_limit_header_title": "Spending limit function is designed to help you stay in complete budgetary control of how much you are spending on gambling.",
+    "spending_limit_current_set": "当前设置",
+    "spending_limit_no_set": "暂无",
+    "spending_limit_daily": "Daily Limit",
+    "spending_limit_weekly": "Weekly Limit",
+    "spending_limit_monthly": "Monthly Limiit",
+    "spending_limit_yearly": "Yearly Limit",
+    "spending_limit_delete": "删除",
+    "spending_limit_modify": "修改",
+    "spending_limit_input_error": "请输入大于0的整数"
+  },
+  "ru": {
+    "spending_limit_header_title": "Spending limit function is designed to help you stay in complete budgetary control of how much you are spending on gambling.",
+    "spending_limit_current_set": "当前设置",
+    "spending_limit_no_set": "暂无",
+    "spending_limit_daily": "Daily Limit",
+    "spending_limit_weekly": "Weekly Limit",
+    "spending_limit_monthly": "Monthly Limiit",
+    "spending_limit_yearly": "Yearly Limit",
+    "spending_limit_delete": "删除",
+    "spending_limit_modify": "修改",
+    "spending_limit_input_error": "请输入大于0的整数"
+  },
+  "vi": {
+    "spending_limit_header_title": "Spending limit function is designed to help you stay in complete budgetary control of how much you are spending on gambling.",
+    "spending_limit_current_set": "当前设置",
+    "spending_limit_no_set": "暂无",
+    "spending_limit_daily": "Daily Limit",
+    "spending_limit_weekly": "Weekly Limit",
+    "spending_limit_monthly": "Monthly Limiit",
+    "spending_limit_yearly": "Yearly Limit",
+    "spending_limit_delete": "删除",
+    "spending_limit_modify": "修改",
+    "spending_limit_input_error": "请输入大于0的整数"
+  },
+  "zh-Hant": {
+    "spending_limit_header_title": "Spending limit function is designed to help you stay in complete budgetary control of how much you are spending on gambling.",
+    "spending_limit_current_set": "当前设置",
+    "spending_limit_no_set": "暂无",
+    "spending_limit_daily": "Daily Limit",
+    "spending_limit_weekly": "Weekly Limit",
+    "spending_limit_monthly": "Monthly Limiit",
+    "spending_limit_yearly": "Yearly Limit",
+    "spending_limit_delete": "删除",
+    "spending_limit_modify": "修改",
+    "spending_limit_input_error": "请输入大于0的整数"
+  }
+}
