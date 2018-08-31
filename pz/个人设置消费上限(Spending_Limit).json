@@ -13,15 +13,15 @@
   },
   "en": {
     "spending_limit_header_title": "Spending limit function is designed to help you stay in complete budgetary control of how much you are spending on gambling.",
-    "spending_limit_current_set": "当前设置",
-    "spending_limit_no_set": "暂无",
+    "spending_limit_current_set": "Current setting",
+    "spending_limit_no_set": "Currently no setting",
     "spending_limit_daily": "Daily Limit",
     "spending_limit_weekly": "Weekly Limit",
     "spending_limit_monthly": "Monthly Limiit",
     "spending_limit_yearly": "Yearly Limit",
-    "spending_limit_delete": "删除",
-    "spending_limit_modify": "修改",
-    "spending_limit_input_error": "请输入大于0的整数"
+    "spending_limit_delete": "Delete",
+    "spending_limit_modify": "Amend",
+    "spending_limit_input_error": "Please enter an integer greater than 0"
   },
   "ja": {
     "spending_limit_header_title": "Spending limit function is designed to help you stay in complete budgetary control of how much you are spending on gambling.",
