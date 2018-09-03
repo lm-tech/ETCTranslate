@@ -1,0 +1,58 @@
+{
+  "zh": {
+    "usercenter_assets_center": "资产中心",
+    "usercenter_forecast_record": "预测记录",
+    "usercenter_account_center": "账户管理",
+    "usercenter_message_center": "消息中心",
+    "usercenter_log_out": "退出登录",
+    "usercenter_avalible_currency": "可用资产："
+  },
+  "en": {
+    "usercenter_assets_center": "资产中心",
+    "usercenter_forecast_record": "预测记录",
+    "usercenter_account_center": "账户管理",
+    "usercenter_message_center": "消息中心",
+    "usercenter_log_out": "退出登录",
+    "usercenter_avalible_currency": "可用资产："
+  },
+  "ja": {
+    "usercenter_assets_center": "资产中心",
+    "usercenter_forecast_record": "预测记录",
+    "usercenter_account_center": "账户管理",
+    "usercenter_message_center": "消息中心",
+    "usercenter_log_out": "退出登录",
+    "usercenter_avalible_currency": "可用资产："
+  },
+  "ko": {
+    "usercenter_assets_center": "资产中心",
+    "usercenter_forecast_record": "预测记录",
+    "usercenter_account_center": "账户管理",
+    "usercenter_message_center": "消息中心",
+    "usercenter_log_out": "退出登录",
+    "usercenter_avalible_currency": "可用资产："
+  },
+  "ru": {
+    "usercenter_assets_center": "资产中心",
+    "usercenter_forecast_record": "预测记录",
+    "usercenter_account_center": "账户管理",
+    "usercenter_message_center": "消息中心",
+    "usercenter_log_out": "退出登录",
+    "usercenter_avalible_currency": "可用资产："
+  },
+  "vi": {
+    "usercenter_assets_center": "资产中心",
+    "usercenter_forecast_record": "预测记录",
+    "usercenter_account_center": "账户管理",
+    "usercenter_message_center": "消息中心",
+    "usercenter_log_out": "退出登录",
+    "usercenter_avalible_currency": "可用资产："
+  },
+  "zh-Hant": {
+    "usercenter_assets_center": "资产中心",
+    "usercenter_forecast_record": "预测记录",
+    "usercenter_account_center": "账户管理",
+    "usercenter_message_center": "消息中心",
+    "usercenter_log_out": "退出登录",
+    "usercenter_avalible_currency": "可用资产："
+  }
+}
