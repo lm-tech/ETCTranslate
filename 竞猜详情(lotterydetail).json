@@ -49,7 +49,9 @@
     "detail_game_type_title_win_draw_lose": "胜平负",
     "detail_game_type_info_win_draw_lose": "竞猜两队在本局的比赛结果",
     "no_data1": "非常抱歉，该竞猜暂不支持用所选币种({currency})下注，请您切换支持币种后进行下注",
-    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待"
+    "no_data2": "非常抱歉，所选币种({currency})的竞猜正在上链中，请您等待",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "en": {
     "detal_header_opening": "Available now",
@@ -98,7 +100,9 @@
     "detail_game_type_title_win_draw_lose": "1X2",
     "detail_game_type_info_win_draw_lose": "Predict the result of a competition between two teams",
     "no_data1": "Sorry, this prediction currently does not support the selected ({currency}), please switch to the right currency for prediction",
-    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait"
+    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "ja": {
     "detal_header_opening": "進行中",
@@ -147,7 +151,9 @@
     "detail_game_type_title_win_draw_lose": "勝ち/引き分け/負けを予想する",
     "detail_game_type_info_win_draw_lose": "この試合の結果をベッティング",
     "no_data1": "申し訳ございませんが、ただいま選んでいただきコイン({currency})でこのベッティングに参加できませんので、サポートされるコインに変更してください",
-    "no_data2": "申し訳ございませんが、選んでいただきコイン({currency})で参加できるベッティングがアップロードされているところで、少々お待ちください"
+    "no_data2": "申し訳ございませんが、選んでいただきコイン({currency})で参加できるベッティングがアップロードされているところで、少々お待ちください",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "ko": {
     "detal_header_opening": "진행중",
@@ -196,7 +202,9 @@
     "detail_game_type_title_win_draw_lose": "승무패",
     "detail_game_type_info_win_draw_lose": "이 라운드에서 두 팀의 결과를 예측한다",
     "no_data1": "죄송합니다, 해당 코인 ({currency})으로  베팅은 기획 중이어서 코인 종류를 변경 후 베팅을 진행하세요./죄송합니다, 해당 코인 ",
-    "no_data2": "({currency})의 예측은 체인에 업로드 중이어서 잠시만 기다려주세요."
+    "no_data2": "({currency})의 예측은 체인에 업로드 중이어서 잠시만 기다려주세요.",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "ru": {
     "detal_header_opening": "В обработке",
@@ -245,7 +253,9 @@
     "detail_game_type_title_win_draw_lose": "1X2",
     "detail_game_type_info_win_draw_lose": "предсказать результат соревнования между двумя командами",
     "no_data1": "Sorry, this prediction currently does not support the selected ({currency}), please switch to the right currency for prediction",
-    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait"
+    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "vi": {
     "detal_header_opening": "Đang tiến hành",
@@ -297,7 +307,9 @@
     "detail_game_type_title_win_draw_lose": "Giành chiến thắng phẳng",
     "detail_game_type_info_win_draw_lose": "Dự đoán kết quả của một cuộc thi giữa hai đội",
     "no_data1": "Sorry, this prediction currently does not support the selected ({currency}), please switch to the right currency for prediction",
-    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait"
+    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   },
   "zh-Hant": {
     "detal_header_opening": "進行中",
@@ -349,6 +361,8 @@
     "detail_game_type_title_win_draw_lose": "勝平負",
     "detail_game_type_info_win_draw_lose": "競猜兩隊在本輪比賽的結果",
     "no_data1": "非常抱歉，該競猜暫不支持用所選幣種({currency})下注，請您切換支持幣種後進行下注",
-    "no_data2": "非常抱歉，所選幣種({currency})的競猜正在上鏈中，請您等待"
+    "no_data2": "非常抱歉，所選幣種({currency})的競猜正在上鏈中，請您等待",
+    "detail_esports_win": "谁将赢得此系列赛事胜利？",
+    "detail_guess": "猜输赢"
   }
 }
