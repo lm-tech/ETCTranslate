@@ -8,8 +8,8 @@
       "detail_bet_expired": "投注单已满"
     },
     "ja": {
-      "detail_time_left": "残り時間:",
-      "detail_bet_expired": "マキシマムオーダーに達しました"
+      "detail_time_left": "残り時間：",
+      "detail_bet_expired": "マキシマムオーダーに達しました。"
     },
     "ko": {
       "detail_time_left": "剩余时间:",
