@@ -4,8 +4,8 @@
     "time_end": "结束时间"
   },
   "en": {
-    "time_start": "开始时间",
-    "time_end": "结束时间"
+    "time_start": "Start time",
+    "time_end": "End time"
   },
   "ko": {
     "time_start": "开始时间",
