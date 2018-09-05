@@ -13,9 +13,9 @@
     "deposit_address_focus_one": "Please note: Depositing non-{currency} assets to {currency} address is prohibited and any deposited assets are irretrievable",
     "deposit_qrcode": "Deposit QR code",
     "detail_forecast_copied": "Copied",
-    "forecast_record_title": "提币记录",
-    "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自定义"
+    "forecast_record_title": "Withdrawal History",
+    "forecast_record_recent_30_day": "Recent 30 days",
+    "forecast_record_custom": "Custom"
   },
   "ko": {
     "deposit_address_title": "코인 입금 주소：",
