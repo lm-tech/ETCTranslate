@@ -22,9 +22,9 @@
     "deposit_address_focus_one": " 주의사항: {currency}의 주소로 {currency}가 아닌 기타 코인을 입금할 시, 환불이 되지 않는 점 유의바랍니다. ",
     "deposit_qrcode": "충전 QR코드",
     "detail_forecast_copied": "복사됨",
-    "forecast_record_title": "提币记录",
-    "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自定义"
+    "forecast_record_title": "코인출금기록",
+    "forecast_record_recent_30_day": "최근30일",
+    "forecast_record_custom": "자체 정의"
   },
   "ja": {
     "deposit_address_title": "ウオレットアドレス：",
