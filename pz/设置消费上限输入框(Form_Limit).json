@@ -6,8 +6,8 @@
   },
   "en": {
     "set_limit_input_title": "Setting your spending amout for one natural day",
-    "set_limit_btn_cancel": "取消",
-    "set_limit_btn_save": "保存"
+    "set_limit_btn_cancel": "Cancel",
+    "set_limit_btn_save": "Save"
   },
   "ko": {
     "set_limit_input_title": "Setting your spending amout for one natural day",
