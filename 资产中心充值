@@ -25,9 +25,9 @@
     "copy_address_tip2": "deposit address",
     "copy_address_tip3": "depositing non-{currency} assets to an {currency} address is prohibited and any deposited assets will be irretrievable",
     "i_konw": "I know",
-    "forecast_record_title": "充值记录",
-    "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自定义"
+    "forecast_record_title": "Deposit History",
+    "forecast_record_recent_30_day": "Recent 30 days",
+    "forecast_record_custom": "Custom"
   },
   "ko": {
     "deposit_address_title": "{currency}코인 입금 주소：",
