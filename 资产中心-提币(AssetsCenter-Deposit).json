@@ -29,11 +29,11 @@
   "ja": {
     "deposit_address_title": "ウオレットアドレス：",
     "deposit_address_focus_one": "注意：{currency}以外の資産を{currency}アドレスにチャージすることは禁じられています。チャージされた{currency}以外の資産は回収できません。",
-    "deposit_qrcode": "チャージ・QRコード 스마트 컨트렉트 QR코드",
+    "deposit_qrcode": "チャージ・QRコード",
     "detail_forecast_copied": "コピー完了",
-    "forecast_record_title": "提币记录",
-    "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自定义"
+    "forecast_record_title": "出金記録",
+    "forecast_record_recent_30_day": "過去30日",
+    "forecast_record_custom": "カスタムインストール"
   },
   "ru": {
     "deposit_address_title": "Адрес перезарядки：",
