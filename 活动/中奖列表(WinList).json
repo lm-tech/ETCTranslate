@@ -1,0 +1,30 @@
+{
+  "zh": {
+    "win_user": "获奖用户",
+    "win_amount": "获奖金额"
+  },
+  "en": {
+    "win_user": "获奖用户",
+    "win_amount": "获奖金额"
+  },
+  "ko": {
+    "win_user": "获奖用户",
+    "win_amount": "获奖金额"
+  },
+  "ja": {
+    "win_user": "获奖用户",
+    "win_amount": "获奖金额"
+  },
+  "ru": {
+    "win_user": "获奖用户",
+    "win_amount": "获奖金额"
+  },
+  "vi": {
+    "win_user": "获奖用户",
+    "win_amount": "获奖金额"
+  },
+  "zh-Hant": {
+    "win_user": "获奖用户",
+    "win_amount": "获奖金额"
+  }
+}
