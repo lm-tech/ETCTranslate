@@ -16,12 +16,12 @@
     "usercenter_avalible_currency": "Available Assets: "
   },
   "ja": {
-    "usercenter_assets_center": "资产中心",
-    "usercenter_forecast_record": "预测记录",
-    "usercenter_account_center": "账户管理",
-    "usercenter_message_center": "消息中心",
-    "usercenter_log_out": "退出登录",
-    "usercenter_avalible_currency": "可用资产："
+    "usercenter_assets_center": "資産センター",
+    "usercenter_forecast_record": "ベッティング記録",
+    "usercenter_account_center": "アカウント管理",
+    "usercenter_message_center": "メッセージセンター",
+    "usercenter_log_out": "ログアウト",
+    "usercenter_avalible_currency": "可用資産："
   },
   "ko": {
     "usercenter_assets_center": "资产中心",
