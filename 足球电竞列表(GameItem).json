@@ -12,8 +12,8 @@
       "detail_bet_expired": "マキシマムオーダーに達しました"
     },
     "ko": {
-      "detail_time_left": "剩余时间:",
-      "detail_bet_expired": "投注单已满"
+      "detail_time_left": "남은 시간:",
+      "detail_bet_expired": "베팅 오더 최대치에 도달하였습니다"
     },
     "ru": {
       "detail_time_left": "剩余时间:",
