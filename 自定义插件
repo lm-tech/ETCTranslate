@@ -8,23 +8,23 @@
     "time_end": "结束时间"
   },
   "ko": {
+    "time_start": "시작 시간",
+    "time_end": "마감 시간"
+  },
+  "ja": {
     "time_start": "开始时间",
     "time_end": "结束时间"
   },
-  "ja": {
-    "time_start": "開始時間",
-    "time_end": "終了時間"
-  },
   "ru": {
-    "time_start": "Start time",
-    "time_end": "End time"
+    "time_start": "开始时间",
+    "time_end": "结束时间"
   },
   "vi": {
-    "time_start": "Start time",
-    "time_end": "End time"
+    "time_start": "开始时间",
+    "time_end": "结束时间"
   },
   "zh-Hant": {
-    "time_start": "開始時間",
-    "time_end": "結束時間"
+    "time_start": "开始时间",
+    "time_end": "结束时间"
   }
 }
