@@ -10,9 +10,9 @@
     "forecast_record_custom": "Custom"
   },
   "ja": {
-    "forecast_record_title": "预测记录",
-    "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自定义"
+    "forecast_record_title": "ベッティング記録",
+    "forecast_record_recent_30_day": "過去30日",
+    "forecast_record_custom": "カスタムインストール"
   },
   "ko": {
     "forecast_record_title": "예측기록",
