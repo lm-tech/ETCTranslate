@@ -11,62 +11,62 @@
   },
   "en": {
     "activity_register_title": "活动规则：",
-    "activity_register_content_one": "1. 活动时间：（待定）",
-    "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
-    "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
-    "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
-    "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
-    "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_deposit_content_one": "1. 活动时间：（待定）",
+    "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
+    "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
+    "activity_deposit_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
+    "activity_deposit_content_five": "5. 根据用户首充及完成投注额的比例进行返奖，具体返奖比例如下：",
+    "activity_deposit_content_six": "6. 活动结束后，投注额未达到首充额的用户获得投注额1%的奖励，投注额小于0.3ETH的无法获得奖励；",
+    "activity_deposit_content_seven": "7. 系统将在活动结束1小时后，对未领取奖励的用户逐一发奖。"
   },
   "ko": {
     "activity_register_title": "活动规则：",
-    "activity_register_content_one": "1. 活动时间：（待定）",
-    "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
-    "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
-    "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
-    "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
-    "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_deposit_content_one": "1. 活动时间：（待定）",
+    "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
+    "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
+    "activity_deposit_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
+    "activity_deposit_content_five": "5. 根据用户首充及完成投注额的比例进行返奖，具体返奖比例如下：",
+    "activity_deposit_content_six": "6. 活动结束后，投注额未达到首充额的用户获得投注额1%的奖励，投注额小于0.3ETH的无法获得奖励；",
+    "activity_deposit_content_seven": "7. 系统将在活动结束1小时后，对未领取奖励的用户逐一发奖。"
   },
   "ja": {
     "activity_register_title": "活动规则：",
-    "activity_register_content_one": "1. 活动时间：（待定）",
-    "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
-    "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
-    "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
-    "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
-    "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_deposit_content_one": "1. 活动时间：（待定）",
+    "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
+    "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
+    "activity_deposit_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
+    "activity_deposit_content_five": "5. 根据用户首充及完成投注额的比例进行返奖，具体返奖比例如下：",
+    "activity_deposit_content_six": "6. 活动结束后，投注额未达到首充额的用户获得投注额1%的奖励，投注额小于0.3ETH的无法获得奖励；",
+    "activity_deposit_content_seven": "7. 系统将在活动结束1小时后，对未领取奖励的用户逐一发奖。"
   },
   "ru": {
     "activity_register_title": "活动规则：",
-    "activity_register_content_one": "1. 活动时间：（待定）",
-    "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
-    "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
-    "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
-    "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
-    "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_deposit_content_one": "1. 活动时间：（待定）",
+    "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
+    "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
+    "activity_deposit_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
+    "activity_deposit_content_five": "5. 根据用户首充及完成投注额的比例进行返奖，具体返奖比例如下：",
+    "activity_deposit_content_six": "6. 活动结束后，投注额未达到首充额的用户获得投注额1%的奖励，投注额小于0.3ETH的无法获得奖励；",
+    "activity_deposit_content_seven": "7. 系统将在活动结束1小时后，对未领取奖励的用户逐一发奖。"
   },
   "vi": {
     "activity_register_title": "活动规则：",
-    "activity_register_content_one": "1. 活动时间：（待定）",
-    "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
-    "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
-    "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
-    "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
-    "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_deposit_content_one": "1. 活动时间：（待定）",
+    "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
+    "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
+    "activity_deposit_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
+    "activity_deposit_content_five": "5. 根据用户首充及完成投注额的比例进行返奖，具体返奖比例如下：",
+    "activity_deposit_content_six": "6. 活动结束后，投注额未达到首充额的用户获得投注额1%的奖励，投注额小于0.3ETH的无法获得奖励；",
+    "activity_deposit_content_seven": "7. 系统将在活动结束1小时后，对未领取奖励的用户逐一发奖。"
   },
   "zh-Hant": {
     "activity_register_title": "活动规则：",
-    "activity_register_content_one": "1. 活动时间：（待定）",
-    "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
-    "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
-    "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
-    "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
-    "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_deposit_content_one": "1. 活动时间：（待定）",
+    "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
+    "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
+    "activity_deposit_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
+    "activity_deposit_content_five": "5. 根据用户首充及完成投注额的比例进行返奖，具体返奖比例如下：",
+    "activity_deposit_content_six": "6. 活动结束后，投注额未达到首充额的用户获得投注额1%的奖励，投注额小于0.3ETH的无法获得奖励；",
+    "activity_deposit_content_seven": "7. 系统将在活动结束1小时后，对未领取奖励的用户逐一发奖。"
   }
 }
