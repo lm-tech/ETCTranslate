@@ -8,8 +8,8 @@
       "detail_bet_expired": "Reached the prediction slip limit"
     },
     "ja": {
-      "detail_time_left": "残り時間:",
-      "detail_bet_expired": "マキシマムオーダーに達しました"
+      "detail_time_left": "残り時間：",
+      "detail_bet_expired": "マキシマムオーダーに達しました。"
     },
     "ko": {
       "detail_time_left": "남은 시간:",
