@@ -12,16 +12,16 @@
     "time_end": "마감 시간"
   },
   "ja": {
-    "time_start": "开始时间",
-    "time_end": "结束时间"
+    "time_start": "開始時間",
+    "time_end": "終了時間"
   },
   "ru": {
-    "time_start": "开始时间",
-    "time_end": "结束时间"
+    "time_start": "Start time",
+    "time_end": "End time"
   },
   "vi": {
-    "time_start": "开始时间",
-    "time_end": "结束时间"
+    "time_start": "Start time",
+    "time_end": "End time"
   },
   "zh-Hant": {
     "time_start": "开始时间",
