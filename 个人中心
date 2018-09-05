@@ -8,12 +8,12 @@
     "usercenter_avalible_currency": "可用资产："
   },
   "en": {
-    "usercenter_assets_center": "资产中心",
-    "usercenter_forecast_record": "预测记录",
-    "usercenter_account_center": "账户管理",
-    "usercenter_message_center": "消息中心",
-    "usercenter_log_out": "退出登录",
-    "usercenter_avalible_currency": "可用资产："
+    "usercenter_assets_center": "Asset Center",
+    "usercenter_forecast_record": "Prediction History",
+    "usercenter_account_center": "Account Management",
+    "usercenter_message_center": "Message Center",
+    "usercenter_log_out": "Logout",
+    "usercenter_avalible_currency": "Available Assets: "
   },
   "ja": {
     "usercenter_assets_center": "资产中心",
