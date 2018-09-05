@@ -1,0 +1,30 @@
+{
+  "zh": {
+    "time_start": "开始时间",
+    "time_end": "结束时间"
+  },
+  "en": {
+    "time_start": "开始时间",
+    "time_end": "结束时间"
+  },
+  "ko": {
+    "time_start": "开始时间",
+    "time_end": "结束时间"
+  },
+  "ja": {
+    "time_start": "开始时间",
+    "time_end": "结束时间"
+  },
+  "ru": {
+    "time_start": "开始时间",
+    "time_end": "结束时间"
+  },
+  "vi": {
+    "time_start": "开始时间",
+    "time_end": "结束时间"
+  },
+  "zh-Hant": {
+    "time_start": "开始时间",
+    "time_end": "结束时间"
+  }
+}
