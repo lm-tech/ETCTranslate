@@ -70,9 +70,9 @@
     "copy_address_tip2": "deposit address",
     "copy_address_tip3": "Запрещается перезарядка {currency} адреса. За исключением активов, отличных от {currency}, любые не-{currency} активы, возвращенные на адрес {currency}, не будут восстановлены.",
     "i_konw": "I know",
-    "forecast_record_title": "充值记录",
-    "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自定义"
+    "forecast_record_title": "Deposit History",
+    "forecast_record_recent_30_day": "Recent 30 days",
+    "forecast_record_custom": "Custom"
   },
   "vi": {
     "deposit_address_title": "{currency}địa chỉ nạp tiền：",
@@ -85,9 +85,9 @@
     "copy_address_tip2": "deposit address",
     "copy_address_tip3": "Запрещается перезарядка {currency} адреса. За исключением активов, отличных от {currency}, любые не-{currency} активы, возвращенные на адрес {currency}, не будут восстановлены.",
     "i_konw": "I know",
-    "forecast_record_title": "充值记录",
-    "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自定义"
+    "forecast_record_title": "Deposit History",
+    "forecast_record_recent_30_day": "Recent 30 days",
+    "forecast_record_custom": "Custom"
   },
   "zh-Hant": {
     "deposit_address_title": "{currency}充值地址：",
@@ -100,8 +100,8 @@
     "copy_address_tip2": "充值地址",
     "copy_address_tip3": "禁止向{currency}地址充值除{currency}之外的資產，任何充入{currency}地址的非{currency}資產將不可找回。",
     "i_konw": "我知道了",
-    "forecast_record_title": "充值记录",
+    "forecast_record_title": "充值記錄",
     "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自定义"
+    "forecast_record_custom": "自訂"
   }
 }
