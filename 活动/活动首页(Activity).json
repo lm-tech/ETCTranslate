@@ -18,10 +18,10 @@
     "activity_goto_invite": "邀请送"
   },
   "ja": {
-    "activity_goto_home": "返回首页",
-    "activity_goto_register": "注册送",
-    "activity_goto_deposit": "首充送",
-    "activity_goto_invite": "邀请送"
+    "activity_goto_home": "ホームページへ戻る",
+    "activity_goto_register": "登録",
+    "activity_goto_deposit": "チャージ",
+    "activity_goto_invite": "招待コード"
   },
   "ru": {
     "activity_goto_home": "返回首页",
