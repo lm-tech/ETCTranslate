@@ -7,7 +7,8 @@
     "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
     "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
     "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。",
+    "activity_register_top_title": "玩拉霸、抢注册、最大赢499！"
   },
   "en": {
     "activity_register_title": "Activity rules:",
@@ -17,7 +18,8 @@
     "activity_register_content_four": "4. One user one activity; any user with the same IP, MAC, email box will be deemed as the same user;",
     "activity_register_content_five": "5. Only login user will be rewarded immediately; non-registered or non-login user shall be subject to the reward reaching the account upon final registration or login;",
     "activity_register_content_six": "6. There is a situation that a login user can get reward after playing the slots; we suggest such user register or login first before playing slots;",
-    "activity_register_content_seven": "7. Award up to 0.0499ETH, award will be sent to user's platform account, please check it when awarded."
+    "activity_register_content_seven": "7. Award up to 0.0499ETH, award will be sent to user's platform account, please check it when awarded.",
+    "activity_register_top_title": "玩拉霸、抢注册、最大赢499！"
   },
   "ko": {
     "activity_register_title": "이벤트 규칙：",
@@ -27,7 +29,8 @@
     "activity_register_content_four": "4. 유저는 1인당 1회 이벤트 참여가 가능하며, 동일한 IP, MAC, 이메일 주소 사용 시, 동일한 유저로 간주됩니다.",
     "activity_register_content_five": "5. 로그인을 진행한 유저들은 즉시 보상을 받을 수 있으며, 회원가입이나 로그인을 하지 않은 유저는 최종 회원가입, 및 로그인 시 받은 보상을 기준으로 합니다.",
     "activity_register_content_six": "6. 유저가 슬롯에 참여를 하였으나 로그인 후 보상을 받지 못할 경우, 먼저 회원가입이나 로그인을 한 후 슬롯을 하는 것을 추천해 드립니다.",
-    "activity_register_content_seven": "7. 최고 보상은 0.0499ETH이며 유저의 플랫폼 계정으로 입금됩니다. 공지 후 플랫폼 계정에 확인하십시오."
+    "activity_register_content_seven": "7. 최고 보상은 0.0499ETH이며 유저의 플랫폼 계정으로 입금됩니다. 공지 후 플랫폼 계정에 확인하십시오.",
+    "activity_register_top_title": "玩拉霸、抢注册、最大赢499！"
   },
   "ja": {
     "activity_register_title": "イベント・ルール：",
@@ -37,7 +40,8 @@
     "activity_register_content_four": "4. 各ユーザーは1回のみイベントに参加可能で、IP、MAC、メールの同じユーザーは同一ユーザーとみなされる；",
     "activity_register_content_five": "5. ユーザーが登録後すぐ奨励ボーナスがもらえる、まだ新規登録されていないお客様と未登録ユーザーは、新規登録また登録済に最終入金された奨励ボーナスを基準となる；",
     "activity_register_content_six": "6. ユーザーがゲーム完成後ボーナスをもらえない場合は、まず新規登録また登録済でゲームをプレイすることをおすすめする；",
-    "activity_register_content_seven": "7. ボーナスは最大0.0499ETH、ボーナス当選後ユーザーのプラットフォームのアカウントに送らせてもらうのでご確認ください。"
+    "activity_register_content_seven": "7. ボーナスは最大0.0499ETH、ボーナス当選後ユーザーのプラットフォームのアカウントに送らせてもらうのでご確認ください。",
+    "activity_register_top_title": "玩拉霸、抢注册、最大赢499！"
   },
   "ru": {
     "activity_register_title": "活动规则：",
@@ -47,7 +51,8 @@
     "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
     "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
     "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。",
+    "activity_register_top_title": "玩拉霸、抢注册、最大赢499！"
   },
   "vi": {
     "activity_register_title": "活动规则：",
@@ -57,7 +62,8 @@
     "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
     "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
     "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。",
+    "activity_register_top_title": "玩拉霸、抢注册、最大赢499！"
   },
   "zh-Hant": {
     "activity_register_title": "活动规则：",
@@ -67,6 +73,7 @@
     "activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
     "activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
     "activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。"
+    "activity_register_content_seven": "7. 最高奖励0.0499ETH，奖励将发至用户的平台账户中，获奖后请留意平台账户。",
+    "activity_register_top_title": "玩拉霸、抢注册、最大赢499！"
   }
 }
