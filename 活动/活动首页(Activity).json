@@ -6,22 +6,22 @@
     "activity_goto_invite": "邀请送"
   },
   "en": {
-    "activity_goto_home": "Back to homepage",
-    "activity_goto_register": "Registration bonus",
-    "activity_goto_deposit": "First deposit bonus",
-    "activity_goto_invite": "Invitation bonus"
-  },
-  "ko": {
     "activity_goto_home": "返回首页",
     "activity_goto_register": "注册送",
     "activity_goto_deposit": "首充送",
     "activity_goto_invite": "邀请送"
   },
+  "ko": {
+    "activity_goto_home": "홈페이지 돌아가기 ",
+    "activity_goto_register": "회원가입 이벤트",
+    "activity_goto_deposit": "최초 충전 이벤트 ",
+    "activity_goto_invite": "요청 이벤트"
+  },
   "ja": {
-    "activity_goto_home": "ホームページへ戻る",
-    "activity_goto_register": "登録によるボーナス",
-    "activity_goto_deposit": "最初のチャージによるボーナス",
-    "activity_goto_invite": "招待によるボーナス"
+    "activity_goto_home": "返回首页",
+    "activity_goto_register": "注册送",
+    "activity_goto_deposit": "首充送",
+    "activity_goto_invite": "邀请送"
   },
   "ru": {
     "activity_goto_home": "返回首页",
