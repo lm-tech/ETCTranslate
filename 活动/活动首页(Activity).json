@@ -19,9 +19,9 @@
   },
   "ja": {
     "activity_goto_home": "ホームページへ戻る",
-    "activity_goto_register": "登録",
-    "activity_goto_deposit": "チャージ",
-    "activity_goto_invite": "招待コード"
+    "activity_goto_register": "登録によるボーナス",
+    "activity_goto_deposit": "最初のチャージによるボーナス",
+    "activity_goto_invite": "招待によるボーナス"
   },
   "ru": {
     "activity_goto_home": "返回首页",
