@@ -1,0 +1,44 @@
+{
+  "zh": {
+    "activity_goto_home": "返回首页",
+    "activity_goto_register": "注册送",
+    "activity_goto_deposit": "首充送",
+    "activity_goto_invite": "邀请送"
+  },
+  "en": {
+    "activity_goto_home": "返回首页",
+    "activity_goto_register": "注册送",
+    "activity_goto_deposit": "首充送",
+    "activity_goto_invite": "邀请送"
+  },
+  "ko": {
+    "activity_goto_home": "返回首页",
+    "activity_goto_register": "注册送",
+    "activity_goto_deposit": "首充送",
+    "activity_goto_invite": "邀请送"
+  },
+  "ja": {
+    "activity_goto_home": "返回首页",
+    "activity_goto_register": "注册送",
+    "activity_goto_deposit": "首充送",
+    "activity_goto_invite": "邀请送"
+  },
+  "ru": {
+    "activity_goto_home": "返回首页",
+    "activity_goto_register": "注册送",
+    "activity_goto_deposit": "首充送",
+    "activity_goto_invite": "邀请送"
+  },
+  "vi": {
+    "activity_goto_home": "返回首页",
+    "activity_goto_register": "注册送",
+    "activity_goto_deposit": "首充送",
+    "activity_goto_invite": "邀请送"
+  },
+  "zh-Hant": {
+    "activity_goto_home": "返回首页",
+    "activity_goto_register": "注册送",
+    "activity_goto_deposit": "首充送",
+    "activity_goto_invite": "邀请送"
+  }
+}
