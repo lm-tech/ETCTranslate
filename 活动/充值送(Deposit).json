@@ -14,7 +14,7 @@
     "activity_deposit_content_one": "1. Time: (to be determined) ",
     "activity_deposit_content_two": "2. Only valid for first time ETH deposit to the platform within the activity time;",
     "activity_deposit_content_three": "3. Within 14 days after first deposit, the user needs to place the predicting amount equal to the first deposit amount for the reward which can be up to 1000ETH;",
-    "activity_deposit_content_four": "4. One user one participation; any user with IP, MAC and email box will be deemed as the same user;",
+    "activity_deposit_content_four": "4. One user one participation; any user with the same IP, MAC and email box will be deemed as the same user;",
     "activity_deposit_content_five": "5. Reward subject to user first deposit and the placed predicting amount, details are as below:",
     "activity_deposit_content_six": "6. Upon ending of the activity, the user with the predicting amount less than first deposit gets 1% of such predicting amount as the reward; predicting amount less than 0.3ETH will not be rewarded;",
     "activity_deposit_content_seven": "7. Within 1 hours after the activity ends, users not claiming rewards will be rewarded."
