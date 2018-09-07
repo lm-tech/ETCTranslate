@@ -4,8 +4,8 @@
     "win_amount": "获奖金额"
   },
   "en": {
-    "win_user": "获奖用户",
-    "win_amount": "获奖金额"
+    "win_user": "Winning users",
+    "win_amount": "Winnings amount"
   },
   "ko": {
     "win_user": "获奖用户",
