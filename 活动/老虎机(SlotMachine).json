@@ -15,9 +15,9 @@
     "count_down": "本期倒计时"
   },
   "ja": {
-    "current_surplus": "本期剩余",
-    "activity_surplus": "活动剩余",
-    "count_down": "本期倒计时"
+    "current_surplus": "残り賞金",
+    "activity_surplus": "残り賞金",
+    "count_down": "カウントダウン"
   },
   "ru": {
     "current_surplus": "本期剩余",
