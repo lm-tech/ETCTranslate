@@ -10,9 +10,9 @@
     "count_down": "Countdown of the session"
   },
   "ko": {
-    "current_surplus": "本期剩余",
-    "activity_surplus": "活动剩余",
-    "count_down": "本期倒计时"
+    "current_surplus": "이 번회 남은 금액",
+    "activity_surplus": "이벤트 남은 금액",
+    "count_down": "이 번회 남은 시간 "
   },
   "ja": {
     "current_surplus": "残り賞金",
