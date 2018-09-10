@@ -1,6 +1,7 @@
 {
   "zh": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_invite_content_one": "1. 活动时间：（待定）",
     "activity_invite_content_two": "2. 活动持续14天，只要对平台账户有过充值的用户就拥有邀请资格；",
     "activity_invite_content_three": "3. 邀请者可在活动页面右侧查看自己的邀请码，或发送邀请链接给自己的好友注册；",
@@ -20,6 +21,7 @@
   },
   "en": {
     "activity_register_title": "Activity rules: ",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_invite_content_one": "1. Time: (to be determiend)",
     "activity_invite_content_two": "2. 14-day duration, within which user with platform account deposit history has the invitation privilege;",
     "activity_invite_content_three": "3. An inviter can check his invitation code on the right of the acitivity page, or send invitation link to friends for registration;",
@@ -39,6 +41,7 @@
   },
   "ko": {
     "activity_register_title": "이벤트 규칙：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_invite_content_one": "1. 이벤트 시간 : 미정",
     "activity_invite_content_two": "2. 이벤트는 14일간 진행되며 플랫폼 계정에 충전한 모든 유저는 요청 자격이 있습니다. ",
     "activity_invite_content_three": "3. 유저는 이벤트 페이지 오른쪽에서 요청 코드를 확인할 수 있으며 친구에게 링크를 보낼 수 있습니다.",
@@ -58,6 +61,7 @@
   },
   "ja": {
     "activity_register_title": "イベント・ルール：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_invite_content_one": "1. イベント：（時間確認中））",
     "activity_invite_content_two": "2. イベント期間は14日間で、プラットフォームのアカウントへチャージしたユーザーのみ招待権限を持つ；",
     "activity_invite_content_three": "3. 招待者は、イベントページの右側に自分の招待コードをチェックしたり、友達に招待リンクを発送し登録したりできる；",
@@ -77,6 +81,7 @@
   },
   "ru": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_invite_content_one": "1. 活动时间：（待定）",
     "activity_invite_content_two": "2. 活动持续14天，只要对平台账户有过充值的用户就拥有邀请资格；",
     "activity_invite_content_three": "3. 邀请者可在活动页面右侧查看自己的邀请码，或发送邀请链接给自己的好友注册；",
@@ -96,6 +101,7 @@
   },
   "vi": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_invite_content_one": "1. 活动时间：（待定）",
     "activity_invite_content_two": "2. 活动持续14天，只要对平台账户有过充值的用户就拥有邀请资格；",
     "activity_invite_content_three": "3. 邀请者可在活动页面右侧查看自己的邀请码，或发送邀请链接给自己的好友注册；",
@@ -115,6 +121,7 @@
   },
   "zh-Hant": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_invite_content_one": "1. 活动时间：（待定）",
     "activity_invite_content_two": "2. 活动持续14天，只要对平台账户有过充值的用户就拥有邀请资格；",
     "activity_invite_content_three": "3. 邀请者可在活动页面右侧查看自己的邀请码，或发送邀请链接给自己的好友注册；",
