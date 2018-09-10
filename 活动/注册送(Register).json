@@ -1,6 +1,7 @@
 {
   "zh": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_register_content_one": "1. 活动时间：（待定）",
     "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
     "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
@@ -12,6 +13,7 @@
   },
   "en": {
     "activity_register_title": "Activity rules:",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_register_content_one": "1. Time: (to be determined)",
     "activity_register_content_two": "2. Seven sessions consisting of the activity with each session giving limited awards and unsent awards accumulated in the next session;",
     "activity_register_content_three": "3. Eash session continues for 24 hours and is not impacted by award amount;",
@@ -23,6 +25,7 @@
   },
   "ko": {
     "activity_register_title": "이벤트 규칙：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_register_content_one": "1. 이벤트 시간: 미정",
     "activity_register_content_two": "2. 이벤트는 7회로 진행하며 매회 당첨금에는 제한이 있으며 당첨자가 없을 경우 다음 회로 누적됩니다.",
     "activity_register_content_three": "3. 매회 이벤트는 당첨금액의 제한을 받지 않으며 24시간 동안 진행됩니다.",
@@ -34,6 +37,7 @@
   },
   "ja": {
     "activity_register_title": "イベント・ルール：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_register_content_one": "1. イベント：（時間未定）",
     "activity_register_content_two": "2. イベントは7回に分けられて、毎回ボーナスの上限があるが、毎回未配分の分は次回に累計される；",
     "activity_register_content_three": "3. 毎回は24時間で、ボーナス限度額に影響されない；",
@@ -45,6 +49,7 @@
   },
   "ru": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_register_content_one": "1. 活动时间：（待定）",
     "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
     "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
@@ -56,6 +61,7 @@
   },
   "vi": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_register_content_one": "1. 活动时间：（待定）",
     "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
     "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
@@ -67,6 +73,7 @@
   },
   "zh-Hant": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_register_content_one": "1. 活动时间：（待定）",
     "activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
     "activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
