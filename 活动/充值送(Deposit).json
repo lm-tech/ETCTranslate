@@ -1,6 +1,7 @@
 {
   "zh": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_deposit_content_one": "1. 活动时间：首充时间XXXX，用户从自己的首充时间起14天后为活动结束时间；",
     "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
     "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
@@ -12,6 +13,7 @@
   },
   "en": {
     "activity_register_title": "Activity rule: ",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_deposit_content_one": "1. Time: (to be determined) ",
     "activity_deposit_content_two": "2. Only valid for first time ETH deposit to the platform within the activity time;",
     "activity_deposit_content_three": "3. Within 14 days after first deposit, the user needs to place the predicting amount equal to the first deposit amount for the reward which can be up to 1000ETH;",
@@ -24,6 +26,7 @@
   },
   "ko": {
     "activity_register_title": "이벤트 규칙：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_deposit_content_one": "1. 이벤트 시간: 미정",
     "activity_deposit_content_two": "2. 이벤트 시간 내 플랫폼 계정에 ETH를 처음 충전하는 경우에만 유효합니다；",
     "activity_deposit_content_three": "3. 첫 충전 후 14일 내에 첫 충전 금액과 같은 금액으로 베팅할 경우 보상을 받게 되며, 최대 보상은 1000ETH입니다；",
@@ -35,6 +38,7 @@
   },
   "ja": {
     "activity_register_title": "イベント・ルール：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_deposit_content_one": "1. イベント：（時間未定）",
     "activity_deposit_content_two": "2. イベント期間中限定、初めてプラットフォームのアカウントへETHをチャージする行為のみ有効；",
     "activity_deposit_content_three": "3. ユーザーは、最初のチャージ完了から14日以内に、ベッティング金額は最初のチャージ金額と同じ金額でボーナスをもらえる、最高額は1000ETH；",
@@ -46,6 +50,7 @@
   },
   "ru": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_deposit_content_one": "1. 活动时间：（待定）",
     "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
     "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
@@ -57,6 +62,7 @@
   },
   "vi": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_deposit_content_one": "1. 活动时间：（待定）",
     "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
     "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
@@ -68,6 +74,7 @@
   },
   "zh-Hant": {
     "activity_register_title": "活动规则：",
+    "activity_register_title_close": "展开可查看活动规则",
     "activity_deposit_content_one": "1. 活动时间：（待定）",
     "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
     "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
