@@ -1,7 +1,7 @@
 {
   "zh": {
     "activity_register_title": "活动规则：",
-    "activity_deposit_content_one": "1. 活动时间：（待定）",
+    "activity_deposit_content_one": "1. 活动时间：首充时间XXXX，用户从自己的首充时间起14天后为活动结束时间；",
     "activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
     "activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投注额才能获得奖励，最高返奖1000ETH；",
     "activity_deposit_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
@@ -19,7 +19,7 @@
     "activity_deposit_content_five": "5. Reward subject to user first deposit and the placed predicting amount, details are as below:",
     "activity_deposit_content_six": "6. Upon ending of the activity, the user with the predicting amount less than first deposit gets 1% of such predicting amount as the reward; predicting amount less than 0.3ETH will not be rewarded;",
     "activity_deposit_content_seven": "7. Within 1 hours after the activity ends, users not claiming rewards will be rewarded.",
-    "activity_deposit_top_title": "充值投注、巨额返奖、最高返1000ETH！"
+    "activity_deposit_top_title": "Deposit, Predict, Get Huge Return up to 1000ETH!"
 
   },
   "ko": {
@@ -31,7 +31,7 @@
     "activity_deposit_content_five": "5. 보상는 첫 충전 및 완료된 베팅 금액에 따라 배당되며, 상세 내역은 다음과 같습니다：",
     "activity_deposit_content_six": "6. 이벤트가 끝난 후 베팅 금액이 최초 충전 금액보다 적을 경우 베팅한 금액의 1%보상을 획득하며 베팅금액이 0.3ETH보다  적을 경우 보상을 받을 수 없습니다；",
     "activity_deposit_content_seven": "7. 시스템은 이벤트 끝난 1시간 후에 보상을  수령하지 않은 유저에게 차례로 보상을 드리겠습니다.",
-    "activity_deposit_top_title": "充值投注、巨额返奖、最高返1000ETH！"
+    "activity_deposit_top_title": "충전하고 베팅하면 최고 1000ETH 보상을 드립니다!"
   },
   "ja": {
     "activity_register_title": "イベント・ルール：",
@@ -42,7 +42,7 @@
     "activity_deposit_content_five": "5. 初チャージ及びベッティング金額による、ボーナスの比例配分は以下の通りです：",
     "activity_deposit_content_six": "6. イベント終了後、ベッティング金額は最初のチャージ金額に達していないユーザーが、ベッティング金額の1%ボーナスをもらえる、ベッティング金額は0.3ETHより低いユーザーがボーナスをもらえない；",
     "activity_deposit_content_seven": "7. システムはイベント終了1時間後に、まだボーナスを受け取っていないユーザーに逐一支給する。",
-    "activity_deposit_top_title": "充值投注、巨额返奖、最高返1000ETH！"
+    "activity_deposit_top_title": "チャージとベッティング、高額なボーナス、最高額はなんと1000ETH！"
   },
   "ru": {
     "activity_register_title": "活动规则：",
