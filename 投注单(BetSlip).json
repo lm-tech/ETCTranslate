@@ -21,7 +21,7 @@
       "submit_fail_max": "总投注金额超过预测范围"
     },
     "en": {
-      "bet_slip_title": "Prediction slip",
+      "bet_slip_title": " Bet slip",
       "home_team_win": "Home win",
       "away_team_win": "Away win",
       "bet_range": "Prediction range:",
@@ -84,7 +84,7 @@
       "submit_fail_max": "총 베팅골드는 예측 범위를 초과하였습니다."
     },
     "ru": {
-      "bet_slip_title": "Prediction slip",
+      "bet_slip_title": " Bet slip",
       "home_team_win": "Home win",
       "away_team_win": "Away win",
       "bet_range": "Prediction range:",
@@ -105,7 +105,7 @@
       "submit_fail_max": "Total predicting amount exceeded the prediction range"
     },
     "vi": {
-      "bet_slip_title": "Prediction slip",
+      "bet_slip_title": " Bet slip",
       "home_team_win": "Home win",
       "away_team_win": "Away win",
       "bet_range": "Prediction range:",
