@@ -15,9 +15,9 @@
     "forecast_record_custom": "自定义"
   },
   "en": {
-    "deposit_address_title": "{currency}Deposit address：",
+    "deposit_address_title": "{currency} Deposit address：",
     "deposit_address_focus_one": "Please note: Depositing non-{currency} assets to {currency} address is prohibited and any deposited assets are irretrievable",
-    "deposit_qrcode": "{currency}Deposit QR code",
+    "deposit_qrcode": "{currency} Deposit QR code",
     "detail_forecast_copied": "Copied",
     "copy_address": "Copy",
     "copy_address_waring": "Note",
@@ -60,9 +60,9 @@
     "forecast_record_custom": "カスタムインストール"
   },
   "ru": {
-    "deposit_address_title": "{currency}Адрес перезарядки：",
+    "deposit_address_title": "{currency} Адрес перезарядки：",
     "deposit_address_focus_one": "Важная Подсказка：Запрещается перезарядка {currency} адреса. За исключением активов, отличных от {currency}, любые не-{currency} активы, возвращенные на адрес {currency}, не будут восстановлены.",
-    "deposit_qrcode": "{currency}Пополнить QR-код",
+    "deposit_qrcode": "{currency} Пополнить QR-код",
     "detail_forecast_copied": "Уже скопировано",
     "copy_address": "Copy",
     "copy_address_waring": "Note",
@@ -75,9 +75,9 @@
     "forecast_record_custom": "Custom"
   },
   "vi": {
-    "deposit_address_title": "{currency}địa chỉ nạp tiền：",
+    "deposit_address_title": "{currency} địa chỉ nạp tiền：",
     "deposit_address_focus_one": "Gợi ý: cấm địa chỉ quan trọng với {currency} nạp tiền trừ {currency} ngoài tài sản, bất kỳ nạp vào địa chỉ {currency} phi {currency} sẽ không thể lấy lại tài sản",
-    "deposit_qrcode": "{currency}Nạp tiền mã QR",
+    "deposit_qrcode": "{currency} Nạp tiền mã QR",
     "detail_forecast_copied": "đã được sau chép",
     "copy_address": "Copy",
     "copy_address_waring": "Note",
