@@ -13,8 +13,8 @@
   "en": {
     "assets_center_focus": "No withdrawal password, please set withdrawal password for account security",
     "assets_center_goto_set_password": "Go set withdrawal password",
-    "assets_center_deposit": "To deposit{currency}",
-    "assets_center_withdraw": "To withdrawal{currency}",
+    "assets_center_deposit": "To deposit {currency}",
+    "assets_center_withdraw": "To withdrawal {currency}",
     "assets_center_all": "Total assets",
     "assets_center_nofrozen": "Available assets",
     "assets_center_go_to_all_balance": "Check total assets",
@@ -46,8 +46,8 @@
   "ru": {
     "assets_center_focus": "Учетная запись не имеет пароля извлечения. Чтобы защитить свою учетную запись, сначала установите извлеченный пароль",
     "assets_center_goto_set_password": "Перейти к настройке пароля для извлечения",
-    "assets_center_deposit": "Я хочу перезарядить{currency}",
-    "assets_center_withdraw": "Я хочу извлечь виртуальную валюту{currency}",
+    "assets_center_deposit": "Я хочу перезарядить {currency}",
+    "assets_center_withdraw": "Я хочу извлечь виртуальную валюту {currency}",
     "assets_center_all": "Общие активы",
     "assets_center_nofrozen": "Доступные активы",
     "assets_center_go_to_all_balance": "Просмотр общих активов",
@@ -57,8 +57,8 @@
   "vi": {
     "assets_center_focus": "Trương mục chưa được thiết lập mật khẩu tiền tệ, để bảo vệ bảo mật tài khoản của bạn, hãy thiết lập mật khẩu",
     "assets_center_goto_set_password": "Đi tới để thiết lập mã tiền tệ",
-    "assets_center_deposit": "tôi muốn nạp tiền{currency}",
-    "assets_center_withdraw": "tôi cần nhắc tiền{currency}",
+    "assets_center_deposit": "tôi muốn nạp tiền {currency}",
+    "assets_center_withdraw": "tôi cần nhắc tiền {currency}",
     "assets_center_all": "tổng tài sản",
     "assets_center_nofrozen": "tài sản có thể dùng",
     "assets_center_go_to_all_balance": "kiểm tra tổng tài sản",
