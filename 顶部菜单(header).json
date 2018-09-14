@@ -14,7 +14,9 @@
     "header_Login_out": "退出账号",
     "header_see_detail": "查看详情",
     "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
-    "i_konw": "我知道了"
+    "i_konw": "我知道了",
+    "forecast_center": "预测中心",
+    "user_center": "个人中心"
   },
   "en": {
     "header_title_word_cup": "Soccer",
@@ -22,7 +24,7 @@
     "funny_guessing": "Prediction",
     "esports": "eSports",
     "menu_appdownload": "Android App",
-    "menu_appdownload_desc": "Scan the QR code to download the APP",
+    "menu_appdownload_desc": "Scan QR code with browser to download APP",
     "header_assets_center": "Accounts",
     "header_login": "Log in",
     "header_register": "Sign Up",
@@ -31,7 +33,9 @@
     "header_Login_out": "Logout",
     "header_see_detail": "Details",
     "bets_currency_tip": "Choose your preferred currency for prediction",
-    "i_konw": "I understand"
+    "i_konw": "I know",
+    "forecast_center": "预测中心",
+    "user_center": "个人中心"
   },
   "ja": {
     "header_title_word_cup": "サッカー",
@@ -48,7 +52,9 @@
     "header_Login_out": "ログアウト",
     "header_see_detail": "詳細",
     "bets_currency_tip": "ここでベッティングコインを選んでください。選んだコインによって最適なベッティング問題を用意します。",
-    "i_konw": "かしこまりました"
+    "i_konw": "かしこまりました",
+    "forecast_center": "预测中心",
+    "user_center": "个人中心"
   },
   "ko": {
     "header_title_word_cup": "축구",
@@ -65,7 +71,9 @@
     "header_Login_out": "로그아웃",
     "header_see_detail": "상세내역",
     "bets_currency_tip": "여기서 선호 화폐 종류를 세팅할 수 있습니다~ 저희는 해당 화폐 종류에 관련된 예측퀴즈를 우선 제공해드리겠습니다.",
-    "i_konw": "알겠습니다."
+    "i_konw": "확인하였습니다",
+    "forecast_center": "预测中心",
+    "user_center": "个人中心"
   },
   "ru": {
     "header_title_word_cup": "Футбол",
@@ -82,7 +90,9 @@
     "header_Login_out": "Счет выхода",
     "header_see_detail": "Подробности см",
     "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
-    "i_konw": "我知道了"
+    "i_konw": "I know",
+    "forecast_center": "预测中心",
+    "user_center": "个人中心"
   },
   "vi": {
     "header_title_word_cup": "Bóng đá",
@@ -99,7 +109,9 @@
     "header_Login_out": "Thoát tài khoản",
     "header_see_detail": "Xem chi tiết",
     "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
-    "i_konw": "我知道了"
+    "i_konw": "I know",
+    "forecast_center": "预测中心",
+    "user_center": "个人中心"
   },
   "zh-Hant": {
     "header_title_word_cup": "足球",
@@ -116,6 +128,8 @@
     "header_Login_out": "退出帳號",
     "header_see_detail": "查看詳情",
     "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
-    "i_konw": "我知道了"
+    "i_konw": "我知道了",
+    "forecast_center": "预测中心",
+    "user_center": "个人中心"
   }
 }
