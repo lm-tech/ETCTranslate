@@ -23,7 +23,10 @@
     "ball_under": "低于",
     "detail_history_title_amount_back": "退回",
     "message_detail_back": "返回",
-    "bet_detail_history": "下注详情"
+    "bet_detail_history": "下注详情",
+    "forcast_changeScreen_all": "全部",
+    "forecast_game_bos": "第{number}局",
+    "detail_game_all": "全场"
   },
   "en": {
     "detail_all_forecast_history": "Network Forecast History",
@@ -49,7 +52,10 @@
     "ball_under": "under",
     "detail_history_title_amount_back": "Back",
     "message_detail_back": "Back",
-    "bet_detail_history": "下注详情"
+    "bet_detail_history": "下注详情",
+    "forcast_changeScreen_all": "All",
+    "forecast_game_bos": "第{number}局",
+    "detail_game_all": "全场"
   },
   "ja": {
     "detail_all_forecast_history": "全ネット予測履歴",
@@ -75,7 +81,10 @@
     "ball_under": "アンダー",
     "detail_history_title_amount_back": "戻る",
     "message_detail_back": "리턴",
-    "bet_detail_history": "下注详情"
+    "bet_detail_history": "下注详情",
+    "forcast_changeScreen_all": "全部",
+    "forecast_game_bos": "第{number}局",
+    "detail_game_all": "全场"
   },
   "ko": {
     "detail_all_forecast_history": "예측 기록",
@@ -101,7 +110,10 @@
     "ball_under": "이하",
     "detail_history_title_amount_back": "환불",
     "message_detail_back": "戻る",
-    "bet_detail_history": "下注详情"
+    "bet_detail_history": "下注详情",
+    "forcast_changeScreen_all": "전부",
+    "forecast_game_bos": "第{number}局",
+    "detail_game_all": "全场"
   },
   "ru": {
     "detail_all_forecast_history": "Вся история сетевых прогнозов",
@@ -127,7 +139,10 @@
     "ball_under": "under",
     "detail_history_title_amount_back": "Возвращать",
     "message_detail_back": "Возвращать",
-    "bet_detail_history": "下注详情"   
+    "bet_detail_history": "下注详情",
+    "forcast_changeScreen_all": "Все",
+    "forecast_game_bos": "第{number}局",
+    "detail_game_all": "全场"  
   },
   "vi": {
     "detail_all_forecast_history": "Toàn bộ mạng dự báo lịch sử",
@@ -153,7 +168,10 @@
     "ball_under": "under",
     "detail_history_title_amount_back": "Trở lại",
     "message_detail_back": "hồi về",
-    "bet_detail_history": "下注详情"
+    "bet_detail_history": "下注详情",
+    "forcast_changeScreen_all": "全部",
+    "forecast_game_bos": "第{number}局",
+    "detail_game_all": "全场"
   },
   "zh-Hant": {
     "detail_all_forecast_history": "全網預測歷史",
@@ -179,6 +197,9 @@
     "ball_under": "低於",
     "detail_history_title_amount_back": "退回",
     "message_detail_back": "返回",
-    "bet_detail_history": "下注详情"
+    "bet_detail_history": "下注详情",
+    "forcast_changeScreen_all": "全部",
+    "forecast_game_bos": "第{number}局",
+    "detail_game_all": "全场"
   }
 }
