@@ -57,7 +57,7 @@
     "actually_aword": "실제 보상 금액 ：",
     "get_the_aword": "보상 수령하기",
     "go_to_deposit": "충전하기",
-    "activity_amount_time_over": "{days}天{hours}小时{minutes}分钟{seconds}秒"
+    "activity_amount_time_over": "{days}일{hours}시{minutes}분{seconds}초"
   },
   "ja": {
     "activity_goto_invite": "友達を誘い",
