@@ -38,7 +38,7 @@
   },
   "ja": {
     "activity_register_title": "イベント・ルール：",
-    "activity_register_title_close": "展开可查看活动规则",
+    "activity_register_title_close": "イベント・ルールをチェック",
     "activity_deposit_content_one": "1. イベント：（時間未定）",
     "activity_deposit_content_two": "2. イベント期間中限定、初めてプラットフォームのアカウントへETHをチャージする行為のみ有効；",
     "activity_deposit_content_three": "3. ユーザーは、最初のチャージ完了から14日以内に、ベッティング金額は最初のチャージ金額と同じ金額でボーナスをもらえる、最高額は1000ETH；",
