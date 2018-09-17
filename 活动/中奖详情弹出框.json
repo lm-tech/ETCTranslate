@@ -5,7 +5,15 @@
     "reword_detail_type": "类型",
     "reword_detail_reword_amount": "奖励金额",
     "reword_detail_time": "获得时间",
-    "reword_detail_other": "其它信息"
+    "reword_detail_other": "其它信息",
+    "reword_detail_origin_1": "活动",
+    "reword_detail_type_1": "活动免费赠送",
+    "reword_detail_type_2": "活动返还",
+    "reword_detail_other_1": "被邀请人",
+    "reword_detail_other_2": "邀请人",
+    "reword_detail_other_3": "首充额",
+    "reword_detail_other_4": "投注额",
+    "reword_detail_other_5": "返利"
   },
   "en": {
     "reword_detail_title": "奖励明细",
@@ -13,7 +21,15 @@
     "reword_detail_type": "类型",
     "reword_detail_reword_amount": "奖励金额",
     "reword_detail_time": "获得时间",
-    "reword_detail_other": "其它信息"
+    "reword_detail_other": "其它信息",
+    "reword_detail_origin_1": "活动",
+    "reword_detail_type_1": "活动免费赠送",
+    "reword_detail_type_2": "活动返还",
+    "reword_detail_other_1": "被邀请人",
+    "reword_detail_other_2": "邀请人",
+    "reword_detail_other_3": "首充额",
+    "reword_detail_other_4": "投注额",
+    "reword_detail_other_5": "返利"
   },
   "ja": {
     "reword_detail_title": "奖励明细",
@@ -21,7 +37,15 @@
     "reword_detail_type": "类型",
     "reword_detail_reword_amount": "奖励金额",
     "reword_detail_time": "获得时间",
-    "reword_detail_other": "其它信息"
+    "reword_detail_other": "其它信息",
+    "reword_detail_origin_1": "活动",
+    "reword_detail_type_1": "活动免费赠送",
+    "reword_detail_type_2": "活动返还",
+    "reword_detail_other_1": "被邀请人",
+    "reword_detail_other_2": "邀请人",
+    "reword_detail_other_3": "首充额",
+    "reword_detail_other_4": "投注额",
+    "reword_detail_other_5": "返利"
   },
   "ko": {
     "reword_detail_title": "奖励明细",
@@ -29,7 +53,15 @@
     "reword_detail_type": "类型",
     "reword_detail_reword_amount": "奖励金额",
     "reword_detail_time": "获得时间",
-    "reword_detail_other": "其它信息"
+    "reword_detail_other": "其它信息",
+    "reword_detail_origin_1": "活动",
+    "reword_detail_type_1": "活动免费赠送",
+    "reword_detail_type_2": "活动返还",
+    "reword_detail_other_1": "被邀请人",
+    "reword_detail_other_2": "邀请人",
+    "reword_detail_other_3": "首充额",
+    "reword_detail_other_4": "投注额",
+    "reword_detail_other_5": "返利"
   },
   "ru": {
     "reword_detail_title": "奖励明细",
@@ -37,7 +69,15 @@
     "reword_detail_type": "类型",
     "reword_detail_reword_amount": "奖励金额",
     "reword_detail_time": "获得时间",
-    "reword_detail_other": "其它信息"
+    "reword_detail_other": "其它信息",
+    "reword_detail_origin_1": "活动",
+    "reword_detail_type_1": "活动免费赠送",
+    "reword_detail_type_2": "活动返还",
+    "reword_detail_other_1": "被邀请人",
+    "reword_detail_other_2": "邀请人",
+    "reword_detail_other_3": "首充额",
+    "reword_detail_other_4": "投注额",
+    "reword_detail_other_5": "返利"
   },
   "vi": {
     "reword_detail_title": "奖励明细",
@@ -45,7 +85,15 @@
     "reword_detail_type": "类型",
     "reword_detail_reword_amount": "奖励金额",
     "reword_detail_time": "获得时间",
-    "reword_detail_other": "其它信息"
+    "reword_detail_other": "其它信息",
+    "reword_detail_origin_1": "活动",
+    "reword_detail_type_1": "活动免费赠送",
+    "reword_detail_type_2": "活动返还",
+    "reword_detail_other_1": "被邀请人",
+    "reword_detail_other_2": "邀请人",
+    "reword_detail_other_3": "首充额",
+    "reword_detail_other_4": "投注额",
+    "reword_detail_other_5": "返利"
   },
   "zh-Hant": {
     "reword_detail_title": "奖励明细",
@@ -53,6 +101,14 @@
     "reword_detail_type": "类型",
     "reword_detail_reword_amount": "奖励金额",
     "reword_detail_time": "获得时间",
-    "reword_detail_other": "其它信息"
+    "reword_detail_other": "其它信息",
+    "reword_detail_origin_1": "活动",
+    "reword_detail_type_1": "活动免费赠送",
+    "reword_detail_type_2": "活动返还",
+    "reword_detail_other_1": "被邀请人",
+    "reword_detail_other_2": "邀请人",
+    "reword_detail_other_3": "首充额",
+    "reword_detail_other_4": "投注额",
+    "reword_detail_other_5": "返利"
   }
 }
