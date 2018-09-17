@@ -91,12 +91,12 @@
     "copy_address_tip3": "depositing non-{currency} assets to an {currency} address is prohibited and any deposited assets will be irretrievable",
     "i_konw": "I know",
     "submit_fail_max": "Total predicting amount exceeded the prediction range",
-    "option_update": "盘口更新/赔率更新",
+    "option_update": "Line update/Odds update",
     "update_confirm": "confirm",
     "bet_expired": "Reached the prediction slip limit",
-    "bet_success_tips1": "恭喜您，投注成功！可至",
-    "bet_success_tips2": "查看您的投注最新进展。",
-    "bet_user_center": "资产中心-投注记录"
+    "bet_success_tips1": "Congrats, betting succeeded! Can visit",
+    "bet_success_tips2": "Check the updated progress of your betting.",
+    "bet_user_center": "Assets Center-Betting History"
   },
   "ja": {
     "bet_slip_title": "ベッティングオーダー",
