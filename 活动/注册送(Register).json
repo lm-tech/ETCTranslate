@@ -37,7 +37,7 @@
   },
   "ja": {
     "activity_register_title": "イベント・ルール：",
-    "activity_register_title_close": "展开可查看活动规则",
+    "activity_register_title_close": "イベント・ルールをチェック",
     "activity_register_content_one": "1. イベント：（時間未定）",
     "activity_register_content_two": "2. イベントは7回に分けられて、毎回ボーナスの上限があるが、毎回未配分の分は次回に累計される；",
     "activity_register_content_three": "3. 毎回は24時間で、ボーナス限度額に影響されない；",
