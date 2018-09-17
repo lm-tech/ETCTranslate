@@ -37,7 +37,7 @@
     "actually_aword": "Actual gains: ",
     "get_the_aword": "Claim award",
     "go_to_deposit": "Go deposit",
-    "activity_amount_time_over": "{days}天{hours}小时{minutes}分钟{seconds}秒"
+    "activity_amount_time_over": "{days}days{hours}hours{minutes}minutes{seconds}seconds"
   },
   "ko": {
     "activity_goto_invite": "요청 이벤트",
