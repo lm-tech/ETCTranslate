@@ -13,7 +13,7 @@
   },
   "en": {
     "activity_register_title": "Activity rule: ",
-    "activity_register_title_close": "展开可查看活动规则",
+    "activity_register_title_close": "Unfold to check activity rules",
     "activity_deposit_content_one": "1. Time: (to be determined) ",
     "activity_deposit_content_two": "2. Only valid for first time ETH deposit to the platform within the activity time;",
     "activity_deposit_content_three": "3. Within 14 days after first deposit, the user needs to place the predicting amount equal to the first deposit amount for the reward which can be up to 1000ETH;",
