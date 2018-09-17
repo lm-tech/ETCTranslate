@@ -26,7 +26,7 @@
   },
   "ko": {
     "activity_register_title": "이벤트 규칙：",
-    "activity_register_title_close": "展开可查看活动规则",
+    "activity_register_title_close": "이벤트 규칙 보기",
     "activity_deposit_content_one": "1. 이벤트 시간: 미정",
     "activity_deposit_content_two": "2. 이벤트 시간 내 플랫폼 계정에 ETH를 처음 충전하는 경우에만 유효합니다；",
     "activity_deposit_content_three": "3. 첫 충전 후 14일 내에 첫 충전 금액과 같은 금액으로 베팅할 경우 보상을 받게 되며, 최대 보상은 1000ETH입니다；",
