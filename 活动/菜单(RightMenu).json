@@ -77,7 +77,7 @@
     "actually_aword": "実際のボーナス金額：",
     "get_the_aword": "ボーナスを受け取る",
     "go_to_deposit": "チャージ",
-    "activity_amount_time_over": "{days}天{hours}小时{minutes}分钟{seconds}秒"
+    "activity_amount_time_over": "{days}日{hours}時間{minutes}分{seconds}秒"
   },
   "ru": {
     "activity_goto_invite": "邀请送",
