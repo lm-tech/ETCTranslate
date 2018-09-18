@@ -80,11 +80,11 @@
     "ball_over": "オーバー",
     "ball_under": "アンダー",
     "detail_history_title_amount_back": "戻る",
-    "message_detail_back": "리턴",
-    "bet_detail_history": "下注详情",
-    "forcast_changeScreen_all": "全部",
-    "forecast_game_bos": "第{number}局",
-    "detail_game_all": "全场"
+    "message_detail_back": "戻る",
+    "bet_detail_history": "ベッティング詳細",
+    "forcast_changeScreen_all": "全て",
+    "forecast_game_bos": "第{number}回戦",
+    "detail_game_all": "全試合"
   },
   "ko": {
     "detail_all_forecast_history": "예측 기록",
