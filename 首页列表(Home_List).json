@@ -28,7 +28,7 @@
     "content_coin_mark": "All data has been referenced from CoinMarketCap",
     "content_esports": "The deadline for predictions will be adjusted based on the actual start time of the game.",
     "tip_link": "Please click here to find predictions before June 11th.",
-    "hot_bet": "Most betted"
+    "hot_bet": "热门投注"
   },
   "ja": {
     "soccer": "サッカー",
@@ -60,7 +60,7 @@
     "content_coin_mark": "본 예측관련 데이터는 모두 coinmarketcap 소스를 참조함",
     "content_esports": "배팅시간은 실제 경기시간에 따라 조정할 것이다",
     "tip_link": "6월 11일 이전의 예측은 여기를 클릭해주세요",
-    "hot_bet": "热门投注"
+    "hot_bet": "핫 베팅항목"
   },
   "ru": {
     "soccer": "Футбол",
