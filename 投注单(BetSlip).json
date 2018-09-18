@@ -126,7 +126,7 @@
     "ball_under": "アンダー",
     "err_value_max": "オーダーは{maxAmount}を超えるとはいけません。",
     "bet_to_quick": "会員に戻ってベッティングする",
-    "bet_to_normal": "戻る，スマートコントラクトを使用してベッティング",
+    "bet_to_normal": "戻る、スマートコントラクトを使用してベッティング",
     "detail_bet_expired_noNumber": "オーダーを入力してください。",
     "bet_no_data": "データなし",
     "bet_success": "操作成功",
@@ -140,12 +140,12 @@
     "copy_address_tip3": "{currency}以外の資産を{currency}アドレスにチャージすることは禁じられています。チャージされた{currency}以外の資産は回収できません。",
     "i_konw": "かしこまりました",
     "submit_fail_max": "オーダーの総額はベッティング範囲を超えました。",
-    "option_update": "盘口更新/赔率更新",
+    "option_update": "ハンディキャップ更新/倍率更新",
     "update_confirm": "確認",
     "bet_expired": "マキシマムオーダーに達しました。",
-    "bet_success_tips1": "恭喜您，投注成功！可至",
-    "bet_success_tips2": "查看您的投注最新进展。",
-    "bet_user_center": "资产中心-投注记录"
+    "bet_success_tips1": "操作成功！",
+    "bet_success_tips2": "ベッティングの最新状況をチェック",
+    "bet_user_center": "資産センター―ベッティング記録"
   },
   "ko": {
     "bet_slip_title": "베팅 리스트",
