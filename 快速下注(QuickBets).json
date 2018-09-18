@@ -41,7 +41,7 @@
     "not_bets_tip1": "This option is awaiting confirmation, please make your prediction later",
     "not_bets_tip2": "We apologize for the inconvenience, the token used is not available for this option",
     "not_bets_tip3": "We apologize for the inconvenience，but predictions for this option are closed",
-    "bet_coupon": "不可提资产抵扣"
+    "bet_coupon": "Non-withdrawable assets deduction"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
