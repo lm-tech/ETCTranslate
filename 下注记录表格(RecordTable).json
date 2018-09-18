@@ -58,7 +58,11 @@
     "withdraw_form_HASH_failed": "Hash值确认中",
     "record_table_cancel_forecast": "撤销",
     "record_table_wait_award": "奖金发放中",
-    "record_table_closed": "已下架"
+    "record_table_closed": "已下架",
+    "forcast_bet_single_number": "投注单号",
+    "forcast_bet_single_time": "投注时间",
+    "forcast_bet_single_amount": "投注数",
+    "forcast_bet_single_money": "预测金额"
   },
   "en": {
     "record_table_bets_time": "Time of prediction",
@@ -119,7 +123,11 @@
     "withdraw_form_HASH_failed": "Hash pending",
     "record_table_cancel_forecast": "Cancel",
     "record_table_wait_award": "Now paying the winnings",
-    "record_table_closed": "No longer available"
+    "record_table_closed": "No longer available",
+    "forcast_bet_single_number": "投注单号",
+    "forcast_bet_single_time": "投注时间",
+    "forcast_bet_single_amount": "投注数",
+    "forcast_bet_single_money": "预测金额"
   },
   "ko": {
     "record_table_bets_time": "배팅 시간",
@@ -180,7 +188,11 @@
     "withdraw_form_HASH_failed": "Hash수치 확인중",
     "record_table_cancel_forecast": "취소",
     "record_table_wait_award": "코인 입금 중",
-    "record_table_closed": "마강됨"
+    "record_table_closed": "마강됨",
+    "forcast_bet_single_number": "投注单号",
+    "forcast_bet_single_time": "投注时间",
+    "forcast_bet_single_amount": "投注数",
+    "forcast_bet_single_money": "预测金额"
   },
   "ja": {
     "record_table_bets_time": "ベッティングをする時間",
@@ -241,7 +253,11 @@
     "withdraw_form_HASH_failed": "Hash値を確認中",
     "record_table_cancel_forecast": "キャンセル",
     "record_table_wait_award": "ボーナス入金処理中",
-    "record_table_closed": "終了"
+    "record_table_closed": "終了",
+    "forcast_bet_single_number": "投注单号",
+    "forcast_bet_single_time": "投注时间",
+    "forcast_bet_single_amount": "投注数",
+    "forcast_bet_single_money": "预测金额"
   },
   "ru": {
     "record_table_bets_time": "Время ставки",
@@ -302,7 +318,11 @@
     "withdraw_form_HASH_failed": "Подтвердить значение хеша",
     "record_table_cancel_forecast": "Отмена",
     "record_table_wait_award": "Идет выдача премии",
-    "record_table_closed": "Уже сняли с продажи"
+    "record_table_closed": "Уже сняли с продажи",
+    "forcast_bet_single_number": "投注单号",
+    "forcast_bet_single_time": "投注时间",
+    "forcast_bet_single_amount": "投注数",
+    "forcast_bet_single_money": "预测金额"
   },
   "vi": {
     "record_table_bets_time": "thời gian đặc cược",
@@ -363,7 +383,11 @@
     "withdraw_form_HASH_failed": "Xác nhận giá trị băm",
     "record_table_cancel_forecast": "thu hồi",
     "record_table_wait_award": "Trong việc phân phối tiền thưởng",
-    "record_table_closed": "đã được tắt"
+    "record_table_closed": "đã được tắt",
+    "forcast_bet_single_number": "投注单号",
+    "forcast_bet_single_time": "投注时间",
+    "forcast_bet_single_amount": "投注数",
+    "forcast_bet_single_money": "预测金额"
   },
   "zh-Hant": {
     "record_table_bets_time": "下注時間",
@@ -424,6 +448,10 @@
     "withdraw_form_HASH_failed": "Hash值確認中",
     "record_table_cancel_forecast": "撤销",
     "record_table_wait_award": "奖金发放中",
-    "record_table_closed": "已下架"
+    "record_table_closed": "已下架",
+    "forcast_bet_single_number": "投注单号",
+    "forcast_bet_single_time": "投注时间",
+    "forcast_bet_single_amount": "投注数",
+    "forcast_bet_single_money": "预测金额"
   }
 }
