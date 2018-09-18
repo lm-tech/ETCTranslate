@@ -35,7 +35,7 @@
     "digital_currency": "デジタル通貨",
     "funny_prediction": "おもしろいベッティング",
     "esports": "eスポーツ",
-    "forcast_changeScreen_all": "All",
+    "forcast_changeScreen_all": "全て",
     "forcast_changeScreen_processing": "ベッティング中",
     "forcast_changeScreen_close": "締め切られました",
     "forcast_changeScreen_publish": "ベッティング結果発表済み",
@@ -44,7 +44,7 @@
     "content_coin_mark": "",
     "content_esports": "ベッティング時間は実際の試合時間による調整されます",
     "tip_link": "6月11日前の試合に関してはここをクリックしてください",
-    "hot_bet": "热门投注"
+    "hot_bet": "人気ベッティング"
   },
   "ko": {
     "soccer": "축구",
