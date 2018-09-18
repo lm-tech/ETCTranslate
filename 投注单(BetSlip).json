@@ -47,7 +47,10 @@
     "bet_expired": "投注单已满",
     "bet_success_tips1": "恭喜您，投注成功！可至",
     "bet_success_tips2": "查看您的投注最新进展。",
-    "bet_user_center": "资产中心-投注记录"
+    "bet_user_center": "资产中心-投注记录",
+    "bet_coupon": "不可提资产抵扣",
+    "detail_game_all": "全场",
+    "detail_game_bos": "第{number}局"
   },
   "en": {
     "bet_slip_title": "Prediction slip",
@@ -96,7 +99,10 @@
     "bet_expired": "Reached the prediction slip limit",
     "bet_success_tips1": "恭喜您，投注成功！可至",
     "bet_success_tips2": "查看您的投注最新进展。",
-    "bet_user_center": "资产中心-投注记录"
+    "bet_user_center": "资产中心-投注记录",
+    "bet_coupon": "不可提资产抵扣",
+    "detail_game_all": "全场",
+    "detail_game_bos": "第{number}局"
   },
   "ja": {
     "bet_slip_title": "ベッティングオーダー",
@@ -143,9 +149,12 @@
     "option_update": "ハンディキャップ更新/倍率更新",
     "update_confirm": "確認",
     "bet_expired": "マキシマムオーダーに達しました。",
-    "bet_success_tips1": "操作成功！",
-    "bet_success_tips2": "ベッティングの最新状況をチェック",
-    "bet_user_center": "資産センター―ベッティング記録"
+    "bet_success_tips1": "恭喜您，投注成功！可至",
+    "bet_success_tips2": "查看您的投注最新进展。",
+    "bet_user_center": "资产中心-投注记录",
+    "bet_coupon": "不可提资产抵扣",
+    "detail_game_all": "全场",
+    "detail_game_bos": "第{number}局"
   },
   "ko": {
     "bet_slip_title": "베팅 리스트",
@@ -194,7 +203,10 @@
     "bet_expired": "베팅 오더 최대치에 도달하였습니다",
     "bet_success_tips1": "베팅성공하였습니다.",
     "bet_success_tips2": "()에서 최신 베팅 내역을 확인할 수 있습니다.",
-    "bet_user_center": "자산센터-베팅기록"
+    "bet_user_center": "자산센터-베팅기록",
+    "bet_coupon": "不可提资产抵扣",
+    "detail_game_all": "全场",
+    "detail_game_bos": "第{number}局"
   },
   "ru": {
     "bet_slip_title": "Prediction slip",
@@ -243,7 +255,10 @@
     "bet_expired": "Reached the prediction slip limit",
     "bet_success_tips1": "恭喜您，投注成功！可至",
     "bet_success_tips2": "查看您的投注最新进展。",
-    "bet_user_center": "资产中心-投注记录"
+    "bet_user_center": "资产中心-投注记录",
+    "bet_coupon": "不可提资产抵扣",
+    "detail_game_all": "全场",
+    "detail_game_bos": "第{number}局"
 
   },
   "vi": {
@@ -293,7 +308,10 @@
     "bet_expired": "Reached the prediction slip limit",
     "bet_success_tips1": "恭喜您，投注成功！可至",
     "bet_success_tips2": "查看您的投注最新进展。",
-    "bet_user_center": "资产中心-投注记录"
+    "bet_user_center": "资产中心-投注记录",
+    "bet_coupon": "不可提资产抵扣",
+    "detail_game_all": "全场",
+    "detail_game_bos": "第{number}局"
 
   },
   "zh-Hant": {
@@ -343,6 +361,9 @@
     "bet_expired": "投注單已滿",
     "bet_success_tips1": "恭喜您，投注成功！可至",
     "bet_success_tips2": "查看您的投注最新进展。",
-    "bet_user_center": "资产中心-投注记录"
+    "bet_user_center": "资产中心-投注记录",
+    "bet_coupon": "不可提资产抵扣",
+    "detail_game_all": "全场",
+    "detail_game_bos": "第{number}局"
   }
 }
