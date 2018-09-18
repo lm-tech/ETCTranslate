@@ -89,10 +89,10 @@
     "header_message_center": "Центр сообщений",
     "header_Login_out": "Счет выхода",
     "header_see_detail": "Подробности см",
-    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "bets_currency_tip": "Choose your preferred currency for prediction",
     "i_konw": "I know",
-    "forecast_center": "预测中心",
-    "user_center": "个人中心"
+    "forecast_center": "Prediction Center",
+    "user_center": "Личный центр"
   },
   "vi": {
     "header_title_word_cup": "Bóng đá",
@@ -108,10 +108,10 @@
     "header_message_center": "Trung tâm tin tức",
     "header_Login_out": "Thoát tài khoản",
     "header_see_detail": "Xem chi tiết",
-    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "bets_currency_tip": "Choose your preferred currency for prediction",
     "i_konw": "I know",
-    "forecast_center": "预测中心",
-    "user_center": "个人中心"
+    "forecast_center": "Prediction Center",
+    "user_center": "Trung tâm cá nhân"
   },
   "zh-Hant": {
     "header_title_word_cup": "足球",
@@ -127,9 +127,9 @@
     "header_message_center": "消息中心",
     "header_Login_out": "退出帳號",
     "header_see_detail": "查看詳情",
-    "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
+    "bets_currency_tip": "可以在這裡切換首選下注幣種哦〜我們將優先為您提供該幣種相關預測題",
     "i_konw": "我知道了",
-    "forecast_center": "预测中心",
-    "user_center": "个人中心"
+    "forecast_center": "預測中心",
+    "user_center": "個人中心"
   }
 }
