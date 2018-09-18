@@ -58,10 +58,10 @@
     "register_step_one_title": "Welcome to Coingame!",
     "register_step_two_password_body_a": "Set login password",
     "input_button_focus": "If you do not receive an email, please check your junk or spam folders.",
-    "not_use_invite_code": "该用户邀请人数已满，将不能再获得邀请奖励",
-    "invite_code": "请输入邀请码",
-    "invite_code_max_used": "邀请码超过使用次数限制",
-    "invite_code_format_error": "邀请码不存在或者不符合规则"
+    "not_use_invite_code": "Reached the invitation limits, no more invitation reward",
+    "invite_code": "Enter the invitation code",
+    "invite_code_max_used": "Invitation code exceeds the usage limits",
+    "invite_code_format_error": "Invitation code not existing or invalid"
   },
   "ko": {
     "input_validate_empty_nickname": "아이디를 입력해 주세요",
