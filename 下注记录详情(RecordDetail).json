@@ -3,49 +3,56 @@
     "record_detail_later_30": "最近30天",
     "record_detail_custom": "自定义",
     "record_detail_forecast": "预测记录",
-    "record_detail_input": "收入记录",
-    "record_detail_output": "支出记录"
+    "record_detail_input": "充值记录",
+    "record_detail_output": "提币记录",
+    "record_detail_give": "平台赠送"
   },
   "en": {
     "record_detail_later_30": "Past 30 days",
     "record_detail_custom": "Default",
     "record_detail_forecast": "Forecast records",
-    "record_detail_input": "Income records",
-    "record_detail_output": "Expense records"
+    "record_detail_input": "Deposit History",
+    "record_detail_output": "Withdrawal History",
+    "record_detail_give": "平台赠送"
   },
   "ko": {
     "record_detail_later_30": "최근 30일",
     "record_detail_custom": "자체 정의",
     "record_detail_forecast": "예측내역",
-    "record_detail_input": "수익내역",
-    "record_detail_output": "지출내역"
+    "record_detail_input": "Deposit History",
+    "record_detail_output": "지출내역",
+    "record_detail_give": "平台赠送"
   },
   "ja": {
     "record_detail_later_30": "最近30日間",
     "record_detail_custom": "カスタム",
     "record_detail_forecast": "ベッティング記録",
-    "record_detail_input": "収入記録",
-    "record_detail_output": "支出記録"
+    "record_detail_input": "チャージ記録",
+    "record_detail_output": "出金記録",
+    "record_detail_give": "平台赠送"
   },
   "ru": {
     "record_detail_later_30": "Последние 30 дней",
     "record_detail_custom": "Настроить",
     "record_detail_forecast": "Запись прогноза",
-    "record_detail_input": "Отчет о доходах",
-    "record_detail_output": "Отчет о расходах"
+    "record_detail_input": "Deposit History",
+    "record_detail_output": "Withdrawal History",
+    "record_detail_give": "平台赠送"
   },
   "vi": {
     "record_detail_later_30": "trong vòng 30 ngày",
     "record_detail_custom": "tự định nghĩa",
     "record_detail_forecast": "hồ sơ dự đoán",
-    "record_detail_input": "hồ sơ thu nhập",
-    "record_detail_output": "hồ sơ chi tiêu"
+    "record_detail_input": "Deposit History",
+    "record_detail_output": "Withdrawal History",
+    "record_detail_give": "平台赠送"
   },
   "zh-Hant": {
     "record_detail_later_30": "最近30天",
     "record_detail_custom": "自定義",
     "record_detail_forecast": "預測記錄",
-    "record_detail_input": "收入記錄",
-    "record_detail_output": "支出記錄"
+    "record_detail_input": "充值記錄",
+    "record_detail_output": "提幣記錄",
+    "record_detail_give": "平台赠送"
   }
 }
