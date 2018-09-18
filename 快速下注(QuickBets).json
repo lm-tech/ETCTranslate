@@ -18,7 +18,8 @@
     "max_bets_amount": "下注上限",
     "not_bets_tip1": "该选项正在区块链确认中,请稍后关注可下注状态",
     "not_bets_tip2": "非常抱歉，该选项无法用该币种下注",
-    "not_bets_tip3": "非常抱歉，该币种预测已封盘，无法下注"
+    "not_bets_tip3": "非常抱歉，该币种预测已封盘，无法下注",
+    "bet_coupon": "不可提资产抵扣"
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
@@ -39,7 +40,8 @@
     "max_bets_amount": "Prediction cap",
     "not_bets_tip1": "This option is awaiting confirmation, please make your prediction later",
     "not_bets_tip2": "We apologize for the inconvenience, the token used is not available for this option",
-    "not_bets_tip3": "We apologize for the inconvenience，but predictions for this option are closed"
+    "not_bets_tip3": "We apologize for the inconvenience，but predictions for this option are closed",
+    "bet_coupon": "不可提资产抵扣"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
@@ -60,7 +62,8 @@
     "max_bets_amount": "マキシマムオーダー",
     "not_bets_tip1": "このオプションはブロックチェーン確認中で、ベッティング状態になるまでしばらくお待ち下さい。",
     "not_bets_tip2": "申し訳ありませんが、この種の貨幣はオプションで使用できません。",
-    "not_bets_tip3": "申し訳ありませんが、この貨幣は終了したのでベッティングできません"
+    "not_bets_tip3": "申し訳ありませんが、この貨幣は終了したのでベッティングできません",
+    "bet_coupon": "不可提资产抵扣"
   },
   "ko": {
     "detail_forecast_title": " {currency}예측",
@@ -81,7 +84,8 @@
     "max_bets_amount": "최고 배팅금액",
     "not_bets_tip1": "해당 항목은 블록체인에서 확인중이며 잠시후 배팅 가능상태를 확인 부탁드립니다.",
     "not_bets_tip2": "죄송하지만 이 항목은 선택하신 코인으로 배팅 할 수 없습니다.",
-    "not_bets_tip3": "죄송하지만 해당 코인 종류의 예측은 마강 배팅 할수 없습니다."
+    "not_bets_tip3": "죄송하지만 해당 코인 종류의 예측은 마강 배팅 할수 없습니다.",
+    "bet_coupon": "不可提资产抵扣"
   },
   "ru": {
     "detail_forecast_title": "{currency}Прогнозирование",
@@ -102,7 +106,8 @@
     "max_bets_amount": "Максимум ставки ",
     "not_bets_tip1": "Эта опция подтверждается в блокчейне, позже посмотрите состояние ставки",
     "not_bets_tip2": "Извините, эта опция не может делать ставку этой валютой",
-    "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку"
+    "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку",
+    "bet_coupon": "不可提资产抵扣"
   },
   "vi": {
     "detail_forecast_title": "{currency}dự báo",
@@ -123,7 +128,8 @@
     "max_bets_amount": " cá độ đã tiến hành",
     "not_bets_tip1": "Tùy chọn này đang trong khối xác nhận chuỗi,sau một thời gian hãy chú ý đến tình trạng cá cược",
     "not_bets_tip2": "Xin lỗi, tùy chọn này không có sẵn cho cá cược trong loại tiền tệ này",
-    "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược."
+    "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược.",
+    "bet_coupon": "不可提资产抵扣"
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
@@ -144,7 +150,8 @@
     "max_bets_amount": "下注上限",
     "not_bets_tip1": "該選項正在區塊鏈確認中,請稍後關注可下注狀態",
     "not_bets_tip2": "非常抱歉，該選項無法用該幣種下注",
-    "not_bets_tip3": "非常抱歉，該幣種預測已封盤，無法下注"
+    "not_bets_tip3": "非常抱歉，該幣種預測已封盤，無法下注",
+    "bet_coupon": "不可提资产抵扣"
 
   }
 }
