@@ -24,21 +24,21 @@
      "activity_goto_invite": "招待によるボーナス"
   },
   "ru": {
-    "activity_goto_home": "返回首页",
-    "activity_goto_register": "注册送",
-    "activity_goto_deposit": "首充送",
-    "activity_goto_invite": "邀请送"
+    "activity_goto_home": "Back to homepage",
+    "activity_goto_register": "Registration bonus",
+    "activity_goto_deposit": "First deposit bonus",
+    "activity_goto_invite": "Invitation bonus"
   },
   "vi": {
-    "activity_goto_home": "返回首页",
-    "activity_goto_register": "注册送",
-    "activity_goto_deposit": "首充送",
-    "activity_goto_invite": "邀请送"
+    "activity_goto_home": "Back to homepage",
+    "activity_goto_register": "Registration bonus",
+    "activity_goto_deposit": "First deposit bonus",
+    "activity_goto_invite": "Invitation bonus"
   },
   "zh-Hant": {
-    "activity_goto_home": "返回首页",
-    "activity_goto_register": "注册送",
+    "activity_goto_home": "返回首頁",
+    "activity_goto_register": "註冊送",
     "activity_goto_deposit": "首充送",
-    "activity_goto_invite": "邀请送"
+    "activity_goto_invite": "邀請送"
   }
 }
