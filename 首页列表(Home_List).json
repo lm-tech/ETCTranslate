@@ -28,7 +28,7 @@
     "content_coin_mark": "All data has been referenced from CoinMarketCap",
     "content_esports": "The deadline for predictions will be adjusted based on the actual start time of the game.",
     "tip_link": "Please click here to find predictions before June 11th.",
-    "hot_bet": "热门投注"
+    "hot_bet": "Most betted"
   },
   "ja": {
     "soccer": "サッカー",
@@ -76,7 +76,7 @@
     "content_coin_mark": "На этот тип коэффициентов прогнозирования ссылаются из coinmaketcap",
     "content_esports": "Крайний срок подачи ставок будет скорректирован в зависимости от времени начала игры.",
     "tip_link": "Прогнозы до 11 июня нажмите здесь",
-    "hot_bet": "热门投注"
+    "hot_bet": "Most betted"
   },
   "vi": {
     "digital_currency": "Chữ số tiền tệ",
@@ -90,7 +90,7 @@
     "content_coin_mark": "Chữ số tiền tệ dữ liệu thi đố đều được tham khảo từ coinmarketcap",
     "content_esports": "Thời hạn cá cược sẽ được điều chỉnh tùy thuộc vào thời gian bắt đầu trò chơi thực tế.",
     "tip_link": "Trước cuộc thi đấu ngày 11 tháng 6 mời bấm vào đây",
-    "hot_bet": "热门投注"
+    "hot_bet": "Most betted"
   },
   "zh-Hant": {
     "soccer": "足球",
@@ -105,6 +105,6 @@
     "content_coin_mark": "數字貨幣競猜數據均參考自coinmarketcap",
     "content_esports": "下注時間將根據實際比賽時間調整",
     "tip_link": "6月11號之前的比賽請點擊此處",
-    "hot_bet": "热门投注"
+    "hot_bet": "熱門投注"
   }
 }
