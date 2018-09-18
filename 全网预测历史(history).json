@@ -52,10 +52,10 @@
     "ball_under": "under",
     "detail_history_title_amount_back": "Back",
     "message_detail_back": "Back",
-    "bet_detail_history": "下注详情",
+    "bet_detail_history": "Betting details",
     "forcast_changeScreen_all": "All",
-    "forecast_game_bos": "第{number}局",
-    "detail_game_all": "全场"
+    "forecast_game_bos": "Map {number}",
+    "detail_game_all": "Match"
   },
   "ja": {
     "detail_all_forecast_history": "全ネット予測履歴",
@@ -109,11 +109,11 @@
     "ball_over": "이상",
     "ball_under": "이하",
     "detail_history_title_amount_back": "환불",
-    "message_detail_back": "리턴",
-    "bet_detail_history": "베팅내역",
+    "message_detail_back": "戻る",
+    "bet_detail_history": "下注详情",
     "forcast_changeScreen_all": "전부",
-    "forecast_game_bos": "제{number}회",
-    "detail_game_all": "올 코트 "
+    "forecast_game_bos": "第{number}局",
+    "detail_game_all": "全场"
   },
   "ru": {
     "detail_all_forecast_history": "Вся история сетевых прогнозов",
@@ -197,9 +197,9 @@
     "ball_under": "低於",
     "detail_history_title_amount_back": "退回",
     "message_detail_back": "返回",
-    "bet_detail_history": "下注详情",
+    "bet_detail_history": "下注詳情",
     "forcast_changeScreen_all": "全部",
     "forecast_game_bos": "第{number}局",
-    "detail_game_all": "全场"
+    "detail_game_all": "全場"
   }
 }
