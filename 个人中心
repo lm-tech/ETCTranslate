@@ -32,20 +32,20 @@
     "usercenter_avalible_currency": "이용가능자산:"
   },
   "ru": {
-    "usercenter_assets_center": "Asset Center",
-    "usercenter_forecast_record": "Prediction History",
-    "usercenter_account_center": "Account Management",
-    "usercenter_message_center": "Message Center",
-    "usercenter_log_out": "Logout",
-    "usercenter_avalible_currency": "Available Assets:"
+    "usercenter_assets_center": "Центр активов",
+    "usercenter_forecast_record": "Запись прогноза",
+    "usercenter_account_center": "Управление счетом",
+    "usercenter_message_center": "Центр сообщений",
+    "usercenter_log_out": "Выйти",
+    "usercenter_avalible_currency": "Доступные активы:"
   },
   "vi": {
-    "usercenter_assets_center": "Asset Center",
-    "usercenter_forecast_record": "Prediction History",
-    "usercenter_account_center": "Account Management",
-    "usercenter_message_center": "Message Center",
-    "usercenter_log_out": "Logout",
-    "usercenter_avalible_currency": "Available Assets:"
+    "usercenter_assets_center": "Trung tâm tài sản",
+    "usercenter_forecast_record": "Hồ sơ dự đoán",
+    "usercenter_account_center": "Quản lý tài khoản",
+    "usercenter_message_center": "Trung tâm tin tức",
+    "usercenter_log_out": "Thoát đăng nhập",
+    "usercenter_avalible_currency": "Tài sản có thể dùng"
   },
   "zh-Hant": {
     "usercenter_assets_center": "資產中心",
