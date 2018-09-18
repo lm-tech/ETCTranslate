@@ -58,10 +58,10 @@
     "register_step_one_title": "Welcome to Coingame!",
     "register_step_two_password_body_a": "Set login password",
     "input_button_focus": "If you do not receive an email, please check your junk or spam folders.",
-    "not_use_invite_code": "该用户邀请人数已满，将不能再获得邀请奖励",
-    "invite_code": "请输入邀请码",
-    "invite_code_max_used": "邀请码超过使用次数限制",
-    "invite_code_format_error": "邀请码不存在或者不符合规则"
+    "not_use_invite_code": "Reached the invitation limits, no more invitation reward",
+    "invite_code": "Enter the invitation code",
+    "invite_code_max_used": "Invitation code exceeds the usage limits",
+    "invite_code_format_error": "Invitation code not existing or invalid"
   },
   "ko": {
     "input_validate_empty_nickname": "아이디를 입력해 주세요",
@@ -91,10 +91,10 @@
     "register_step_one_title": " Coingame에 가입한 것을 환영합니다. ",
     "register_step_two_password_body_a": " 로그인 비밀번호 설정",
     "input_button_focus": "이메일이 정상 전달이 되지 않을 수 있으니, 스팸함도 확인 부탁드립니다. ",
-    "not_use_invite_code": "해당 유저는 요청 최대인수에 도달하여 더 이상 요청보상을 획득할 수 없습니다.",
-    "invite_code": "요청 코드를 입력해주세요",
-    "invite_code_max_used": "요청코드의 사용회수 제한을 초과하였습니다.",
-    "invite_code_format_error": "요청코드가 존재하지 않거나 규칙에 적용되지 않습니다."
+    "not_use_invite_code": "该用户邀请人数已满，将不能再获得邀请奖励",
+    "invite_code": "请输入邀请码",
+    "invite_code_max_used": "邀请码超过使用次数限制",
+    "invite_code_format_error": "邀请码不存在或者不符合规则"
   },
   "ja": {
     "input_validate_empty_nickname": "ニックネームを入力してください",
@@ -124,10 +124,10 @@
     "register_step_one_title": " Coingameへのご登録ありがとうございます",
     "register_step_two_password_body_a": "ログインパスワードの設置",
     "input_button_focus": "メールが届かない可能性があるため、一度「迷惑メール」フォルダをご確認ください",
-    "not_use_invite_code": "该用户邀请人数已满，将不能再获得邀请奖励",
-    "invite_code": "请输入邀请码",
-    "invite_code_max_used": "邀请码超过使用次数限制",
-    "invite_code_format_error": "邀请码不存在或者不符合规则"
+    "not_use_invite_code": "招待者人数上限に達したので、招待ボーナスを受け取ることがもはやできません。",
+    "invite_code": "招待コードを入力してください。",
+    "invite_code_max_used": "招待コードの利用上限を超えました。",
+    "invite_code_format_error": "招待コードが存在しないか、または非準拠である。"
   },
   "ru": {
     "input_validate_empty_nickname": "Пожалуйста, введите прозвище",
