@@ -20,14 +20,14 @@
     "forecast_record_custom": "자체 정의"
   },
   "ru": {
-    "forecast_record_title": "Prediction History",
-    "forecast_record_recent_30_day": "Recent 30 days",
-    "forecast_record_custom": "Custom"
+    "forecast_record_title": "Запись прогноза",
+    "forecast_record_recent_30_day": "В последние 30 дней",
+    "forecast_record_custom": "Настроить самостоятельно"
   },
   "vi": {
-    "forecast_record_title": "Prediction History",
-    "forecast_record_recent_30_day": "Recent 30 days",
-    "forecast_record_custom": "Custom"
+    "forecast_record_title": "Hồ sơ dự đoán",
+    "forecast_record_recent_30_day": "Gần nhất 30 ngày",
+    "forecast_record_custom": "Tuỳ chỉnh"
   },
   "zh-Hant": {
     "forecast_record_title": "預測記錄",
