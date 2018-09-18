@@ -16,15 +16,15 @@
     "win_amount": "ボーナス"
   },
   "ru": {
-    "win_user": "获奖用户",
-    "win_amount": "获奖金额"
+    "win_user": "Winning users",
+    "win_amount": "Winnings amount"
   },
   "vi": {
-    "win_user": "获奖用户",
-    "win_amount": "获奖金额"
+    "win_user": "Winning users",
+    "win_amount": "Winnings amount"
   },
   "zh-Hant": {
-    "win_user": "获奖用户",
-    "win_amount": "获奖金额"
+    "win_user": "獲獎用戶",
+    "win_amount": "獲獎金額"
   }
 }
