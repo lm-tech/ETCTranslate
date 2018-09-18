@@ -17,7 +17,11 @@
     "actually_aword": "实际获得：",
     "get_the_aword": "领取奖励",
     "go_to_deposit": "去充值",
-    "activity_amount_time_over": "{days}天{hours}小时{minutes}分钟{seconds}秒"
+    "activity_amount_time_over": "{days}天{hours}小时{minutes}分钟{seconds}秒",
+    "go_to_login": "去登录",
+    "activity_warm_focus": "温馨提示：活动期间，第一次充值钱包将会确定首充金额，首充金额将会影响您的首充奖励，请谨慎充值！",
+    "new_users": "新用户",
+    "activity_watch_all_asset": "查看总资产"
   },
   "en": {
     "activity_goto_invite": "Invitation bonus",
@@ -37,7 +41,11 @@
     "actually_aword": "Actual gains: ",
     "get_the_aword": "Claim award",
     "go_to_deposit": "Go deposit",
-    "activity_amount_time_over": "{days}days{hours}hours{minutes}minutes{seconds}seconds"
+    "activity_amount_time_over": "{days}days{hours}hours{minutes}minutes{seconds}seconds",
+    "go_to_login": "去登录",
+    "activity_warm_focus": "温馨提示：活动期间，第一次充值钱包将会确定首充金额，首充金额将会影响您的首充奖励，请谨慎充值！",
+    "new_users": "新用户",
+    "activity_watch_all_asset": "查看总资产"
   },
   "ko": {
     "activity_goto_invite": "요청 이벤트",
@@ -57,7 +65,11 @@
     "actually_aword": "실제 보상 금액 ：",
     "get_the_aword": "보상 수령하기",
     "go_to_deposit": "충전하기",
-    "activity_amount_time_over": "{days}일{hours}시{minutes}분{seconds}초"
+    "activity_amount_time_over": "{days}일{hours}시{minutes}분{seconds}초",
+    "go_to_login": "去登录",
+    "activity_warm_focus": "温馨提示：活动期间，第一次充值钱包将会确定首充金额，首充金额将会影响您的首充奖励，请谨慎充值！",
+    "new_users": "新用户",
+    "activity_watch_all_asset": "查看总资产"
   },
   "ja": {
     "activity_goto_invite": "友達を誘い",
@@ -77,7 +89,11 @@
     "actually_aword": "実際のボーナス金額：",
     "get_the_aword": "ボーナスを受け取る",
     "go_to_deposit": "チャージ",
-    "activity_amount_time_over": "{days}日{hours}時間{minutes}分{seconds}秒"
+    "activity_amount_time_over": "{days}日{hours}時間{minutes}分{seconds}秒",
+    "go_to_login": "去登录",
+    "activity_warm_focus": "温馨提示：活动期间，第一次充值钱包将会确定首充金额，首充金额将会影响您的首充奖励，请谨慎充值！",
+    "new_users": "新用户",
+    "activity_watch_all_asset": "查看总资产"
   },
   "ru": {
     "activity_goto_invite": "Invitation bonus",
@@ -97,7 +113,11 @@
     "actually_aword": "Actual gains: ",
     "get_the_aword": "Claim award",
     "go_to_deposit": "Go deposit",
-    "activity_amount_time_over": "{days}days{hours}hours{minutes}minutes{seconds}seconds"
+    "activity_amount_time_over": "{days}days{hours}hours{minutes}minutes{seconds}seconds",
+    "go_to_login": "去登录",
+    "activity_warm_focus": "温馨提示：活动期间，第一次充值钱包将会确定首充金额，首充金额将会影响您的首充奖励，请谨慎充值！",
+    "new_users": "新用户",
+    "activity_watch_all_asset": "查看总资产"
   },
   "vi": {
     "activity_goto_invite": "Invitation bonus",
@@ -117,7 +137,11 @@
     "actually_aword": "Actual gains: ",
     "get_the_aword": "Claim award",
     "go_to_deposit": "Go deposit",
-    "activity_amount_time_over": "{days}days{hours}hours{minutes}minutes{seconds}seconds"
+    "activity_amount_time_over": "{days}days{hours}hours{minutes}minutes{seconds}seconds",
+    "go_to_login": "去登录",
+    "activity_warm_focus": "温馨提示：活动期间，第一次充值钱包将会确定首充金额，首充金额将会影响您的首充奖励，请谨慎充值！",
+    "new_users": "新用户",
+    "activity_watch_all_asset": "查看总资产"
   },
   "zh-Hant": {
     "activity_goto_invite": "邀請送",
@@ -137,6 +161,9 @@
     "actually_aword": "實際獲得：",
     "get_the_aword": "領取獎勵",
     "go_to_deposit": "去充值",
-    "activity_amount_time_over": "{days}天{hours}小時{minutes}分鐘{seconds}秒"
-  }
+    "activity_amount_time_over": "{days}天{hours}小時{minutes}分鐘{seconds}秒",
+    "go_to_login": "去登录",
+    "activity_warm_focus": "温馨提示：活动期间，第一次充值钱包将会确定首充金额，首充金额将会影响您的首充奖励，请谨慎充值！",
+    "new_users": "新用户",
+    "activity_watch_all_asset": "查看总资产"
 }
