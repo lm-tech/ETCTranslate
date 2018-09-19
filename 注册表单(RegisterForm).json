@@ -91,10 +91,10 @@
     "register_step_one_title": " Coingame에 가입한 것을 환영합니다. ",
     "register_step_two_password_body_a": " 로그인 비밀번호 설정",
     "input_button_focus": "이메일이 정상 전달이 되지 않을 수 있으니, 스팸함도 확인 부탁드립니다. ",
-    "not_use_invite_code": "该用户邀请人数已满，将不能再获得邀请奖励",
-    "invite_code": "请输入邀请码",
-    "invite_code_max_used": "邀请码超过使用次数限制",
-    "invite_code_format_error": "邀请码不存在或者不符合规则"
+    "not_use_invite_code": "해당 유저는 요청 최대인수에 도달하여 더 이상 요청보상을 획득할 수 없습니다.",
+    "invite_code": "요청 코드를 입력해주세요",
+    "invite_code_max_used": "요청코드의 사용회수 제한을 초과하였습니다.",
+    "invite_code_format_error": "요청코드가 존재하지 않거나 규칙에 적용되지 않습니다."
   },
   "ja": {
     "input_validate_empty_nickname": "ニックネームを入力してください",
@@ -157,10 +157,10 @@
     "register_step_one_title": "Добро пожаловать, чтобы зарегистрироваться для Coingame",
     "register_step_two_password_body_a": "Установка пароля для входа",
     "input_button_focus": "Почта может не дойти до вашего почтового ящика гладко, пожалуйста, проверьте информацию в мусор",
-    "not_use_invite_code": "该用户邀请人数已满，将不能再获得邀请奖励",
-    "invite_code": "请输入邀请码",
-    "invite_code_max_used": "邀请码超过使用次数限制",
-    "invite_code_format_error": "邀请码不存在或者不符合规则"
+    "not_use_invite_code": "Reached the invitation limits, no more invitation reward",
+    "invite_code": "Enter the invitation code",
+    "invite_code_max_used": "Invitation code exceeds the usage limits",
+    "invite_code_format_error": "Invitation code not existing or invalid"
   },
   "vi": {
     "input_validate_empty_nickname": "xin nhập biệt danh",
@@ -190,10 +190,10 @@
     "register_step_one_title": "hoan nghênh đăng ký Coingame",
     "register_step_two_password_body_a": "cài đặc mật khẩu đăng nhập",
     "input_button_focus": "Mail có thể không có khả năng tiếp cận hộp thư của bạn thông suốt, vui lòng kiểm tra thông tin rác",
-    "not_use_invite_code": "该用户邀请人数已满，将不能再获得邀请奖励",
-    "invite_code": "请输入邀请码",
-    "invite_code_max_used": "邀请码超过使用次数限制",
-    "invite_code_format_error": "邀请码不存在或者不符合规则"
+    "not_use_invite_code": "Reached the invitation limits, no more invitation reward",
+    "invite_code": "Enter the invitation code",
+    "invite_code_max_used": "Invitation code exceeds the usage limits",
+    "invite_code_format_error": "Invitation code not existing or invalid"
   },
   "zh-Hant": {
     "input_validate_empty_nickname": "請輸入暱稱",
@@ -222,9 +222,9 @@
     "register_step_one_title": "歡迎註冊Coingame",
     "register_step_two_password_body_a": "設置登錄密碼",
     "input_button_focus": "郵件可能無法順利到達您的郵箱，請注意檢查垃圾箱內的信息",
-    "not_use_invite_code": "该用户邀请人数已满，将不能再获得邀请奖励",
-    "invite_code": "请输入邀请码",
-    "invite_code_max_used": "邀请码超过使用次数限制",
-    "invite_code_format_error": "邀请码不存在或者不符合规则"
+    "not_use_invite_code": "該用戶邀請人數已滿，將不能再獲得邀請獎勵",
+    "invite_code": "請輸入邀請碼",
+    "invite_code_max_used": "邀請碼超過使用次數限制",
+    "invite_code_format_error": "邀請碼不存在或者不符合規則"
   }
 }
