@@ -11,35 +11,35 @@
     "forcast_bet_single_time": "Time of betting: ",
     "forcast_bet_single_amount": "Betting amount: ",
     "forcast_bet_single_money": "Predicting amount: ",
-    "forcast_bet_closed": "收起"
+    "forcast_bet_closed": "Roll up"
   },
   "ko": {
     "forcast_bet_single_number": "베팅 오더 번호：",
     "forcast_bet_single_time": "베팅시간：",
     "forcast_bet_single_amount": "베팅수：",
     "forcast_bet_single_money": "베팅금액：",
-    "forcast_bet_closed": "收起"
+    "forcast_bet_closed": "닫기"
   },
   "ja": {
     "forcast_bet_single_number": "オーダーナンバー：",
     "forcast_bet_single_time": "発注時間：",
     "forcast_bet_single_amount": "ベッティング数：",
     "forcast_bet_single_money": "オーダー金額：",
-    "forcast_bet_closed": "收起"
+    "forcast_bet_closed": "戻る"
   },
   "ru": {
     "forcast_bet_single_number": "Betting slip number: ",
     "forcast_bet_single_time": "Time of betting: ",
     "forcast_bet_single_amount": "Betting amount: ",
     "forcast_bet_single_money": "Predicting amount: ",
-    "forcast_bet_closed": "收起"
+    "forcast_bet_closed": "Закрыть"
   },
   "vi": {
     "forcast_bet_single_number": "Betting slip number: ",
     "forcast_bet_single_time": "Time of betting: ",
     "forcast_bet_single_amount": "Betting amount: ",
     "forcast_bet_single_money": "Predicting amount: ",
-    "forcast_bet_closed": "收起"
+    "forcast_bet_closed": "Gơm lại"
   },
   "zh-Hant": {
     "forcast_bet_single_number": "投注單號：",
