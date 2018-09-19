@@ -14,18 +14,18 @@
     "give_table_bet_send": "下注返利"
   },
   "en": {
-    "give_table_number": "订单号",
-    "give_table_time": "时间",
-    "give_table_money": "金额",
-    "give_table_origin": "来源",
-    "give_table_type": "类型",
+    "give_table_number": "Order number",
+    "give_table_time": "Time
+    "give_table_money": "Amount
+    "give_table_origin": "Source
+    "give_table_type": "Type
     "give_table_no_data": "No data",
-    "give_table_register_send": "注册送",
-    "give_table_register_invite": "邀请注册",
-    "give_table_bet_invite": "邀请下注",
-    "give_table_bet_first": "首充送",
-    "give_table_activity_send": "活动赠送",
-    "give_table_bet_send": "下注返利"
+    "give_table_register_send": "Registering reward",
+    "give_table_register_invite": "Invite to register",
+    "give_table_bet_invite": "Invite to bet",
+    "give_table_bet_first": "First deposit reward",
+    "give_table_activity_send": "Activity reward",
+    "give_table_bet_send": "Betting rebate"
   },
   "ko": {
     "give_table_number": "订单号",
