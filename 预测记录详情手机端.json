@@ -19,10 +19,10 @@
     "forcast_bet_single_money": "베팅금액："
   },
   "ja": {
-    "forcast_bet_single_number": "投注单号：",
-    "forcast_bet_single_time": "投注时间：",
-    "forcast_bet_single_amount": "投注数：",
-    "forcast_bet_single_money": "预测金额："
+    "forcast_bet_single_number": "オーダーナンバー：",
+    "forcast_bet_single_time": "発注時間：",
+    "forcast_bet_single_amount": "ベッティング数：",
+    "forcast_bet_single_money": "オーダー金額："
   },
   "ru": {
     "forcast_bet_single_number": "Betting slip number: ",
