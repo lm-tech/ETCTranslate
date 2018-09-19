@@ -37,7 +37,7 @@
     "record_detail_forecast": "Запись прогноза",
     "record_detail_input": "Deposit History",
     "record_detail_output": "Withdrawal History",
-    "record_detail_give": "平台赠送"
+    "record_detail_give": "Presented by the platform"
   },
   "vi": {
     "record_detail_later_30": "trong vòng 30 ngày",
@@ -45,7 +45,7 @@
     "record_detail_forecast": "hồ sơ dự đoán",
     "record_detail_input": "Deposit History",
     "record_detail_output": "Withdrawal History",
-    "record_detail_give": "平台赠送"
+    "record_detail_give": "Presented by the platform"
   },
   "zh-Hant": {
     "record_detail_later_30": "最近30天",
@@ -53,6 +53,6 @@
     "record_detail_forecast": "預測記錄",
     "record_detail_input": "充值記錄",
     "record_detail_output": "提幣記錄",
-    "record_detail_give": "平台赠送"
+    "record_detail_give": "平臺贈送"
   }
 }
