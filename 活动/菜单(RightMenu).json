@@ -66,11 +66,10 @@
     "get_the_aword": "보상 수령하기",
     "go_to_deposit": "충전하기",
     "activity_amount_time_over": "{days}일{hours}시{minutes}분{seconds}초",
-    "go_to_login": "去登录",
-    "activity_warm_focus": "温馨提示：活动期间，第一次充值钱包将会确定首充金额，首充金额将会影响您的首充奖励，请谨慎充值！",
-    "new_users": "新用户",
-    "activity_watch_all_asset": "查看总资产"
-  },
+    "go_to_login": "로그인하기",
+    "activity_warm_focus": "주의:이벤트 기간 내에 최초 충전금액에 따라 최초 충전 이벤트 보상을 드리겠습니다. 확인한 후 신중하게 충전해주세요.",
+    "new_users": "신규 가입자",
+    "activity_watch_all_asset": "총 자산을 보기"
   "ja": {
     "activity_goto_invite": "友達を誘い",
     "activity_information_title": "情報センター",
