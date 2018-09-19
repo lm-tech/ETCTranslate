@@ -16,12 +16,12 @@
       "detail_bet_expired": "베팅 오더 최대치에 도달하였습니다"
     },
     "ru": {
-      "detail_time_left": "Time left:",
-      "detail_bet_expired": "Reached the prediction slip limit"
+      "detail_time_left": "Остальное время: ",
+      "detail_bet_expired": "Уже нет заказа ставки"
     },
     "vi": {
-      "detail_time_left": "Time left:",
-      "detail_bet_expired": "Reached the prediction slip limit"
+      "detail_time_left": "Thời gian còn lại:",
+      "detail_bet_expired": "Đơn cá cược đã đầy"
     },
     "zh-Hant": {
       "detail_time_left": "剩餘時間:",
