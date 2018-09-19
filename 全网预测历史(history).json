@@ -109,11 +109,11 @@
     "ball_over": "이상",
     "ball_under": "이하",
     "detail_history_title_amount_back": "환불",
-    "message_detail_back": "戻る",
-    "bet_detail_history": "下注详情",
+    "message_detail_back": "리턴",
+    "bet_detail_history": "베팅내역",
     "forcast_changeScreen_all": "전부",
-    "forecast_game_bos": "第{number}局",
-    "detail_game_all": "全场"
+    "forecast_game_bos": "제{number}회",
+    "detail_game_all": "올 코트"
   },
   "ru": {
     "detail_all_forecast_history": "Вся история сетевых прогнозов",
