@@ -40,18 +40,18 @@
     "deposit_address_focus_one": "Важная Подсказка：Запрещается перезарядка {currency} адреса. За исключением активов, отличных от {currency}, любые не-{currency} активы, возвращенные на адрес {currency}, не будут восстановлены.",
     "deposit_qrcode": "Пополнить QR-код",
     "detail_forecast_copied": "Уже скопировано",
-    "forecast_record_title": "Withdrawal History",
-    "forecast_record_recent_30_day": "Recent 30 days",
-    "forecast_record_custom": "Custom"
+    "forecast_record_title": "Запись снятия валюты",
+    "forecast_record_recent_30_day": "В последние 30 дней,
+    "forecast_record_custom": "Настроить самостоятельно"
   },
   "vi": {
     "deposit_address_title": "địa chỉ nạp tiền：",
     "deposit_address_focus_one": "Gợi ý: cấm địa chỉ quan trọng với {currency} nạp tiền trừ {currency} ngoài tài sản, bất kỳ nạp vào địa chỉ {currency} phi {currency} sẽ không thể lấy lại tài sản",
     "deposit_qrcode": "Nạp tiền mã QR",
     "detail_forecast_copied": "đã được sau chép",
-    "forecast_record_title": "Withdrawal History",
-    "forecast_record_recent_30_day": "Recent 30 days",
-    "forecast_record_custom": "Custom"
+    "forecast_record_title": "Nạp xu dự liệu",
+    "forecast_record_recent_30_day": "Gần nhất 30 ngày",
+    "forecast_record_custom": "Tuỳ chỉnh"
   },
   "zh-Hant": {
     "deposit_address_title": "充值地址：",
