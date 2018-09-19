@@ -188,11 +188,11 @@
     "withdraw_form_HASH_failed": "Hash수치 확인중",
     "record_table_cancel_forecast": "취소",
     "record_table_wait_award": "코인 입금 중",
-    "record_table_closed": "마강됨",
-    "forcast_bet_single_number": "投注单号",
-    "forcast_bet_single_time": "投注时间",
-    "forcast_bet_single_amount": "投注数",
-    "forcast_bet_single_money": "预测金额"
+    "record_table_closed": "마감됨",
+    "forcast_bet_single_number": "베팅 오더 번호",
+    "forcast_bet_single_time": "베팅 시간",
+    "forcast_bet_single_amount": "베팅수",
+    "forcast_bet_single_money": "베팅금액"
   },
   "ja": {
     "record_table_bets_time": "ベッティングをする時間",
