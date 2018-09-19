@@ -255,7 +255,7 @@
     "record_table_wait_award": "ボーナス入金処理中",
     "record_table_closed": "終了",
     "forcast_bet_single_number": "オーダーナンバー",
-    "forcast_bet_single_time": "オーダー時間",
+    "forcast_bet_single_time": "発注時間",
     "forcast_bet_single_amount": "ベッティング数",
     "forcast_bet_single_money": "オーダー金額"
   },
