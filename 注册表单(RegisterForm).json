@@ -140,14 +140,14 @@
     "register_step_two_password_body_a": "ログインパスワードの設置",
     "input_button_focus": "メールが届かない可能性があるため、一度「迷惑メール」フォルダをご確認ください",
     "not_use_invite_code": "招待者人数上限に達したので、招待ボーナスを受け取ることがもはやできません。",
-    "invite_code": "请输入邀请码（选填）",
+    "invite_code": "招待コードを入力してください（可選）",
     "invite_code_max_used": "招待コードの利用上限を超えました。",
     "invite_code_format_error": "招待コードが存在しないか、または非準拠である。",
-    "input_auto_login_notice": "后，系统将为您自动登录",
-    "input_intive_notice": "恭喜您获得邀请奖励{amount}ETH，可至资产中心查收",
-    "wait_check_invite_rward": "正在为您检查是否获得邀请奖励，请稍等...",
-    "go_asset_center": "去资产中心",
-    "go_activity_page": "去活动页"
+    "input_auto_login_notice": "ｘｘ秒後にシステムは自動登録される。",
+    "input_intive_notice": "おめでとう！招待ボーナス{amount}ETH獲得、資産センターまでご査収ください。",
+    "wait_check_invite_rward": "只今お招待ボーナスの獲得確認中、少々お待ちください。",
+    "go_asset_center": "資産センターへ",
+    "go_activity_page": "イベントページへ"
   },
   "ru": {
     "input_validate_empty_nickname": "Пожалуйста, введите прозвище",
