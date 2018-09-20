@@ -7,7 +7,10 @@
     "assets_center_all": "总资产",
     "assets_center_nofrozen": "可用资产",
     "assets_center_go_to_all_balance": "查看总资产",
-    "assets_center_go_to_nofrozen_balance": "查看可用资产"
+    "assets_center_go_to_nofrozen_balance": "查看可用资产",
+    "assets_center_portable_assets": "可提资产",
+    "assets_center_cannot_portable_assets": "不可提资产",
+    "assets_center_fronzen_assets": "冻结资产"
   },
   "en": {
     "assets_center_focus": "No withdrawal password, please set withdrawal password for account security",
@@ -17,7 +20,10 @@
     "assets_center_all": "Total assets",
     "assets_center_nofrozen": "Available assets",
     "assets_center_go_to_all_balance": "Check total assets",
-    "assets_center_go_to_nofrozen_balance": "Check available assets"
+    "assets_center_go_to_nofrozen_balance": "Check available assets",
+    "assets_center_portable_assets": "可提资产",
+    "assets_center_cannot_portable_assets": "不可提资产",
+    "assets_center_fronzen_assets": "冻结资产"
   },
   "ko": {
     "assets_center_focus": " 계정은 코인 출금 비밀번호를 설치하지 않았습니다. 계정의 보안을 위해 코인출금 비밀번호를 설치해 주세요",
@@ -27,7 +33,10 @@
     "assets_center_all": "총자산",
     "assets_center_nofrozen": "이용가능 자산",
     "assets_center_go_to_all_balance": "총자산을 확인합니다.",
-    "assets_center_go_to_nofrozen_balance": "이용가능자산을 확인합니다."
+    "assets_center_go_to_nofrozen_balance": "이용가능자산을 확인합니다.",
+    "assets_center_portable_assets": "可提资产",
+    "assets_center_cannot_portable_assets": "不可提资产",
+    "assets_center_fronzen_assets": "冻结资产"
   },
   "ja": {
     "assets_center_focus": "アカウントの安全を守るためには、出金パスワードを設定してください",
@@ -37,7 +46,10 @@
     "assets_center_all": "総資産",
     "assets_center_nofrozen": "可用資産",
     "assets_center_go_to_all_balance": "総資産をチェック",
-    "assets_center_go_to_nofrozen_balance": "可用資産をチェック"
+    "assets_center_go_to_nofrozen_balance": "可用資産をチェック",
+    "assets_center_portable_assets": "可提资产",
+    "assets_center_cannot_portable_assets": "不可提资产",
+    "assets_center_fronzen_assets": "冻结资产"
   },
   "ru": {
     "assets_center_focus": "Учетная запись не имеет пароля извлечения. Чтобы защитить свою учетную запись, сначала установите извлеченный пароль",
@@ -47,7 +59,10 @@
     "assets_center_all": "Общие активы",
     "assets_center_nofrozen": "Доступные активы",
     "assets_center_go_to_all_balance": "Просмотр общих активов",
-    "assets_center_go_to_nofrozen_balance": "Просмотр доступных активов"
+    "assets_center_go_to_nofrozen_balance": "Просмотр доступных активов",
+    "assets_center_portable_assets": "可提资产",
+    "assets_center_cannot_portable_assets": "不可提资产",
+    "assets_center_fronzen_assets": "冻结资产"
   },
   "vi": {
     "assets_center_focus": "Trương mục chưa được thiết lập mật khẩu tiền tệ, để bảo vệ bảo mật tài khoản của bạn, hãy thiết lập mật khẩu",
@@ -57,7 +72,10 @@
     "assets_center_all": "tổng tài sản",
     "assets_center_nofrozen": "tài sản có thể dùng",
     "assets_center_go_to_all_balance": "kiểm tra tổng tài sản",
-    "assets_center_go_to_nofrozen_balance": "kiểm tra số tiền có thể dùng"
+    "assets_center_go_to_nofrozen_balance": "kiểm tra số tiền có thể dùng",
+    "assets_center_portable_assets": "可提资产",
+    "assets_center_cannot_portable_assets": "不可提资产",
+    "assets_center_fronzen_assets": "冻结资产"
   },
   "zh-Hant": {
     "assets_center_focus": "該帳戶尚未設置提幣密碼，為保障您的帳戶安全，請先設置提幣密碼",
@@ -67,6 +85,9 @@
     "assets_center_all": "總資產",
     "assets_center_nofrozen": "可用資產",
     "assets_center_go_to_all_balance": "查看總資產",
-    "assets_center_go_to_nofrozen_balance": "查看可用資產"
+    "assets_center_go_to_nofrozen_balance": "查看可用資產",
+    "assets_center_portable_assets": "可提资产",
+    "assets_center_cannot_portable_assets": "不可提资产",
+    "assets_center_fronzen_assets": "冻结资产"
   }
 }
