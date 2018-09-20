@@ -16,7 +16,8 @@
     "bets_currency_tip": "可以在这里切换首选下注币种哦〜我们将优先为您提供该币种相关预测题",
     "i_konw": "我知道了",
     "forecast_center": "预测中心",
-    "user_center": "个人中心"
+    "user_center": "个人中心",
+    "activity_title": "ETH来就送"
   },
   "en": {
     "header_title_word_cup": "Soccer",
@@ -35,7 +36,8 @@
     "bets_currency_tip": "Choose your preferred currency for prediction",
     "i_konw": "I know",
     "forecast_center": "Prediction Center",
-    "user_center": "Personal Center"
+    "user_center": "Personal Center",
+    "activity_title": "ETH来就送"
   },
   "ja": {
     "header_title_word_cup": "サッカー",
@@ -54,7 +56,8 @@
     "bets_currency_tip": "ここでベッティングコインを選んでください。選んだコインによって最適なベッティング問題を用意します。",
     "i_konw": "かしこまりました",
     "forecast_center": "ベッティングセンター",
-    "user_center": "ユーザーセンター"
+    "user_center": "ユーザーセンター",
+    "activity_title": "ETH来就送"
   },
   "ko": {
     "header_title_word_cup": "축구",
@@ -73,7 +76,8 @@
     "bets_currency_tip": "여기서 선호 화폐 종류를 세팅할 수 있습니다~ 저희는 해당 화폐 종류에 관련된 예측퀴즈를 우선 제공해드리겠습니다.",
     "i_konw": "확인하였습니다",
     "forecast_center": "예측센터",
-    "user_center": "개인센터"
+    "user_center": "개인센터",
+    "activity_title": "ETH来就送"
   },
   "ru": {
     "header_title_word_cup": "Футбол",
@@ -92,7 +96,8 @@
     "bets_currency_tip": "Choose your preferred currency for prediction",
     "i_konw": "I know",
     "forecast_center": "Prediction Center",
-    "user_center": "Личный центр"
+    "user_center": "Личный центр",
+    "activity_title": "ETH来就送"
   },
   "vi": {
     "header_title_word_cup": "Bóng đá",
@@ -111,7 +116,8 @@
     "bets_currency_tip": "Choose your preferred currency for prediction",
     "i_konw": "I know",
     "forecast_center": "Prediction Center",
-    "user_center": "Trung tâm cá nhân"
+    "user_center": "Trung tâm cá nhân",
+    "activity_title": "ETH来就送"
   },
   "zh-Hant": {
     "header_title_word_cup": "足球",
@@ -130,6 +136,7 @@
     "bets_currency_tip": "可以在這裡切換首選下注幣種哦〜我們將優先為您提供該幣種相關預測題",
     "i_konw": "我知道了",
     "forecast_center": "預測中心",
-    "user_center": "個人中心"
+    "user_center": "個人中心",
+    "activity_title": "ETH来就送"
   }
 }
