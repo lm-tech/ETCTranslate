@@ -26,7 +26,8 @@
     "activity_aword": "活动奖励",
     "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
     "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励"
+    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
+    "non_login_tip": "欢迎您，快去登录参与活动"
   },
   "en": {
     "activity_goto_invite": "Invitation bonus",
@@ -55,7 +56,8 @@
     "activity_aword": "活动奖励",
     "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
     "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励"
+    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
+    "non_login_tip": "欢迎您，快去登录参与活动"
   },
   "ko": {
     "activity_goto_invite": "요청 이벤트",
@@ -84,7 +86,8 @@
     "activity_aword": "活动奖励",
     "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
     "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励"
+    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
+    "non_login_tip": "欢迎您，快去登录参与活动"
   },
   "ja": {
     "activity_goto_invite": "友達を誘い",
@@ -113,7 +116,8 @@
     "activity_aword": "活动奖励",
     "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
     "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励"
+    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
+    "non_login_tip": "欢迎您，快去登录参与活动"
   },
   "ru": {
     "activity_goto_invite": "Invitation bonus",
@@ -142,7 +146,8 @@
     "activity_aword": "活动奖励",
     "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
     "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励"
+    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
+    "non_login_tip": "欢迎您，快去登录参与活动"
   },
   "vi": {
     "activity_goto_invite": "Invitation bonus",
@@ -171,7 +176,8 @@
     "activity_aword": "活动奖励",
     "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
     "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励"
+    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
+    "non_login_tip": "欢迎您，快去登录参与活动"
   },
   "zh-Hant": {
     "activity_goto_invite": "邀請送",
@@ -200,6 +206,7 @@
     "activity_aword": "活动奖励",
     "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
     "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励"
+    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
+    "non_login_tip": "欢迎您，快去登录参与活动"
   }
 }
