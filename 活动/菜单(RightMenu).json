@@ -112,12 +112,12 @@
     "activity_warm_focus": "ご注意：イベントに参加する際、初チャージのボーナスはチャージ金額次第ということをご了承ください。",
     "new_users": "新規ユーザー",
     "activity_watch_all_asset": "総資産をチェック",
-    "activity_goto_register": "注册送",
-    "activity_aword": "活动奖励",
-    "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
-    "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
-    "non_login_tip": "欢迎您，快去登录参与活动"
+    "activity_goto_register": "登録ボーナス",
+    "activity_aword": "イベントボーナス",
+    "activity_register_default_text": "「登録ボーナス」の抽選イベントで登録ボーナスを獲得",
+    "activity_doposit_default_text": "プラットフォームでの初チャージ完了後ボーナスを獲得",
+    "activity_invite_default_text": "プラットフォームでのチャージ完了後、友達招待権と招待ボーナスを獲得",
+    "non_login_tip": "ようこそ、早速登録してイベントに参加しよう"
   },
   "ru": {
     "activity_goto_invite": "Invitation bonus",
