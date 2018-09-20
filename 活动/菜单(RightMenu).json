@@ -142,12 +142,12 @@
     "activity_warm_focus": "Tips: During the period, first-time deposit with the wallet will determine how much you deposit and the first such deposit amount will impact your first deposit reward, so deposit carefully!",
     "new_users": "New user",
     "activity_watch_all_asset": "Check total assets",
-    "activity_goto_register": "注册送",
-    "activity_aword": "活动奖励",
-    "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
-    "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
-    "non_login_tip": "欢迎您，快去登录参与活动"
+    "activity_goto_register": "Registration rewards",
+    "activity_aword": "Activity awards",
+    "activity_register_default_text": "You can attend\"Registration rewards\"to draw the rewards",
+    "activity_doposit_default_text": "Complete platform first deposit rewards to get first deposit rebate",
+    "activity_invite_default_text": "Please complete platform deposit and get the invitation privilege to get invitation rewards",
+    "non_login_tip": "Welcome, go login and join the activities"
   },
   "vi": {
     "activity_goto_invite": "Invitation bonus",
@@ -172,12 +172,12 @@
     "activity_warm_focus": "Tips: During the period, first-time deposit with the wallet will determine how much you deposit and the first such deposit amount will impact your first deposit reward, so deposit carefully!",
     "new_users": "New user",
     "activity_watch_all_asset": "Check total assets",
-    "activity_goto_register": "注册送",
-    "activity_aword": "活动奖励",
-    "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
-    "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
-    "non_login_tip": "欢迎您，快去登录参与活动"
+    "activity_goto_register": "Registration rewards",
+    "activity_aword": "Activity awards",
+    "activity_register_default_text": "You can attend\"Registration rewards\"to draw the rewards",
+    "activity_doposit_default_text": "Complete platform first deposit rewards to get first deposit rebate",
+    "activity_invite_default_text": "Please complete platform deposit and get the invitation privilege to get invitation rewards",
+    "non_login_tip": "Welcome, go login and join the activities"
   },
   "zh-Hant": {
     "activity_goto_invite": "邀請送",
@@ -202,11 +202,11 @@
     "activity_warm_focus": "溫馨提示：活動期間，第一次充值錢包將會確定首充金額，首充金額將會影響您的首充獎勵，請謹慎充值！",
     "new_users": "新用戶",
     "activity_watch_all_asset": "查看總資產",
-    "activity_goto_register": "注册送",
-    "activity_aword": "活动奖励",
-    "activity_register_default_text": "您可以参与\"注册送\"活动抽取注册奖励",
-    "activity_doposit_default_text": "完成平台首次充值奖获得首充返利",
-    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
-    "non_login_tip": "欢迎您，快去登录参与活动"
+    "activity_goto_register": "註冊送",
+    "activity_aword": "活動獎勵",
+    "activity_register_default_text": "您可以參與\"註冊送\"活動抽取註冊獎勵",
+    "activity_doposit_default_text": "完成平臺首次充值獎獲得首充返利",
+    "activity_invite_default_text": "請完成平臺充值後獲得邀請資格，獲得邀請獎勵",
+    "non_login_tip": "歡迎您，快去登錄參與活動"
   }
 }
