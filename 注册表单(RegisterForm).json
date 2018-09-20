@@ -178,14 +178,14 @@
     "register_step_two_password_body_a": "Установка пароля для входа",
     "input_button_focus": "Почта может не дойти до вашего почтового ящика гладко, пожалуйста, проверьте информацию в мусор",
     "not_use_invite_code": "Reached the invitation limits, no more invitation reward",
-    "invite_code": "请输入邀请码（选填）",
+    "invite_code": "Введите код приглашения （опциональный）",
     "invite_code_max_used": "Invitation code exceeds the usage limits",
     "invite_code_format_error": "Invitation code not existing or invalid",
-    "input_auto_login_notice": "后，系统将为您自动登录",
-    "input_intive_notice": "恭喜您获得邀请奖励{amount}ETH，可至资产中心查收",
-    "wait_check_invite_rward": "正在为您检查是否获得邀请奖励，请稍等...",
-    "go_asset_center": "去资产中心",
-    "go_activity_page": "去活动页"
+    "input_auto_login_notice": "После, система поможет вам автоматически войти ",
+    "input_intive_notice": "Поздравляем вас получать награду приглашения {amount}ETH, можно принимать в Центре активов",
+    "wait_check_invite_rward": "Проверка бонуса за приглашение, пожалуйста, подождите ...",
+    "go_asset_center": "Перейти в центр активов",
+    "go_activity_page": "Перейти на страницу активности"
   },
   "vi": {
     "input_validate_empty_nickname": "xin nhập biệt danh",
@@ -216,14 +216,14 @@
     "register_step_two_password_body_a": "cài đặc mật khẩu đăng nhập",
     "input_button_focus": "Mail có thể không có khả năng tiếp cận hộp thư của bạn thông suốt, vui lòng kiểm tra thông tin rác",
     "not_use_invite_code": "Reached the invitation limits, no more invitation reward",
-    "invite_code": "请输入邀请码（选填）",
+    "invite_code": "Please enter the invitation code (optional)",
     "invite_code_max_used": "Invitation code exceeds the usage limits",
     "invite_code_format_error": "Invitation code not existing or invalid",
-    "input_auto_login_notice": "后，系统将为您自动登录",
-    "input_intive_notice": "恭喜您获得邀请奖励{amount}ETH，可至资产中心查收",
-    "wait_check_invite_rward": "正在为您检查是否获得邀请奖励，请稍等...",
-    "go_asset_center": "去资产中心",
-    "go_activity_page": "去活动页"
+    "input_auto_login_notice": "After, the system will automate the login",
+    "input_intive_notice": "Congrats! You have won the rewards of {amount}ETH, go check and get them at the Assets Center",
+    "wait_check_invite_rward": "Checking if you have won the rewards, please wait...",
+    "go_asset_center": "Go to the Assets Center",
+    "go_activity_page": "Go to the activity page"
   },
   "zh-Hant": {
     "input_validate_empty_nickname": "請輸入暱稱",
@@ -256,10 +256,10 @@
     "invite_code": "请输入邀请码（选填）",
     "invite_code_max_used": "邀請碼超過使用次數限制",
     "invite_code_format_error": "邀請碼不存在或者不符合規則",
-    "input_auto_login_notice": "后，系统将为您自动登录",
-    "input_intive_notice": "恭喜您获得邀请奖励{amount}ETH，可至资产中心查收",
-    "wait_check_invite_rward": "正在为您检查是否获得邀请奖励，请稍等...",
-    "go_asset_center": "去资产中心",
-    "go_activity_page": "去活动页"
+    "input_auto_login_notice": "後，系統將為您自動登錄",
+    "input_intive_notice": "恭喜您獲得邀請獎勵{amount}ETH，可至資產中心查收",
+    "wait_check_invite_rward": "正在為您檢查是否獲得邀請獎勵，請稍等...",
+    "go_asset_center": "去資產中心",
+    "go_activity_page": "去活動頁"
   }
 }
