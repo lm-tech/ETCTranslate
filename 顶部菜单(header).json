@@ -37,7 +37,7 @@
     "i_konw": "I know",
     "forecast_center": "Prediction Center",
     "user_center": "Personal Center",
-    "activity_title": "ETH来就送"
+    "activity_title": "Early bird ETH rewards"
   },
   "ja": {
     "header_title_word_cup": "サッカー",
@@ -57,7 +57,7 @@
     "i_konw": "かしこまりました",
     "forecast_center": "ベッティングセンター",
     "user_center": "ユーザーセンター",
-    "activity_title": "ETH来就送"
+    "activity_title": "HプレゼントGET"
   },
   "ko": {
     "header_title_word_cup": "축구",
@@ -77,7 +77,7 @@
     "i_konw": "확인하였습니다",
     "forecast_center": "예측센터",
     "user_center": "개인센터",
-    "activity_title": "ETH来就送"
+    "activity_title": "Coingame에 참여하고 ETH 받자"
   },
   "ru": {
     "header_title_word_cup": "Футбол",
@@ -97,7 +97,7 @@
     "i_konw": "I know",
     "forecast_center": "Prediction Center",
     "user_center": "Личный центр",
-    "activity_title": "ETH来就送"
+    "activity_title": "Early bird ETH rewards"
   },
   "vi": {
     "header_title_word_cup": "Bóng đá",
@@ -117,7 +117,7 @@
     "i_konw": "I know",
     "forecast_center": "Prediction Center",
     "user_center": "Trung tâm cá nhân",
-    "activity_title": "ETH来就送"
+    "activity_title": "Early bird ETH rewards"
   },
   "zh-Hant": {
     "header_title_word_cup": "足球",
@@ -137,6 +137,6 @@
     "i_konw": "我知道了",
     "forecast_center": "預測中心",
     "user_center": "個人中心",
-    "activity_title": "ETH来就送"
+    "activity_title": "ETH來就送"
   }
 }
