@@ -97,7 +97,7 @@
     "record_table_type_balls": "O/U",
     "record_table_fetch": "Announced",
     "record_table_lose": "Not announced",
-    "record_table_betting": "In forecasting",
+    "record_table_betting": "In process",
     "record_table_betting_fail": "Order failed",
     "record_table_detail_type": "Deposit",
     "record_table_income_cancel": "Refund",
