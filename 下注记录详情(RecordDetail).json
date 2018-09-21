@@ -8,12 +8,12 @@
     "record_detail_give": "平台赠送"
   },
   "en": {
-    "record_detail_later_30": "Past 30 days",
-    "record_detail_custom": "Default",
+    "record_detail_later_30": "Recent 30 days",
+    "record_detail_custom": "Custom",
     "record_detail_forecast": "Forecast records",
     "record_detail_input": "Deposit History",
     "record_detail_output": "Withdrawal History",
-    "record_detail_give": "Presented by the platform"
+    "record_detail_give": "Platform Reward"
   },
   "ko": {
     "record_detail_later_30": "최근 30일",
