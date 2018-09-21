@@ -124,7 +124,7 @@
     "detail_lottery_title_content_eight": "中国福利彩票，开奖信息可在http://www.cwl.gov.cn查询。",
     "detail_lottery_title_content_nine": "韩国Lotto，开奖信息可在http://www.nlotto.co.kr查询。",
     "detail_lottery_title_content_ten": "美国PowerBall，开奖信息可在https://www.powerball.com/查询。",
-    "detail_notice": "如有遇到任何问题，请通过客服email与我们联系：support@coingame.org"
+    "detail_notice": "如有遇到任何问题，请通过客服email与我们联系：support@coingame.com"
   },
   "en": {
     "detail_big_title": "A Next Generation Prediction Platform",
@@ -221,7 +221,8 @@
     "detail_football_explain_3_handicap_content_three": ">3 goals",
     "detail_football_explain_3_handicap_content_four": "-If there are 4 or more goals, this prediction wins. If there are 3 goals, the wager will be returned. If there is no goal or only 1 or 2 goals, this prediction loses.",
     "detail_game_title": "eSports Prediction ",
-    "detail_game_content_one": "All eSports predictions are subject to the results of the official time of the event, unless otherwise stated. If the outcome of the event does not allow for a draw, the outcome of the overtime event will be considered as the final effective result. The prediction settlement for all events is subject to the official final event results announced by the relevant event organizer.",
+    "detail_game_content_one": "All eSports predictions are subject to the results of the official time of the event, unless otherwise stated. If the outcome of the event does not allow for a draw, the outcome of the overtime event will be considered as the final effective result. The prediction settlement for all events is subject to the official final event results announced by the relevant event 
+    anizer.",
     "detail_game_content_two": "Based on unpredictable situations, such as cheating, the organizer can overturn the results and all predictions on the event will be voided and refunded. If the organizer announces that the competition is a win by no matching, that is, the match never starts and the team wins, all predictions are void. If a team or team members withdraw during the game, a valid prediction will be awarded based on the official results. If the prediction type is win or lose, the ball and the match totals will be void unless the match is completed.",
     "detail_game_content_three": "In the event that only one team enters or the other team withdraws, all undetermined prediction types are void.",
     "detail_game_content_four": "If the event is not completed, all undetermined prediction types will be void.",
@@ -251,7 +252,7 @@
     "detail_lottery_title_content_eight": "China Welfare Lottery, the lottery information can be found at http://www.cwl.gov.cn.",
     "detail_lottery_title_content_nine": "South Korea Lotto, the lottery information can be found at http://www.nlotto.co.kr.",
     "detail_lottery_title_content_ten": "US PowerBall, the lottery information can be found at https://www.powerball.com/.",
-    "detail_notice": "If you have any concerns, please contact customer service at: support@coingame.org"
+    "detail_notice": "If you have any concerns, please contact customer service at: support@coingame.com"
   },
   "ko": {
     "detail_big_title": "차세대 예측 플랫폼",
@@ -378,7 +379,7 @@
     "detail_lottery_title_content_eight": "중국 복지 복권,추첨 정보는 http://www.cwl.gov.cn에서 확인할 수 있다.",
     "detail_lottery_title_content_nine": "한국Lotto, 추첨 정보는 http://www.nlotto.co.kr에서 확인할 수 있다.",
     "detail_lottery_title_content_ten": "미국 PowerBall, 추첨 정보는 https://www.powerball.com/에서 확인할 수 있다.",
-    "detail_notice": "문제가 발생하면 고객 서비스 이메일 support@coingame.org을 통해 문의하십시오"
+    "detail_notice": "문제가 발생하면 고객 서비스 이메일 support@coingame.com을 통해 문의하십시오"
   },
   "ja": {
     "detail_big_title": "次世代のスポーツベッティングプラットフォーム",
@@ -505,7 +506,7 @@
     "detail_lottery_title_content_eight": "中国福利宝くじ、抽選結果に関する：http://www.cwl.gov.cnで検索できます。",
     "detail_lottery_title_content_nine": "韓国Lotto、抽選結果に関する：http://www.nlotto.co.krで検索できます。",
     "detail_lottery_title_content_ten": "アメリカPowerBall、抽選結果に関する：https://www.powerball.com/で検索できます。",
-    "detail_notice": "何か問題がありましたら、こちらのメール（support@coingame.org）までご連絡ください。"
+    "detail_notice": "何か問題がありましたら、こちらのメール（support@coingame.com）までご連絡ください。"
   },
   "ru": {
     "detail_big_title": "Платформа угадывания следующего поколения",
@@ -632,7 +633,7 @@
     "detail_lottery_title_content_eight": "Китай благосостояния лотереи, информация лотереи можно найти на http://www.cwl.gov.cn",
     "detail_lottery_title_content_nine": "Южная Корея Лото, информация лотереи можно найти на http://www.nlotto.co.kr",
     "detail_lottery_title_content_ten": "US PowerBall, информация лотереи можно найти на https://www.powerball.com",
-    "detail_notice": "Если у вас возникли проблемы, свяжитесь с нами по электронной почте:  support@coingame.org"
+    "detail_notice": "Если у вас возникли проблемы, свяжитесь с нами по электронной почте:  support@coingame.com"
   },
   "vi": {
     "detail_big_title": "Dự đoán nền tảng cho các thế hệ kế tiếp",
@@ -759,7 +760,7 @@
     "detail_lottery_title_content_eight": "Trung Quốc xổ số phúc lợi, thông tin xổ số có sẵn trong :http://www.cwl.gov.cn .mời kiểm tra.",
     "detail_lottery_title_content_nine": "Hàn Quốc Lotto thông tin xổ số có sẵn trong : http://www.nlotto.co.kr  mời kiểm tra.",
     "detail_lottery_title_content_ten": "Mỹ PowerBall, thông tin xổ số có sẵn trong: www.powerball.com/ mời kiểm tra.",
-    "detail_notice": "Nếu có gặp vấn đề gì, xin hãy liên lạc với chúng tôi qua email trực tiếp: support@coingame.org"
+    "detail_notice": "Nếu có gặp vấn đề gì, xin hãy liên lạc với chúng tôi qua email trực tiếp: support@coingame.com"
   },
   "zh-Hant": {
     "detail_big_title": "下一代的預測平台",
@@ -886,6 +887,6 @@
     "detail_lottery_title_content_eight": "中國福利彩票，開獎信息可在http://www.cwl.gov.cn查詢。",
     "detail_lottery_title_content_nine": "韓國Lotto，開獎信息可在http://www.nlotto.co.kr查詢。",
     "detail_lottery_title_content_ten": "美國PowerBall，開獎信息可在https://www.powerball.com/查詢。",
-    "detail_notice": "如有遇到任何問題，請通過客服email與我們聯繫：support@coingame.org"
+    "detail_notice": "如有遇到任何問題，請通過客服email與我們聯繫：support@coingame.com"
   }
 }
