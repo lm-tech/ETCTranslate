@@ -107,7 +107,7 @@
     "not_bets_tip1": "Эта опция подтверждается в блокчейне, позже посмотрите состояние ставки",
     "not_bets_tip2": "Извините, эта опция не может делать ставку этой валютой",
     "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку",
-    "bet_coupon": "Non-withdrawable assets deduction"
+    "bet_coupon": "Вычет неснимаемых активов"
   },
   "vi": {
     "detail_forecast_title": "{currency}dự báo",
@@ -129,7 +129,7 @@
     "not_bets_tip1": "Tùy chọn này đang trong khối xác nhận chuỗi,sau một thời gian hãy chú ý đến tình trạng cá cược",
     "not_bets_tip2": "Xin lỗi, tùy chọn này không có sẵn cho cá cược trong loại tiền tệ này",
     "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược.",
-    "bet_coupon": "Non-withdrawable assets deduction"
+    "bet_coupon": "Không thể rút tài sản thế chấp"
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
