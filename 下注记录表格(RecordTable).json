@@ -116,7 +116,7 @@
     "record_table_half_win": "Award (half win)",
     "record_table_half_lost": "Award (half lose)",
     "record_table_draw": "Award (draw)",
-    "record_table_income_bet": "Forecast",
+    "record_table_income_bet": "Place Forecast",
     "record_table_status_under_review": "Reviewing",
     "record_table_detail_status_processing": "Contract pending",
     "withdraw_form_HASH": "Hash value:",
