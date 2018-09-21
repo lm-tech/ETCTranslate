@@ -14,7 +14,10 @@
     "close_button1": "不要奖励了",
     "close_button2": "点错了",
     "close_button3": "关闭",
-    "close_button4": "去查看"
+    "close_button4": "去查看",
+    "activity_not_start": "活动未开始",
+    "activity_aleray_end": "活动已结束",
+    "activity_error": "网络错误或者抽奖超过次数限制"
   },
   "en": {
     "current_surplus": "Remains of this session",
@@ -31,7 +34,10 @@
     "close_button1": "Discard",
     "close_button2": "Back to previous dialogue",
     "close_button3": "Close",
-    "close_button4": "Go check"
+    "close_button4": "Go check",
+    "activity_not_start": "活动未开始",
+    "activity_aleray_end": "活动已结束",
+    "activity_error": "网络错误或者抽奖超过次数限制"
   },
   "ko": {
     "current_surplus": "이 번회 남은 금액",
@@ -48,7 +54,10 @@
     "close_button1": "보상을 포기합니다.",
     "close_button2": "잘 못 눌렀습니다.",
     "close_button3": "닫기",
-    "close_button4": "확인하기"
+    "close_button4": "확인하기",
+    "activity_not_start": "活动未开始",
+    "activity_aleray_end": "活动已结束",
+    "activity_error": "网络错误或者抽奖超过次数限制"
   },
   "ja": {
     "current_surplus": "残り賞金",
@@ -65,7 +74,10 @@
     "close_button1": "ボーナスがいらない。",
     "close_button2": "押し間違う",
     "close_button3": "閉める",
-    "close_button4": "チェック"
+    "close_button4": "チェック",
+    "activity_not_start": "活动未开始",
+    "activity_aleray_end": "活动已结束",
+    "activity_error": "网络错误或者抽奖超过次数限制"
   },
   "ru": {
     "current_surplus": "Remains of this session",
@@ -82,7 +94,10 @@
     "close_button1": "Discard",
     "close_button2": "Back to previous dialogue",
     "close_button3": "Close",
-    "close_button4": "Go check"
+    "close_button4": "Go check",
+    "activity_not_start": "活动未开始",
+    "activity_aleray_end": "活动已结束",
+    "activity_error": "网络错误或者抽奖超过次数限制"
   },
   "vi": {
     "current_surplus": "Remains of this session",
@@ -99,7 +114,10 @@
     "close_button1": "Discard",
     "close_button2": "Back to previous dialogue",
     "close_button3": "Close",
-    "close_button4": "Go check"
+    "close_button4": "Go check",
+    "activity_not_start": "活动未开始",
+    "activity_aleray_end": "活动已结束",
+    "activity_error": "网络错误或者抽奖超过次数限制"
   },
   "zh-Hant": {
     "current_surplus": "本期剩餘",
@@ -116,6 +134,9 @@
     "close_button1": "不要獎勵了",
     "close_button2": "點錯了",
     "close_button3": "關閉",
-    "close_button4": "去查看"
+    "close_button4": "去查看",
+    "activity_not_start": "活动未开始",
+    "activity_aleray_end": "活动已结束",
+    "activity_error": "网络错误或者抽奖超过次数限制"
   }
 }
