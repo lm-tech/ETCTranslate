@@ -48,28 +48,28 @@
     "activity_register_top_title": "早速ゲームを登録して賞金稼ぎ！"
   },
   "ru": {
-    "activity_register_title": "Activity rules:",
-    "activity_register_title_close": "Unfold to check activity rules",
+    "activity_register_title": "Promotion rules:",
+    "activity_register_title_close": "Unfold to check more rules",
     "activity_register_content_one": "1. Activity time: To be determined",
-    "activity_register_content_two": "2. The activity is divided into seven phases. Each reward is limited; however, each undistributed reward will be accumulated and handed out at the next distribution time;",
-    "activity_register_content_three": "3. Each phase will last for 24 hours, and will not be affected by the reward amount;",
-    "activity_register_content_four": "4. Each user can participate in only one activity; users with the same IP, MAC, and email address will be treated as a single user;",
-    "activity_register_content_five": "5. Upon login, a user will be rewarded immediately; an unregistered user, or a user who has not logged in yet, will be rewarded on final registration;",
-    "activity_register_content_six": "6. For users who have played the slots but have not received any reward after logging in, it is suggested to register first or login before playing;",
-    "activity_register_content_seven": "7. The highest reward of the event is 0.0499ETH, and can only be used for predictions. Please check your account after the reward announcement.",
-    "activity_register_top_title": "Play Slots, Register, and Win Bonuses of up to 499!"
+    "activity_register_content_two": "2. Seven sessions consisting of the activity with each session giving limited awards and unsent awards accumulated in the next session;",
+    "activity_register_content_three": "3. Eash session continues for 24 hours and is not impacted by award amount;",
+    "activity_register_content_four": "4. One user one participation; any user with the same IP, MAC, email box will be deemed as the same user;",
+    "activity_register_content_five": "5.  Only login member will be rewarded immediately; non-registered or non-login user shall be subject to the reward reaching the account upon final registration or login;",
+    "activity_register_content_six": "6. The user might not receive the reward timely if he/she logs in after playing the slots; we would suggest registering or logging in first;",
+    "activity_register_content_seven": "7. The maximum reward of the event is 0.0499 ETH and all the reward can only be used for prediction. Please check the account after the reward announcement.",
+    "activity_register_top_title": "Play Slots, Register, and Win the Bonus up to 499!"
   },
   "vi": {
-    "activity_register_title": "Activity rules:",
-    "activity_register_title_close": "Unfold to check activity rules",
+    "activity_register_title": "Promotion rules:",
+    "activity_register_title_close": "Unfold to check more rules",
     "activity_register_content_one": "1. Activity time: To be determined",
-    "activity_register_content_two": "2. The activity is divided into seven phases. Each reward is limited; however, each undistributed reward will be accumulated and handed out at the next distribution time;",
-    "activity_register_content_three": "3. Each phase will last for 24 hours, and will not be affected by the reward amount;",
-    "activity_register_content_four": "4. Each user can participate in only one activity; users with the same IP, MAC, and email address will be treated as a single user;",
-    "activity_register_content_five": "5. Upon login, a user will be rewarded immediately; an unregistered user, or a user who has not logged in yet, will be rewarded on final registration;",
-    "activity_register_content_six": "6. For users who have played the slots but have not received any reward after logging in, it is suggested to register first or login before playing;",
-    "activity_register_content_seven": "7. he highest reward of the event is 0.0499ETH, and can only be used for predictions. Please check your account after the reward announcement.",
-    "activity_register_top_title": "Play Slots, Register, and Win Bonuses of up to 499!"
+    "activity_register_content_two": "2. Seven sessions consisting of the activity with each session giving limited awards and unsent awards accumulated in the next session;",
+    "activity_register_content_three": "3. Eash session continues for 24 hours and is not impacted by award amount;",
+    "activity_register_content_four": "4. One user one participation; any user with the same IP, MAC, email box will be deemed as the same user;",
+    "activity_register_content_five": "5.  Only login member will be rewarded immediately; non-registered or non-login user shall be subject to the reward reaching the account upon final registration or login;",
+    "activity_register_content_six": "6. The user might not receive the reward timely if he/she logs in after playing the slots; we would suggest registering or logging in first;",
+    "activity_register_content_seven": "7. The maximum reward of the event is 0.0499 ETH and all the reward can only be used for prediction. Please check the account after the reward announcement.",
+    "activity_register_top_title": "Play Slots, Register, and Win the Bonus up to 499!"
   },
   "zh-Hant": {
     "activity_register_title": "活動規則：",
