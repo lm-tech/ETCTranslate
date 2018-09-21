@@ -49,14 +49,14 @@
     "go_to_deposit": "Go deposit",
     "activity_amount_time_over": "{days}days{hours}hours{minutes}minutes{seconds}seconds",
     "go_to_login": "Go login",
-    "activity_warm_focus": "Tips: During the promotion period, first qualifying deposit will directly determine the final rewards.",
+    "activity_warm_focus": "Tips: Please keep in mind, during the promotion period, only the first qualifying deposit will determine the final rewards.",
     "new_users": "New user",
     "activity_watch_all_asset": "Check total assets",
     "activity_goto_register": "Welcome Offer",
     "activity_aword": "Promotion awards",
     "activity_register_default_text": "You could attend\"Welcome Offer\"to draw the rewards",
     "activity_doposit_default_text": "Complete first qualifying deposit rewards to get the welcome rebate",
-    "activity_invite_default_text": "You will receive the invitation code after the qualifying deposit and start the invitation offer.",
+    "activity_invite_default_text": "You will activate the invitation offer after a qualifying deposit.",
     "non_login_tip": "Welcome, go login and join in the promotions"
   },
   "ko": {
