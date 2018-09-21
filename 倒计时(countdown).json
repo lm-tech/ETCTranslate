@@ -7,7 +7,7 @@
     "forcast_time_seconds": "秒"
   },
   "en": {
-    "forcast_time_title": "Remaining Time for Prediction：",
+    "forcast_time_title": "Remaining Time for Forecast：",
     "forcast_time_day": "Day",
     "forcast_time_hour": "Hour",
     "forcast_time_minite": "Minute",
