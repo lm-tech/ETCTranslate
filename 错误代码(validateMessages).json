@@ -116,9 +116,9 @@
     "option_not_exist": "This option does not exist",
     "game_not_exist": "This game does not exist",
     "game_not_opening": "This game is not yet open for predictions",
-    "option_sum_amount_is_beyond": "Option sum amount exceeded",
-    "game_sum_amount_is_beyond": "Game sum amount exceeded",
-    "account_locked_two_hours": "Wrong password, to safeguard your account, login has been disabled for 2 hours",
+    "option_sum_amount_is_beyond": "Option amount exceeded",
+    "game_sum_amount_is_beyond": "Forecast amount exceeded",
+    "account_locked_two_hours": "Wrong password. To safeguard your account, login will be disabled for 2 hours",
     "withdraw_address_invalid": "Invalid address"
   },
   "ko": {
