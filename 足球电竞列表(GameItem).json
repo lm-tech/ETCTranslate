@@ -4,7 +4,7 @@
       "detail_bet_expired": "投注单已满"
     },
     "en": {
-      "detail_time_left": "Time left: ",
+      "detail_time_left": "Remaining Time:",
       "detail_bet_expired": "Reached the prediction slip limit"
     },
     "ja": {
