@@ -33,17 +33,17 @@
     "detail_forecast_copied": "Copied",
     "detail_game_qrcode_tip": "{currency} Smart contract QR code",
     "old_bets_tip": "Quick Predict is temporarily not available for this match",
-    "select_bets_currency": "Select your preferred currency to make a prediction",
+    "select_bets_currency": "Select your preferred currency to place forecast",
     "max_bets_amount": "Maximum stake",
-    "not_bets_tip1": "This option is awaiting confirmation. Please make your prediction later",
+    "not_bets_tip1": "This option is awaiting confirmation. Please place your forecast later",
     "not_bets_tip2": "Sorry, the currency is not available for this option.",
-    "not_bets_tip3": "Sorry，the prediction has closed.",
+    "not_bets_tip3": "Sorry，the forecast has closed.",
     "copy_address": "Copy",
     "copy_address_waring": "Note",
     "copy_address_tip1": "The address you copied is the",
-    "copy_address_tip2": "prediction address",
+    "copy_address_tip2": "forecast address",
     "copy_address_tip3": "depositing non-{currency} assets to an {currency} address is prohibited and any deposited assets will be irretrievable",
-    "i_konw": "I know"
+    "i_konw": "I understand"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
