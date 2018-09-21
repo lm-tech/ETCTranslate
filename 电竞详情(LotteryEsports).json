@@ -108,15 +108,15 @@
       "detail_game_type_winlose": "match winner",
       "detail_game_type_victory_esports_tip": "predict the result of a competition between two teams",
       "detail_game_forecast": "Open Orders:",
-      "detail_game_win": "胜",
-      "detail_esports_win": "谁将赢得此系列赛事胜利？",
-      "detail_guess": "猜输赢",
-      "detail_bet_expired": "投注单已满",
-      "home_team_win": "主胜",
+      "detail_game_win": "Win",
+      "detail_esports_win": "Who will win the championship",
+      "detail_guess": "Win or Lose",
+      "detail_bet_expired": "Reached the forecast slip limit",
+      "home_team_win": "Home",
       "team_pin": "Draw",
-      "away_team_win": "客胜",
-      "detail_game_all": "全场",
-      "detail_game_bos": "第{number}局"
+      "away_team_win": "Away",
+      "detail_game_all": "Match",
+      "detail_game_bos": "Map {number}"
     },
     "ja": {
       "detal_header_opening": "進行中",
