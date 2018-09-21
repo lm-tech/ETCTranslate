@@ -20,12 +20,12 @@
     "give_table_origin": "Source",
     "give_table_type": "Type",
     "give_table_no_data": "No data",
-    "give_table_register_send": "Registering reward",
-    "give_table_register_invite": "Invite to register",
-    "give_table_bet_invite": "Invite to bet",
-    "give_table_bet_first": "First deposit reward",
-    "give_table_activity_send": "Activity reward",
-    "give_table_bet_send": "Betting rebate"
+    "give_table_register_send": "Welcome Offer",
+    "give_table_register_invite": "Invitation Offer",
+    "give_table_bet_invite": "Prediction Invitation",
+    "give_table_bet_first": "First Deposit Offer",
+    "give_table_activity_send": "Promotion Reward",
+    "give_table_bet_send": "Prediction Rebate"
   },
   "ko": {
     "give_table_number": "베팅 오더",
