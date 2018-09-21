@@ -7,10 +7,10 @@
     "forcast_bet_closed": "收起"
   },
   "en": {
-    "forcast_bet_single_number": "Betting slip number:",
-    "forcast_bet_single_time": "Time of betting: ",
-    "forcast_bet_single_amount": "Betting amount: ",
-    "forcast_bet_single_money": "Predicting amount: ",
+    "forcast_bet_single_number": "Forecast Slip ID:",
+    "forcast_bet_single_time": "Forecast Time: ",
+    "forcast_bet_single_amount": "Forecast Slip Number: ",
+    "forcast_bet_single_money": "Forecast Amount: ",
     "forcast_bet_closed": "Roll up"
   },
   "ko": {
