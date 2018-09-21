@@ -28,7 +28,7 @@
     "detail_forecast_odds": "Odds",
     "detail_forecast_all": "Minimum forecast stake amount: {amount}{currency}",
     "expect_amount": "Expected winnings",
-    "quick_bets": "QuickPredict",
+    "quick_bets": "Quick Predict",
     "error_000": "Error, please try again",
     "error_001": "Minimum {amount} stake",
     "error_002": "The stake exceeds your account balance",
