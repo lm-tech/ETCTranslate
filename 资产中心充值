@@ -24,7 +24,7 @@
     "copy_address_tip1": "The address you copied is the",
     "copy_address_tip2": "deposit address",
     "copy_address_tip3": "depositing non-{currency} assets to an {currency} address is prohibited and any deposited assets will be irretrievable",
-    "i_konw": "I know",
+    "i_konw": "I understand",
     "forecast_record_title": "Deposit History",
     "forecast_record_recent_30_day": "Recent 30 days",
     "forecast_record_custom": "Custom"
