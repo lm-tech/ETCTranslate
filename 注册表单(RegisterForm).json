@@ -17,7 +17,7 @@
     "input_to_agreement": "《Coingame服务条款》",
     "input_label_login_password": "登录密码：",
     "input_label_confirm_login_password": "确认登录密码：",
-    "input_sign_up_success": "注册成功!!",
+    "input_sign_up_success": "注册成功!",
     "input_sign_up_notice": "后，系统将为您跳转至登录页面",
     "input_to_sign_in": "点击直接登录",
     "input_button_sign_up": "注册",
@@ -33,8 +33,8 @@
     "input_auto_login_notice": "后，系统将为您自动登录",
     "input_intive_notice": "恭喜您获得邀请奖励{amount}ETH，可至资产中心查收",
     "wait_check_invite_rward": "正在为您检查是否获得邀请奖励，请稍等...",
-    "go_asset_center": "去资产中心",
-    "go_activity_page": "去活动页"
+    "go_asset_center": "前往资产中心",
+    "go_activity_page": "前往活动页"
   },
   "en": {
     "input_validate_empty_nickname": "Enter username",
@@ -51,7 +51,7 @@
     "input_label_email": "Email address:",
     "input_label_validation_code": "Verification code:",
     "input_agreement": "I have read and agreed to the terms & conditions",
-    "input_to_agreement": "《Coingame Terms of Services》",
+    "input_to_agreement": "<Coingame Terms of Services>",
     "input_label_login_password": "Login password:",
     "input_label_confirm_login_password": "Confirm login password:",
     "input_sign_up_success": "Successfully registered!",
@@ -66,12 +66,12 @@
     "not_use_invite_code": "Reached the invitation limits, no more invitation reward",
     "invite_code": "Please enter the invitation code (optional)",
     "invite_code_max_used": "Invitation code exceeds the usage limits",
-    "invite_code_format_error": "Invitation code not existing or invalid",
-    "input_auto_login_notice": "After, the system will automate the login",
-    "input_intive_notice": "Congrats! You have won the rewards of {amount}ETH, go check and get them at the Assets Center",
+    "invite_code_format_error": "Invitation code does not exist or is invalid.",
+    "input_auto_login_notice": "later, the system will automate the login",
+    "input_intive_notice": "Congratulations! You have won the rewards of {amount}ETH. Please check at the Asset Center",
     "wait_check_invite_rward": "Checking if you have won the rewards, please wait...",
-    "go_asset_center": "Go to the Assets Center",
-    "go_activity_page": "Go to the activity page"
+    "go_asset_center": "Go to Asset Center",
+    "go_activity_page": "Go to Promotions"
   },
   "ko": {
     "input_validate_empty_nickname": "아이디를 입력해 주세요",
@@ -126,7 +126,7 @@
     "input_label_email": "メールアドレス：",
     "input_label_validation_code": "認証コード：",
     "input_agreement": "既に閲覧した規約に同意する",
-    "input_to_agreement": "《Coingameサービス条項》",
+    "input_to_agreement": "<Coingameサービス条項>",
     "input_label_login_password": "登录パスワード：",
     "input_label_confirm_login_password": "ログインパスワードの確認：",
     "input_sign_up_success": "ログイン成功！",
@@ -164,7 +164,7 @@
     "input_label_email": "Электронная почта:",
     "input_label_validation_code": "Проверочный код:",
     "input_agreement": "Я прочитал и согласился",
-    "input_to_agreement": "《Coingame условия обслуживания》",
+    "input_to_agreement": "<Coingame условия обслуживания>",
     "input_label_login_password": "Логин пароль:",
     "input_label_confirm_login_password": "Подтвердите пароль для входа:",
     "input_sign_up_success": "Вы успешно зарегистрировались!",
@@ -202,7 +202,7 @@
     "input_label_email": "hộp thư：",
     "input_label_validation_code": "mã xác nhận：",
     "input_agreement": "tôi đã đọc và đồng ý",
-    "input_to_agreement": "《Coingameđiều kiện phục vu》",
+    "input_to_agreement": "<Coingameđiều kiện phục vu>",
     "input_label_login_password": "mật khẩu đăng nhập：",
     "input_label_confirm_login_password": "xác nhận mật khẩu đăng nhập：",
     "input_sign_up_success": "đăng ký thành công！",
@@ -259,7 +259,7 @@
     "input_auto_login_notice": "後，系統將為您自動登錄",
     "input_intive_notice": "恭喜您獲得邀請獎勵{amount}ETH，可至資產中心查收",
     "wait_check_invite_rward": "正在為您檢查是否獲得邀請獎勵，請稍等...",
-    "go_asset_center": "去資產中心",
-    "go_activity_page": "去活動頁"
+    "go_asset_center": "前往資產中心",
+    "go_activity_page": "前往活動頁"
   }
 }
