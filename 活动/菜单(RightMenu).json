@@ -64,12 +64,12 @@
     "activity_doposit_default_text": "Complete first qualifying deposit rewards to get the welcome rebate",
     "activity_invite_default_text": "You will activate the invitation offer after a qualifying deposit.",
     "non_login_tip": "Welcome, go login and join in the promotions.",
-    "button_aleay_get_aword": "已领取",
-    "button_non_get_aword": "未领取",
-    "button_auto_get_aword": "自动发放",
-    "button_not_get_aword": "无法获奖",
-    "activity_not_start": "活动未开始",
-    "activity_aleray_end": "活动已结束"
+    "button_aleay_get_aword": "Received",
+    "button_non_get_aword": "Not received",
+    "button_auto_get_aword": "Automatically paid",
+    "button_not_get_aword": "Failure of rewarding",
+    "activity_not_start": "Activity not opened",
+    "activity_aleray_end": "Activity closed"
   },
   "ko": {
     "activity_goto_invite": "요청 이벤트",
@@ -100,12 +100,12 @@
     "activity_doposit_default_text": "코인게임에서 최초 충전을 하고 보상을 획득합니다.",
     "activity_invite_default_text": "코인게임에서 충전한 후 요청 자격을 획득하고 보상을 획득할 수 있습니다.",
     "non_login_tip": "어서오세요, 로그인하고 이벤트를 참여해주세요",
-    "button_aleay_get_aword": "已领取",
-    "button_non_get_aword": "未领取",
-    "button_auto_get_aword": "自动发放",
-    "button_not_get_aword": "无法获奖",
-    "activity_not_start": "活动未开始",
-    "activity_aleray_end": "活动已结束"
+    "button_aleay_get_aword": "수령함",
+    "button_non_get_aword": "미수령",
+    "button_auto_get_aword": "자동으로 입금해 드립니다",
+    "button_not_get_aword": "보상을 획득할 수 없습니다",
+    "activity_not_start": "이벤트는 아직 준비 중 입니다",
+    "activity_aleray_end": "이벤트가 마감되었습니다"
   },
   "ja": {
     "activity_goto_invite": "友達を誘い",
@@ -136,12 +136,12 @@
     "activity_doposit_default_text": "プラットフォームでの初チャージ完了後ボーナスを獲得",
     "activity_invite_default_text": "プラットフォームでのチャージ完了後、友達招待権と招待ボーナスを獲得",
     "non_login_tip": "ようこそ、早速登録してイベントに参加しよう",
-    "button_aleay_get_aword": "已领取",
-    "button_non_get_aword": "未领取",
-    "button_auto_get_aword": "自动发放",
-    "button_not_get_aword": "无法获奖",
-    "activity_not_start": "活动未开始",
-    "activity_aleray_end": "活动已结束"
+    "button_aleay_get_aword": "受取済み",
+    "button_non_get_aword": "まだ受け取っていない",
+    "button_auto_get_aword": "自動入金",
+    "button_not_get_aword": "操作失敗",
+    "activity_not_start": "イベント開始前",
+    "activity_aleray_end": "イベント終了"
   },
   "ru": {
     "activity_goto_invite": "Invitation Offer",
