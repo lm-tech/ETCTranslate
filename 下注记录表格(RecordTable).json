@@ -65,8 +65,8 @@
     "forcast_bet_single_money": "预测金额"
   },
   "en": {
-    "record_table_bets_time": "Prediction time",
-    "record_table_confirm_time": "Confirmation time",
+    "record_table_bets_time": "Forecast Time",
+    "record_table_confirm_time": "Confirmation Time",
     "record_table_time": "Time",
     "record_table_option": "Forecast option",
     "record_table_amount": "Forecast amount",
@@ -97,8 +97,8 @@
     "record_table_type_balls": "O/U",
     "record_table_fetch": "Announced",
     "record_table_lose": "Not announced",
-    "record_table_betting": "In prediction",
-    "record_table_betting_fail": "Prediction failed",
+    "record_table_betting": "In forecasting",
+    "record_table_betting_fail": "Order failed",
     "record_table_detail_type": "Deposit",
     "record_table_income_cancel": "Refund",
     "record_table_income_award": "Forecast winnings",
@@ -116,7 +116,7 @@
     "record_table_half_win": "Award (half win)",
     "record_table_half_lost": "Award (half lose)",
     "record_table_draw": "Award (draw)",
-    "record_table_income_bet": "Prediction",
+    "record_table_income_bet": "Forecast",
     "record_table_status_under_review": "Reviewing",
     "record_table_detail_status_processing": "Contract pending",
     "withdraw_form_HASH": "Hash value:",
@@ -124,10 +124,10 @@
     "record_table_cancel_forecast": "Cancel",
     "record_table_wait_award": "Sending the winnings",
     "record_table_closed": "No longer available",
-    "forcast_bet_single_number": "Betting slip ID",
-    "forcast_bet_single_time": "Prediction Time",
-    "forcast_bet_single_amount": "Betting slip number",
-    "forcast_bet_single_money": "Prediction amount"
+    "forcast_bet_single_number": "Forecast Slip ID",
+    "forcast_bet_single_time": "Forecasts Time",
+    "forcast_bet_single_amount": "Forecast Slip Number",
+    "forcast_bet_single_money": "Forecast Amount"
   },
   "ko": {
     "record_table_bets_time": "배팅 시간",
