@@ -107,12 +107,12 @@
     "not_bets_tip1": "Эта опция подтверждается в блокчейне, позже посмотрите состояние ставки",
     "not_bets_tip2": "Извините, эта опция не может делать ставку этой валютой",
     "not_bets_tip3": "Прогноз этой валюты закрыт, нельзя делать ставку",
-    "copy_address": "Copy",
-    "copy_address_waring": "Note",
-    "copy_address_tip1": "The address you copied is the",
-    "copy_address_tip2": "prediction address",
+    "copy_address": "Копировать",
+    "copy_address_waring": "Внимание",
+    "copy_address_tip1": "Текущий копированный вами адрес",
+    "copy_address_tip2": "Адрес ставки",
     "copy_address_tip3": "Запрещается перезарядка {currency} адреса. За исключением активов, отличных от {currency}, любые не-{currency} активы, возвращенные на адрес {currency}, не будут восстановлены.",
-    "i_konw": "I know"
+    "i_konw": "Понял"
   },
   "vi": {
     "detail_forecast_title": "{currency}Dự báo",
@@ -130,12 +130,12 @@
     "not_bets_tip1": "Tùy chọn này đang trong khối xác nhận chuỗi,sau một thời gian hãy chú ý đến tình trạng cá cược",
     "not_bets_tip2": "Xin lỗi, tùy chọn này không có sẵn cho cá cược trong loại tiền tệ này",
     "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược.",
-    "copy_address": "Copy",
-    "copy_address_waring": "Note",
-    "copy_address_tip1": "The address you copied is the",
-    "copy_address_tip2": "prediction address",
+    "copy_address": "Sao chép",
+    "copy_address_waring": "Chú ý",
+    "copy_address_tip1": "Địa chỉ bạn hiện đang sao",
+    "copy_address_tip2": "Địa chỉ cược",
     "copy_address_tip3": "cấm địa chỉ quan trọng với {currency} nạp tiền trừ {currency} ngoài tài sản, bất kỳ nạp vào địa chỉ {currency} phi {currency} sẽ không thể lấy lại tài sản",
-    "i_konw": "I know"
+    "i_konw": "Tôi đã biết"
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
