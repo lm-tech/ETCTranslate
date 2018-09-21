@@ -23,7 +23,7 @@
   },
   "en": {
     "detail_forecast_title": "{currency} Forecast",
-    "detail_forecast_title_link": "Click here for step-by-step instructions on how to make a prediction.",
+    "detail_forecast_title_link": "Click here for step-by-step instructions on how to place forecast.",
     "detail_forecast_choose": "Option",
     "detail_forecast_odds": "Odds",
     "detail_forecast_all": "Minimum forecast stake amount: {amount}{currency}",
@@ -36,11 +36,11 @@
     "assets_center_goto_set_password": "Please set a withdrawal password",
     "quick_recharge": "Current available balance",
     "quick_recharte_btn": "Please deposit",
-    "select_bets_currency": "Select the currency for prediction",
-    "max_bets_amount": "Prediction cap",
-    "not_bets_tip1": "This option is awaiting confirmation. Please make your prediction later",
+    "select_bets_currency": "Select the currency for forecast",
+    "max_bets_amount": "Cap Size",
+    "not_bets_tip1": "This option is awaiting confirmation. Please place your forecast later",
     "not_bets_tip2": "Sorry, the currency is not available for this option.",
-    "not_bets_tip3": "Sorry，the prediction has closed.",
+    "not_bets_tip3": "Sorry，the forecast has closed.",
     "bet_coupon": "Non-withdrawable assets offset"
   },
   "ja": {
