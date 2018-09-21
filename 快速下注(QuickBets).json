@@ -41,7 +41,7 @@
     "not_bets_tip1": "This option is awaiting confirmation. Please make your prediction later",
     "not_bets_tip2": "Sorry, the currency is not available for this option.",
     "not_bets_tip3": "Sorry，the prediction has closed.",
-    "bet_coupon": "Non-withdrawable assets deduction"
+    "bet_coupon": "Non-withdrawable assets offset"
   },
   "ja": {
     "detail_forecast_title": "{currency}ベッティング",
