@@ -16,12 +16,12 @@
     "activity_deposit_proportion": "的中率"
   },
   "ru": {
-    "activity_deposit_section": "Deposit, predicting ETH range",
-    "activity_deposit_proportion": "Reward ratio"
+    "activity_deposit_section": "ETH range",
+    "activity_deposit_proportion": "Rebate ratio"
   },
   "vi": {
-    "activity_deposit_section": "Deposit, predicting ETH range",
-    "activity_deposit_proportion": "Reward ratio"
+    "activity_deposit_section": "ETH range",
+    "activity_deposit_proportion": "Rebate ratio"
   },
   "zh-Hant": {
     "activity_deposit_section": "充值投注ETH區間",
