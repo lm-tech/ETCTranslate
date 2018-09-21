@@ -75,9 +75,9 @@
     "assets_center_portable_assets": "Снимаемые активы",
     "assets_center_cannot_portable_assets": "Неснимаемые активы",
     "assets_center_fronzen_assets": "Замороженные активы",
-    "assets_center_portable_assets_hover": "当前可提币资产",
-    "assets_center_cannot_portable_assets_hover": "活动免费赠送资产，可用于下注，无法提币",
-    "assets_center_fronzen_assets_hover": "下注在途资产，奖金在途资产"
+    "assets_center_portable_assets_hover": "Current withdrawable assets",
+    "assets_center_cannot_portable_assets_hover": "Activity rewards can be used for betting and not for withdrawal",
+    "assets_center_fronzen_assets_hover": "betting in transit as the assets, funds in transit as the assets"
   },
   "vi": {
     "assets_center_focus": "Trương mục chưa được thiết lập mật khẩu tiền tệ, để bảo vệ bảo mật tài khoản của bạn, hãy thiết lập mật khẩu",
@@ -91,9 +91,9 @@
     "assets_center_portable_assets": "Tài  sản có thể rút ra",
     "assets_center_cannot_portable_assets": "Tài  sản không thể rút ra",
     "assets_center_fronzen_assets": "Tài sản đóng băng",
-    "assets_center_portable_assets_hover": "当前可提币资产",
-    "assets_center_cannot_portable_assets_hover": "活动免费赠送资产，可用于下注，无法提币",
-    "assets_center_fronzen_assets_hover": "下注在途资产，奖金在途资产"
+    "assets_center_portable_assets_hover": "Current withdrawable assets",
+    "assets_center_cannot_portable_assets_hover": "Activity rewards can be used for betting and not for withdrawal",
+    "assets_center_fronzen_assets_hover": "betting in transit as the assets, funds in transit as the assets"
   },
   "zh-Hant": {
     "assets_center_focus": "該帳戶尚未設置提幣密碼，為保障您的帳戶安全，請先設置提幣密碼",
@@ -107,9 +107,9 @@
     "assets_center_portable_assets": "可提資產",
     "assets_center_cannot_portable_assets": "不可提資產",
     "assets_center_fronzen_assets": "凍結資產",
-    "assets_center_portable_assets_hover": "当前可提币资产",
-    "assets_center_cannot_portable_assets_hover": "活动免费赠送资产，可用于下注，无法提币",
-    "assets_center_fronzen_assets_hover": "下注在途资产，奖金在途资产"
+    "assets_center_portable_assets_hover": "當前可提幣資產",
+    "assets_center_cannot_portable_assets_hover": "活動免費贈送資產，可用於下注，無法提幣",
+    "assets_center_fronzen_assets_hover": "下注在途資產，獎金在途資產"
   }
 }
     
