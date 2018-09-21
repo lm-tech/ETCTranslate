@@ -319,10 +319,10 @@
     "record_table_cancel_forecast": "Отмена",
     "record_table_wait_award": "Идет выдача премии",
     "record_table_closed": "Уже сняли с продажи",
-    "forcast_bet_single_number": "Betting slip number",
-    "forcast_bet_single_time": "Time of betting",
-    "forcast_bet_single_amount": "Betting amount",
-    "forcast_bet_single_money": "Predicting amount"
+    "forcast_bet_single_number": "Номер заказа ставки",
+    "forcast_bet_single_time": "Время ставки",
+    "forcast_bet_single_amount": "Количество ставки ",
+    "forcast_bet_single_money": "Сумма прогноза"
   },
   "vi": {
     "record_table_bets_time": "thời gian đặc cược",
@@ -384,10 +384,10 @@
     "record_table_cancel_forecast": "thu hồi",
     "record_table_wait_award": "Trong việc phân phối tiền thưởng",
     "record_table_closed": "đã được tắt",
-    "forcast_bet_single_number": "Betting slip number",
-    "forcast_bet_single_time": "Time of betting",
-    "forcast_bet_single_amount": "Betting amount",
-    "forcast_bet_single_money": "Predicting amount"
+    "forcast_bet_single_number": "Mã đơn hàng đầu tư",
+    "forcast_bet_single_time": "Thời gian đầu tư",
+    "forcast_bet_single_amount": "Số lượng đầu tư",
+    "forcast_bet_single_money": "Số tiền dự đoán"
   },
   "zh-Hant": {
     "record_table_bets_time": "下注時間",
