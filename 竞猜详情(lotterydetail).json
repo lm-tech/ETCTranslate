@@ -111,9 +111,9 @@
     "detail_esports_win": "Who will win the series?",
     "detail_guess": "Win or Lose",
     "detail_bet_expired": "Reached the prediction slip limit",
-    "home_team_win": "Home win",
+    "home_team_win": "Home",
     "team_pin": "Draw",
-    "away_team_win": "Away win",
+    "away_team_win": "Away",
     "detail_game_type_info_matchwinner": "Predict the result of a competition between two teams"
   },
   "ja": {
