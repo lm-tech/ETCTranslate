@@ -21,7 +21,7 @@
     "activity_deposit_content_five": "5. Reward subject to user first deposit and the placed predicting amount, details are as below:",
     "activity_deposit_content_six": "6. Upon ending of the activity, the user with the predicting amount less than first deposit gets 1% of such predicting amount as the reward; predicting amount less than 0.3ETH will not be rewarded;",
     "activity_deposit_content_seven": "7. Within 1 hours after the activity ends, users not claiming rewards will be rewarded",
-    "activity_deposit_top_title": "Deposit, Predict, Get Huge Returns of up to 1000ETH!"
+    "activity_deposit_top_title": "Deposit, Predict, Get Huge Returns of up to 1000 ETH!"
 
   },
   "ko": {
@@ -49,28 +49,28 @@
     "activity_deposit_top_title": "チャージとベッティング、高額なボーナス、最高額はなんと1000ETH！"
   },
   "ru": {
-    "activity_register_title": "Activity rule: ",
-    "activity_register_title_close": "Unfold to check activity rules",
+    "activity_register_title": "Promotion rules: ",
+    "activity_register_title_close": "Unfold to check more rules",
     "activity_deposit_content_one": "1. Activity time: To be determined ",
-    "activity_deposit_content_two": "2. Only the first deposit of ETH to your account during the activity time is effective;",
-    "activity_deposit_content_three": "3. Within 14 days of the first deposit, the user will only be rewarded an amount equivalent to the first deposit on placing a prediction; the maximum reward is 1000ETH;",
-    "activity_deposit_content_four": "4. Each user can participate in only one activity; users with the same IP, MAC, and email address will be treated as a single user;",
-    "activity_deposit_content_five": "5. Reward distribution is subject to first deposit and prediction amount; the details are as below:",
-    "activity_deposit_content_six": "6. After the event, any user who has not reached the required amount similar to the first deposit will be rewarded the equivalent of 1% of the stake amount, and any stake below 0.3ETH will not be rewarded;",
-    "activity_deposit_content_seven": "7. The system will reward winners who have not received their awards one by one within 1 hour of the end of the event.",
-    "activity_deposit_top_title": "Deposit, Predict, Get Huge Returns of up to 1000ETH!"
+    "activity_deposit_content_two": "2. Only applies to the first qualifying deposit of ETH within the promotion period;",
+    "activity_deposit_content_three": "3. Within 14 days after first deposit, the user needs to place the predicting amount equal to the first deposit amount for the reward which can be up to 1000ETH;",
+    "activity_deposit_content_four": "4. One user one participation; any user with the same IP, MAC and email box will be deemed as the same user;",
+    "activity_deposit_content_five": "5. Reward subject to user first deposit and the placed predicting amount, details are as below:",
+    "activity_deposit_content_six": "6. Upon ending of the activity, the user with the predicting amount less than first deposit gets 1% of such predicting amount as the reward; predicting amount less than 0.3ETH will not be rewarded;",
+    "activity_deposit_content_seven": "7. Within 1 hours after the activity ends, users not claiming rewards will be rewarded",
+    "activity_deposit_top_title": "Deposit, Predict, Get Huge Returns of up to 1000 ETH!"
   },
   "vi": {
-    "activity_register_title": "Activity rule: ",
-    "activity_register_title_close": "Unfold to check activity rules",
-    "activity_deposit_content_one": "1. Activity time: To be determined",
-    "activity_deposit_content_two": "2. Only the first deposit of ETH to your account during the activity time is effective;",
-    "activity_deposit_content_three": "3. Within 14 days of the first deposit, the user will only be rewarded an amount equivalent to the first deposit on placing a prediction; the maximum reward is 1000ETH;",
-    "activity_deposit_content_four": "4. Each user can participate in only one activity; users with the same IP, MAC, and email address will be treated as a single user;",
-    "activity_deposit_content_five": "5. Reward distribution is subject to first deposit and prediction amount; the details are as below:",
-    "activity_deposit_content_six": "6. After the event, any user who has not reached the required amount similar to the first deposit will be rewarded the equivalent of 1% of the stake amount, and any stake below 0.3ETH will not be rewarded;",
-    "activity_deposit_content_seven": "7. The system will reward winners who have not received their awards one by one within 1 hour of the end of the event.",
-    "activity_deposit_top_title": "Deposit, Predict, Get Huge Returns of up to 1000ETH!"
+    "activity_register_title": "Promotion rules: ",
+    "activity_register_title_close": "Unfold to check more rules",
+    "activity_deposit_content_one": "1. Activity time: To be determined ",
+    "activity_deposit_content_two": "2. Only applies to the first qualifying deposit of ETH within the promotion period;",
+    "activity_deposit_content_three": "3. Within 14 days after first deposit, the user needs to place the predicting amount equal to the first deposit amount for the reward which can be up to 1000ETH;",
+    "activity_deposit_content_four": "4. One user one participation; any user with the same IP, MAC and email box will be deemed as the same user;",
+    "activity_deposit_content_five": "5. Reward subject to user first deposit and the placed predicting amount, details are as below:",
+    "activity_deposit_content_six": "6. Upon ending of the activity, the user with the predicting amount less than first deposit gets 1% of such predicting amount as the reward; predicting amount less than 0.3ETH will not be rewarded;",
+    "activity_deposit_content_seven": "7. Within 1 hours after the activity ends, users not claiming rewards will be rewarded",
+    "activity_deposit_top_title": "Deposit, Predict, Get Huge Returns of up to 1000 ETH!"
   },
   "zh-Hant": {
     "activity_register_title": "活動規則：",
