@@ -16,7 +16,7 @@
     "assets_center_fronzen_assets_hover": "下注在途资产，奖金在途资产"
   },
   "en": {
-    "assets_center_focus": "No withdrawal password, please set withdrawal password for account security",
+    "assets_center_focus": "No withdrawal password. Please set withdrawal password for account security",
     "assets_center_goto_set_password": "Set withdrawal password",
     "assets_center_deposit": "Deposit",
     "assets_center_withdraw": "Withdraw",
