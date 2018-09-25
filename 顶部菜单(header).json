@@ -93,11 +93,11 @@
     "header_message_center": "Центр сообщений",
     "header_Login_out": "Счет выхода",
     "header_see_detail": "Подробности см",
-    "bets_currency_tip": "Choose your preferred currency for prediction",
-    "i_konw": "I know",
-    "forecast_center": "Prediction Center",
+    "bets_currency_tip": "Можно здесь переключать первую выбранную валюту для ставки〜Мы будем преимущественно предоставлять вам тему прогноза об этой валюте",
+    "i_konw": "Понял",
+    "forecast_center": "Центр прогноза",
     "user_center": "Личный центр",
-    "activity_title": "Hurry, Plentiful ETH to be Won"
+    "activity_title": "Кто-нибудь придет, подарим ETH"
   },
   "vi": {
     "header_title_word_cup": "Bóng đá",
@@ -113,11 +113,11 @@
     "header_message_center": "Trung tâm tin tức",
     "header_Login_out": "Thoát tài khoản",
     "header_see_detail": "Xem chi tiết",
-    "bets_currency_tip": "Choose your preferred currency for prediction",
-    "i_konw": "I know",
-    "forecast_center": "Prediction Center",
+    "bets_currency_tip": "Có thể thay đổi tại đây đầu tiên phải cược loại tiền tệ 〜chúng tôi sẽ ưu tiên cung cấp cho bạn các vấn đề dự đoán có liên quan đến loại tiền này",
+    "i_konw": "Tôi đã biết",
+    "forecast_center": "Trung tâm dự đoán",
     "user_center": "Trung tâm cá nhân",
-    "activity_title": "Hurry, Plentiful ETH to be Won"
+    "activity_title": "ETH đến là tặng"
   },
   "zh-Hant": {
     "header_title_word_cup": "足球",
