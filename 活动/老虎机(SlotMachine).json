@@ -35,9 +35,9 @@
     "close_button2": "Back to previous dialogue",
     "close_button3": "Close",
     "close_button4": "Go check",
-    "activity_not_start": "活动未开始",
-    "activity_aleray_end": "活动已结束",
-    "activity_error": "网络错误或者抽奖超过次数限制"
+    "activity_not_start": "Activity not opened",
+    "activity_aleray_end": "Activity closed",
+    "activity_error": "Network error or drawing tried over the limits"
   },
   "ko": {
     "current_surplus": "이 번회 남은 금액",
@@ -55,9 +55,9 @@
     "close_button2": "잘 못 눌렀습니다.",
     "close_button3": "닫기",
     "close_button4": "확인하기",
-    "activity_not_start": "活动未开始",
-    "activity_aleray_end": "活动已结束",
-    "activity_error": "网络错误或者抽奖超过次数限制"
+    "activity_not_start": "이벤트는 아직 준비 중 입니다",
+    "activity_aleray_end": "이벤트가 마감되었습니다",
+    "activity_error": "인터넷 오류가 발생하였거나 제한 회수를 초과하였습니다"
   },
   "ja": {
     "current_surplus": "残り賞金",
@@ -75,9 +75,9 @@
     "close_button2": "押し間違う",
     "close_button3": "閉める",
     "close_button4": "チェック",
-    "activity_not_start": "活动未开始",
-    "activity_aleray_end": "活动已结束",
-    "activity_error": "网络错误或者抽奖超过次数限制"
+    "activity_not_start": "イベント開始前",
+    "activity_aleray_end": "イベント終了",
+    "activity_error": "ネットワークエラー/抽選回数上限を超えた"
   },
   "ru": {
     "current_surplus": "Remains of this session",
