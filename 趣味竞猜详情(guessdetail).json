@@ -171,8 +171,8 @@
     "detail_game_today_closed": "Открывающийся сегодня",
     "detail_game_yestoday_closed": "Открывающийся  вчера",
     "detail_game_quote_change": "Увеличение или уменьшение",
-    "no_data1": "Sorry, this prediction currently does not support the selected ({currency}), please switch to the right currency for prediction",
-    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait"
+    "no_data1": "Извините, в этом соревновании в угадывании пока не поддерживать делать ставку выбранной валютой ({currency}), переключайте поддержанную валюту, потом делайте ставку",
+    "no_data2": "Извините, в соревновании в угадывании выбранной валюты ({currency}) идет на цепь, подождите"
   },
   "vi": {
     "detal_header_opening": "Đang tiến hành",
@@ -206,8 +206,8 @@
     "detail_game_today_closed": "mở bàn hôm nay",
     "detail_game_yestoday_closed": "mở bàn hôm qua",
     "detail_game_quote_change": " tăng giá tranh",
-    "no_data1": "Sorry, this prediction currently does not support the selected ({currency}), please switch to the right currency for prediction",
-    "no_data2": "Sorry, the selected ({currency}) will be on chain soon, please wait"
+    "no_data1": "Rất xin lỗi , trận đấu này tạm thời không cho phép sử dụng loại tiền tệ ({currency}) đã chọn để cược , xin vui lòng cược sau khi đã thay đổi loại tiền tệ cho phép sử dụng",
+    "no_data2": "Rất xin lỗi , trận đấu của loại tiền tệ ({currency}) đã chọn đang trong quá trình kết nối , xin bạn vui lòng chờ đợi"
   },
   "zh-Hant": {
     "detal_header_opening": "進行中",
