@@ -28,8 +28,8 @@
     "assets_center_cannot_portable_assets": "Non-withdrawable assets",
     "assets_center_fronzen_assets": "Frozen assets",
     "assets_center_portable_assets_hover": "Current withdrawable assets",
-    "assets_center_cannot_portable_assets_hover": "Activity rewards can be used for betting and not for withdrawal",
-    "assets_center_fronzen_assets_hover": "betting in transit as the assets, funds in transit as the assets"
+    "assets_center_cannot_portable_assets_hover": "Promotion rewards can be used for forecast and are non-withdrawable.",
+    "assets_center_fronzen_assets_hover": "Betting in transit, Funds in transit"
   },
   "ko": {
     "assets_center_focus": " 계정은 코인 출금 비밀번호를 설치하지 않았습니다. 계정의 보안을 위해 코인출금 비밀번호를 설치해 주세요",
