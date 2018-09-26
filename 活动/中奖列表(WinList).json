@@ -1,30 +1,44 @@
 {
   "zh": {
     "win_user": "获奖用户",
-    "win_amount": "获奖金额"
+    "win_amount": "获奖金额",
+    "loading_data": "正在加载数据...",
+    "no_data": "暂无数据"
   },
   "en": {
     "win_user": "Winning users",
-    "win_amount": "Amount"
+    "win_amount": "Amount",
+    "loading_data": "正在加载数据...",
+    "no_data": "暂无数据"
   },
   "ko": {
     "win_user": "당첨유저",
-    "win_amount": "당첨금액"
+    "win_amount": "당첨금액",
+    "loading_data": "正在加载数据...",
+    "no_data": "暂无数据"
   },
   "ja": {
     "win_user": "的中者",
-    "win_amount": "ボーナス"
+    "win_amount": "ボーナス",
+    "loading_data": "正在加载数据...",
+    "no_data": "暂无数据"
   },
   "ru": {
     "win_user": "Winning users",
-    "win_amount": "Amount"
+    "win_amount": "Amount",
+    "loading_data": "正在加载数据...",
+    "no_data": "暂无数据"
   },
   "vi": {
     "win_user": "Winning users",
-    "win_amount": "Amount"
+    "win_amount": "Amount",
+    "loading_data": "正在加载数据...",
+    "no_data": "暂无数据"
   },
   "zh-Hant": {
     "win_user": "獲獎用戶",
-    "win_amount": "獲獎金額"
+    "win_amount": "獲獎金額",
+    "loading_data": "正在加载数据...",
+    "no_data": "暂无数据"
   }
 }
