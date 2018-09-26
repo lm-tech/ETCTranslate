@@ -5,7 +5,10 @@
     "user_center_login_password": "登录密码：",
     "user_center_withdraw_password": "提币密码：",
     "user_center_register_time": "注册时间：",
-    "register_time": "{year}年{month}月{day}日"
+    "register_time": "{year}年{month}月{day}日",
+    "user_center_invite_code": "邀请码",
+    "user_center_invite_code_copy": "复制邀请码",
+    "user_center_invite_code_already_copy": "已复制" 
   },
   "en": {
     "user_center_title": "Settings",
@@ -13,7 +16,10 @@
     "user_center_login_password": "Login Password: ",
     "user_center_withdraw_password": "Withdrawal Password: ",
     "user_center_register_time": "Member Since:",
-    "register_time": "{year} year {month} month {day} day"
+    "register_time": "{year} year {month} month {day} day",
+    "user_center_invite_code": "邀请码",
+    "user_center_invite_code_copy": "复制邀请码",
+    "user_center_invite_code_already_copy": "已复制" 
   },
   "ko": {
     "user_center_title": "계정관리",
@@ -21,7 +27,10 @@
     "user_center_login_password": "로그인 비밀번호：",
     "user_center_withdraw_password": "코인 출금 비밀번호",
     "user_center_register_time": "회원가입 시간：",
-    "register_time": "{year}년{month}월{day}일"
+    "register_time": "{year}년{month}월{day}일",
+    "user_center_invite_code": "邀请码",
+    "user_center_invite_code_copy": "复制邀请码",
+    "user_center_invite_code_already_copy": "已复制" 
   },
   "ja": {
     "user_center_title": "アカウント管理",
@@ -29,7 +38,10 @@
     "user_center_login_password": "ログインパスワード：",
     "user_center_withdraw_password": "出金パスワード：",
     "user_center_register_time": "登録時間：",
-    "register_time": "{year}年{month}月{day}日"
+    "register_time": "{year}年{month}月{day}日",
+    "user_center_invite_code": "邀请码",
+    "user_center_invite_code_copy": "复制邀请码",
+    "user_center_invite_code_already_copy": "已复制" 
   },
   "ru": {
     "user_center_title": "Управление аккаунтом",
@@ -37,7 +49,10 @@
     "user_center_login_password": "Логин пароль:",
     "user_center_withdraw_password": "Пароль для извлечения виртуальной валюты：",
     "user_center_register_time": "Зарегистрированное время：",
-    "register_time": "{year}год{month}месяц{day}день"
+    "register_time": "{year}год{month}месяц{day}день",
+    "user_center_invite_code": "邀请码",
+    "user_center_invite_code_copy": "复制邀请码",
+    "user_center_invite_code_already_copy": "已复制" 
   },
   "vi": {
     "user_center_title": "quản lý tài khoảng",
@@ -45,7 +60,10 @@
     "user_center_login_password": "mật khẩu đăng nhập：",
     "user_center_withdraw_password": "mật khẩu nhắc tiền：",
     "user_center_register_time": "thời gian đăng ký：",
-    "register_time": "{year}năm{month}tháng{day}ngày"
+    "register_time": "{year}năm{month}tháng{day}ngày",
+    "user_center_invite_code": "邀请码",
+    "user_center_invite_code_copy": "复制邀请码",
+    "user_center_invite_code_already_copy": "已复制" 
   },
   "zh-Hant": {
     "user_center_title": "帳戶管理",
@@ -53,6 +71,9 @@
     "user_center_login_password": "登錄密碼：",
     "user_center_withdraw_password": "提幣密碼：",
     "user_center_register_time": "註冊時間：",
-    "register_time": "{year}年{month}月{day}日"
+    "register_time": "{year}年{month}月{day}日",
+    "user_center_invite_code": "邀请码",
+    "user_center_invite_code_copy": "复制邀请码",
+    "user_center_invite_code_already_copy": "已复制" 
   }
 }
