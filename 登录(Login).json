@@ -1,30 +1,44 @@
 {
   "zh": {
     "login_to_register": "立即注册",
-    "login_forgot_password": "忘记密码"
+    "login_forgot_password": "忘记密码",
+    "login_title": "登录",
+    "login_token_fail": "身份验证失效，请重新登录"
   },
   "en": {
-    "login_to_register": "Sign Up Now",
-    "login_forgot_password": "Forgot Password"
+    "login_to_register": "Register Now",
+    "login_forgot_password": "Forgot password",
+    "login_title": "Login",
+    "login_token_fail": "身份验证失效，请重新登录"
   },
   "ko": {
     "login_to_register": "회원가입하기",
-    "login_forgot_password": "비밀번호찾기"
+    "login_forgot_password": "비밀번호찾기",
+    "login_title": "로그인",
+    "login_token_fail": "身份验证失效，请重新登录"
   },
   "ja": {
     "login_to_register": "登録",
-    "login_forgot_password": "パスワードを忘れた"
+    "login_forgot_password": "パスワードを忘れた",
+    "login_title": "ログイン",
+    "login_token_fail": "身份验证失效，请重新登录"
   },
   "ru": {
     "login_to_register": "Зарегистрироваться сейчас",
-    "login_forgot_password": "Забыть пароль"
+    "login_forgot_password": "Забыть пароль",
+    "login_title": "Авторизоваться",
+    "login_token_fail": "身份验证失效，请重新登录"
   },
   "vi": {
     "login_to_register": "lập tức đăng ký",
-    "login_forgot_password": "quên mật khẩu"
+    "login_forgot_password": "quên mật khẩu",
+    "login_title": "đăng nhập",
+    "login_token_fail": "身份验证失效，请重新登录"
   },
   "zh-Hant": {
     "login_to_register": "立即註冊",
-    "login_forgot_password": "忘記密碼"
+    "login_forgot_password": "忘記密碼",
+    "login_title": "登錄",
+    "login_token_fail": "身份验证失效，请重新登录"
   }
 }
