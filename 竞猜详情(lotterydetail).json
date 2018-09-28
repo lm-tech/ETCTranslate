@@ -117,8 +117,8 @@
     "team_pin": "Draw",
     "away_team_win": "Away",
     "detail_game_type_info_matchwinner": "Predict the result of a competition between two teams",
-    "detail_support_currency_lottery": "本场比赛仅支持{currency}下注",
-    "detail_support_currency_guess": "本题仅支持{currency}下注"
+    "detail_support_currency_lottery": "Support {currency} Forecast Only",
+    "detail_support_currency_guess": "Support {currency} Forecast Only"
   },
   "ja": {
     "detal_header_opening": "進行中",
@@ -176,8 +176,8 @@
     "team_pin": "引き分け",
     "away_team_win": "アウェイチームが勝つ",
     "detail_game_type_info_matchwinner": "この試合の結果をベッティング",
-    "detail_support_currency_lottery": "本场比赛仅支持{currency}下注",
-    "detail_support_currency_guess": "本题仅支持{currency}下注"
+    "detail_support_currency_lottery": "この試合は、{currency}のみでベッティングできる",
+    "detail_support_currency_guess": "この問題は、{currency}のみでベッティングできる"
   },
   "ko": {
     "detal_header_opening": "진행중",
@@ -235,8 +235,8 @@
     "team_pin": "무승부",
     "away_team_win": "원정팀 승리",
     "detail_game_type_info_matchwinner": "이 라운드에서 두 팀의 결과를 예측한다",
-    "detail_support_currency_lottery": "本场比赛仅支持{currency}下注",
-    "detail_support_currency_guess": "本题仅支持{currency}下注"
+    "detail_support_currency_lottery": "이번 경기는 {currency}만 베탕가능합니다",
+    "detail_support_currency_guess": "이 항목은 {currency}만 베팅가능합니다"
   },
   "ru": {
     "detal_header_opening": "В обработке",
@@ -294,8 +294,8 @@
     "team_pin": "В галстуке",
     "away_team_win": "Победа команды гостей",
     "detail_game_type_info_matchwinner": "предсказать результат соревнования между двумя командами",
-    "detail_support_currency_lottery": "本场比赛仅支持{currency}下注",
-    "detail_support_currency_guess": "本题仅支持{currency}下注"
+    "detail_support_currency_lottery": "Эта игра поддерживает только ставки {currency}",
+    "detail_support_currency_guess": "Этот вопрос поддерживает только ставки {currency}"
   },
   "vi": {
     "detal_header_opening": "Đang tiến hành",
@@ -356,8 +356,8 @@
     "team_pin": "Bằng",
     "away_team_win": "Khách hàng thắng",
     "detail_game_type_info_matchwinner": "Dự đoán kết quả của một cuộc thi giữa hai đội",
-    "detail_support_currency_lottery": "本场比赛仅支持{currency}下注",
-    "detail_support_currency_guess": "本题仅支持{currency}下注"
+    "detail_support_currency_lottery": "Trò chơi này chỉ hỗ trợ cá cược {currency}",
+    "detail_support_currency_guess": "Câu hỏi này chỉ hỗ trợ cá cược {currency}"
   },
   "zh-Hant": {
     "detal_header_opening": "進行中",
@@ -418,7 +418,7 @@
     "team_pin": "平",
     "away_team_win": "客勝",
     "detail_game_type_info_matchwinner": "競猜兩隊在本輪比賽的結果",
-    "detail_support_currency_lottery": "本场比赛仅支持{currency}下注",
-    "detail_support_currency_guess": "本题仅支持{currency}下注"
+    "detail_support_currency_lottery": "本場比賽僅支持{currency}下注",
+    "detail_support_currency_guess": "本題僅支持{currency}下注"
   }
 }
