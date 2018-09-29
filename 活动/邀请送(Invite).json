@@ -2,7 +2,7 @@
   "zh": {
     "activity_register_title": "活动规则：",
     "activity_register_title_close": "展开可查看活动规则",
-    "activity_invite_content_one": "1. 活动时间：（待定）",
+    "activity_invite_content_one": "1. 活动时间：",
     "activity_invite_content_two": "2. 活动持续14天，只要对平台账户有过充值的用户就拥有邀请资格；",
     "activity_invite_content_three": "3. 邀请者可在活动页面右侧查看自己的邀请码，或发送邀请链接给自己的好友注册；",
     "activity_invite_content_four": "4. 被邀请用户注册时必须填写或显示邀请人的邀请码才算邀请成功；",
@@ -17,12 +17,14 @@
     "activity_statement_content_two": "2. 官方对于利用系统漏洞谋取不正当利益的用户及账号保留撤销资格、资产追溯及法律诉讼的权力。",
     "activity_statement_content_three": "3. 官方保留在用户不知情的情况下添加、修改或中止任一活动的权利。",
     "activity_statement_content_four": "4. 官方拥有活动的最终解释权。如有任何疑问请联系官方客服：support@coingame.com。",
-    "activity_invite_top_title": "一人邀请、双方获利、单笔最高10ETH！"
+    "activity_invite_top_title": "一人邀请、双方获利、单笔最高10ETH！",
+    "activity_invite_default_text": "请完成平台充值后获得邀请资格，获得邀请奖励",
+    "close_button3": "关闭"
   },
   "en": {
     "activity_register_title": "Promotion rules: ",
     "activity_register_title_close": "Unfold to check more rules",
-    "activity_invite_content_one": "1. Activity time: To be determined",
+    "activity_invite_content_one": "1. Activity time: ",
     "activity_invite_content_two": "2. 14-day duration, within which user with platform account deposit history has the invitation privilege;",
     "activity_invite_content_three": "3. An inviter can check his invitation code on the right of the acitivity page, or send invitation link to friends for registration;",
     "activity_invite_content_four": "4. An invitee should fill in or show the invitation code from the inviter when registering to ensure sucessful registration;",
@@ -37,12 +39,14 @@
     "activity_statement_content_two": "2. The official party reserves the right to revoke eligibility, trace asset and initiate legal proceedings against users and accounts that attack systematic vulnerabilities to gain undue advantage.",
     "activity_statement_content_three": "3. The official party reserves the right to add, modify or suspend any activity without the user's acknowledgement.",
     "activity_statement_content_four": "4. The official party has the final interpretation of the activity. If you have any questions, please contact support@coingame.com.",
-    "activity_invite_top_title": "One Invite, Double Interest, Max 10 ETH Each!"
+    "activity_invite_top_title": "One Invite, Double Interest, Max 10 ETH Each!",
+    "activity_invite_default_text": "You will activate the invitation offer after a qualifying deposit.",
+    "close_button3": "Close"
   },
   "ko": {
     "activity_register_title": "이벤트 규칙：",
     "activity_register_title_close": "이벤트 규칙 보기",
-    "activity_invite_content_one": "1. 이벤트 시간 : 미정",
+    "activity_invite_content_one": "1. 이벤트 시간 : ",
     "activity_invite_content_two": "2. 이벤트는 14일간 진행되며 플랫폼 계정에 충전한 모든 유저는 요청 자격이 있습니다. ",
     "activity_invite_content_three": "3. 유저는 이벤트 페이지 오른쪽에서 요청 코드를 확인할 수 있으며 친구에게 링크를 보낼 수 있습니다.",
     "activity_invite_content_four": "4. 요청 받은 유저는 회원가입 시, 해당 요청 코드를 입력해야 요청성공으로 간주됩니다.",
@@ -56,8 +60,10 @@
     "activity_statement_content_one": "1. 이벤트 보상을 받은 유저가 이벤트 시간 및 끝난 후 7일 이내에 플랫폼 계정에 충전하지 않을 경우, 코인게임은 해당 유저 계정의 이벤트 보상을 회수할 권리가 있습니다.",
     "activity_statement_content_two": "2. 코인게임은 유저가 시스템 버그를 악용해서 부당 이익을 추구하는 경우 유저의 자격을 취소하고, 법률 소송의 권한을 보유합니다.",
     "activity_statement_content_three": "3. 코인게임은 유저에게 공지하지 않고 이벤트를 추가, 수정 또는 중단할 권리를 보유합니다",
-    "activity_statement_content_four": "4. 코인게임은 이벤트에 대한 최종 해석을 진행할 권리가 있습니다. 질문이 있으면 고객서비스 이메일로( support@coingame.org) 문의하십시오.",
-    "activity_invite_top_title": "한 사람이 요청하면 요청한 유저와 요청받은 유저 모두 최대 10ETH 보상을 받을 수 있습니다!"
+    "activity_statement_content_four": "4. 코인게임은 이벤트에 대한 최종 해석을 진행할 권리가 있습니다. 질문이 있으면 고객서비스 이메일로( support@coingame.com) 문의하십시오.",
+    "activity_invite_top_title": "한 사람이 요청하면 요청한 유저와 요청받은 유저 모두 최대 10ETH 보상을 받을 수 있습니다!",
+    "activity_invite_default_text": "코인게임에서 충전한 후 요청 자격을 획득하고 보상을 획득할 수 있습니다.",
+    "close_button3": "닫기"
   },
   "ja": {
     "activity_register_title": "イベント・ルール：",
@@ -77,12 +83,14 @@
     "activity_statement_content_two": "2. 当サイトは、バグの不正利用して利益を得るユーザー及びアカウントに、資格、資産税の遡及および法律訴訟の権限を留保します。",
     "activity_statement_content_three": "3. 当サイトには、ユーザーが知らない状況でいずれかのイベントの追加、更正また中止する権限を留保します。",
     "activity_statement_content_four": "4. 当サイトにはイベントについて最終解釈権を持っています。ご不明な点がありましたら、カスタマーサービスsupport@coingame.comまでご連絡下さい。",
-    "activity_invite_top_title": "友達一人を誘い、二人で利益獲得、ベッティング一回で最高10ETH！"
+    "activity_invite_top_title": "友達一人を誘い、二人で利益獲得、ベッティング一回で最高10ETH！",
+    "activity_invite_default_text": "プラットフォームでのチャージ完了後、友達招待権と招待ボーナスを獲得",
+    "close_button3": "閉める"
   },
   "ru": {
     "activity_register_title": "Promotion rules: ",
     "activity_register_title_close": "Unfold to check more rules",
-    "activity_invite_content_one": "1. Activity time: To be determined",
+    "activity_invite_content_one": "1. Activity time: ",
     "activity_invite_content_two": "2. 14-day duration, within which user with platform account deposit history has the invitation privilege;",
     "activity_invite_content_three": "3. An inviter can check his invitation code on the right of the acitivity page, or send invitation link to friends for registration;",
     "activity_invite_content_four": "4. An invitee should fill in or show the invitation code from the inviter when registering to ensure sucessful registration;",
@@ -97,12 +105,14 @@
     "activity_statement_content_two": "2. The official party reserves the right to revoke eligibility, trace asset and initiate legal proceedings against users and accounts that attack systematic vulnerabilities to gain undue advantage.",
     "activity_statement_content_three": "3. The official party reserves the right to add, modify or suspend any activity without the user's acknowledgement.",
     "activity_statement_content_four": "4. The official party has the final interpretation of the activity. If you have any questions, please contact support@coingame.com.",
-    "activity_invite_top_title": "One Invite, Double Interest, Max 10 ETH Each!"
+    "activity_invite_top_title": "One Invite, Double Interest, Max 10 ETH Each!",
+    "activity_invite_default_text": "You will activate the invitation offer after a qualifying deposit.",
+    "close_button3": "Close"
   },
   "vi": {
     "activity_register_title": "Promotion rules: ",
     "activity_register_title_close": "Unfold to check more rules",
-    "activity_invite_content_one": "1. Activity time: To be determined",
+    "activity_invite_content_one": "1. Activity time: ",
     "activity_invite_content_two": "2. 14-day duration, within which user with platform account deposit history has the invitation privilege;",
     "activity_invite_content_three": "3. An inviter can check his invitation code on the right of the acitivity page, or send invitation link to friends for registration;",
     "activity_invite_content_four": "4. An invitee should fill in or show the invitation code from the inviter when registering to ensure sucessful registration;",
@@ -117,12 +127,14 @@
     "activity_statement_content_two": "2. The official party reserves the right to revoke eligibility, trace asset and initiate legal proceedings against users and accounts that attack systematic vulnerabilities to gain undue advantage.",
     "activity_statement_content_three": "3. The official party reserves the right to add, modify or suspend any activity without the user's acknowledgement.",
     "activity_statement_content_four": "4. The official party has the final interpretation of the activity. If you have any questions, please contact support@coingame.com.",
-    "activity_invite_top_title": "One Invite, Double Interest, Max 10 ETH Each!"
+    "activity_invite_top_title": "One Invite, Double Interest, Max 10 ETH Each!",
+    "activity_invite_default_text": "You will activate the invitation offer after a qualifying deposit.",
+    "close_button3": "Close"
   },
   "zh-Hant": {
     "activity_register_title": "活動規則：",
     "activity_register_title_close": "展開可查看活動規則",
-    "activity_invite_content_one": "1. 活動時間：（待定）",
+    "activity_invite_content_one": "1. 活動時間：",
     "activity_invite_content_two": "2. 活動持續14天，只要對平臺帳戶有過充值的用戶就擁有邀請資格；",
     "activity_invite_content_three": "3. 邀請者可在活動頁面右側查看自己的邀請碼，或發送邀請連結給自己的好友註冊；",
     "activity_invite_content_four": "4. 被邀請使用者註冊時必須填寫或顯示邀請人的邀請碼才算邀請成功；",
@@ -137,6 +149,8 @@
     "activity_statement_content_two": "2. 官方對於利用系統漏洞謀取不正當利益的用戶及帳號保留撤銷資格、資產追溯及法律訴訟的權力。",
     "activity_statement_content_three": "3. 官方保留在使用者不知情的情況下添加、修改或中止任一活動的權力。",
     "activity_statement_content_four": "4. 官方擁有活動的最終解釋權。如有任何疑問請聯繫官方客服：support@coingame.com。",
-    "activity_invite_top_title": "一人邀請、雙方獲利、單筆最高10ETH！"
+    "activity_invite_top_title": "一人邀請、雙方獲利、單筆最高10ETH！",
+    "activity_invite_default_text": "請完成平臺充值後獲得邀請資格，獲得邀請獎勵",
+    "close_button3": "關閉"
   }
 }
