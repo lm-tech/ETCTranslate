@@ -9,36 +9,36 @@
     "login_to_register": "Register Now",
     "login_forgot_password": "Forgot password",
     "login_title": "Login",
-    "login_token_fail": "身份验证失效，请重新登录"
+    "login_token_fail": "Authentication is invalid, please refresh the page and log in again"
   },
   "ko": {
     "login_to_register": "회원가입하기",
     "login_forgot_password": "비밀번호찾기",
     "login_title": "로그인",
-    "login_token_fail": "身份验证失效，请重新登录"
+    "login_token_fail": "신분 인증 무효입니다. 페이지를 새로고침하고 다시 로그인해주세요."
   },
   "ja": {
     "login_to_register": "登録",
     "login_forgot_password": "パスワードを忘れた",
     "login_title": "ログイン",
-    "login_token_fail": "身份验证失效，请重新登录"
+    "login_token_fail": "ID認証は失効となりましたので、ページを再読込してログインしてください。"
   },
   "ru": {
     "login_to_register": "Зарегистрироваться сейчас",
     "login_forgot_password": "Забыть пароль",
     "login_title": "Авторизоваться",
-    "login_token_fail": "身份验证失效，请重新登录"
+    "login_token_fail": "Аутентификация недействительна, обновите страницу и войдите снова"
   },
   "vi": {
     "login_to_register": "lập tức đăng ký",
     "login_forgot_password": "quên mật khẩu",
     "login_title": "đăng nhập",
-    "login_token_fail": "身份验证失效，请重新登录"
+    "login_token_fail": "Xác thực không hợp lệ, vui lòng làm mới trang và đăng nhập lại"
   },
   "zh-Hant": {
     "login_to_register": "立即註冊",
     "login_forgot_password": "忘記密碼",
     "login_title": "登錄",
-    "login_token_fail": "身份验证失效，请重新登录"
+    "login_token_fail": "身份驗證失效，請刷新頁面重新登錄"
   }
 }
