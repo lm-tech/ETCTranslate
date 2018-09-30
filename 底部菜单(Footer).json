@@ -1,25 +1,45 @@
 {
-    "zh": {
-      "user_center": "个人中心"
-    },
-    "en": {
-      "user_center": "Account"
-    },
-    "ja": {
-      "user_center": "個人センター"
-    },
-    "ko": {
-      "user_center": "개인센터"
-    },
-    "ru": {
-      "user_center": "Личный центр"
-    },
-    "vi": {
-      "user_center": "Trung tâm cá nhân"
-    },
-    "zh-Hant": {
-      "user_center": "個人中心"
-    }
+  "zh": {
+    "header_title_word_cup": "足球",
+    "header_title_funny_guessing": "趣味竞猜",
+    "esports": "电竞",
+    "user_center": "个人中心"
+  },
+  "en": {
+    "header_title_word_cup": "Soccer",
+    "header_title_funny_guessing": "Prediction",
+    "esports": "eSports",
+    "user_center": "Account"
+  },
+  "ja": {
+    "header_title_word_cup": "サッカー",
+    "header_title_funny_guessing": "おもしろいベッティング",
+    "esports": "eスポーツ",
+    "user_center": "個人センター"
+  },
+  "ko": {
+    "header_title_word_cup": "축구",
+    "header_title_funny_guessing": "취미 예측",
+    "esports": "e스포츠",
+    "user_center": "개인센터"
+  },
+  "ru": {
+    "header_title_word_cup": "Футбол",
+    "header_title_funny_guessing": "Прогнозирование",
+    "esports": "eСпорт",
+    "user_center": "Личный центр"
+  },
+  "vi": {
+    "header_title_word_cup": "Bóng đá",
+    "header_title_funny_guessing": "Thi đố thú vị",
+    "esports": "eSports",
+    "user_center": "Trung tâm cá nhân"
+  },
+  "zh-Hant": {
+    "header_title_word_cup": "足球",
+    "header_title_funny_guessing": "趣味競猜",
+    "esports": "電競",
+    "user_center": "個人中心"
   }
-  
-  
+}
+
