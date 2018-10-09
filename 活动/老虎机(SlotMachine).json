@@ -63,8 +63,8 @@
     "activity_error2": "현재 참여인수가 많아서 잠시후 다시 시도해주세요"
   },
   "ja": {
-    "current_surplus": "残り賞金",
-    "activity_surplus": "残り賞金",
+    "current_surplus": "当セッション",
+    "activity_surplus": "全イベント",
     "count_down": "カウントダウン",
     "max_num": "申し訳ございません、お一人様1回のみ参加可能です。",
     "close_button_text": "他のイベントをチェック",
