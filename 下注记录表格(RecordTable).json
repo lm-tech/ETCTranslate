@@ -129,7 +129,7 @@
     "forcast_bet_single_time": "Forecasts Time",
     "forcast_bet_single_amount": "Forecast Slip Number",
     "forcast_bet_single_money": "Forecast Amount",
-    "forcast_bet_single_Non_assets": "不可提资产抵扣"
+    "forcast_bet_single_Non_assets": "Non-withdrawable assets offset"
   },
   "ko": {
     "record_table_bets_time": "배팅 시간",
@@ -195,7 +195,7 @@
     "forcast_bet_single_time": "베팅 시간",
     "forcast_bet_single_amount": "베팅수",
     "forcast_bet_single_money": "베팅금액",
-    "forcast_bet_single_Non_assets": "不可提资产抵扣"
+    "forcast_bet_single_Non_assets": "출금불가한 자산으로 공제"
   },
   "ja": {
     "record_table_bets_time": "ベッティングをする時間",
@@ -261,7 +261,7 @@
     "forcast_bet_single_time": "発注時間",
     "forcast_bet_single_amount": "ベッティング数",
     "forcast_bet_single_money": "オーダー金額",
-    "forcast_bet_single_Non_assets": "不可提资产抵扣"
+    "forcast_bet_single_Non_assets": "出金できない資産で相殺"
   },
   "ru": {
     "record_table_bets_time": "Время ставки",
@@ -327,7 +327,7 @@
     "forcast_bet_single_time": "Время ставки",
     "forcast_bet_single_amount": "Количество ставки ",
     "forcast_bet_single_money": "Сумма прогноза",
-    "forcast_bet_single_Non_assets": "不可提资产抵扣"
+    "forcast_bet_single_Non_assets": "Вычет неснимаемых активов"
   },
   "vi": {
     "record_table_bets_time": "thời gian đặc cược",
@@ -393,7 +393,7 @@
     "forcast_bet_single_time": "Thời gian đầu tư",
     "forcast_bet_single_amount": "Số lượng đầu tư",
     "forcast_bet_single_money": "Số tiền dự đoán",
-    "forcast_bet_single_Non_assets": "不可提资产抵扣"
+    "forcast_bet_single_Non_assets": "Không thể rút tài sản thế chấp"
   },
   "zh-Hant": {
     "record_table_bets_time": "下注時間",
@@ -459,6 +459,6 @@
     "forcast_bet_single_time": "投注時間",
     "forcast_bet_single_amount": "投注數",
     "forcast_bet_single_money": "預測金額",
-    "forcast_bet_single_Non_assets": "不可提资产抵扣"
+    "forcast_bet_single_Non_assets": "不可提資產抵扣"
   }
 }
