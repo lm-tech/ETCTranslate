@@ -1,0 +1,87 @@
+{
+    "zh": {
+      "app_download_title": "下载安卓客户端",
+      "app_download_tip1_title": "方法一",
+      "app_download_tip1_text": "点击右上角 ... 按钮，在下方选择“用浏览器”打开。",
+      "app_download_tip2_title": "方法二",
+      "app_download_tip2_text": "复制以下链接至浏览器打开，",
+      "app_download_copy": "点击复制",
+      "app_download_already_copy": "已复制",
+      "app_info_up": "点击右上角",
+      "app_info_browser": "在浏览器中",
+      "app_info_open": "打开"
+    },
+    "en": {
+      "app_download_title": "Download Android client",
+      "app_download_tip1_title": "Method 1",
+      "app_download_tip1_text": "Click the \"...\" button in the upper right corner, select \"Open with browser\" below",
+      "app_download_tip2_title": "Method 2",
+      "app_download_tip2_text": "Copy the following link to the browser to open",
+      "app_download_copy": "Click copy",
+      "app_download_already_copy": "Copied",
+      "app_info_up": "点击右上角",
+      "app_info_browser": "在浏览器中",
+      "app_info_open": "打开"
+    },
+    "ko": {
+      "app_download_title": "안드로이드 클라이언트 다운로드",
+      "app_download_tip1_title": "방법1",
+      "app_download_tip1_text": "상단 오른쪽에 ...버튼을 눌러서 웹 브라우저로 오픈하기를 선택한다.",
+      "app_download_tip2_title": "방법2",
+      "app_download_tip2_text": "아래 링크를  복사하여  웹 브라우저로 오픈한다.",
+      "app_download_copy": "클릭하여 복사하기",
+      "app_download_already_copy": "복사됨",
+      "app_info_up": "点击右上角",
+      "app_info_browser": "在浏览器中",
+      "app_info_open": "打开"
+    },
+    "ja": {
+      "app_download_title": "Download Android client",
+      "app_download_tip1_title": "Method 1",
+      "app_download_tip1_text": "Click the \"...\" button in the upper right corner, select \"Open with browser\" below",
+      "app_download_tip2_title": "Method 2",
+      "app_download_tip2_text": "Copy the following link to the browser to open",
+      "app_download_copy": "Click copy",
+      "app_download_already_copy": "Copied",
+      "app_info_up": "点击右上角",
+      "app_info_browser": "在浏览器中",
+      "app_info_open": "打开"
+    },
+    "ru": {
+      "app_download_title": "Download Android client",
+      "app_download_tip1_title": "Method 1",
+      "app_download_tip1_text": "Click the \"...\" button in the upper right corner, select \"Open with browser\" below",
+      "app_download_tip2_title": "Method 2",
+      "app_download_tip2_text": "Copy the following link to the browser to open",
+      "app_download_copy": "Click copy",
+      "app_download_already_copy": "Copied",
+      "app_info_up": "点击右上角",
+      "app_info_browser": "在浏览器中",
+      "app_info_open": "打开"
+    },
+    "vi": {
+      "app_download_title": "Download Android client",
+      "app_download_tip1_title": "Method 1",
+      "app_download_tip1_text": "Click the \"...\" button in the upper right corner, select \"Open with browser\" below",
+      "app_download_tip2_title": "Method 2",
+      "app_download_tip2_text": "Copy the following link to the browser to open",
+      "app_download_copy": "Click copy",
+      "app_download_already_copy": "Copied",
+      "app_info_up": "点击右上角",
+      "app_info_browser": "在浏览器中",
+      "app_info_open": "打开"
+    },
+    "zh-Hant": {
+      "app_download_title": "下载安卓客户端",
+      "app_download_tip1_title": "方法一",
+      "app_download_tip1_text": "点击右上角 ... 按钮，在下方选择“用浏览器”打开。",
+      "app_download_tip2_title": "方法二",
+      "app_download_tip2_text": "复制以下链接至浏览器打开，",
+      "app_download_copy": "点击复制",
+      "app_download_already_copy": "已复制",
+      "app_info_up": "点击右上角",
+      "app_info_browser": "在浏览器中",
+      "app_info_open": "打开"
+    }
+  }
+  
