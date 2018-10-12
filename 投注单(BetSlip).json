@@ -50,7 +50,8 @@
     "bet_user_center": "资产中心-投注记录",
     "bet_coupon": "不可提资产抵扣",
     "detail_game_all": "全场",
-    "detail_game_bos": "第{number}局"
+    "detail_game_bos": "第{number}局",
+    "exceed_option_max": "超过本选项最大下注额"
   },
   "en": {
     "bet_slip_title": "Forecast Slip",
@@ -102,7 +103,8 @@
     "bet_user_center": "Asset Center-Forecast History",
     "bet_coupon": "Non-withdrawable assets offset",
     "detail_game_all": "Match",
-    "detail_game_bos": "Map{number}"
+    "detail_game_bos": "Map{number}",
+    "exceed_option_max": "超过本选项最大下注额"
   },
   "ja": {
     "bet_slip_title": "ベッティングオーダー",
@@ -154,7 +156,8 @@
     "bet_user_center": "資産センター‐ベッティング記録",
     "bet_coupon": "出金できない資産で相殺",
     "detail_game_all": "全試合",
-    "detail_game_bos": "第{number}回戦"
+    "detail_game_bos": "第{number}回戦",
+    "exceed_option_max": "超过本选项最大下注额"
   },
   "ko": {
     "bet_slip_title": "베팅 리스트",
@@ -206,7 +209,8 @@
     "bet_user_center": "자산센터-베팅기록",
     "bet_coupon": "출금불가한 자산으로 공제",
     "detail_game_all": "올 코트",
-    "detail_game_bos": "제{number}회"
+    "detail_game_bos": "제{number}회",
+    "exceed_option_max": "超过本选项最大下注额"
   },
   "ru": {
     "bet_slip_title": "Заказ ставки",
@@ -258,8 +262,8 @@
     "bet_user_center": "Центр активов – запись ставки",
     "bet_coupon": "Вычет неснимаемых активов",
     "detail_game_all": "В полном матче",
-    "detail_game_bos": "Который{number}по счету"
-
+    "detail_game_bos": "Который{number}по счету",
+    "exceed_option_max": "超过本选项最大下注额"
   },
   "vi": {
     "bet_slip_title": "Phiếu đặc cược",
@@ -311,8 +315,8 @@
     "bet_user_center": "Trung tâm tài sản - ghi chép đầu tư",
     "bet_coupon": "Không thể rút tài sản thế chấp",
     "detail_game_all": "Toàn trận",
-    "detail_game_bos": "Trận thứ{number}"
-
+    "detail_game_bos": "Trận thứ{number}",
+    "exceed_option_max": "超过本选项最大下注额"
   },
   "zh-Hant": {
     "bet_slip_title": "投注單",
@@ -364,6 +368,7 @@
     "bet_user_center": "資產中心-投注記錄",
     "bet_coupon": "不可提資產抵扣",
     "detail_game_all": "全場",
-    "detail_game_bos": "第{number}局"
+    "detail_game_bos": "第{number}局",
+    "exceed_option_max": "超过本选项最大下注额"
   }
 }
