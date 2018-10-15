@@ -83,7 +83,7 @@
     "bet_to_quick": "Return to the previous page",
     "bet_to_normal": "Return to smart contract forecast",
     "detail_bet_expired_noNumber": "Enter your forecast amount",
-    "bet_no_data": "投注单空空如也，赶紧来下注吧",
+    "bet_no_data": "No order data, go betting",
     "bet_success": "Success!",
     "bet_failed": "Order failed",
     "bet_number": " ",
@@ -104,7 +104,7 @@
     "bet_coupon": "Non-withdrawable assets offset",
     "detail_game_all": "Match",
     "detail_game_bos": "Map{number}",
-    "exceed_option_max": "超过本选项最大下注额"
+    "exceed_option_max": "Bet overrun"
   },
   "ja": {
     "bet_slip_title": "ベッティングオーダー",
@@ -136,7 +136,7 @@
     "bet_to_quick": "会員に戻ってベッティングする",
     "bet_to_normal": "戻る、スマートコントラクトを使用してベッティング",
     "detail_bet_expired_noNumber": "オーダーを入力してください。",
-    "bet_no_data": "投注单空空如也，赶紧来下注吧",
+    "bet_no_data": "オーダーリストにまだ何もない、早速ご参加ください。",
     "bet_success": "操作成功",
     "bet_failed": "操作失敗",
     "bet_number": "条",
@@ -157,7 +157,7 @@
     "bet_coupon": "出金できない資産で相殺",
     "detail_game_all": "全試合",
     "detail_game_bos": "第{number}回戦",
-    "exceed_option_max": "超过本选项最大下注额"
+    "exceed_option_max": "オーダー金額の上限を超えました。"
   },
   "ko": {
     "bet_slip_title": "베팅 리스트",
@@ -189,7 +189,7 @@
     "bet_to_quick": "회원배팅으로 리턴",
     "bet_to_normal": "스마트 컨트렉트 배팅으로 리턴",
     "detail_bet_expired_noNumber": "베팅금액을 입력하세요",
-    "bet_no_data": "投注单空空如也，赶紧来下注吧",
+    "bet_no_data": "베팅 리스트가 비어있습니다. 베팅을 시작하세요.",
     "bet_success": "베팅성공",
     "bet_failed": "베팅실패",
     "bet_number": "건",
@@ -210,7 +210,7 @@
     "bet_coupon": "출금불가한 자산으로 공제",
     "detail_game_all": "올 코트",
     "detail_game_bos": "제{number}회",
-    "exceed_option_max": "超过本选项最大下注额"
+    "exceed_option_max": "해당 항목의 최대 베팅금액을 초과하였습니다"
   },
   "ru": {
     "bet_slip_title": "Заказ ставки",
@@ -242,7 +242,7 @@
     "bet_to_quick": "Вернуться к члену ставка",
     "bet_to_normal": "Вернуться к смарт-договорной ставка",
     "detail_bet_expired_noNumber": "Введите сумму ставки",
-    "bet_no_data": "投注单空空如也，赶紧来下注吧",
+    "bet_no_data": "No order data, go betting",
     "bet_success": "Ставка удалась",
     "bet_failed": "Ставка не удалась",
     "bet_number": "Статья",
@@ -263,7 +263,7 @@
     "bet_coupon": "Вычет неснимаемых активов",
     "detail_game_all": "В полном матче",
     "detail_game_bos": "Который{number}по счету",
-    "exceed_option_max": "超过本选项最大下注额"
+    "exceed_option_max": "Bet overrun"
   },
   "vi": {
     "bet_slip_title": "Phiếu đặc cược",
@@ -295,7 +295,7 @@
     "bet_to_quick": "về lại hội viên đặc cược",
     "bet_to_normal": "về lại họp đồng và đặc cược",
     "detail_bet_expired_noNumber": "Xin vui lòng nhập số tiền đặt cược",
-    "bet_no_data": "投注单空空如也，赶紧来下注吧",
+    "bet_no_data": "No order data, go betting",
     "bet_success": "Đặc cược thành công",
     "bet_failed": "Đặc cược thất bại",
     "bet_number": "Điều",
@@ -316,7 +316,7 @@
     "bet_coupon": "Không thể rút tài sản thế chấp",
     "detail_game_all": "Toàn trận",
     "detail_game_bos": "Trận thứ{number}",
-    "exceed_option_max": "超过本选项最大下注额"
+    "exceed_option_max": "Bet overrun"
   },
   "zh-Hant": {
     "bet_slip_title": "投注單",
@@ -348,7 +348,7 @@
     "bet_to_quick": "返回會員下注",
     "bet_to_normal": "返回智能合約下注",
     "detail_bet_expired_noNumber": "請輸入投注金額",
-    "bet_no_data": "投注单空空如也，赶紧来下注吧",
+    "bet_no_data": "投注單空空如也，趕緊來下注吧",
     "bet_success": "投注成功",
     "bet_failed": "投註失敗",
     "bet_number": "條",
@@ -369,6 +369,6 @@
     "bet_coupon": "不可提資產抵扣",
     "detail_game_all": "全場",
     "detail_game_bos": "第{number}局",
-    "exceed_option_max": "超过本选项最大下注额"
+    "exceed_option_max": "超過本選項最大下注額"
   }
 }
