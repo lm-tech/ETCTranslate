@@ -19,9 +19,9 @@
       "app_download_tip2_text": "Copy the following link to the browser to open",
       "app_download_copy": "Click copy",
       "app_download_already_copy": "Copied",
-      "app_info_up": "点击右上角",
-      "app_info_browser": "在浏览器中",
-      "app_info_open": "打开"
+      "app_info_up": "Click on the top right corner",
+      "app_info_browser": "in the browser",
+      "app_info_open": "Open"
     },
     "ko": {
       "app_download_title": "안드로이드 클라이언트 다운로드",
@@ -31,9 +31,9 @@
       "app_download_tip2_text": "아래 링크를  복사하여  웹 브라우저로 오픈한다.",
       "app_download_copy": "클릭하여 복사하기",
       "app_download_already_copy": "복사됨",
-      "app_info_up": "点击右上角",
-      "app_info_browser": "在浏览器中",
-      "app_info_open": "打开"
+      "app_info_up": "오른쪽 상단을 클릭하세요.",
+      "app_info_browser": "브라우저에서",
+      "app_info_open": "오픈하기"
     },
     "ja": {
       "app_download_title": "Download Android client",
@@ -43,9 +43,9 @@
       "app_download_tip2_text": "Copy the following link to the browser to open",
       "app_download_copy": "Click copy",
       "app_download_already_copy": "Copied",
-      "app_info_up": "点击右上角",
-      "app_info_browser": "在浏览器中",
-      "app_info_open": "打开"
+      "app_info_up": "右上のボタンをクリックして",
+      "app_info_browser": "ブラウザで",
+      "app_info_open": "開く"
     },
     "ru": {
       "app_download_title": "Download Android client",
@@ -55,9 +55,9 @@
       "app_download_tip2_text": "Copy the following link to the browser to open",
       "app_download_copy": "Click copy",
       "app_download_already_copy": "Copied",
-      "app_info_up": "点击右上角",
-      "app_info_browser": "在浏览器中",
-      "app_info_open": "打开"
+      "app_info_up": "Click on the top right corner",
+      "app_info_browser": "in the browser",
+      "app_info_open": "Open"
     },
     "vi": {
       "app_download_title": "Download Android client",
@@ -67,21 +67,21 @@
       "app_download_tip2_text": "Copy the following link to the browser to open",
       "app_download_copy": "Click copy",
       "app_download_already_copy": "Copied",
-      "app_info_up": "点击右上角",
-      "app_info_browser": "在浏览器中",
-      "app_info_open": "打开"
+      "app_info_up": "Click on the top right corner",
+      "app_info_browser": "in the browser",
+      "app_info_open": "Open"
     },
     "zh-Hant": {
-      "app_download_title": "下载安卓客户端",
+      "app_download_title": "下載安卓用戶端",
       "app_download_tip1_title": "方法一",
-      "app_download_tip1_text": "点击右上角 ... 按钮，在下方选择“用浏览器”打开。",
+      "app_download_tip1_text": "點擊右上角 ... 按鈕，在下方選擇“用流覽器”打開。",
       "app_download_tip2_title": "方法二",
-      "app_download_tip2_text": "复制以下链接至浏览器打开，",
-      "app_download_copy": "点击复制",
-      "app_download_already_copy": "已复制",
-      "app_info_up": "点击右上角",
-      "app_info_browser": "在浏览器中",
-      "app_info_open": "打开"
+      "app_download_tip2_text": "複製以下連結至流覽器打開，",
+      "app_download_copy": "點擊複製",
+      "app_download_already_copy": "已複製",
+      "app_info_up": "點擊右上角",
+      "app_info_browser": "在流覽器中",
+      "app_info_open": "打開"
     }
   }
   
