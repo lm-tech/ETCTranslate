@@ -143,7 +143,7 @@
         "menu_type_1001": "坦克世界",
         "menu_type_1002": "神之浩劫",
         "menu_type_1003": "部落冲突",
-        "menu_type_3": "Lottery"
+        "menu_type_3": "Prediction"
     },
     "ja": {
         "menu_type_4": "サッカー",
@@ -362,7 +362,7 @@
         "menu_type_1001": "坦克世界",
         "menu_type_1002": "神之浩劫",
         "menu_type_1003": "部落冲突",
-        "menu_type_3": "Лотерейный"
+        "menu_type_3": "Прогнозирование"
     },
     "vi": {
         "menu_type_4": "Soccer",
