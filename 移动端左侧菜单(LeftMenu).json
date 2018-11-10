@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "guide_link": "新手引导",
+    "services_link": "使用条款",
+    "personal_link": "隐私条款",
+    "guess_detail": "竞猜细则",
+    "menu_soccer": "足球",
+    "menu_esports": "电竞",
+    "menu_funny": "趣味竞猜",
+    "all_menu": "所有分类",
+    "refresh": "请重新加载"
+  },
+  "en": {
+    "guide_link": "Beginner's Guide",
+    "services_link": "Terms of Use",
+    "personal_link": "Privacy Policy",
+    "guess_detail": "Game Rule",
+    "menu_soccer": "Soccer",
+    "menu_esports": "eSports",
+    "menu_funny": "Prediction",
+    "all_menu": "所有分类",
+    "refresh": "请重新加载"
+  },
+  "ja": {
+    "guide_link": "初心者ブックガイド",
+    "services_link": "利用契約",
+    "personal_link": "プライバシー規約",
+    "guess_detail": "ベッティングの細則",
+    "menu_soccer": "サッカー",
+    "menu_esports": "eスポーツ",
+    "menu_funny": "おもしろいベッティング",
+    "all_menu": "所有分类",
+    "refresh": "请重新加载"
+  },
+  "ko": {
+    "guide_link": "신규회원 가이드",
+    "services_link": "이용약관",
+    "personal_link": "보안약관",
+    "guess_detail": "예측 규칙",
+    "menu_soccer": "축구",
+    "menu_esports": "e스포츠",
+    "menu_funny": "취미 예측",
+    "all_menu": "所有分类",
+    "refresh": "请重新加载"
+  },
+  "ru": {
+    "guide_link": "Руководство для начинающих",
+    "services_link": "Terms of Use",
+    "personal_link": "Статьи конфиденциальности",
+    "guess_detail": "Правила прогноза",
+    "menu_soccer": "Футбол",
+    "menu_esports": "eСпорт",
+    "menu_funny": "Прогнозирование",
+    "all_menu": "所有分类",
+    "refresh": "请重新加载"
+  },
+  "vi": {
+    "guide_link": "Hướng dẫn người mới",
+    "services_link": "Terms of Use",
+    "personal_link": "Chính sách bảo mật",
+    "guess_detail": "Chi tiết thi đố",
+    "menu_soccer": "Bóng đá",
+    "menu_esports": "eSports",
+    "menu_funny": "Thi đố thú vị",
+    "all_menu": "所有分类",
+    "refresh": "请重新加载"
+  },
+  "zh-Hant": {
+    "guide_link": "新手引導",
+    "services_link": "使用條款",
+    "personal_link": "隱私條款",
+    "guess_detail": "競猜細則",
+    "menu_soccer": "足球",
+    "menu_esports": "電競",
+    "menu_funny": "趣味競猜",
+    "all_menu": "所有分类",
+    "refresh": "请重新加载"
+  }
+}

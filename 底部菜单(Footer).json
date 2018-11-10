@@ -3,43 +3,57 @@
     "header_title_word_cup": "足球",
     "header_title_funny_guessing": "趣味竞猜",
     "esports": "电竞",
-    "user_center": "个人中心"
+    "user_center": "个人中心",
+    "centralization": "会员下注",
+    "non_centralization": "合约下注"
   },
   "en": {
     "header_title_word_cup": "Soccer",
     "header_title_funny_guessing": "Prediction",
     "esports": "eSports",
-    "user_center": "Account"
+    "user_center": "Account",
+    "centralization": "会员下注",
+    "non_centralization": "合约下注"
   },
   "ja": {
     "header_title_word_cup": "サッカー",
     "header_title_funny_guessing": "おもしろいベッティング",
     "esports": "eスポーツ",
-    "user_center": "個人センター"
+    "user_center": "個人センター",
+    "centralization": "会员下注",
+    "non_centralization": "合约下注"
   },
   "ko": {
     "header_title_word_cup": "축구",
     "header_title_funny_guessing": "취미 예측",
     "esports": "e스포츠",
-    "user_center": "개인센터"
+    "user_center": "개인센터",
+    "centralization": "会员下注",
+    "non_centralization": "合约下注"
   },
   "ru": {
     "header_title_word_cup": "Футбол",
     "header_title_funny_guessing": "Прогнозирование",
     "esports": "eСпорт",
-    "user_center": "Личный центр"
+    "user_center": "Личный центр",
+    "centralization": "会员下注",
+    "non_centralization": "合约下注"
   },
   "vi": {
     "header_title_word_cup": "Bóng đá",
     "header_title_funny_guessing": "Thi đố thú vị",
     "esports": "eSports",
-    "user_center": "Trung tâm cá nhân"
+    "user_center": "Trung tâm cá nhân",
+    "centralization": "会员下注",
+    "non_centralization": "合约下注"
   },
   "zh-Hant": {
     "header_title_word_cup": "足球",
     "header_title_funny_guessing": "趣味競猜",
     "esports": "電競",
-    "user_center": "個人中心"
+    "user_center": "個人中心",
+    "centralization": "会员下注",
+    "non_centralization": "合约下注"
   }
 }
 

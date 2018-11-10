@@ -1,0 +1,31 @@
+{
+    "zh": {
+      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
+      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+    },
+    "en": {
+      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
+      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+    },
+    "ko": {
+      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
+      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+    },
+    "ja": {
+      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
+      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+    },
+    "ru": {
+      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
+      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+    },
+    "vi": {
+      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
+      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+    },
+    "zh-Hant": {
+      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
+      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+    }
+  }
+  

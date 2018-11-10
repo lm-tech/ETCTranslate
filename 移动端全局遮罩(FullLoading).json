@@ -1,0 +1,37 @@
+{
+  "zh": {
+    "internet_error": "网络连接异常",
+    "refresh_tip": "请再次刷新或者检查网络",
+    "refresh": "刷新"
+  },
+  "en": {
+    "internet_error": "网络连接异常",
+    "refresh_tip": "请再次刷新或者检查网络",
+    "refresh": "刷新"
+  },
+  "ja": {
+    "internet_error": "网络连接异常",
+    "refresh_tip": "请再次刷新或者检查网络",
+    "refresh": "刷新"
+  },
+  "ko": {
+    "internet_error": "网络连接异常",
+    "refresh_tip": "请再次刷新或者检查网络",
+    "refresh": "刷新"
+  },
+  "ru": {
+    "internet_error": "网络连接异常",
+    "refresh_tip": "请再次刷新或者检查网络",
+    "refresh": "刷新"
+  },
+  "vi": {
+    "internet_error": "网络连接异常",
+    "refresh_tip": "请再次刷新或者检查网络",
+    "refresh": "刷新"
+  },
+  "zh-Hant": {
+    "internet_error": "网络连接异常",
+    "refresh_tip": "请再次刷新或者检查网络",
+    "refresh": "刷新"
+  }
+}
