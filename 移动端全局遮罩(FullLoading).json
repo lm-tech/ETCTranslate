@@ -10,9 +10,9 @@
     "refresh": "刷新"
   },
   "ja": {
-    "internet_error": "网络连接异常",
-    "refresh_tip": "请再次刷新或者检查网络",
-    "refresh": "刷新"
+    "internet_error": "Abonormal Internet connection",
+    "refresh_tip": "Refresh or check your network",
+    "refresh": "Refresh"
   },
   "ko": {
     "internet_error": "网络连接异常",
