@@ -231,10 +231,10 @@
     "record_table_fee": "배당률",
     "error_messages_networks": "인터넷 오류가  발생하였습니다.",
     "exceed_option_max": "최대 베팅금액 초과함",
-    "clear_all": "全部删除",
-    "bet_type": "投注形式:",
-    "single_bet": "单注",
-    "bet_amount": "本次投注："
+    "clear_all": "모두 삭제",
+    "bet_type": "베팅 방식:",
+    "single_bet": "단일 베팅",
+    "bet_amount": "이번 회 베팅:"
   },
   "ru": {
     "bet_slip_title": "Заказ ставки",
