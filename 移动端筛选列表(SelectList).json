@@ -7,11 +7,11 @@
       "confirm": "确认"
     },
     "en": {
-      "title": "选择比赛",
-      "select": "全选",
-      "unselect": "反选",
-      "cancel": "取消",
-      "confirm": "确认"
+      "title": "Select a game",
+      "select": "Select all",
+      "unselect": "Inverse",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
     },
     "ko": {
       "title": "选择比赛",
