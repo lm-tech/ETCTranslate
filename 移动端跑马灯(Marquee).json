@@ -12,8 +12,8 @@
       "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
     },
     "ja": {
-      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
-      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+      "marquee_invest": "ユーザーの{account}さんは、【{playNames}】に{amount}をオーダーしました。",
+      "marquee2_earn": "ユーザーの{account}さんは、【{playNames}】により{amount}を取得しました。おめでとうございます！"
     },
     "ru": {
       "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
