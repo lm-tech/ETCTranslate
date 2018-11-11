@@ -12,9 +12,9 @@
     "detail_game_sessions": "Round {sessions}"
   },
   "ja": {
-    "coming_title": "即将开赛",
-    "update": "换一换",
-    "more": "更多",
+    "coming_title": "間もなく開始",
+    "update": "スイッチ",
+    "more": "もっと見る",
     "detail_game_sessions": "第{sessions}回"
   },
   "ko": {
