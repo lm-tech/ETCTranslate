@@ -36,16 +36,16 @@
       "week_6": "周六"
     },
     "ja": {
-      "opending": "即时",
-      "closed": "赛程",
-      "published": "赛果",
-      "week_0": "周日",
-      "week_1": "周一",
-      "week_2": "周二",
-      "week_3": "周三",
-      "week_4": "周四",
-      "week_5": "周五",
-      "week_6": "周六"
+      "opending": "即時",
+      "closed": "日程表",
+      "published": "試合結果",
+      "week_0": "日曜日",
+      "week_1": "月曜日",
+      "week_2": "火曜日",
+      "week_3": "水曜日",
+      "week_4": "木曜日",
+      "week_5": "金曜日",
+      "week_6": "土曜日"
     },
     "ru": {
       "opending": "即时",
