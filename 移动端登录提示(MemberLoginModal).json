@@ -14,11 +14,11 @@
     "login": "Login"
   },
   "ja": {
-    "login_tip": "登陆后使用下注功能",
-    "contact_tip": "非会员直接下注",
-    "click_tip": "请点击这里",
-    "refuse": "再看看",
-    "login": "登录"
+    "login_tip": "ログインして、ベッティング機能をご利用ください。",
+    "contact_tip": "非会員向け",
+    "click_tip": "クリック",
+    "refuse": "考慮する",
+    "login": "ログイン"
   },
   "ko": {
     "login_tip": "登陆后使用下注功能",
