@@ -249,11 +249,11 @@
     "game_sum_amount_is_beyond": "マキシマムオーダーに達しました",
     "account_locked_two_hours": "パスワードが間違っています。安全確保のために、これからの二時間でログインできません。",
     "withdraw_address_invalid": "無効なアドレス",
-    "valid_address_BTC": "地址必须为25到34位a-f,A-F,0-9组合",
-    "valid_address_LTC": "地址必须以“L”开头，长度为26至35位a-f,A-F,0-9组合",
-    "valid_address_ETC": "地址必须以0x开头，42位内a-f,A-F,0-9组合",
-    "valid_address_ETH": "地址必须以0x开头，42位内a-f,A-F,0-9组合",
-    "valid_address_BCH": "地址不合法"
+    "valid_address_BTC": "アドレスは必ず25～34桁以内に、a-f、A-F、0-9の組み合わせで構成されます。",
+    "valid_address_LTC": "アドレスは必ずLで始まり、26～35桁以内に、a-f、A-F、0-9の組み合わせで構成されます。",
+    "valid_address_ETC": "アドレスは必ず0xで始まり、42桁以内に、a-f、A-F、0-9の組み合わせで構成されます。",
+    "valid_address_ETH": "アドレスは必ず0xで始まり、42桁以内に、a-f、A-F、0-9の組み合わせで構成されます。",
+    "valid_address_BCH": "無効なアドレス"
   },
   "ru": {
     "error_messages_no_user": "用户不存在",
