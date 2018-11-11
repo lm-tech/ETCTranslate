@@ -4,8 +4,8 @@
       "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
     },
     "en": {
-      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
-      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+      "marquee_invest": "User{account},bet on【{playNames}】with {amount}, take a look!",
+      "marquee2_earn": "User{account},bet on【{playNames}】 and win {amount}, let's congratulate him!"
     },
     "ko": {
       "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
