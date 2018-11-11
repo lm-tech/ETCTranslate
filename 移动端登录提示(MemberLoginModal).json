@@ -7,11 +7,11 @@
     "login": "登录"
   },
   "en": {
-    "login_tip": "登陆后使用下注功能",
-    "contact_tip": "非会员直接下注",
-    "click_tip": "请点击这里",
-    "refuse": "再看看",
-    "login": "登录"
+    "login_tip": "Login and use the betting function",
+    "contact_tip": "Non-member direct betting",
+    "click_tip": "Click here",
+    "refuse": "Not now",
+    "login": "Login"
   },
   "ja": {
     "login_tip": "登陆后使用下注功能",
