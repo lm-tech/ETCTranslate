@@ -44,8 +44,8 @@
     "quick_button_pin": "引き分け",
     "detail_time_left": "残り時間：",
     "detail_bet_expired": "マキシマムオーダーに達しました。",
-    "inPlay": "比赛进行中",
-    "closed": "已结束"
+    "inPlay": "試合中",
+    "closed": "終了"
   },
   "ko": {
     "detal_header_opening": "진행중",
