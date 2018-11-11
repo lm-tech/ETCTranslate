@@ -182,8 +182,8 @@
     "login_and_quick_bets": "ログイン後早速ベッティングできる",
     "go_login": "ログイン",
     "go_bets": "ベッティング",
-    "inPlay": "比赛进行中",
-    "closed": "已结束"
+    "inPlay": "試合中",
+    "closed": "終了"
   },
   "ko": {
     "detal_header_in_prediction": "진행중",
