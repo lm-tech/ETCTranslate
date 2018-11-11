@@ -243,8 +243,8 @@
     "login_and_quick_bets": "로그인 후 빠른배팅 사용 가능",
     "go_login": "회원 로그인",
     "go_bets": "배팅하기",
-    "inPlay": "比赛进行中",
-    "closed": "已结束"
+    "inPlay": "경기 진행중 ",
+    "closed": "마감됨"
   },
   "ru": {
     "detal_header_in_prediction": "В обработке",
