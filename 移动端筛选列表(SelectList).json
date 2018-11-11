@@ -21,11 +21,11 @@
       "confirm": "确认"
     },
     "ja": {
-      "title": "选择比赛",
-      "select": "全选",
-      "unselect": "反选",
-      "cancel": "取消",
-      "confirm": "确认"
+      "title": "試合を選択",
+      "select": "一括選択",
+      "unselect": "選択を解除",
+      "cancel": "キャンセル",
+      "confirm": "確認"
     },
     "ru": {
       "title": "选择比赛",
