@@ -28,8 +28,8 @@
     "quick_button_pin": "Draw",
     "detail_time_left": "Time left: ",
     "detail_bet_expired": "Reached the prediction slip limit",
-    "inPlay": "比赛进行中",
-    "closed": "已结束"
+    "inPlay": "Game in progress",
+    "closed": "Game over"
   },
   "ja": {
     "detal_header_opening": "進行中",
