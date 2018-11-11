@@ -10,9 +10,9 @@
     "refresh": "刷新"
   },
   "ja": {
-    "internet_error": "Abonormal Internet connection",
-    "refresh_tip": "Refresh or check your network",
-    "refresh": "Refresh"
+    "internet_error": "ネットワークに接続できません。",
+    "refresh_tip": "ネットワークを再起動またはチェックしてください。",
+    "refresh": "再起動"
   },
   "ko": {
     "internet_error": "网络连接异常",
