@@ -167,8 +167,8 @@
     "detail_game_bos": "第{number}回戦",
     "record_table_fee": "倍率",
     "error_messages_networks": "ネットワークエラー",
-    "bet_game_please": "请将",
-    "bet_warn_more": "禁止向{currency}智能合约地址充值除{currency}之外的资产，任何冲入{currency}地址的非{currency}资产将不可找回。"
+    "bet_game_please": "どうぞ",
+    "bet_warn_more": "{currency}以外の資産を{currency}アドレスにチャージすることは禁じられています。チャージされた{currency}以外の資産は回収できません。"
   },
   "ko": {
     "bet_slip_title": "베팅 리스트",
