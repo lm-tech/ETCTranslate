@@ -121,8 +121,8 @@
     "login_and_quick_bets": "Login to make a prediction",
     "go_login": "Member login",
     "go_bets": "Make a prediction",
-    "inPlay": "比赛进行中",
-    "closed": "已结束"
+    "inPlay": "Game in progress",
+    "closed": "Game over"
   },
   "ja": {
     "detal_header_in_prediction": "進行中",
