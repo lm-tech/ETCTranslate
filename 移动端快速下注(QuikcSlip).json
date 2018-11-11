@@ -172,10 +172,10 @@
     "record_table_fee": "倍率",
     "error_messages_networks": "ネットワークエラー",
     "exceed_option_max": "上限を超えた",
-    "clear_all": "全部删除",
-    "bet_type": "投注形式:",
-    "single_bet": "单注",
-    "bet_amount": "本次投注："
+    "clear_all": "一括削除",
+    "bet_type": "ベッティングタイプ:",
+    "single_bet": "シングル",
+    "bet_amount": "今回のオーダー金額："
   },
   "ko": {
     "bet_slip_title": "베팅 리스트",
