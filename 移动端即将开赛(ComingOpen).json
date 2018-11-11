@@ -6,9 +6,9 @@
     "detail_game_sessions": "第{sessions}轮"
   },
   "en": {
-    "coming_title": "即将开赛",
-    "update": "换一换",
-    "more": "更多",
+    "coming_title": "Coming soon",
+    "update": "Switch",
+    "more": "More",
     "detail_game_sessions": "Round {sessions}"
   },
   "ja": {
