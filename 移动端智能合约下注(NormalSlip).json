@@ -66,7 +66,7 @@
     "team_pin": "Draw",
     "away_team_win": "Away",
     "bet_range": "Prediction range:",
-    "bet_game_address": "打入智能合约地址完成下注：",
+    "bet_game_address": "Deposit into the smart contract addresss to complete your betting:",
     "bet_warning": "Direct withdrawal from an exchange address to the forecast address is prohibited.",
     "bet_login": "Member login",
     "bet_item_get": "Estimated winnings amount: ",
@@ -111,8 +111,8 @@
     "detail_game_bos": "Map{number}",
     "record_table_fee": "Odds",
     "error_messages_networks": "Network error",
-    "bet_game_please": "请将",
-    "bet_warn_more": "禁止向{currency}智能合约地址充值除{currency}之外的资产，任何冲入{currency}地址的非{currency}资产将不可找回。"
+    "bet_game_please": "Please",
+    "bet_warn_more": "Don't deposit into {currency}smart contract address assets except {currency}, any deposited {currency} address non-{currency} assets will be irretrievable."
   },
   "ja": {
     "bet_slip_title": "ベッティングオーダー",
