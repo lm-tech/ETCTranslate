@@ -60,8 +60,8 @@
     "quick_button_pin": "무승부",
     "detail_time_left": "남은 시간:",
     "detail_bet_expired": "베팅 오더 최대치에 도달하였습니다",
-    "inPlay": "比赛进行中",
-    "closed": "已结束"
+    "inPlay": "경기 진행중",
+    "closed": "마감됨"
   },
   "ru": {
     "detal_header_opening": "Обработка",
