@@ -14,11 +14,11 @@
       "confirm": "Confirm"
     },
     "ko": {
-      "title": "选择比赛",
-      "select": "全选",
-      "unselect": "反选",
-      "cancel": "取消",
-      "confirm": "确认"
+      "title": "경기 선택",
+      "select": "모두 선택",
+      "unselect": "모두 취소",
+      "cancel": "취소",
+      "confirm": "확인"
     },
     "ja": {
       "title": "試合を選択",
@@ -31,7 +31,7 @@
       "title": "选择比赛",
       "select": "全选",
       "unselect": "反选",
-      "cancel": "取消",
+      "cancel": "取消취소",
       "confirm": "确认"
     },
     "vi": {
