@@ -18,9 +18,9 @@
     "detail_game_sessions": "第{sessions}回"
   },
   "ko": {
-    "coming_title": "即将开赛",
-    "update": "换一换",
-    "more": "更多",
+    "coming_title": "런칭 예정",
+    "update": "새로고침",
+    "more": "더보기",
     "detail_game_sessions": "제{sessions}회"
   },
   "ru": {
