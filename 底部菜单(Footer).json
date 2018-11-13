@@ -36,24 +36,24 @@
     "header_title_funny_guessing": "Прогнозирование",
     "esports": "eСпорт",
     "user_center": "Личный центр",
-    "centralization": "会员下注",
-    "non_centralization": "合约下注"
+    "centralization": "Member betting",
+    "non_centralization": "Contract betting"
   },
   "vi": {
     "header_title_word_cup": "Bóng đá",
     "header_title_funny_guessing": "Thi đố thú vị",
     "esports": "eSports",
     "user_center": "Trung tâm cá nhân",
-    "centralization": "会员下注",
-    "non_centralization": "合约下注"
+    "centralization": "Member betting",
+    "non_centralization": "Contract betting"
   },
   "zh-Hant": {
     "header_title_word_cup": "足球",
     "header_title_funny_guessing": "趣味競猜",
     "esports": "電競",
     "user_center": "個人中心",
-    "centralization": "会员下注",
-    "non_centralization": "合约下注"
+    "centralization": "會員下注",
+    "non_centralization": "合約下注"
   }
 }
 
