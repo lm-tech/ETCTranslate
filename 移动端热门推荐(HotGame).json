@@ -16,15 +16,15 @@
     "more": "더보기 "
   },
   "ru": {
-    "hot_title": "热门推荐",
-    "more": "更多"
+    "hot_title": "Hot",
+    "more": "More"
   },
   "vi": {
-    "hot_title": "热门推荐",
-    "more": "更多"
+    "hot_title": "Hot",
+    "more": "More"
   },
   "zh-Hant": {
-    "hot_title": "热门推荐",
+    "hot_title": "熱門推薦",
     "more": "更多"
   }
 }
