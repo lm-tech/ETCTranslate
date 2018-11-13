@@ -51,8 +51,8 @@
     "menu_soccer": "Футбол",
     "menu_esports": "eСпорт",
     "menu_funny": "Прогнозирование",
-    "all_menu": "所有分类",
-    "refresh": "请重新加载"
+    "all_menu": "All categories",
+    "refresh": "Please reload"
   },
   "vi": {
     "guide_link": "Hướng dẫn người mới",
@@ -62,8 +62,8 @@
     "menu_soccer": "Bóng đá",
     "menu_esports": "eSports",
     "menu_funny": "Thi đố thú vị",
-    "all_menu": "所有分类",
-    "refresh": "请重新加载"
+    "all_menu": "All categories",
+    "refresh": "Please reload"
   },
   "zh-Hant": {
     "guide_link": "新手引導",
@@ -73,7 +73,7 @@
     "menu_soccer": "足球",
     "menu_esports": "電競",
     "menu_funny": "趣味競猜",
-    "all_menu": "所有分类",
-    "refresh": "请重新加载"
+    "all_menu": "所有分類",
+    "refresh": "請重新加載"
   }
 }
