@@ -290,10 +290,10 @@
     "record_table_fee": "Шансы",
     "error_messages_networks": "Network error",
     "exceed_option_max": "Exceeds the Maximum Limit",
-    "clear_all": "全部删除",
-    "bet_type": "投注形式:",
-    "single_bet": "单注",
-    "bet_amount": "本次投注："
+    "clear_all": "Delete all",
+    "bet_type": "Betting type:",
+    "single_bet": "Single bet",
+    "bet_amount": "Betting amount："
   },
   "vi": {
     "bet_slip_title": "Phiếu đặc cược",
@@ -349,10 +349,10 @@
     "record_table_fee": "tỉ lệ",
     "error_messages_networks": "mất mạng",
     "exceed_option_max": "Exceeds the Maximum Limit",
-    "clear_all": "全部删除",
-    "bet_type": "投注形式:",
-    "single_bet": "单注",
-    "bet_amount": "本次投注："
+    "clear_all": "Delete all",
+    "bet_type": "Betting type:",
+    "single_bet": "Single bet",
+    "bet_amount": "Betting amount："
   },
   "zh-Hant": {
     "bet_slip_title": "投注單",
@@ -408,9 +408,9 @@
     "record_table_fee": "賠率",
     "error_messages_networks": "網絡錯誤",
     "exceed_option_max": "超過本選項最大下注額",
-    "clear_all": "全部删除",
+    "clear_all": "全部刪除",
     "bet_type": "投注形式:",
-    "single_bet": "单注",
+    "single_bet": "單註",
     "bet_amount": "本次投注："
   }
 }
