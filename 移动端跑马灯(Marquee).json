@@ -16,16 +16,16 @@
       "marquee2_earn": "ユーザーの{account}さんは、【{playNames}】により{amount}を取得しました。おめでとうございます！"
     },
     "ru": {
-      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
-      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+      "marquee_invest": "User{account},bet on【{playNames}】with {amount}, take a look!",
+      "marquee2_earn": "User{account},bet on【{playNames}】 and win {amount}, let's congratulate him!"
     },
     "vi": {
-      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
-      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+      "marquee_invest": "User{account},bet on【{playNames}】with {amount}, take a look!",
+      "marquee2_earn": "User{account},bet on【{playNames}】 and win {amount}, let's congratulate him!"
     },
     "zh-Hant": {
-      "marquee_invest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
-      "marquee2_earn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！"
+      "marquee_invest": "用戶{account},在【{playNames}】下注了{amount},大家快來圍觀！",
+      "marquee2_earn": "用戶{account},在【{playNames}】贏得了{amount},讓我們恭喜他！"
     }
   }
   
