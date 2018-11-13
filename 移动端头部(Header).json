@@ -8,8 +8,8 @@
   "en": {
     "header_title_guide": "Beginner's Guide",
     "header_all_forecast_history": "Whole Network Forecast History",
-    "cancel": "取消",
-    "confirm": "确定"
+    "cancel": "Cancel",
+    "confirm": "Confirm"
   },
   "ja": {
     "header_title_guide": "初心者ブックガイド",
@@ -26,19 +26,19 @@
   "ru": {
     "header_title_guide": "Руководство для начинающих ",
     "header_all_forecast_history": "Вся история сетевых прогнозов",
-    "cancel": "取消",
-    "confirm": "确定"
+    "cancel": "Cancel",
+    "confirm": "Confirm"
   },
   "vi": {
     "header_title_guide": "Hướng dẫn người mới",
     "header_all_forecast_history": "Toàn bộ mạng dự báo lịch sử",
-    "cancel": "取消",
-    "confirm": "确定"
+    "cancel": "Cancel",
+    "confirm": "Confirm"
   },
   "zh-Hant": {
     "header_title_guide": "新手引導",
     "header_all_forecast_history": "全網預測歷史",
     "cancel": "取消",
-    "confirm": "确定"
+    "confirm": "確定"
   }
 }
