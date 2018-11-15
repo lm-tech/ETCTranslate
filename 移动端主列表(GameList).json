@@ -48,40 +48,40 @@
       "week_6": "土曜日"
     },
     "ru": {
-      "opending": "即时",
-      "closed": "赛程",
-      "published": "赛果",
-      "week_0": "周日",
-      "week_1": "周一",
-      "week_2": "周二",
-      "week_3": "周三",
-      "week_4": "周四",
-      "week_5": "周五",
-      "week_6": "周六"
+      "opending": "Real-time",
+      "closed": "Schedule",
+      "published": "Result",
+      "week_0": "Sunday",
+      "week_1": "Monday",
+      "week_2": "Tuesday",
+      "week_3": "Wednesday",
+      "week_4": "Thursday",
+      "week_5": "Friday",
+      "week_6": "Saturday"
     },
     "vi": {
-      "opending": "即时",
-      "closed": "赛程",
-      "published": "赛果",
-      "week_0": "周日",
-      "week_1": "周一",
-      "week_2": "周二",
-      "week_3": "周三",
-      "week_4": "周四",
-      "week_5": "周五",
-      "week_6": "周六"
+      "opending": "Real-time",
+      "closed": "Schedule",
+      "published": "Result",
+      "week_0": "Sunday",
+      "week_1": "Monday",
+      "week_2": "Tuesday",
+      "week_3": "Wednesday",
+      "week_4": "Thursday",
+      "week_5": "Friday",
+      "week_6": "Saturday"
     },
     "zh-Hant": {
-      "opending": "即时",
-      "closed": "赛程",
-      "published": "赛果",
-      "week_0": "周日",
-      "week_1": "周一",
-      "week_2": "周二",
-      "week_3": "周三",
-      "week_4": "周四",
-      "week_5": "周五",
-      "week_6": "周六"
+      "opending": "即時",
+      "closed": "賽程",
+      "published": "賽果",
+      "week_0": "週日",
+      "week_1": "週一",
+      "week_2": "週二",
+      "week_3": "週三",
+      "week_4": "週四",
+      "week_5": "週五",
+      "week_6": "週六"
     }
   }
   
