@@ -28,25 +28,25 @@
       "confirm": "確認"
     },
     "ru": {
-      "title": "选择比赛",
-      "select": "全选",
-      "unselect": "反选",
-      "cancel": "取消취소",
-      "confirm": "确认"
+      "title": "Select a game",
+      "select": "Select all",
+      "unselect": "Inverse",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
     },
     "vi": {
-      "title": "选择比赛",
-      "select": "全选",
-      "unselect": "反选",
-      "cancel": "取消",
-      "confirm": "确认"
+      "title": "Select a game",
+      "select": "Select all",
+      "unselect": "Inverse",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
     },
     "zh-Hant": {
-      "title": "选择比赛",
-      "select": "全选",
-      "unselect": "反选",
+      "title": "選擇比賽",
+      "select": "全選",
+      "unselect": "反選",
       "cancel": "取消",
-      "confirm": "确认"
+      "confirm": "確認"
     }
   }
   
