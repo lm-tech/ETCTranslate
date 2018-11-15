@@ -304,8 +304,8 @@
     "login_and_quick_bets": "Наслаждайтесь ставки сразу после входа в систему.",
     "go_login": "Вход пользователя",
     "go_bets": "Прямая ставка",
-    "inPlay": "比赛进行中",
-    "closed": "已结束"
+    "inPlay": "Game in progress",
+    "closed": "Game over"
   },
   "vi": {
     "detal_header_in_prediction": "Đang tiến hành",
@@ -368,8 +368,8 @@
     "login_and_quick_bets": "Ngay lập tức tận hưởng tốc độ đặt cược sau khi đăng nhập",
     "go_login": "Hội viên đăng nhập",
     "go_bets": "đặc cược trực tiếp",
-    "inPlay": "比赛进行中",
-    "closed": "已结束"
+    "inPlay": "Game in progress",
+    "closed": "Game over"
   },
   "zh-Hant": {
     "detal_header_in_prediction": "進行中",
@@ -432,7 +432,7 @@
     "login_and_quick_bets": "登錄會員即刻享受極速下注",
     "go_login": "會員登錄",
     "go_bets": "直接下注",
-    "inPlay": "比赛进行中",
-    "closed": "已结束"
+    "inPlay": "比賽進行中",
+    "closed": "已結束"
   }
 }
