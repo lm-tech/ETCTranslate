@@ -28,24 +28,24 @@
     "login": "로그인"
   },
   "ru": {
-    "login_tip": "登陆后使用下注功能",
-    "contact_tip": "非会员直接下注",
-    "click_tip": "请点击这里",
-    "refuse": "再看看",
-    "login": "登录"
+    "login_tip": "Login and use the betting function",
+    "contact_tip": "Non-member direct betting",
+    "click_tip": "Click here",
+    "refuse": "Not now",
+    "login": "Login"
   },
   "vi": {
-    "login_tip": "登陆后使用下注功能",
-    "contact_tip": "非会员直接下注",
-    "click_tip": "请点击这里",
-    "refuse": "再看看",
-    "login": "登录"
+    "login_tip": "Login and use the betting function",
+    "contact_tip": "Non-member direct betting",
+    "click_tip": "Click here",
+    "refuse": "Not now",
+    "login": "Login"
   },
   "zh-Hant": {
-    "login_tip": "登陆后使用下注功能",
-    "contact_tip": "非会员直接下注",
-    "click_tip": "请点击这里",
+    "login_tip": "登陸後使用下注功能",
+    "contact_tip": "非會員直接下注",
+    "click_tip": "請點擊這裡",
     "refuse": "再看看",
-    "login": "登录"
+    "login": "登錄"
   }
 }
