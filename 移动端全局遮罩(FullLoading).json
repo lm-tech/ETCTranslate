@@ -5,9 +5,9 @@
     "refresh": "刷新"
   },
   "en": {
-    "internet_error": "网络连接异常",
-    "refresh_tip": "请再次刷新或者检查网络",
-    "refresh": "刷新"
+    "internet_error": "Abonormal Internet connection",
+    "refresh_tip": "Refresh or check your network",
+    "refresh": "Refresh"
   },
   "ja": {
     "internet_error": "ネットワークに接続できません。",
@@ -20,18 +20,18 @@
     "refresh": "새로고침"
   },
   "ru": {
-    "internet_error": "网络连接异常",
-    "refresh_tip": "请再次刷新或者检查网络",
-    "refresh": "刷新"
+    "internet_error": "Abonormal Internet connection",
+    "refresh_tip": "Refresh or check your network",
+    "refresh": "Refresh"
   },
   "vi": {
-    "internet_error": "网络连接异常",
-    "refresh_tip": "请再次刷新或者检查网络",
-    "refresh": "刷新"
+    "internet_error": "Abonormal Internet connection",
+    "refresh_tip": "Refresh or check your network",
+    "refresh": "Refresh"
   },
   "zh-Hant": {
-    "internet_error": "网络连接异常",
-    "refresh_tip": "请再次刷新或者检查网络",
+    "internet_error": "網絡連接異常",
+    "refresh_tip": "請再次刷新或者檢查網絡",
     "refresh": "刷新"
   }
 }
