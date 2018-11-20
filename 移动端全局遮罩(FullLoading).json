@@ -1,37 +1,37 @@
 {
   "zh": {
-    "internet_error": "网络连接异常",
-    "refresh_tip": "请再次刷新或者检查网络",
+    "internet_error": "页面加载异常",
+    "refresh_tip": "请刷新或检查网络",
     "refresh": "刷新"
   },
   "en": {
-    "internet_error": "Abonormal Internet connection",
-    "refresh_tip": "Refresh or check your network",
+    "internet_error": "页面加载异常",
+    "refresh_tip": "请刷新或检查网络",
     "refresh": "Refresh"
   },
   "ja": {
-    "internet_error": "ネットワークに接続できません。",
-    "refresh_tip": "ネットワークを再起動またはチェックしてください。",
+    "internet_error": "页面加载异常",
+    "refresh_tip": "请刷新或检查网络",
     "refresh": "再起動"
   },
   "ko": {
-    "internet_error": "네트워크 오류가 발생하였습니다.",
-    "refresh_tip": "새로고침하거나 네트워크를 확인하세요",
+    "internet_error": "页面加载异常",
+    "refresh_tip": "请刷新或检查网络",
     "refresh": "새로고침"
   },
   "ru": {
-    "internet_error": "Abonormal Internet connection",
-    "refresh_tip": "Refresh or check your network",
+    "internet_error": "页面加载异常",
+    "refresh_tip": "请刷新或检查网络",
     "refresh": "Refresh"
   },
   "vi": {
-    "internet_error": "Abonormal Internet connection",
-    "refresh_tip": "Refresh or check your network",
+    "internet_error": "页面加载异常",
+    "refresh_tip": "请刷新或检查网络",
     "refresh": "Refresh"
   },
   "zh-Hant": {
-    "internet_error": "網絡連接異常",
-    "refresh_tip": "請再次刷新或者檢查網絡",
+    "internet_error": "页面加载异常",
+    "refresh_tip": "请刷新或检查网络",
     "refresh": "刷新"
   }
 }
