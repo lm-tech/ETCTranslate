@@ -7,8 +7,8 @@
       "confirm": "确认"
     },
     "en": {
-      "title": "Select a game",
-      "select": "Select all",
+      "title": "Select A Game",
+      "select": "Select All",
       "unselect": "Inverse",
       "cancel": "Cancel",
       "confirm": "Confirm"
