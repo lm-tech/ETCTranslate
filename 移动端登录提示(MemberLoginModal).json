@@ -7,10 +7,10 @@
     "login": "登录"
   },
   "en": {
-    "login_tip": "Login and use the betting function",
-    "contact_tip": "Non-member direct betting",
-    "click_tip": "Click here",
-    "refuse": "Not now",
+    "login_tip": "Login and Place the Prediction",
+    "contact_tip": "Non-member Smart Contract Prediction",
+    "click_tip": "Click Here",
+    "refuse": "Not Now",
     "login": "Login"
   },
   "ja": {
