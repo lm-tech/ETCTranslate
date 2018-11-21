@@ -1,24 +1,65 @@
 {
-    "zh": {
-      "services_link": "使用条款"
-    },
-    "en": {
-      "services_link": "Terms of Use"
-    },
-    "ja": {
-      "services_link": "利用契約"
-    },
-    "ko": {
-      "services_link": "이용약관"
-    },
-    "ru": {
-      "services_link": "Статьи применения"
-    },
-    "vi": {
-      "services_link": "Điều khoản sử dụng"
-    },
-    "zh-Hant": {
-      "services_link": "使用條款"
-    }
+  "zh": {
+    "guide_link": "新手引导",
+    "services_link": "使用条款",
+    "personal_link": "隐私条款",
+    "guess_detail": "竞猜细则",
+    "menu_home": "首页",
+    "loading_error": "加载失败",
+    "refresh": "重新加载"
+  },
+  "en": {
+    "guide_link": "Beginner's Guide",
+    "services_link": "Terms of Use",
+    "personal_link": "Privacy Policy",
+    "guess_detail": "Game Rule",
+    "menu_home": "首页",
+    "loading_error": "加载失败",
+    "refresh": "重新加载"
+  },
+  "ja": {
+    "guide_link": "初心者ブックガイド",
+    "services_link": "利用契約",
+    "personal_link": "プライバシー規約",
+    "guess_detail": "ベッティングの細則",
+    "menu_home": "首页",
+    "loading_error": "加载失败",
+    "refresh": "重新加载"
+  },
+  "ko": {
+    "guide_link": "신규회원 가이드",
+    "services_link": "이용약관",
+    "personal_link": "보안약관",
+    "guess_detail": "예측 규칙",
+    "menu_home": "首页",
+    "loading_error": "加载失败",
+    "refresh": "重新加载"
+  },
+  "ru": {
+    "guide_link": "Руководство для начинающих",
+    "services_link": "Terms of Use",
+    "personal_link": "Статьи конфиденциальности",
+    "guess_detail": "Правила прогноза",
+    "menu_home": "首页",
+    "loading_error": "加载失败",
+    "refresh": "重新加载"
+  },
+  "vi": {
+    "guide_link": "Hướng dẫn người mới",
+    "services_link": "Terms of Use",
+    "personal_link": "Chính sách bảo mật",
+    "guess_detail": "Chi tiết thi đố",
+    "menu_home": "首页",
+    "loading_error": "加载失败",
+    "refresh": "重新加载"
+  },
+  "zh-Hant": {
+    "guide_link": "新手引導",
+    "services_link": "使用條款",
+    "personal_link": "隱私條款",
+    "guess_detail": "競猜細則",
+    "menu_home": "首页",
+    "loading_error": "加载失败",
+    "refresh": "重新加载"
   }
-  
+}
