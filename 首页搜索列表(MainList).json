@@ -1,0 +1,51 @@
+{
+  "zh": {
+    "detail_history_no_data": "暂无数据",
+    "hot": "热门投注",
+    "forthcoming": "即将开赛",
+    "search": "搜索",
+    "main": "首页"
+  },
+  "en": {
+    "detail_history_no_data": "No data",
+    "hot": "Popular",
+    "forthcoming": "Coming soon",
+    "search": "搜索",
+    "main": "首页"
+  },
+  "ja": {
+    "detail_history_no_data": "データなし",
+    "hot": "人気ベッティング",
+    "forthcoming": "間もなく開始",
+    "search": "搜索",
+    "main": "首页"
+  },
+  "ko": {
+    "detail_history_no_data": "데이터 없음",
+    "hot": "핫 베팅항목",
+    "forthcoming": "런칭 예정",
+    "search": "搜索",
+    "main": "首页"
+  },
+  "ru": {
+    "detail_history_no_data": "Временно нет данных",
+    "hot": "Горячая ставка",
+    "forthcoming": "Coming soon",
+    "search": "搜索",
+    "main": "首页"
+  },
+  "vi": {
+    "detail_history_no_data": "Tạm thời không có số liệu",
+    "hot": "Đầu tư Hot",
+    "forthcoming": "Coming soon",
+    "search": "搜索",
+    "main": "首页"
+  },
+  "zh-Hant": {
+    "detail_history_no_data": "暫無數據",
+    "hot": "熱門投注",
+    "forthcoming": "即將開賽",
+    "search": "搜索",
+    "main": "首页"
+  }
+}
