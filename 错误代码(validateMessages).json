@@ -121,7 +121,7 @@
     "game_sum_amount_is_beyond": "Forecast amount exceeded",
     "account_locked_two_hours": "Wrong password. To safeguard your account, login will be disabled for 2 hours",
     "withdraw_address_invalid": "Invalid address",
-    "valid_address": "提币地址错误"
+    "valid_address": "Wrong withdrawal address"
   },
   "ko": {
     "error_messages_no_user": "유저없음",
@@ -179,7 +179,7 @@
     "game_sum_amount_is_beyond": "예측의 총 예측금액 한도를 초과함",
     "account_locked_two_hours": "비밀번호가 틀렸습니다.계정 안전을 보호하기위해 2시간안에 로그인을 할 수 없습니다.",
     "withdraw_address_invalid": "사용할 수 없는 주소",
-    "valid_address": "提币地址错误"
+    "valid_address": "무효한 출금주소입니다"
   },
   "ja": {
     "error_messages_no_user": "ユーザーが存在しない",
@@ -237,7 +237,7 @@
     "game_sum_amount_is_beyond": "マキシマムオーダーに達しました",
     "account_locked_two_hours": "パスワードが間違っています。安全確保のために、これからの二時間でログインできません。",
     "withdraw_address_invalid": "無効なアドレス",
-    "valid_address": "提币地址错误"
+    "valid_address": "間違った出金アドレス"
   },
   "ru": {
     "error_messages_no_user": "This username does not exist",
@@ -296,7 +296,7 @@
     "game_sum_amount_is_beyond": "Лимит ставки, которую может принять данный прогноз, достиг верхнего предела.",
     "account_locked_two_hours": "Неверный пароль. Для того, чтобы защитить вашу учетную запись безопасности, вы не можете войти в течение 2 часов.",
     "withdraw_address_invalid": "Недействительный адрес",
-    "valid_address": "提币地址错误"
+    "valid_address": "Wrong withdrawal address"
   },
   "vi": {
     "error_messages_no_user": "tài khoảng không tồn tại",
@@ -356,7 +356,7 @@
     "game_sum_amount_is_beyond": "Đoán giới hạn cá cược chấp nhận được lên đến giới hạn",
     "account_locked_two_hours": "Mật khẩu lỗi, để bảo vệ bảo mật tài khoản của bạn, không thể đăng nhập trong 2 giờ",
     "withdraw_address_invalid": "Địa chỉ không hợp lệ",
-    "valid_address": "提币地址错误"
+    "valid_address": "Wrong withdrawal address"
   },
   "zh-Hant": {
     "error_messages_no_user": "用戶不存在",
@@ -418,6 +418,6 @@
     "game_sum_amount_is_beyond": "競猜可接受的下注額度已達上限",
     "account_locked_two_hours": "密碼錯誤，為了保護您的帳戶安全，2小時內無法登錄",
     "withdraw_address_invalid": "提幣地址無效",
-    "valid_address": "提币地址错误"
+    "valid_address": "提幣地址錯誤"
   }
 }
