@@ -34,9 +34,9 @@
     "tip_link": "Please click here to find predictions before June 11th.",
     "hot": "Hot Bets",
     "opening": "Coming soon",
-    "filter_text": "联赛筛选",
-    "filter_type": "类目筛选",
-    "filtered": "已选{count}项"
+    "filter_text": "League screening",
+    "filter_type": "Item screening",
+    "filtered": "Selected{count}"
   },
   "ja": {
     "soccer": "サッカー",
@@ -54,9 +54,9 @@
     "tip_link": "6月11日前の試合に関してはここをクリックしてください",
     "hot": "人気ベッティン",
     "opening": "間もなく開始",
-    "filter_text": "联赛筛选",
-    "filter_type": "类目筛选",
-    "filtered": "已选{count}项"
+    "filter_text": "リーグ戦",
+    "filter_type": "カテゴリー",
+    "filtered": "{count}を選択した"
   },
   "ko": {
     "soccer": "축구",
@@ -74,9 +74,9 @@
     "tip_link": "6월 11일 이전의 예측은 여기를 클릭해주세요",
     "hot": "인기 베팅 항목",
     "opening": "런칭 예정",
-    "filter_text": "联赛筛选",
-    "filter_type": "类目筛选",
-    "filtered": "已选{count}项"
+    "filter_text": "리그별",
+    "filter_type": "항목별",
+    "filtered": "{count} 선택됨"
   },
   "ru": {
     "soccer": "Футбол",
@@ -94,9 +94,9 @@
     "tip_link": "Прогнозы до 11 июня нажмите здесь",
     "hot": "Hot Bets",
     "opening": "Coming soon",
-    "filter_text": "联赛筛选",
-    "filter_type": "类目筛选",
-    "filtered": "已选{count}项"
+    "filter_text": "League screening",
+    "filter_type": "Item screening",
+    "filtered": "Selected{count}"
   },
   "vi": {
     "soccer": "Bóng đá",
@@ -113,9 +113,9 @@
     "tip_link": "Trước cuộc thi đấu ngày 11 tháng 6 mời bấm vào đây",
     "hot": "Hot Bets",
     "opening": "Coming soon",
-    "filter_text": "联赛筛选",
-    "filter_type": "类目筛选",
-    "filtered": "已选{count}项"
+    "filter_text": "League screening",
+    "filter_type": "Item screening",
+    "filtered": "Selected{count}"
   },
   "zh-Hant": {
     "soccer": "足球",
@@ -132,8 +132,8 @@
     "tip_link": "6月11號之前的比賽請點擊此處",
     "hot": "熱門投注",
     "opening": "即將開賽",
-    "filter_text": "联赛筛选",
-    "filter_type": "类目筛选",
-    "filtered": "已选{count}项"
+    "filter_text": "聯賽篩選",
+    "filter_type": "類目篩選",
+    "filtered": "已選{count}項"
   }
 }
