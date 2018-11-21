@@ -59,11 +59,7 @@
     "game_sum_amount_is_beyond": "竞猜可接受的下注额度已达上限",
     "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录",
     "withdraw_address_invalid": "提币地址无效",
-    "valid_address_BTC": "地址必须为25到34位a-f,A-F,0-9组合",
-    "valid_address_LTC": "地址必须以“L”开头，长度为26至35位a-f,A-F,0-9组合",
-    "valid_address_ETC": "地址必须以0x开头，42位内a-f,A-F,0-9组合",
-    "valid_address_ETH": "地址必须以0x开头，42位内a-f,A-F,0-9组合",
-    "valid_address_BCH": "地址不合法"
+    "valid_address": "提币地址错误"
   },
   "en": {
     "error_messages_no_user": "This username does not exist",
@@ -125,11 +121,7 @@
     "game_sum_amount_is_beyond": "Forecast amount exceeded",
     "account_locked_two_hours": "Wrong password. To safeguard your account, login will be disabled for 2 hours",
     "withdraw_address_invalid": "Invalid address",
-    "valid_address_BTC": "The address must be a combination with 25-34 figures allowing a-f, A-F, 0-9",
-    "valid_address_LTC": "The address must be a combination with 26-35 figures allowing a-f, A-F, 0-9 starting with “L”",
-    "valid_address_ETC": "The address must be a combination within 42 figures allowing a-f, A-F, 0-9 only starting with 0x",
-    "valid_address_ETH": "The address must be a combination within 42 figures allowing a-f, A-F, 0-9 only starting with 0x",
-    "valid_address_BCH": "Illegal address"
+    "valid_address": "提币地址错误"
   },
   "ko": {
     "error_messages_no_user": "유저없음",
@@ -187,11 +179,7 @@
     "game_sum_amount_is_beyond": "예측의 총 예측금액 한도를 초과함",
     "account_locked_two_hours": "비밀번호가 틀렸습니다.계정 안전을 보호하기위해 2시간안에 로그인을 할 수 없습니다.",
     "withdraw_address_invalid": "사용할 수 없는 주소",
-    "valid_address_BTC": "주소는 25~34자리의 a-f, A-F, 0-9 조합이어야 합니다.",
-    "valid_address_LTC": "주소는 “L”로 시작하여야 하고 26~35자리의 a-f, A-F, 0-9 조합이어야 합니다",
-    "valid_address_ETC": "주소는 “0x”로 시작하여야 하고 42자리 이내의 a-f, A-F, 0-9 조합이어야 합니다",
-    "valid_address_ETH": "주소는 “0x”로 시작하여야 하고 42자리 이내의 a-f, A-F, 0-9 조합이어야 합니다",
-    "valid_address_BCH": "무효한 주소입니다"
+    "valid_address": "提币地址错误"
   },
   "ja": {
     "error_messages_no_user": "ユーザーが存在しない",
@@ -249,11 +237,7 @@
     "game_sum_amount_is_beyond": "マキシマムオーダーに達しました",
     "account_locked_two_hours": "パスワードが間違っています。安全確保のために、これからの二時間でログインできません。",
     "withdraw_address_invalid": "無効なアドレス",
-    "valid_address_BTC": "アドレスは必ず25～34桁以内に、a-f、A-F、0-9の組み合わせで構成されます。",
-    "valid_address_LTC": "アドレスは必ずLで始まり、26～35桁以内に、a-f、A-F、0-9の組み合わせで構成されます。",
-    "valid_address_ETC": "アドレスは必ず0xで始まり、42桁以内に、a-f、A-F、0-9の組み合わせで構成されます。",
-    "valid_address_ETH": "アドレスは必ず0xで始まり、42桁以内に、a-f、A-F、0-9の組み合わせで構成されます。",
-    "valid_address_BCH": "無効なアドレス"
+    "valid_address": "提币地址错误"
   },
   "ru": {
     "error_messages_no_user": "This username does not exist",
@@ -312,11 +296,7 @@
     "game_sum_amount_is_beyond": "Лимит ставки, которую может принять данный прогноз, достиг верхнего предела.",
     "account_locked_two_hours": "Неверный пароль. Для того, чтобы защитить вашу учетную запись безопасности, вы не можете войти в течение 2 часов.",
     "withdraw_address_invalid": "Недействительный адрес",
-    "valid_address_BTC": "The address must be a combination with 25-34 figures allowing a-f, A-F, 0-9",
-    "valid_address_LTC": "The address must be a combination with 26-35 figures allowing a-f, A-F, 0-9 starting with “L”",
-    "valid_address_ETC": "The address must be a combination within 42 figures allowing a-f, A-F, 0-9 only starting with 0x",
-    "valid_address_ETH": "The address must be a combination within 42 figures allowing a-f, A-F, 0-9 only starting with 0x",
-    "valid_address_BCH": "Illegal address"
+    "valid_address": "提币地址错误"
   },
   "vi": {
     "error_messages_no_user": "tài khoảng không tồn tại",
@@ -376,11 +356,7 @@
     "game_sum_amount_is_beyond": "Đoán giới hạn cá cược chấp nhận được lên đến giới hạn",
     "account_locked_two_hours": "Mật khẩu lỗi, để bảo vệ bảo mật tài khoản của bạn, không thể đăng nhập trong 2 giờ",
     "withdraw_address_invalid": "Địa chỉ không hợp lệ",
-    "valid_address_BTC": "The address must be a combination with 25-34 figures allowing a-f, A-F, 0-9",
-    "valid_address_LTC": "The address must be a combination with 26-35 figures allowing a-f, A-F, 0-9 starting with “L”",
-    "valid_address_ETC": "The address must be a combination within 42 figures allowing a-f, A-F, 0-9 only starting with 0x",
-    "valid_address_ETH": "The address must be a combination within 42 figures allowing a-f, A-F, 0-9 only starting with 0x",
-    "valid_address_BCH": "Illegal address"
+    "valid_address": "提币地址错误"
   },
   "zh-Hant": {
     "error_messages_no_user": "用戶不存在",
@@ -442,10 +418,6 @@
     "game_sum_amount_is_beyond": "競猜可接受的下注額度已達上限",
     "account_locked_two_hours": "密碼錯誤，為了保護您的帳戶安全，2小時內無法登錄",
     "withdraw_address_invalid": "提幣地址無效",
-    "valid_address_BTC": "地址必須為25到34位a-f,A-F,0-9組合",
-    "valid_address_LTC": "地址必須以“L”開頭，長度為26至35位a-f,A-F,0-9組合",
-    "valid_address_ETC": "地址必須以0x開頭，42位內a-f,A-F,0-9組合",
-    "valid_address_ETH": "地址必須以0x開頭，42位內a-f,A-F,0-9組合",
-    "valid_address_BCH": "地址不合法"
+    "valid_address": "提币地址错误"
   }
 }
