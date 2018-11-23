@@ -118,9 +118,9 @@
     "record_table_fee": "Odds",
     "error_messages_networks": "Network error",
     "exceed_option_max": "Exceeds the Maximum Limit",
-    "need_login": "当前账户未登录，请登录后下注。",
-    "no_thanks": "我再看看",
-    "login_now": "立即登录"
+    "need_login": "Not logged in; please bet after login.",
+    "no_thanks": "Not now",
+    "login_now": "Login now"
   },
   "ja": {
     "bet_slip_title": "ベッティングオーダー",
@@ -179,9 +179,9 @@
     "record_table_fee": "倍率",
     "error_messages_networks": "ネットワークエラー",
     "exceed_option_max": "上限を超えた",
-    "need_login": "当前账户未登录，请登录后下注。",
-    "no_thanks": "我再看看",
-    "login_now": "立即登录"
+    "need_login": "ログインしてベッティングする。",
+    "no_thanks": "検討する",
+    "login_now": "すぐログイン"
   },
   "ko": {
     "bet_slip_title": "베팅 리스트",
@@ -240,9 +240,9 @@
     "record_table_fee": "배당률",
     "error_messages_networks": "인터넷 오류가  발생하였습니다.",
     "exceed_option_max": "최대 베팅금액 초과함",
-    "need_login": "当前账户未登录，请登录后下注。",
-    "no_thanks": "我再看看",
-    "login_now": "立即登录"
+    "need_login": "로그인 후에 베팅하세요",
+    "no_thanks": "더보기",
+    "login_now": "지금 로그인하기"
   },
   "ru": {
     "bet_slip_title": "Заказ ставки",
@@ -301,9 +301,9 @@
     "record_table_fee": "Шансы",
     "error_messages_networks": "Network error",
     "exceed_option_max": "Exceeds the Maximum Limit",
-    "need_login": "当前账户未登录，请登录后下注。",
-    "no_thanks": "我再看看",
-    "login_now": "立即登录"
+    "need_login": "Not logged in; please bet after login.",
+    "no_thanks": "Not now",
+    "login_now": "Login now"
   },
   "vi": {
     "bet_slip_title": "Phiếu đặc cược",
@@ -362,9 +362,9 @@
     "record_table_fee": "tỉ lệ",
     "error_messages_networks": "mất mạng",
     "exceed_option_max": "Exceeds the Maximum Limit",
-    "need_login": "当前账户未登录，请登录后下注。",
-    "no_thanks": "我再看看",
-    "login_now": "立即登录"
+    "need_login": "Not logged in; please bet after login.",
+    "no_thanks": "Not now",
+    "login_now": "Login now"
   },
   "zh-Hant": {
     "bet_slip_title": "投注單",
@@ -423,8 +423,8 @@
     "record_table_fee": "賠率",
     "error_messages_networks": "網絡錯誤",
     "exceed_option_max": "超過本選項最大下注額",
-    "need_login": "当前账户未登录，请登录后下注。",
+    "need_login": "當前帳戶未登錄，請登錄後下注。",
     "no_thanks": "我再看看",
-    "login_now": "立即登录"
+    "login_now": "立即登錄"
   }
 }
