@@ -55,7 +55,7 @@
     "record_table_fee": "赔率"
   },
   "en": {
-    "bet_slip_smart": "智能合约",
+    "bet_slip_smart": "Smart contract",
     "bet_slip_title": "Prediction slip",
     "available_balance": "Current available balance",
     "bet_choose": "Option:",
@@ -109,7 +109,7 @@
     "record_table_fee": "Odds"
   },
   "ja": {
-    "bet_slip_smart": "智能合约",
+    "bet_slip_smart": "スマートコントラクト",
     "bet_slip_title": "ベッティングオーダー",
     "available_balance": "残高",
     "bet_choose": "選択：",
@@ -163,7 +163,7 @@
     "record_table_fee": "倍率"
   },
   "ko": {
-    "bet_slip_smart": "智能合约",
+    "bet_slip_smart": "스마트 계약",
     "bet_slip_title": "베팅 리스트",
     "available_balance": "현재 잔액",
     "bet_choose": "선택：",
@@ -217,7 +217,7 @@
     "record_table_fee": "배당률"
   },
   "ru": {
-    "bet_slip_smart": "智能合约",
+    "bet_slip_smart": "Smart contract",
     "bet_slip_title": "Заказ ставки",
     "available_balance": "Немедленно перезарядить",
     "bet_choose": "Опцион：",
@@ -272,7 +272,7 @@
 
   },
   "vi": {
-    "bet_slip_smart": "智能合约",
+    "bet_slip_smart": "Smart contract",
     "bet_slip_title": "Phiếu đặc cược",
     "available_balance": "Số dư hiện tại có sẵn",
     "bet_choose": "Lựa chọn:",
@@ -327,7 +327,7 @@
 
   },
   "zh-Hant": {
-    "bet_slip_smart": "智能合约",
+    "bet_slip_smart": "智能合約",
     "bet_slip_title": "投注單",
     "available_balance": "當前資產餘額",
     "bet_choose": "選擇:",
