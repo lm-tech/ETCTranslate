@@ -28,8 +28,8 @@
   },
   "en": {
     "history_title_time": "Forecast Time",
-    "history_title_option": "Forecast Option",
-    "history_title_amount": "Forecast Amount",
+    "history_title_option": "Option",
+    "history_title_amount": "Amount",
     "history_title_odds": "Odds",
     "history_title_address": "Forecast Address",
     "history_show_detail": "View All",
@@ -48,7 +48,7 @@
     "detail_history_title_handicap": "Market Information",
     "detail_history_title_amount_award": "Winnings Amount",
     "detail_game_all": "Match",
-    "detail_game_bos": "Map{number}",
+    "detail_game_bos": "Map {number}",
     "record_table_HASH": "Forecast Hash:",
     "withdraw_form_HASH": "Hash Value:",
     "withdraw_form_HASH_failed": "Hash Pending"
