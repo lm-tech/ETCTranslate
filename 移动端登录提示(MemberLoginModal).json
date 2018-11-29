@@ -7,8 +7,8 @@
     "login": "登录"
   },
   "en": {
-    "login_tip": "Login and Place the Prediction",
-    "contact_tip": "Non-member Smart Contract Prediction",
+    "login_tip": "Login and Go Forecast",
+    "contact_tip": "Smart Contract Forecast",
     "click_tip": "Click Here",
     "refuse": "Not Now",
     "login": "Login"
