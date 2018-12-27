@@ -116,12 +116,12 @@
         "pwdMismatch": "비밀번호가 동일하지 않습니다.",
         "codeSuc": "성공적으로 발송하였습니다. 확인 부탁드립니다.",
         "error_messages_too_much_times": "인증코드 확인 실패. 재발송 진행",
-        "error_messages_invalid_code": "인증코드 오류",
+        "error_messages_invalid_code": "인증코드가 틀렸습니다.",
         "error_messages_existed_email": "무효 이메일 주소입니다",
         "error_messages_invalid_flow": "다시 새로고침 해주세요",
-        "error_messages_invalid_arguments": "인증코드 오류",
-        "error_messages_networks": "ネットワークエラー",
-        "unkown_error": "류 미확인",
+        "error_messages_invalid_arguments": "인증코드가 틀렸습니다.",
+        "error_messages_networks": "네트워크 오류가 발생하였습니다.",
+        "unkown_error": "알 수 없는 오류가 발생하였습니다.",
         "input_sign_up_success": "회원가입 성공! ",
         "input_sign_up_notice": "초 후 로그인 페이지로 돌아갑니다",
         "www": "www.coingame.com",
@@ -143,8 +143,8 @@
         "noRank": "부자 순위에 올라가지 않음",
         "butJoin": "지금 베팅하기",
         "login": "로그인 후 정보를 확인하세요",
-        "loginTitle": "登录",
-        "registerTitle": "注册"
+        "loginTitle": "로그인",
+        "registerTitle": "회원가입"
     },
     "zh-Hant": {
         "getCode": "发送验证码",
