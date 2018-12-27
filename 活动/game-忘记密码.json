@@ -111,9 +111,9 @@
     "error_messages_invalid_code": "인증코드 오류",
     "error_messages_existed_email": "무효 이메일 주소입니다",
     "error_messages_invalid_flow": "다시 새로고침 해주세요",
-    "error_messages_invalid_arguments": "인증코드 오류",
-    "error_messages_networks": "ネットワークエラー",
-    "unkown_error": "류 미확인"
+    "error_messages_invalid_arguments": "인증코드 오류가 발생하였습니다.",
+    "error_messages_networks": "네트워크 오류가 발생하였습니다.",
+    "unkown_error": "알 수 없는 오류가 발생하였습니다."
   },
   "ja": {
     "input_validation_empty_email": "メールアドレスを入力してください",
