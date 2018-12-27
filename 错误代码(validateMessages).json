@@ -60,7 +60,8 @@
     "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录",
     "withdraw_address_invalid": "提币地址无效",
     "valid_address": "提币地址错误",
-    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账"
+    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账",
+    "valid_memo": "备注错误"
   },
   "en": {
     "error_messages_no_user": "This username does not exist",
@@ -123,7 +124,8 @@
     "account_locked_two_hours": "Wrong password. To safeguard your account, login will be disabled for 2 hours",
     "withdraw_address_invalid": "Invalid address",
     "valid_address": "Wrong withdrawal address",
-    "withdraw_address_is_internal_address": "Inter-platform transfer not applicable"
+    "withdraw_address_is_internal_address": "Inter-platform transfer not applicable",
+    "valid_memo": "备注错误"
   },
   "ko": {
     "error_messages_no_user": "유저없음",
@@ -182,7 +184,8 @@
     "account_locked_two_hours": "비밀번호가 틀렸습니다.계정 안전을 보호하기위해 2시간안에 로그인을 할 수 없습니다.",
     "withdraw_address_invalid": "사용할 수 없는 주소",
     "valid_address": "무효한 출금주소입니다",
-    "withdraw_address_is_internal_address": "플랫폼 내부 주소 입금은 기획중입니다."
+    "withdraw_address_is_internal_address": "플랫폼 내부 주소 입금은 기획중입니다.",
+    "valid_memo": "备注错误"
   },
   "ja": {
     "error_messages_no_user": "ユーザーが存在しない",
@@ -241,7 +244,8 @@
     "account_locked_two_hours": "パスワードが間違っています。安全確保のために、これからの二時間でログインできません。",
     "withdraw_address_invalid": "無効なアドレス",
     "valid_address": "間違った出金アドレス",
-    "withdraw_address_is_internal_address": "プラットフォーム内の送金はまだできない。"
+    "withdraw_address_is_internal_address": "プラットフォーム内の送金はまだできない。",
+    "valid_memo": "备注错误"
   },
   "ru": {
     "error_messages_no_user": "This username does not exist",
@@ -301,7 +305,8 @@
     "account_locked_two_hours": "Неверный пароль. Для того, чтобы защитить вашу учетную запись безопасности, вы не можете войти в течение 2 часов.",
     "withdraw_address_invalid": "Недействительный адрес",
     "valid_address": "Wrong withdrawal address",
-    "withdraw_address_is_internal_address": "Inter-platform transfer not applicable"
+    "withdraw_address_is_internal_address": "Inter-platform transfer not applicable",
+    "valid_memo": "备注错误"
   },
   "vi": {
     "error_messages_no_user": "tài khoảng không tồn tại",
@@ -362,7 +367,8 @@
     "account_locked_two_hours": "Mật khẩu lỗi, để bảo vệ bảo mật tài khoản của bạn, không thể đăng nhập trong 2 giờ",
     "withdraw_address_invalid": "Địa chỉ không hợp lệ",
     "valid_address": "Wrong withdrawal address",
-    "withdraw_address_is_internal_address": "Inter-platform transfer not applicable"
+    "withdraw_address_is_internal_address": "Inter-platform transfer not applicable",
+    "valid_memo": "备注错误"
   },
   "zh-Hant": {
     "error_messages_no_user": "用戶不存在",
@@ -425,6 +431,7 @@
     "account_locked_two_hours": "密碼錯誤，為了保護您的帳戶安全，2小時內無法登錄",
     "withdraw_address_invalid": "提幣地址無效",
     "valid_address": "提幣地址錯誤",
-    "withdraw_address_is_internal_address": "暫不支持平臺內部位址轉帳"
+    "withdraw_address_is_internal_address": "暫不支持平臺內部位址轉帳",
+    "valid_memo": "备注错误"
   }
 }
