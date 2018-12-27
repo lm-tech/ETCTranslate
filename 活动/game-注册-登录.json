@@ -98,7 +98,10 @@
         "butJoin": "Predict Immediately",
         "login": "Please login to view information",
         "loginTitle": "登录",
-        "registerTitle": "注册"
+        "registerTitle": "注册",       
+        "loginInfo": "百倍乐趣  千倍收益",
+        "loginButtonText":"立 即 登 录",
+        "registerTitle1":"立 即 注 册"
     },
     "ko": {
         "email": "이메일 주소를 입력해 주세요",
@@ -144,7 +147,12 @@
         "butJoin": "지금 베팅하기",
         "login": "로그인 후 정보를 확인하세요",
         "loginTitle": "登录",
-        "registerTitle": "注册"
+        "registerTitle": "注册",
+        "loginTitle": "登录",
+        "registerTitle": "注册",
+        "loginInfo": "百倍乐趣  千倍收益",
+        "loginButtonText":"立 即 登 录",
+        "registerTitle1":"立 即 注 册"
     },
     "zh-Hant": {
         "getCode": "发送验证码",
@@ -185,7 +193,10 @@
         "butJoin": "立即沖榜",
         "login": "請登錄查看信息",
         "loginTitle": "登录",
-        "registerTitle": "注册"
+        "registerTitle": "注册",
+        "loginInfo": "百倍乐趣  千倍收益",
+        "loginButtonText":"立 即 登 录",
+        "registerTitle1":"立 即 注 册"
     },
     "ja": {
         "rules": "活動ルール",
@@ -207,7 +218,10 @@
         "butJoin": "すぐ参加",
         "login": "ログインして詳細をチェック",
         "loginTitle": "登录",
-        "registerTitle": "注册"
+        "registerTitle": "注册",
+        "loginInfo": "百倍乐趣  千倍收益",
+        "loginButtonText":"立 即 登 录",
+        "registerTitle1":"立 即 注 册"
     },
     "jpg": {
         "zh": {
