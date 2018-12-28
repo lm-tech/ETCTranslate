@@ -217,11 +217,11 @@
         "noRank": "ランキング外",
         "butJoin": "すぐ参加",
         "login": "ログインして詳細をチェック",
-        "loginTitle": "登录",
-        "registerTitle": "注册",
-        "loginInfo": "百倍乐趣  千倍收益",
-        "loginButtonText":"立 即 登 录",
-        "registerTitle1":"立 即 注 册"
+        "loginTitle": "ログイン",
+        "registerTitle": "登録",
+        "loginInfo": "楽しみたっぷり、収益倍増へ",
+        "loginButtonText":"すぐログイン",
+        "registerTitle1":"すぐ登録"
     },
     "jpg": {
         "zh": {
