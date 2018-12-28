@@ -50,7 +50,8 @@
         "login": "请登录查看信息",
         "loginTitle": "登录",
         "registerTitle": "注册",
-        "loginInfo": "百倍乐趣  千倍收益",
+        "loginInfo": "百倍乐趣",
+        "loginInfo1":"千倍收益",
         "loginButtonText":"立 即 登 录"
     },
     "en": {
@@ -150,7 +151,8 @@
         "registerTitle": "注册",
         "loginTitle": "登录",
         "registerTitle": "注册",
-        "loginInfo": "百倍乐趣  千倍收益",
+        "loginInfo": "百倍乐趣",
+        "loginInfo1":"千倍收益",
         "loginButtonText":"立 即 登 录",
         "registerTitle1":"立 即 注 册"
     },
@@ -194,7 +196,8 @@
         "login": "請登錄查看信息",
         "loginTitle": "登录",
         "registerTitle": "注册",
-        "loginInfo": "百倍乐趣  千倍收益",
+        "loginInfo": "百倍乐趣",
+        "loginInfo1":"千倍收益",
         "loginButtonText":"立 即 登 录",
         "registerTitle1":"立 即 注 册"
     },
@@ -219,7 +222,8 @@
         "login": "ログインして詳細をチェック",
         "loginTitle": "登录",
         "registerTitle": "注册",
-        "loginInfo": "百倍乐趣  千倍收益",
+        "loginInfo": "百倍乐趣",
+        "loginInfo1":"千倍收益",
         "loginButtonText":"立 即 登 录",
         "registerTitle1":"立 即 注 册"
     },
