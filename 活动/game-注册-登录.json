@@ -225,14 +225,14 @@
         "noRank": "ランキング外",
         "butJoin": "すぐ参加",
         "login": "ログインして詳細をチェック",
-        "loginTitle": "登录",
-        "registerTitle": "注册",
-        "loginInfo": "百倍乐趣",
-        "loginInfo1":"千倍收益",
-        "loginButtonText":"立 即 登 录",
-        "registerTitle1":"立 即 注 册",
-        "loginEamil": "请输入注册邮箱",
-        "loginPwd": "请输入密码"
+        "loginTitle": "ログイン",
+        "registerTitle": "登録",
+        "loginInfo": "楽しみたっぷり",
+        "loginInfo1":"収益倍増へ",
+        "loginButtonText":"すぐログイン",
+        "registerTitle1":"すぐ登録",
+        "loginEamil": "メールアドレスを入力してください。",
+        "loginPwd": "パスワードを入力してください。"
     },
     "jpg": {
         "zh": {
