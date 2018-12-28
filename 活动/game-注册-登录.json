@@ -97,11 +97,11 @@
         "noRank": "Not on the list",
         "butJoin": "Predict Immediately",
         "login": "Please login to view information",
-        "loginTitle": "登录",
-        "registerTitle": "注册",       
-        "loginInfo": "百倍乐趣  千倍收益",
-        "loginButtonText":"立 即 登 录",
-        "registerTitle1":"立 即 注 册"
+        "loginTitle": "Log in",
+        "registerTitle": "Sign up",       
+        "loginInfo": "Pleasure a hundred-fold; earnings a thousand-fold",
+        "loginButtonText":"Login Now",
+        "registerTitle1":"Register Now"
     },
     "ko": {
         "email": "이메일 주소를 입력해 주세요",
