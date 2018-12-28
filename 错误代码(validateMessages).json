@@ -14,7 +14,7 @@
     "error_messages_code_not_found": "请重新发送验证码",
     "error_messages_invalid_captcha": "图形验证码不正确",
     "error_messages_invalid_google_code": "谷歌验证码错误",
-    "error_messages_wrong_password": "邮箱或密码错误",
+    "error_messages_wrong_password": "密码错误，您共有5次密码输入机会，否则账户将被锁定",
     "error_messages_invalid_flow": "页面过期，请重新刷新页面后在尝试",
     "error_messages_networks": "网络错误",
     "error_messages_invalid_phone": "无效的手机号",
@@ -41,7 +41,7 @@
     "withdraw_out_error": "确认提币操作失败",
     "withdraw_address_repeate_with_recharge": "提币地址与与钱包地址相同",
     "withdraw_order_status_invaild": "订单状态无效",
-    "account_blocked": "用户的帐号被锁定无法进行登录授权",
+    "account_blocked": "密码输入错误次数过多，账户将被锁定两小时",
     "withdraw_exceed_limit": "超过提币限制",
     "per_day_ammount_exceed": "提币每天金额超出限制",
     "per_day_frequency_exceed": "提币每天次数超出限制",
@@ -60,8 +60,7 @@
     "account_locked_two_hours": "密码错误，为了保护您的账户安全，2小时内无法登录",
     "withdraw_address_invalid": "提币地址无效",
     "valid_address": "提币地址错误",
-    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账",
-    "valid_memo": "备注错误"
+    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账"
   },
   "en": {
     "error_messages_no_user": "This username does not exist",
@@ -78,19 +77,19 @@
     "error_messages_code_not_found": "Please resend validation code",
     "error_messages_invalid_captcha": "Invalid captcha",
     "error_messages_invalid_google_code": "Invalid google validation code",
-    "error_messages_wrong_password": "Incorrect validation code or password",
+    "error_messages_wrong_password": "密码错误，您共有5次密码输入机会，否则账户将被锁定",
     "error_messages_invalid_flow": "Please refresh the page and try again",
-    "error_messages_networks": "Network Error",
+    "error_messages_networks": "Network error",
     "error_messages_invalid_phone": "The phone number you have entered is invalid",
     "error_messages_invalid_email": "The email ID you have entered is invalid",
     "error_messages_invalid_arguments": "Invalid validation code",
     "withdraw_form_withdrawal_error_concurrent": "Insufficient balance",
     "withdraw_last_time": "Invalid password, you have {time} more attempts before the account is locked",
     "withdraw_rate_limit_exceeded": "Operation frequency exceeded",
-    "unkown_error": "Unknown Error",
+    "unkown_error": "Unknown error",
     "fortune_failed_to_freeze": "Failed to freeze",
     "forture_failed_to_unfreeze": "Failed to unfreeze",
-    "forture_failed_to_betting": "Forecast failed",
+    "forture_failed_to_betting": "Prediction failed",
     "withdraw_insufficient_balance": "Insufficient balance",
     "withdraw_freeze_fails": "Withdrawal failed to freeze",
     "withdraw_unfreeze_fails": "Withdrawal failed to unfreeze",
@@ -105,7 +104,7 @@
     "withdraw_out_error": "Withdrawal failed",
     "withdraw_address_repeate_with_recharge": "Withdrawal address is the same as the recharge address",
     "withdraw_order_status_invaild": "Invalid order",
-    "account_blocked": "Account blocked",
+    "account_blocked": "密码输入错误次数过多，账户将被锁定两小时",
     "withdraw_exceed_limit": "Withdrawal limit exceeded",
     "per_day_ammount_exceed": "Daily amount limit exceeded",
     "per_day_frequency_exceed": "Daily frequency limit exceeded",
@@ -118,14 +117,13 @@
     "amount_scale_is_too_big": "One digit after decimal point",
     "option_not_exist": "This option does not exist",
     "game_not_exist": "This game does not exist",
-    "game_not_opening": "This game is not yet open for forecast",
+    "game_not_opening": "This game is not yet open for predictions",
     "option_sum_amount_is_beyond": "Option amount exceeded",
     "game_sum_amount_is_beyond": "Forecast amount exceeded",
     "account_locked_two_hours": "Wrong password. To safeguard your account, login will be disabled for 2 hours",
     "withdraw_address_invalid": "Invalid address",
     "valid_address": "Wrong withdrawal address",
-    "withdraw_address_is_internal_address": "Inter-platform transfer not applicable",
-    "valid_memo": "备注错误"
+    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账"
   },
   "ko": {
     "error_messages_no_user": "유저없음",
@@ -139,7 +137,7 @@
     "error_messages_invalid_code": "인증코드 오류",
     "error_messages_too_much_times": "인증코드 확인 실패. 재발송 진행",
     "error_messages_code_not_found": "인증코드 확인 실패. 재발송 진행",
-    "error_messages_wrong_password": "유저가 입력한 정보로 인증할 수 없음",
+    "error_messages_wrong_password": "密码错误，您共有5次密码输入机会，否则账户将被锁定",
     "error_messages_invalid_flow": "다시 새로고침 해주세요",
     "error_messages_networks": "인터넷 오류가  발생하였습니다.",
     "error_messages_invalid_email": "이메일 주소 오류",
@@ -165,7 +163,7 @@
     "withdraw_out_error": "코인출금 확인 실패",
     "withdraw_address_repeate_with_recharge": "코인출금 주소와 지갑주소가 동일함",
     "withdraw_order_status_invaild": "오더 상태 무효",
-    "account_blocked": "유저의 계정이 잠김상태여서 로그인 진행불가",
+    "account_blocked": "密码输入错误次数过多，账户将被锁定两小时",
     "withdraw_exceed_limit": "코인출금한도 초과",
     "per_day_ammount_exceed": "코인 1일 출금한도 초과",
     "per_day_frequency_exceed": "코인 1일 출금 횟수 초과",
@@ -184,8 +182,7 @@
     "account_locked_two_hours": "비밀번호가 틀렸습니다.계정 안전을 보호하기위해 2시간안에 로그인을 할 수 없습니다.",
     "withdraw_address_invalid": "사용할 수 없는 주소",
     "valid_address": "무효한 출금주소입니다",
-    "withdraw_address_is_internal_address": "플랫폼 내부 주소 입금은 기획중입니다.",
-    "valid_memo": "备注错误"
+    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账"
   },
   "ja": {
     "error_messages_no_user": "ユーザーが存在しない",
@@ -200,7 +197,7 @@
     "error_messages_invalid_code": "検証コードは間違っています",
     "error_messages_too_much_times": "時間切れ",
     "error_messages_code_not_found": "時間切れ",
-    "error_messages_wrong_password": "無効な権限",
+    "error_messages_wrong_password": "密码错误，您共有5次密码输入机会，否则账户将被锁定",
     "error_messages_invalid_flow": "ページの有効期限が切れています。画面を再読み込みした後、もう一度お試しください",
     "error_messages_networks": "ネットワークエラー",
     "error_messages_invalid_email": "無効なメールアドレス",
@@ -225,7 +222,7 @@
     "withdraw_out_error": "引き出し失敗",
     "withdraw_address_repeate_with_recharge": "引き出しアドレスとウオレットアドレスが一致",
     "withdraw_order_status_invaild": "無効なオーダー",
-    "account_blocked": "アカウントが凍結された。",
+    "account_blocked": "密码输入错误次数过多，账户将被锁定两小时",
     "withdraw_exceed_limit": "引き出し限度額超過",
     "per_day_ammount_exceed": "一日あたりの引き出し限度額を超過",
     "per_day_frequency_exceed": "一日あたりの引き出し回数制限を超過",
@@ -244,8 +241,7 @@
     "account_locked_two_hours": "パスワードが間違っています。安全確保のために、これからの二時間でログインできません。",
     "withdraw_address_invalid": "無効なアドレス",
     "valid_address": "間違った出金アドレス",
-    "withdraw_address_is_internal_address": "プラットフォーム内の送金はまだできない。",
-    "valid_memo": "备注错误"
+    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账"
   },
   "ru": {
     "error_messages_no_user": "This username does not exist",
@@ -260,7 +256,7 @@
     "error_messages_invalid_code": "Неверный код подтверждения",
     "error_messages_too_much_times": "Время ожидания проверки электронной почты",
     "error_messages_code_not_found": "Время ожидания проверки электронной почты",
-    "error_messages_wrong_password": "Недействительный грант",
+    "error_messages_wrong_password": "密码错误，您共有5次密码输入机会，否则账户将被锁定",
     "error_messages_invalid_flow": "Please refresh the page and try again",
     "error_messages_networks": "Network error",
     "error_messages_invalid_email": "Неверный адрес электронной почты",
@@ -286,7 +282,7 @@
     "withdraw_out_error": "Снимать не удалось",
     "withdraw_address_repeate_with_recharge": "Снимать адрес повторить с адресом пополнения",
     "withdraw_order_status_invaild": "Недействительный заказ",
-    "account_blocked": "Электронная почта уже зарегистрирована",
+    "account_blocked": "密码输入错误次数过多，账户将被锁定两小时",
     "withdraw_exceed_limit": "Больше, чем предел для извлечения виртуальной валюты",
     "per_day_ammount_exceed": "Количество извлеченной виртуальной валюты превышает дневной лимит",
     "per_day_frequency_exceed": "Количество экстракций превышает дневной лимит",
@@ -305,8 +301,7 @@
     "account_locked_two_hours": "Неверный пароль. Для того, чтобы защитить вашу учетную запись безопасности, вы не можете войти в течение 2 часов.",
     "withdraw_address_invalid": "Недействительный адрес",
     "valid_address": "Wrong withdrawal address",
-    "withdraw_address_is_internal_address": "Inter-platform transfer not applicable",
-    "valid_memo": "备注错误"
+    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账"
   },
   "vi": {
     "error_messages_no_user": "tài khoảng không tồn tại",
@@ -321,7 +316,7 @@
     "error_messages_invalid_code": "Mã xác thực không hợp lệ",
     "error_messages_too_much_times": "Mã xác minh không hợp lệ, hãy gửi lại",
     "error_messages_code_not_found": "Mã xác minh không hợp lệ, hãy gửi lại",
-    "error_messages_wrong_password": "hộp thư hoặc mật khẩu không đúng",
+    "error_messages_wrong_password": "密码错误，您共有5次密码输入机会，否则账户将被锁定",
     "error_messages_invalid_flow": "Trang hết hạn, hãy làm mới trang và thử lại",
     "error_messages_networks": "mất mạng",
     "error_messages_invalid_phone": "số điện thoại ko thiết thực",
@@ -348,7 +343,7 @@
     "withdraw_out_error": "Xác nhận nhắc tiền bị thất bại.",
     "withdraw_address_repeate_with_recharge": "Địa chỉ nhắc tiền và địa chỉ ví tiền đồng bộ",
     "withdraw_order_status_invaild": "Trạng thái đặc hàng không thành công",
-    "account_blocked": "Đã khóa tài khoản",
+    "account_blocked": "密码输入错误次数过多，账户将被锁定两小时",
     "withdraw_exceed_limit": "Vượt quá giới hạn tiền xu",
     "per_day_ammount_exceed": "Số tiền hàng ngày của đồng xu vượt quá giới hạn",
     "per_day_frequency_exceed": "Số thẻ mỗi ngày vượt quá giới hạn",
@@ -367,8 +362,7 @@
     "account_locked_two_hours": "Mật khẩu lỗi, để bảo vệ bảo mật tài khoản của bạn, không thể đăng nhập trong 2 giờ",
     "withdraw_address_invalid": "Địa chỉ không hợp lệ",
     "valid_address": "Wrong withdrawal address",
-    "withdraw_address_is_internal_address": "Inter-platform transfer not applicable",
-    "valid_memo": "备注错误"
+    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账"
   },
   "zh-Hant": {
     "error_messages_no_user": "用戶不存在",
@@ -385,7 +379,7 @@
     "error_messages_code_not_found": "請重新發送驗證碼",
     "error_messages_invalid_captcha": "圖形驗證碼不正確",
     "error_messages_invalid_google_code": "谷歌驗證碼錯誤",
-    "error_messages_wrong_password": "郵箱或密碼錯誤",
+    "error_messages_wrong_password": "密码错误，您共有5次密码输入机会，否则账户将被锁定",
     "error_messages_invalid_flow": "頁面過期，請重新刷新頁面後在嘗試",
     "error_messages_networks": "網絡錯誤",
     "error_messages_invalid_phone": "無效的手機號",
@@ -412,7 +406,7 @@
     "withdraw_out_error": "確認提幣操作失敗",
     "withdraw_address_repeate_with_recharge": "提幣地址與與錢包地址相同",
     "withdraw_order_status_invaild": "訂單狀態無效",
-    "account_blocked": "用戶的帳號被鎖定無法進行登錄授權",
+    "account_blocked": "密码输入错误次数过多，账户将被锁定两小时",
     "withdraw_exceed_limit": "超過提幣限制",
     "per_day_ammount_exceed": "提幣每天金額超出限制",
     "per_day_frequency_exceed": "提幣每天次數超出限制",
@@ -431,7 +425,6 @@
     "account_locked_two_hours": "密碼錯誤，為了保護您的帳戶安全，2小時內無法登錄",
     "withdraw_address_invalid": "提幣地址無效",
     "valid_address": "提幣地址錯誤",
-    "withdraw_address_is_internal_address": "暫不支持平臺內部位址轉帳",
-    "valid_memo": "备注错误"
+    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账"
   }
 }
