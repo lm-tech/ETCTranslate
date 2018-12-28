@@ -28,8 +28,8 @@
         "input_sign_up_success": "注册成功!",
         "input_sign_up_notice": "后，系统将为您跳转至登录页面",
         "www": "www.coingame.net",
-        "mailInfo":"系统邮件可能无法顺利到达您的邮箱，请注意检查邮箱垃圾邮件。",        
-        "registerTitle1":"立 即 注 册",        
+        "mailInfo":"系统邮件可能无法顺利到达您的邮箱，请注意检查邮箱垃圾邮件。",
+        "registerTitle1":"立 即 注 册",
         "rules": "活动规则",
         "rule1": "1、活动时间：2018.12.14 00:00:00-2019.1.1 23:59:59（UTC/GMT8)",
         "rule2": "2、活动期间，累计下注金额越高，富豪榜排名越靠前；若累计下注金额相同时，优先到达者排名靠前；最终排名前10用户可获得丰厚数字货币奖励；",
@@ -99,7 +99,7 @@
         "butJoin": "Predict Immediately",
         "login": "Please login to view information",
         "loginTitle": "Log in",
-        "registerTitle": "Sign up",       
+        "registerTitle": "Sign up",
         "loginInfo": "Pleasure a hundred-fold",
         "loginInfo1":"Earnings a thousand-fold",
         "loginButtonText":"Login Now",
@@ -178,7 +178,7 @@
         "unkown_error": "未知错误",
         "input_sign_up_success": "注册成功!",
         "input_sign_up_notice": "后，系统将为您跳转至登录页面",
-        "www": "www.coingame.net",        
+        "www": "www.coingame.net",
         "rules": "活動規則",
         "rule1": "1、活動時間：2018.12.14 00:00:00-2019.1.1 23:59:59（UTC/GMT8)",
         "rule2": "2、活動期間，累計下註金額越高，富豪榜排名越靠前；若累計下註金額相同時，優先到達者排名靠前；最終排名前10用戶可獲得豐厚數字貨幣獎勵；",
@@ -233,49 +233,5 @@
         "registerTitle1":"すぐ登録",
         "loginEamil": "メールアドレスを入力してください。",
         "loginPwd": "パスワードを入力してください。"
-    },
-    "jpg": {
-        "zh": {
-            "topLeft": "../public/imgs/register/pc/topLeft_zh.png",
-            "registerBtn": "../public/imgs/register/pc/registerBtn_zh.png",
-            "leading": "../public/imgs/register/pc/leading_zh.png",
-            "advantage1": "../public/imgs/register/pc/advantage1_zh.png",
-            "advantage2": "../public/imgs/register/pc/advantage2_zh.png",
-            "advantage3": "../public/imgs/register/pc/advantage3_zh.png",
-            "advantage4": "../public/imgs/register/pc/advantage4_zh.png",
-            "roles": "../public/imgs/register/pc/roles_zh.png",
-            "content": "../public/imgs/register/pc/content_zh.png",           
-            "banner": "../public/imgs/richLists/banner_zh.png"
-        },
-        "en": {
-            "topLeft": "../public/imgs/register/pc/topLeft_en.png",
-            "registerBtn": "../public/imgs/register/pc/registerBtn_en.png",
-            "leading": "../public/imgs/register/pc/leading_en.png",
-            "advantage1": "../public/imgs/register/pc/advantage1_en.png",
-            "advantage2": "../public/imgs/register/pc/advantage2_en.png",
-            "advantage3": "../public/imgs/register/pc/advantage3_en.png",
-            "advantage4": "../public/imgs/register/pc/advantage4_en.png",
-            "roles": "../public/imgs/register/pc/roles_en.png",
-            "content": "../public/imgs/register/pc/content_en.png",
-            "banner": "../public/imgs/richLists/banner_en.png"
-        },
-        "ko": {
-            "topLeft": "../public/imgs/register/pc/topLeft_ko.png",
-            "registerBtn": "../public/imgs/register/pc/registerBtn_ko.png",
-            "leading": "../public/imgs/register/pc/leading_ko.png",
-            "advantage1": "../public/imgs/register/pc/advantage1_ko.png",
-            "advantage2": "../public/imgs/register/pc/advantage2_ko.png",
-            "advantage3": "../public/imgs/register/pc/advantage3_ko.png",
-            "advantage4": "../public/imgs/register/pc/advantage4_ko.png",
-            "roles": "../public/imgs/register/pc/roles_ko.png",
-            "content": "../public/imgs/register/pc/content_ko.png",
-            "banner": "../public/imgs/richLists/banner_ko.png"
-        },
-        "zh-Hant": {
-            "banner": "../public/imgs/richLists/banner_zhHant.png"
-        },
-        "ja": {
-            "banner": "../public/imgs/richLists/banner_ja.png"
-        }
     }
 }
