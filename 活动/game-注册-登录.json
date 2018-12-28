@@ -100,7 +100,8 @@
         "login": "Please login to view information",
         "loginTitle": "Log in",
         "registerTitle": "Sign up",       
-        "loginInfo": "Pleasure a hundred-fold; earnings a thousand-fold",
+        "loginInfo": "Pleasure a hundred-fold",
+        "loginInfo1":"Earnings a thousand-fold",
         "loginButtonText":"Login Now",
         "registerTitle1":"Register Now"
     },
