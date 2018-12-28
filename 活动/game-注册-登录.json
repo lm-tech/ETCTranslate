@@ -103,7 +103,9 @@
         "loginInfo": "Pleasure a hundred-fold",
         "loginInfo1":"Earnings a thousand-fold",
         "loginButtonText":"Login Now",
-        "registerTitle1":"Register Now"
+        "registerTitle1":"Register Now",
+        "loginEamil": "请输入注册邮箱",
+        "loginPwd": "请输入密码"
     },
     "ko": {
         "email": "이메일 주소를 입력해 주세요",
@@ -150,12 +152,12 @@
         "login": "로그인 후 정보를 확인하세요",
         "loginTitle": "登录",
         "registerTitle": "注册",
-        "loginTitle": "登录",
-        "registerTitle": "注册",
         "loginInfo": "百倍乐趣",
         "loginInfo1":"千倍收益",
         "loginButtonText":"立 即 登 录",
-        "registerTitle1":"立 即 注 册"
+        "registerTitle1":"立 即 注 册",
+        "loginEamil": "请输入注册邮箱",
+        "loginPwd": "请输入密码"
     },
     "zh-Hant": {
         "getCode": "发送验证码",
@@ -200,7 +202,9 @@
         "loginInfo": "百倍乐趣",
         "loginInfo1":"千倍收益",
         "loginButtonText":"立 即 登 录",
-        "registerTitle1":"立 即 注 册"
+        "registerTitle1":"立 即 注 册",
+        "loginEamil": "请输入注册邮箱",
+        "loginPwd": "请输入密码"
     },
     "ja": {
         "rules": "活動ルール",
@@ -226,7 +230,9 @@
         "loginInfo": "百倍乐趣",
         "loginInfo1":"千倍收益",
         "loginButtonText":"立 即 登 录",
-        "registerTitle1":"立 即 注 册"
+        "registerTitle1":"立 即 注 册",
+        "loginEamil": "请输入注册邮箱",
+        "loginPwd": "请输入密码"
     },
     "jpg": {
         "zh": {
