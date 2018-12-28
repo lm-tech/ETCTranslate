@@ -150,14 +150,14 @@
         "noRank": "부자 순위에 올라가지 않음",
         "butJoin": "지금 베팅하기",
         "login": "로그인 후 정보를 확인하세요",
-        "loginTitle": "登录",
-        "registerTitle": "注册",
-        "loginInfo": "百倍乐趣",
-        "loginInfo1":"千倍收益",
-        "loginButtonText":"立 即 登 录",
-        "registerTitle1":"立 即 注 册",
-        "loginEamil": "请输入注册邮箱",
-        "loginPwd": "请输入密码"
+        "loginTitle": "로그인",
+        "registerTitle": "회원가입",
+        "loginInfo": "즐거움",
+        "loginInfo1":"수익성",
+        "loginButtonText":"로그인",
+        "registerTitle1":"회원가입",
+        "loginEamil": "이메일 주소를 입력해주세요.",
+        "loginPwd": "비밀번호를 입력해주세요."
     },
     "zh-Hant": {
         "getCode": "发送验证码",
