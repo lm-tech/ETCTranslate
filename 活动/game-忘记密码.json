@@ -43,7 +43,8 @@
     "error_messages_invalid_flow": "页面过期，请重新刷新页面后在尝试",
     "error_messages_invalid_arguments": "验证码错误",
     "error_messages_networks": "网络错误",
-    "unkown_error": "未知错误"
+    "unkown_error": "未知错误",
+    "cancel_reset":"取消"
   },
   "en": {
     "input_validation_empty_email": "Please enter your email address",
@@ -89,7 +90,8 @@
     "loginTitle": "Log in",
     "registerTitle": "Sign up",
     "codeSuc": "Successfully sent, please check",
-    "error_messages_too_much_times": "Verification Code Expired"
+    "error_messages_too_much_times": "Verification Code Expired",
+    "cancel_reset":"cancel"
   },
   "ko": {
     "input_validation_empty_email": "이메일 주소를 입력하세요",
@@ -135,7 +137,8 @@
     "error_messages_existed_email": "무효한 이메일 주소입니다",
     "error_messages_invalid_flow": "네트워크 오류가 발생하였습니다.새로고침하고 다시 시도해주세요.",
     "error_messages_invalid_arguments": "인증코드가 틀렸습니다.",
-    "error_messages_networks": "네트워크 오류가 발생하였습니다."
+    "error_messages_networks": "네트워크 오류가 발생하였습니다.",
+    "cancel_reset":"취소"
   },
   "ja": {
     "input_validation_empty_email": "メールアドレスを入力してください",
@@ -180,7 +183,8 @@
     "error_messages_existed_email": "メールアドレスが無効です。",
     "error_messages_invalid_flow": "再読み込みしてからもう一度お試しください。",
     "error_messages_invalid_arguments": "認証コードが間違っている。",
-    "error_messages_networks": "ネットワークエラー"
+    "error_messages_networks": "ネットワークエラー",
+    "cancel_reset":"キャンセル"
   },
   "ru": {
     "input_validation_empty_email": "Пожалуйста, введите свой адрес электронной почты",
@@ -225,7 +229,8 @@
     "error_messages_existed_email": "邮箱无效",
     "error_messages_invalid_flow": "页面过期，请重新刷新页面后在尝试",
     "error_messages_invalid_arguments": "验证码错误",
-    "error_messages_networks": "网络错误"
+    "error_messages_networks": "网络错误",
+    "cancel_reset":"取消"
   },
   "vi": {
     "input_validation_empty_email": "xin nhập hộp thư",
@@ -270,7 +275,8 @@
     "error_messages_existed_email": "邮箱无效",
     "error_messages_invalid_flow": "页面过期，请重新刷新页面后在尝试",
     "error_messages_invalid_arguments": "验证码错误",
-    "error_messages_networks": "网络错误"
+    "error_messages_networks": "网络错误",
+    "cancel_reset":"取消"
   },
   "zh-Hant": {
     "input_validation_empty_email": "請輸入郵箱",
@@ -316,6 +322,7 @@
     "getCode": "发送验证码",
     "loginTitle": "登录",
     "registerTitle": "注册",
-    "codeSuc": "发送成功， 请查收"
+    "codeSuc": "发送成功， 请查收",
+    "cancel_reset":"取消"
   }
 }
