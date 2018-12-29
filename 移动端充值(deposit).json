@@ -20,7 +20,8 @@
     "confirm_get_address": "确定要获取{currency}充值地址？",
     "ok": "确定",
     "cancel": "取消",
-    "get_erc_failed": "获取地址失败"
+    "get_erc_failed": "获取地址失败",
+    "get_erc_build": "地址生成中"
   },
   "en": {
     "deposit_address_title": "{currency} Deposit address：",
@@ -43,7 +44,8 @@
     "confirm_get_address": "确定要获取{currency}充值地址？",
     "ok": "Confirm",
     "cancel": "Cancel",
-    "get_erc_failed": "获取地址失败"
+    "get_erc_failed": "获取地址失败",
+    "get_erc_build": "地址生成中"
   },
   "ko": {
     "deposit_address_title": "{currency} 코인 입금 주소：",
@@ -66,7 +68,8 @@
     "confirm_get_address": "确定要获取{currency}充值地址？",
     "ok": "확인",
     "cancel": "취소",
-    "get_erc_failed": "获取地址失败"
+    "get_erc_failed": "获取地址失败",
+    "get_erc_build": "地址生成中"
   },
   "ja": {
     "deposit_address_title": "{currency} ウオレットアドレス：",
@@ -89,7 +92,8 @@
     "confirm_get_address": "确定要获取{currency}充值地址？",
     "ok": "確認",
     "cancel": "キャンセル",
-    "get_erc_failed": "获取地址失败"
+    "get_erc_failed": "获取地址失败",
+    "get_erc_build": "地址生成中"
   },
   "ru": {
     "deposit_address_title": "{currency} Адрес перезарядки：",
@@ -112,7 +116,8 @@
     "confirm_get_address": "确定要获取{currency}充值地址？",
     "ok": "Confirm",
     "cancel": "Cancel",
-    "get_erc_failed": "获取地址失败"
+    "get_erc_failed": "获取地址失败",
+    "get_erc_build": "地址生成中"
   },
   "vi": {
     "deposit_address_title": "{currency} địa chỉ nạp tiền：",
@@ -135,7 +140,8 @@
     "confirm_get_address": "确定要获取{currency}充值地址？",
     "ok": "Confirm",
     "cancel": "Cancel",
-    "get_erc_failed": "获取地址失败"
+    "get_erc_failed": "获取地址失败",
+    "get_erc_build": "地址生成中"
   },
   "zh-Hant": {
     "deposit_address_title": "{currency} 充值地址：",
@@ -158,6 +164,7 @@
     "confirm_get_address": "确定要获取{currency}充值地址？",
     "ok": "確認",
     "cancel": "取消",
-    "get_erc_failed": "获取地址失败"
+    "get_erc_failed": "获取地址失败",
+    "get_erc_build": "地址生成中"
   }
 }
