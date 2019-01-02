@@ -77,7 +77,7 @@
     "error_messages_code_not_found": "Please resend validation code",
     "error_messages_invalid_captcha": "Invalid captcha",
     "error_messages_invalid_google_code": "Invalid google validation code",
-    "error_messages_wrong_password": "邮箱或密码错误，您共有5次密码输入机会，否则账户将被锁定",
+    "error_messages_wrong_password": "Invalid Email or password, input your password with 5 attempts, otherwise the account will be locked.",
     "error_messages_invalid_flow": "Please refresh the page and try again",
     "error_messages_networks": "Network error",
     "error_messages_invalid_phone": "The phone number you have entered is invalid",
@@ -104,7 +104,7 @@
     "withdraw_out_error": "Withdrawal failed",
     "withdraw_address_repeate_with_recharge": "Withdrawal address is the same as the recharge address",
     "withdraw_order_status_invaild": "Invalid order",
-    "account_blocked": "密码输入错误次数超过5次，账户将被锁定两小时",
+    "account_blocked": "Sorry, there have been more than 5 failed login attempts for this account, it will be locked for 2 hours. ",
     "withdraw_exceed_limit": "Withdrawal limit exceeded",
     "per_day_ammount_exceed": "Daily amount limit exceeded",
     "per_day_frequency_exceed": "Daily frequency limit exceeded",
@@ -123,7 +123,7 @@
     "account_locked_two_hours": "Wrong password. To safeguard your account, login will be disabled for 2 hours",
     "withdraw_address_invalid": "Invalid address",
     "valid_address": "Wrong withdrawal address",
-    "withdraw_address_is_internal_address": "暂不支持平台内部地址转账"
+    "withdraw_address_is_internal_address": "These platforms do not support internal address transfer currently. "
   },
   "ko": {
     "error_messages_no_user": "유저없음",
