@@ -80,8 +80,8 @@
     "input_send_success": "Sent. Please review.",
     "withdraw_form_amount_most": "Maximum withdrawal amount:",
     "withdraw_form_amount_too_big": "Insufficient balance, you have exceeded the maximum withdrawal amount.",
-    "withdraw_form_memo_detail": "关于备注",
-    "withdraw_form_memo_detail_content": "如您被要求填写地址标签(Destination Tag)或数字ID或备注，请在此处填写；反之则不需要填写。"
+    "withdraw_form_memo_detail": Memo Details",
+    "withdraw_form_memo_detail_content": "If you are required to fill in the Destination Tag or digital ID or remark, please fill in here;Otherwise, you do not need to fill in"
   },
   "ko": {
     "withdraw_form_address": "코인출금 주소",
