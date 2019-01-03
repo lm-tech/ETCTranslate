@@ -80,7 +80,7 @@
     "input_send_success": "Sent. Please review.",
     "withdraw_form_amount_most": "Maximum withdrawal amount:",
     "withdraw_form_amount_too_big": "Insufficient balance, you have exceeded the maximum withdrawal amount.",
-    "withdraw_form_memo_detail": Memo Details",
+    "withdraw_form_memo_detail": "Memo Details",
     "withdraw_form_memo_detail_content": "If you are required to fill in the Destination Tag or digital ID or remark, please fill in here;Otherwise, you do not need to fill in"
   },
   "ko": {
@@ -122,8 +122,8 @@
     "input_send_success": "발송성공",
     "withdraw_form_amount_most": "최대 코인출금 가능 수량:",
     "withdraw_form_amount_too_big": "잔액이 최대 출금가능 금액보다 큽니다.",
-    "withdraw_form_memo_detail": "关于备注",
-    "withdraw_form_memo_detail_content": "如您被要求填写地址标签(Destination Tag)或数字ID或备注，请在此处填写；反之则不需要填写。"
+    "withdraw_form_memo_detail": "메모에 대해",
+    "withdraw_form_memo_detail_content": "주소 테그(Destination Tag) 또는 번호ID 또는 메모를 입력 요청을 받으면 여기에 입력해 주십시오. 그렇지 않으면 입력할 필요가 없습니다."
   },
   "ja": {
     "withdraw_form_address": "引き出しアドレス",
@@ -164,8 +164,8 @@
     "input_send_success": "送信成功、ご確認ください",
     "withdraw_form_amount_most": "引き出し限度額：",
     "withdraw_form_amount_too_big": "残高不足",
-    "withdraw_form_memo_detail": "关于备注",
-    "withdraw_form_memo_detail_content": "如您被要求填写地址标签(Destination Tag)或数字ID或备注，请在此处填写；反之则不需要填写。"
+    "withdraw_form_memo_detail": "メモについて",
+    "withdraw_form_memo_detail_content": "Destination Tag/デジタルID/メモはこちらでご入力ください。要求されない場合は、記入しなくて結構です。"
   },
   "ru": {
     "withdraw_form_address": "Адрес извлечения виртуальной валюты",
@@ -286,7 +286,7 @@
     "input_send_success": "發送成功",
     "withdraw_form_amount_most": "最多可提幣數量：",
     "withdraw_form_amount_too_big": "餘額不足,大於最大可提幣數額",
-    "withdraw_form_memo_detail": "关于备注",
-    "withdraw_form_memo_detail_content": "如您被要求填写地址标签(Destination Tag)或数字ID或备注，请在此处填写；反之则不需要填写。"
+    "withdraw_form_memo_detail": "關於備註",
+    "withdraw_form_memo_detail_content": "如您被要求填寫地址標籤(Destination Tag)或數字ID或備註，請在此處填寫；反之則不需要填寫。"
   }
 }
