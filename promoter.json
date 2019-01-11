@@ -1,0 +1,433 @@
+promoter
+// Qualification Code
+{
+  "zh": {
+    "congratulation_desc0":"恭喜您获得推广资格",
+    "code_label":"推广码",
+    "url_label":"推广链接",
+    "copy":"复制",
+    "isCopy":"已复制",
+    "tips":[
+      "推广提示：",
+      "1、新用户在注册页面“邀请码”处输入了您的的推广码，这位新用户注册成功后就是您的推广用户，推广用户下注成功后，您将获得返利。",
+      "2、专属推广链接的页面注册的用户也将会是您的推广用户。"
+    ]
+    },
+  "en": {
+
+  },
+  "ja": {
+
+  },
+  "ko": {
+
+  },
+  "ru": {
+
+  },
+  "vi": {
+
+  },
+  "zh-Hant": {
+
+  }
+}
+
+//Qualification Exp
+
+{
+  "zh": {
+    "current_exp":"已获得经验值:{value} EXP",
+    "standard_exp":"达标经验值：{value} EXP",
+    "apply_promoter":"申请推广资格",
+    "add_exp_desc0":"经验值说明：每获得",
+    "add_exp_desc1":"1EXP",
+    "add_exp_desc2":"需投注",
+    "add_exp_desc3":"经验值统计数据每24小时更新一次"
+    },
+  "en": {
+
+  },
+  "ja": {
+
+  },
+  "ko": {
+
+  },
+  "ru": {
+
+  },
+  "vi": {
+
+  },
+  "zh-Hant": {
+
+  }
+}
+
+
+//Qualification identity
+{
+  "zh": {
+    "congratulation_desc0":"恭喜您完成投注额验证",
+    "congratulation_desc1":"邮箱验证后即可开通推广资格",
+    "congratulation_desc3":"邮箱发送失败，请稍后重试",
+    "congratulation_desc4":"验证码已发到邮箱，请查收",
+    "congratulation_desc5":"验证失败请重新获取验证码",
+    "email":"邮箱",
+    "send_validate_code":"发送验证码",
+    "send_validata_loading":"发送中...",
+    "send_validate_code_again":"再发一封",
+    "input_validate_code_placehold":"请输入验证码",
+    "validate_button":"验证"
+    },
+  "en": {
+
+  },
+  "ja": {
+
+  },
+  "ko": {
+
+  },
+  "ru": {
+
+  },
+  "vi": {
+
+  },
+  "zh-Hant": {
+
+  }
+}
+//Qualification Step
+{
+  "zh": {
+    "exp":"经验值验证",
+    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
+    "exp_pass_desc":"已通过",
+    "identity_authentication":"身份认证",
+    "identity_authentication_desc":"需要通过认证才可获得资格。",
+    "identity_authentication_pass_desc":"已通过",
+    "got_qualification":"获取资格",
+    "got_qualification_desc":"获得推广资格。",
+    "got_qualification_pass_desc":"获得推广资格。"
+    },
+  "en": {
+    "title": "title"
+  },
+  "ja": {
+    "title": "サッカー"
+  },
+  "ko": {
+    "title": "축구"
+  },
+  "ru": {
+    "title": "Футбол"
+  },
+  "vi": {
+    "title": "Bóng đá"
+  },
+  "zh-Hant": {
+    "title": "推广专区"
+  }
+}
+
+// Rebate Account
+{
+  "zh": {
+    "promoted": "推广用户数",
+    "betted": "投注用户数"
+    },
+  "en": {
+  },
+  "ja": {
+    "title": "サッカー"
+  },
+  "ko": {
+    "title": "축구"
+  },
+  "ru": {
+    "title": "Футбол"
+  },
+  "vi": {
+    "title": "Bóng đá"
+  },
+  "zh-Hant": {
+    "title": "推广专区"
+  }
+}
+
+// Rebate List
+{
+  "zh": {
+    "pre_month": "上月返利",
+    "added_rebate": "累计返利",
+    "pre_month_betted":"上月投注用户数",
+    "compare_pre_month":"环比前一个月",
+    "setButton":"设置偏好币种",
+    "click_to_see_more":"点击展开更多币种",
+    "no_count_data":"暂无数据",
+    "conform":"确定",
+    "cancel":"取消",
+    "ETC":"ETC",
+    "LTC":"LTC",
+    "ETH":"ETH",
+    "BCH":"BCH",
+    "EOS":"EOS",
+    "USDT":"USDT",
+    "BTC":"BTC"
+    },
+  "en": {
+  },
+  "ja": {
+    "title": "サッカー"
+  },
+  "ko": {
+    "title": "축구"
+  },
+  "ru": {
+    "title": "Футбол"
+  },
+  "vi": {
+    "title": "Bóng đá"
+  },
+  "zh-Hant": {
+    "title": "推广专区"
+  }
+}
+
+//// Rebate Query
+{
+  "zh": {
+    "rebate_cycle": "返利周期",
+    "coin_type": "币种",
+    "query":"查询",
+    "rebate_desc":"以下数据仅供参考，返利金额以实际发放为准",
+    "betted_user": "投注用户数",
+    "betted_amount":"投注金额",
+    "rebate_amount":"返利金额",
+    "month":"月份",
+    "month_betted_amount":"月投注金额",
+    "month_percent":"返利比例",
+    "month_rebate_amount":"月返利金额",
+    "month_rebate_status":"返利状态",
+    "detail":"详情",
+    "click_to_see":"点击查看",
+    "promoted_user":"推广用户",
+    "betted_amount_user":"月投注金额",
+    "no_data_title":"暂无数据"
+    },
+  "en": {
+  },
+  "ja": {
+    "title": "サッカー"
+  },
+  "ko": {
+    "title": "축구"
+  },
+  "ru": {
+    "title": "Футбол"
+  },
+  "vi": {
+    "title": "Bóng đá"
+  },
+  "zh-Hant": {
+    "title": "推广专区"
+  }
+}
+
+// Rule Clause
+{
+  "zh": {
+    "title": "包含但不限于",
+    "clause":[
+      "1、用户需要平台账户累计投注达到投注经验值要求才可获得推广资格，当日投注所获经验值次日累计；",
+      "2、平台账户投注指的是充值到平台资产中心后用平台地址进行投注；",
+      "3、完成推广员的身份认证后，视为用户开通推广员，并开始适用推广员的相关规则和约束；",
+      "4、获得推广资格的用户可以通过推广码或推广链接发展自己的推广用户；",
+      "5、每自然月都会累积推广员推广用户在平台的总投注金额（每种货币单独累积），按投注金额返利到推广员的平台账户中，具体返利比例详见附表；",
+      "6、请玩家注意：每月3号陆续发放上个月的返利，开通首月，日期在该月20号以后的，将不统计返利，投注额累积到次月；",
+      "7、部分平台产品将不参与投注金额的累积，玩家可通过下方搜索功能查询产品是否支持推广返利",
+      "8、开通日当月除外，连续3个月未有任何推广用户的投注记录或连续6个月推广用户的投注金额小于最低可返利的投注金额时，官方有权撤回其推广资格；",
+      "9、推广管理->推广返利，可以查询推广员返利及推广用户的投注情况；",
+      "10、官方保留在用户不知情的情况下添加、修改或暂停推广规则和功能，有重大变动时，将会告知广大用户的权利；",
+      "11、推广员有义务告知其推广用户，不得利用系统漏洞或例如“全包”等无风险投注行为谋取不正当利益，官方对不正当谋利的推广员及其推广用户的账号保留撤销资格、资产追溯及法律诉讼的权利。",
+      "12、官方拥有推广员及相关功能的最终解释权。"
+    ],
+    "remark_01":"附1:各币种返利比例",
+    "remark_02":"附2：当前支持推广返利的栏目查询"
+    },
+  "en": {
+    "title": "title",
+    "clause":""
+  },
+  "ja": {
+    "title": "サッカー",
+    "clause":""
+  },
+  "ko": {
+    "title": "축구",
+    "clause":""
+  },
+  "ru": {
+    "title": "Футбол",
+    "clause":""
+  },
+  "vi": {
+    "title": "Bóng đá",
+    "clause":""
+  },
+  "zh-Hant": {
+    "title": "推广专区",
+    "clause":""
+  }
+}
+
+// Rule Rebate
+
+{
+  "zh": {
+    "title": "包含但不限于",
+    "clause":[
+      "1、用户需要平台账户累计投注达到投注经验值要求才可获得推广资格，当日投注所获经验值次日累计；",
+      "2、平台账户投注指的是充值到平台资产中心后用平台地址进行投注；",
+      "3、完成推广员的身份认证后，视为用户开通推广员，并开始适用推广员的相关规则和约束；",
+      "4、获得推广资格的用户可以通过推广码或推广链接发展自己的推广用户；",
+      "5、每自然月都会累积推广员推广用户在平台的总投注金额（每种货币单独累积），按投注金额返利到推广员的平台账户中，具体返利比例详见附表；",
+      "6、请玩家注意：每月3号陆续发放上个月的返利，开通首月，日期在该月20号以后的，将不统计返利，投注额累积到次月；",
+      "7、部分平台产品将不参与投注金额的累积，玩家可通过下方搜索功能查询产品是否支持推广返利",
+      "8、开通日当月除外，连续3个月未有任何推广用户的投注记录或连续6个月推广用户的投注金额小于最低可返利的投注金额时，官方有权撤回其推广资格；",
+      "9、推广管理->推广返利，可以查询推广员返利及推广用户的投注情况；",
+      "10、官方保留在用户不知情的情况下添加、修改或暂停推广规则和功能，有重大变动时，将会告知广大用户的权利；",
+      "11、推广员有义务告知其推广用户，不得利用系统漏洞或例如“全包”等无风险投注行为谋取不正当利益，官方对不正当谋利的推广员及其推广用户的账号保留撤销资格、资产追溯及法律诉讼的权利。",
+      "12、官方拥有推广员及相关功能的最终解释权。"
+    ],
+    "remark_01":"附1:各币种返利比例",
+    "betting_amount":"投注金额",
+    "percentage":"返利比例",
+    "rebate_amount":"返利金额",
+    "remark_02":"附2：当前支持推广返利的栏目查询"
+    },
+  "en": {
+    "title": "title",
+    "clause":""
+  },
+  "ja": {
+    "title": "サッカー",
+    "clause":""
+  },
+  "ko": {
+    "title": "축구",
+    "clause":""
+  },
+  "ru": {
+    "title": "Футбол",
+    "clause":""
+  },
+  "vi": {
+    "title": "Bóng đá",
+    "clause":""
+  },
+  "zh-Hant": {
+    "title": "推广专区",
+    "clause":""
+  }
+}
+
+//TAb
+{
+  "zh": {
+    "title": "推广专区",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+    },
+  "en": {
+    "title": "title",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "ja": {
+    "title": "サッカー",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "ko": {
+    "title": "축구",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "ru": {
+    "title": "Футбол",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "vi": {
+    "title": "Bóng đá",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "zh-Hant": {
+    "title": "推广专区",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  }
+}
+
+
+// index
+
+{
+  "zh": {
+    "title": "推广专区",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则",
+    "exp":"经验值验证",
+    "exp_desc":"投注经验值达到${value}才可申请推广资格。",
+    "identity_authentication":"身份认证",
+    "identity_authentication_desc":"需要通过认证才可获得资格。",
+    "got_qualification":"获取资格",
+    "got_qualification_desc":"获得推广资格。",
+    "exp_congratulation_desc":"恭喜您完成投注额验证<br/>邮箱验证后即可开通推广资格",
+    "email":"邮箱：",
+    "send_verification_code":"发送验证码",
+    "input_verification_code":"请输入验证码",
+    "button_verification":"验证",
+    "qualification_contratulation_desc":"恭喜您获得推广资格",
+    "promoter_code":"推广码",
+    "promoter_url":"推广链接",
+    "promoter_info_copy":"复制",
+    "tips_0":"推广提示:<br/>1、新用户在注册页面“邀请码”处输入了您的的推广码，这位新用户注册成功后就是您的推广用户，推广用户下注成功后，您将获得返利。<br/>2、专属推广链接的页面注册的用户也将会是您的推广用户。",
+    "promoter_info_warning":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin sapien nunc accuan eget.",
+    "readed_and_goon":"已了解，继续",
+    "promoter_info_title":"推广体系介绍"
+  },
+  "en": {
+    "title": "title"
+  },
+  "ja": {
+    "title": "サッカー"
+  },
+  "ko": {
+    "title": "축구"
+  },
+  "ru": {
+    "title": "Футбол"
+  },
+  "vi": {
+    "title": "Bóng đá"
+  },
+  "zh-Hant": {
+    "title": "推广专区"
+  }
+}
+
+
