@@ -1,0 +1,93 @@
+{
+  "zh": {
+    "congratulation_desc0":"恭喜您完成投注额验证",
+    "congratulation_desc1":"邮箱验证后即可开通推广资格",
+    "congratulation_desc3":"邮箱发送失败，请稍后重试",
+    "congratulation_desc4":"验证码已发到邮箱，请查收",
+    "congratulation_desc5":"验证失败请重新获取验证码",
+    "email":"邮箱",
+    "send_validate_code":"发送验证码",
+    "send_validata_loading":"发送中...",
+    "send_validate_code_again":"再发一封",
+    "input_validate_code_placehold":"请输入验证码",
+    "validate_button":"验证"
+    },
+  "en": {
+    "congratulation_desc0":"恭喜您完成投注额验证",
+    "congratulation_desc1":"邮箱验证后即可开通推广资格",
+    "congratulation_desc3":"邮箱发送失败，请稍后重试",
+    "congratulation_desc4":"验证码已发到邮箱，请查收",
+    "congratulation_desc5":"验证失败请重新获取验证码",
+    "email":"邮箱",
+    "send_validate_code":"发送验证码",
+    "send_validata_loading":"发送中...",
+    "send_validate_code_again":"再发一封",
+    "input_validate_code_placehold":"请输入验证码",
+    "validate_button":"验证"
+  },
+  "ja": {
+    "congratulation_desc0":"恭喜您完成投注额验证",
+    "congratulation_desc1":"邮箱验证后即可开通推广资格",
+    "congratulation_desc3":"邮箱发送失败，请稍后重试",
+    "congratulation_desc4":"验证码已发到邮箱，请查收",
+    "congratulation_desc5":"验证失败请重新获取验证码",
+    "email":"邮箱",
+    "send_validate_code":"发送验证码",
+    "send_validata_loading":"发送中...",
+    "send_validate_code_again":"再发一封",
+    "input_validate_code_placehold":"请输入验证码",
+    "validate_button":"验证"
+  },
+  "ko": {
+    "congratulation_desc0":"恭喜您完成投注额验证",
+    "congratulation_desc1":"邮箱验证后即可开通推广资格",
+    "congratulation_desc3":"邮箱发送失败，请稍后重试",
+    "congratulation_desc4":"验证码已发到邮箱，请查收",
+    "congratulation_desc5":"验证失败请重新获取验证码",
+    "email":"邮箱",
+    "send_validate_code":"发送验证码",
+    "send_validata_loading":"发送中...",
+    "send_validate_code_again":"再发一封",
+    "input_validate_code_placehold":"请输入验证码",
+    "validate_button":"验证"
+  },
+  "ru": {
+    "congratulation_desc0":"恭喜您完成投注额验证",
+    "congratulation_desc1":"邮箱验证后即可开通推广资格",
+    "congratulation_desc3":"邮箱发送失败，请稍后重试",
+    "congratulation_desc4":"验证码已发到邮箱，请查收",
+    "congratulation_desc5":"验证失败请重新获取验证码",
+    "email":"邮箱",
+    "send_validate_code":"发送验证码",
+    "send_validata_loading":"发送中...",
+    "send_validate_code_again":"再发一封",
+    "input_validate_code_placehold":"请输入验证码",
+    "validate_button":"验证"
+  },
+  "vi": {
+    "congratulation_desc0":"恭喜您完成投注额验证",
+    "congratulation_desc1":"邮箱验证后即可开通推广资格",
+    "congratulation_desc3":"邮箱发送失败，请稍后重试",
+    "congratulation_desc4":"验证码已发到邮箱，请查收",
+    "congratulation_desc5":"验证失败请重新获取验证码",
+    "email":"邮箱",
+    "send_validate_code":"发送验证码",
+    "send_validata_loading":"发送中...",
+    "send_validate_code_again":"再发一封",
+    "input_validate_code_placehold":"请输入验证码",
+    "validate_button":"验证"
+  },
+  "zh-Hant": {
+    "congratulation_desc0":"恭喜您完成投注额验证",
+    "congratulation_desc1":"邮箱验证后即可开通推广资格",
+    "congratulation_desc3":"邮箱发送失败，请稍后重试",
+    "congratulation_desc4":"验证码已发到邮箱，请查收",
+    "congratulation_desc5":"验证失败请重新获取验证码",
+    "email":"邮箱",
+    "send_validate_code":"发送验证码",
+    "send_validata_loading":"发送中...",
+    "send_validate_code_again":"再发一封",
+    "input_validate_code_placehold":"请输入验证码",
+    "validate_button":"验证"
+  }
+}
