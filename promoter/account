@@ -1,0 +1,30 @@
+{
+  "zh": {
+    "promoted": "推广用户数",
+    "betted": "投注用户数"
+    },
+  "en": {
+    "promoted": "推广用户数",
+    "betted": "投注用户数"
+  },
+  "ja": {
+    "promoted": "推广用户数",
+    "betted": "投注用户数"
+  },
+  "ko": {
+    "promoted": "推广用户数",
+    "betted": "投注用户数"
+  },
+  "ru": {
+    "promoted": "推广用户数",
+    "betted": "投注用户数"
+  },
+  "vi": {
+    "promoted": "推广用户数",
+    "betted": "投注用户数"
+  },
+  "zh-Hant": {
+    "promoted": "推广用户数",
+    "betted": "投注用户数"
+  }
+}
