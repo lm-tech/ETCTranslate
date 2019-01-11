@@ -1,0 +1,44 @@
+{
+  "zh": {
+    "title": "推广专区",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+    },
+  "en": {
+    "title": "title",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "ja": {
+    "title": "サッカー",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "ko": {
+    "title": "축구",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "ru": {
+    "title": "Футбол",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "vi": {
+    "title": "Bóng đá",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  },
+  "zh-Hant": {
+    "title": "推广专区",
+    "promoter_qualification":"推广资格",
+    "promoter_rebate":"推广返利",
+    "promoter_rule":"推广规则"
+  }
+}

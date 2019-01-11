@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "exp":"经验值验证",
+    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
+    "exp_pass_desc":"已通过",
+    "identity_authentication":"身份认证",
+    "identity_authentication_desc":"需要通过认证才可获得资格。",
+    "identity_authentication_pass_desc":"已通过",
+    "got_qualification":"获取资格",
+    "got_qualification_desc":"获得推广资格。",
+    "got_qualification_pass_desc":"获得推广资格。"
+    },
+  "en": {
+    "exp":"经验值验证",
+    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
+    "exp_pass_desc":"已通过",
+    "identity_authentication":"身份认证",
+    "identity_authentication_desc":"需要通过认证才可获得资格。",
+    "identity_authentication_pass_desc":"已通过",
+    "got_qualification":"获取资格",
+    "got_qualification_desc":"获得推广资格。",
+    "got_qualification_pass_desc":"获得推广资格。"
+  },
+  "ja": {
+    "exp":"经验值验证",
+    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
+    "exp_pass_desc":"已通过",
+    "identity_authentication":"身份认证",
+    "identity_authentication_desc":"需要通过认证才可获得资格。",
+    "identity_authentication_pass_desc":"已通过",
+    "got_qualification":"获取资格",
+    "got_qualification_desc":"获得推广资格。",
+    "got_qualification_pass_desc":"获得推广资格。"
+  },
+  "ko": {
+    "exp":"经验值验证",
+    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
+    "exp_pass_desc":"已通过",
+    "identity_authentication":"身份认证",
+    "identity_authentication_desc":"需要通过认证才可获得资格。",
+    "identity_authentication_pass_desc":"已通过",
+    "got_qualification":"获取资格",
+    "got_qualification_desc":"获得推广资格。",
+    "got_qualification_pass_desc":"获得推广资格。"
+  },
+  "ru": {
+    "exp":"经验值验证",
+    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
+    "exp_pass_desc":"已通过",
+    "identity_authentication":"身份认证",
+    "identity_authentication_desc":"需要通过认证才可获得资格。",
+    "identity_authentication_pass_desc":"已通过",
+    "got_qualification":"获取资格",
+    "got_qualification_desc":"获得推广资格。",
+    "got_qualification_pass_desc":"获得推广资格。"
+  },
+  "vi": {
+    "exp":"经验值验证",
+    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
+    "exp_pass_desc":"已通过",
+    "identity_authentication":"身份认证",
+    "identity_authentication_desc":"需要通过认证才可获得资格。",
+    "identity_authentication_pass_desc":"已通过",
+    "got_qualification":"获取资格",
+    "got_qualification_desc":"获得推广资格。",
+    "got_qualification_pass_desc":"获得推广资格。"
+  },
+  "zh-Hant": {
+    "exp":"经验值验证",
+    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
+    "exp_pass_desc":"已通过",
+    "identity_authentication":"身份认证",
+    "identity_authentication_desc":"需要通过认证才可获得资格。",
+    "identity_authentication_pass_desc":"已通过",
+    "got_qualification":"获取资格",
+    "got_qualification_desc":"获得推广资格。",
+    "got_qualification_pass_desc":"获得推广资格。"
+  }
+}
