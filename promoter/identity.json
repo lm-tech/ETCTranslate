@@ -39,17 +39,17 @@
     "validate_button":"認証"
   },
   "ko": {
-    "congratulation_desc0":"恭喜您完成投注额验证",
-    "congratulation_desc1":"邮箱验证后即可开通推广资格",
-    "congratulation_desc3":"邮箱发送失败，请稍后重试",
-    "congratulation_desc4":"验证码已发到邮箱，请查收",
-    "congratulation_desc5":"验证失败请重新获取验证码",
-    "email":"邮箱",
-    "send_validate_code":"发送验证码",
-    "send_validata_loading":"发送中...",
-    "send_validate_code_again":"再发一封",
-    "input_validate_code_placehold":"请输入验证码",
-    "validate_button":"验证"
+    "congratulation_desc0":"베팅금액 인증을 완성하였습니다.",
+    "congratulation_desc1":"이메일로 인증한 후 홍보원 자격을 획득할 수 있습니다.",
+    "congratulation_desc3":"이메일 보내기가 실패하였습니다. 잠시 후 다시 시도해 주세요",
+    "congratulation_desc4":"인증코드가 이메일로 보냈습니다. 확인해 주세요.",
+    "congratulation_desc5":"인증 실패하였습니다. 인증코드를 다시 보냅니다.",
+    "email":"이메일",
+    "send_validate_code":"인증코드 보내기",
+    "send_validata_loading":"발송 중...",
+    "send_validate_code_again":"다시 보내기",
+    "input_validate_code_placehold":"인증코드를 입력해 주세요",
+    "validate_button":"인증하기"
   },
   "ru": {
     "congratulation_desc0":"恭喜您完成投注额验证",
