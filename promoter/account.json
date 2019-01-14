@@ -4,8 +4,8 @@
     "betted": "投注用户数"
     },
   "en": {
-    "promoted": "推广用户数",
-    "betted": "投注用户数"
+    "promoted": "the number of promoters",
+    "betted": "the number of participants"
   },
   "ja": {
     "promoted": "推广用户数",
