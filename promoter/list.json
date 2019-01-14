@@ -33,8 +33,8 @@
     "cancel":"キャンセル"
   },
   "ko": {
-    "pre_month": "지난 달의 환불",
-    "added_rebate": "누적 환불",
+    "pre_month": "지난 달의 인센티브",
+    "added_rebate": "누적 인센티브",
     "pre_month_betted":"지난 달 베팅 회원수",
     "compare_pre_month":"접속 지수",
     "setButton":"기존 코인 종류",
