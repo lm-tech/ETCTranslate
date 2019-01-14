@@ -26,17 +26,17 @@
     "validate_button":"验证"
   },
   "ja": {
-    "congratulation_desc0":"恭喜您完成投注额验证",
-    "congratulation_desc1":"邮箱验证后即可开通推广资格",
-    "congratulation_desc3":"邮箱发送失败，请稍后重试",
-    "congratulation_desc4":"验证码已发到邮箱，请查收",
-    "congratulation_desc5":"验证失败请重新获取验证码",
-    "email":"邮箱",
-    "send_validate_code":"发送验证码",
-    "send_validata_loading":"发送中...",
-    "send_validate_code_again":"再发一封",
-    "input_validate_code_placehold":"请输入验证码",
-    "validate_button":"验证"
+    "congratulation_desc0":"オーダー金額の認証が完了しました。",
+    "congratulation_desc1":"メール認証後、宣伝資格を取得できる。",
+    "congratulation_desc3":"メール送信失敗、後ほどもう一度お試しください",
+    "congratulation_desc4":"認証コードは既にメールアドレスに送信され、ご確認してください。",
+    "congratulation_desc5":"認証失敗しました、認証コードを再取得してください。",
+    "email":"メール",
+    "send_validate_code":"認証コードを送信",
+    "send_validata_loading":"送信中…",
+    "send_validate_code_again":"もう一件を送信",
+    "input_validate_code_placehold":"認証コードを入力してください",
+    "validate_button":"認証"
   },
   "ko": {
     "congratulation_desc0":"恭喜您完成投注额验证",
