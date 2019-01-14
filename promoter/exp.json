@@ -18,13 +18,13 @@
     "add_exp_desc3":"经验值统计数据每24小时更新一次"
   },
   "ja": {
-    "current_exp":"已获得经验值:{value} EXP",
-    "standard_exp":"达标经验值：{value} EXP",
-    "apply_promoter":"申请推广资格",
-    "add_exp_desc0":"经验值说明：每获得",
-    "add_exp_desc1":"1EXP",
-    "add_exp_desc2":"需投注",
-    "add_exp_desc3":"经验值统计数据每24小时更新一次"
+    "current_exp":"今の経験値:{value} EXP",
+    "standard_exp":"標準値：{value} EXP",
+    "apply_promoter":"宣伝資格を申請する",
+    "add_exp_desc0":"経験値について：",
+    "add_exp_desc1":"1EXPを得るには",
+    "add_exp_desc2":"をオーダーする必要がある",
+    "add_exp_desc3":"経験値データは24時間に一度更新される。"
   },
   "ko": {
     "current_exp":"已获得经验值:{value} EXP",
