@@ -62,7 +62,7 @@
     "got_qualification_desc":"宣伝資格を取得。",
     "exp_congratulation_desc":"オーダー金額または<br/>メールの認証を終えてから宣伝資格を取得できる。",
     "email":"メール：",
-    "send_verification_code":"認証コードを発信",
+    "send_verification_code":"認証コードを送信",
     "input_verification_code":"認証コードを入力",
     "button_verification":"認証",
     "qualification_contratulation_desc":"宣伝資格を取得",
