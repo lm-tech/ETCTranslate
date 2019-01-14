@@ -22,15 +22,15 @@
     "got_qualification_pass_desc":"获得推广资格。"
   },
   "ja": {
-    "exp":"经验值验证",
-    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
-    "exp_pass_desc":"已通过",
-    "identity_authentication":"身份认证",
-    "identity_authentication_desc":"需要通过认证才可获得资格。",
-    "identity_authentication_pass_desc":"已通过",
-    "got_qualification":"获取资格",
-    "got_qualification_desc":"获得推广资格。",
-    "got_qualification_pass_desc":"获得推广资格。"
+    "exp":"経験値認証",
+    "exp_desc":"ベッティング経験値が{value}に達する人のみが宣伝資格を申請できる。",
+    "exp_pass_desc":"合格",
+    "identity_authentication":"身元認証",
+    "identity_authentication_desc":"资格資格を取得するには、まず認証を通る。",
+    "identity_authentication_pass_desc":"合格",
+    "got_qualification":"資格を取得",
+    "got_qualification_desc":"宣伝資格を取得。",
+    "got_qualification_pass_desc":"宣伝資格を取得。"
   },
   "ko": {
     "exp":"경험치 인증",
