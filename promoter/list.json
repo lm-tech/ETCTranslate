@@ -22,15 +22,15 @@
     "cancel":"取消"
   },
   "ja": {
-    "pre_month": "上月返利",
-    "added_rebate": "累计返利",
-    "pre_month_betted":"上月投注用户数",
-    "compare_pre_month":"环比前一个月",
-    "setButton":"设置偏好币种",
-    "click_to_see_more":"点击展开更多币种",
-    "no_count_data":"暂无数据",
-    "conform":"确定",
-    "cancel":"取消"
+    "pre_month": "先月のリベート",
+    "added_rebate": "総計リベート",
+    "pre_month_betted":"先月のベッティングユーザー数",
+    "compare_pre_month":"先月と比べて",
+    "setButton":"コイン設定",
+    "click_to_see_more":"他のコイン",
+    "no_count_data":"データ無し",
+    "conform":"確認",
+    "cancel":"キャンセル"
   },
   "ko": {
     "pre_month": "지난 달의 환불",
