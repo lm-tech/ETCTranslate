@@ -33,15 +33,15 @@
     "got_qualification_pass_desc":"获得推广资格。"
   },
   "ko": {
-    "exp":"经验值验证",
-    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
-    "exp_pass_desc":"已通过",
-    "identity_authentication":"身份认证",
-    "identity_authentication_desc":"需要通过认证才可获得资格。",
-    "identity_authentication_pass_desc":"已通过",
-    "got_qualification":"获取资格",
-    "got_qualification_desc":"获得推广资格。",
-    "got_qualification_pass_desc":"获得推广资格。"
+    "exp":"경험치 인증",
+    "exp_desc":"베팅 경험치가 {value}에 되어야 홍보원 자격을 신청할 수 있습니다.",
+    "exp_pass_desc":"인증 완료되었습니다.",
+    "identity_authentication":"신분 인즌",
+    "identity_authentication_desc":"인증을 완성하셔야 자격을 획득할 수 있습니다.",
+    "identity_authentication_pass_desc":"인증 완료되었습니다.",
+    "got_qualification":"자격 신청",
+    "got_qualification_desc":"홍보원자격을 획득하였습니다.",
+    "got_qualification_pass_desc":"홍보원자격을 획득하였습니다."
   },
   "ru": {
     "exp":"经验值验证",
