@@ -12,8 +12,8 @@
     "betted": "ベッティングユーザー数"
   },
   "ko": {
-    "promoted": "推广用户数",
-    "betted": "投注用户数"
+    "promoted": "리퍼 회원수",
+    "betted": "베팅 회원수"
   },
   "ru": {
     "promoted": "推广用户数",
