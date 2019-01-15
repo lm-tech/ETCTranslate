@@ -11,15 +11,15 @@
     "got_qualification_pass_desc":"获得推广资格。"
     },
   "en": {
-    "exp":"经验值验证",
-    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
-    "exp_pass_desc":"已通过",
-    "identity_authentication":"身份认证",
-    "identity_authentication_desc":"需要通过认证才可获得资格。",
-    "identity_authentication_pass_desc":"已通过",
-    "got_qualification":"获取资格",
-    "got_qualification_desc":"获得推广资格。",
-    "got_qualification_pass_desc":"获得推广资格。"
+    "exp":"Experience Points Verification",
+    "exp_desc":"：To apply for the promotion qualification , the betting experience points need to reach {value} ",
+    "exp_pass_desc":" Already Passed ",
+    "identity_authentication":" Identity Authentication ",
+    "identity_authentication_desc":" Please verify your identity authentication to get your promotion qualification ",
+    "identity_authentication_pass_desc":" Already Passed ",
+    "got_qualification":" Get Qualification ",
+    "got_qualification_desc":" Get Promotion Qualification ",
+    "got_qualification_pass_desc":" Got Promotion Qualification "
   },
   "ja": {
     "exp":"経験値認証",
@@ -44,26 +44,26 @@
     "got_qualification_pass_desc":"홍보원자격을 획득하였습니다."
   },
   "ru": {
-    "exp":"经验值验证",
-    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
-    "exp_pass_desc":"已通过",
-    "identity_authentication":"身份认证",
-    "identity_authentication_desc":"需要通过认证才可获得资格。",
-    "identity_authentication_pass_desc":"已通过",
-    "got_qualification":"获取资格",
-    "got_qualification_desc":"获得推广资格。",
-    "got_qualification_pass_desc":"获得推广资格。"
+    "exp":"Experience Points Verification",
+    "exp_desc":"：To apply for the promotion qualification , the betting experience points need to reach {value} ",
+    "exp_pass_desc":" Already Passed ",
+    "identity_authentication":" Identity Authentication ",
+    "identity_authentication_desc":" Please verify your identity authentication to get your promotion qualification ",
+    "identity_authentication_pass_desc":" Already Passed ",
+    "got_qualification":" Get Qualification ",
+    "got_qualification_desc":" Get Promotion Qualification ",
+    "got_qualification_pass_desc":" Got Promotion Qualification "
   },
   "vi": {
-    "exp":"经验值验证",
-    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
-    "exp_pass_desc":"已通过",
-    "identity_authentication":"身份认证",
-    "identity_authentication_desc":"需要通过认证才可获得资格。",
-    "identity_authentication_pass_desc":"已通过",
-    "got_qualification":"获取资格",
-    "got_qualification_desc":"获得推广资格。",
-    "got_qualification_pass_desc":"获得推广资格。"
+    "exp":"Experience Points Verification",
+    "exp_desc":"：To apply for the promotion qualification , the betting experience points need to reach {value} ",
+    "exp_pass_desc":" Already Passed ",
+    "identity_authentication":" Identity Authentication ",
+    "identity_authentication_desc":" Please verify your identity authentication to get your promotion qualification ",
+    "identity_authentication_pass_desc":" Already Passed ",
+    "got_qualification":" Get Qualification ",
+    "got_qualification_desc":" Get Promotion Qualification ",
+    "got_qualification_pass_desc":" Got Promotion Qualification "
   },
    "zh-Hant": {
     "exp":"經驗值驗證",
