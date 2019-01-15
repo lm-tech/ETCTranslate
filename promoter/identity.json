@@ -77,17 +77,17 @@
     "input_validate_code_placehold":"请输入验证码",
     "validate_button":"验证"
   },
-  "zh-Hant": {
-    "congratulation_desc0":"恭喜您完成投注额验证",
-    "congratulation_desc1":"邮箱验证后即可开通推广资格",
-    "congratulation_desc3":"邮箱发送失败，请稍后重试",
-    "congratulation_desc4":"验证码已发到邮箱，请查收",
-    "congratulation_desc5":"验证失败请重新获取验证码",
-    "email":"邮箱",
-    "send_validate_code":"发送验证码",
-    "send_validata_loading":"发送中...",
-    "send_validate_code_again":"再发一封",
-    "input_validate_code_placehold":"请输入验证码",
-    "validate_button":"验证"
+ "zh-Hant": {
+    "congratulation_desc0":"恭喜您完成投註額驗證",
+    "congratulation_desc1":"郵箱驗證後即可開通推廣資格",
+    "congratulation_desc3":"郵箱發送失敗，請稍後重試",
+    "congratulation_desc4":"驗證碼已發到郵箱，請查收",
+    "congratulation_desc5":"驗證失敗請重新獲取驗證碼",
+    "email":"郵箱",
+    "send_validate_code":"發送驗證碼",
+    "send_validata_loading":"發送中...",
+    "send_validate_code_again":"再發壹封",
+    "input_validate_code_placehold":"請輸入驗證碼",
+    "validate_button":"驗證"
   }
 }
