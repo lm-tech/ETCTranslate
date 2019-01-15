@@ -13,17 +13,18 @@
     "validate_button":"验证"
     },
   "en": {
-    "congratulation_desc0":"恭喜您完成投注额验证",
-    "congratulation_desc1":"邮箱验证后即可开通推广资格",
-    "congratulation_desc3":"邮箱发送失败，请稍后重试",
-    "congratulation_desc4":"验证码已发到邮箱，请查收",
-    "congratulation_desc5":"验证失败请重新获取验证码",
-    "email":"邮箱",
-    "send_validate_code":"发送验证码",
-    "send_validata_loading":"发送中...",
-    "send_validate_code_again":"再发一封",
-    "input_validate_code_placehold":"请输入验证码",
-    "validate_button":"验证"
+    "congratulation_desc0":"：Congratulations for completing the bet validation ",
+    "congratulation_desc1":"Verify your Email to open your promotion qualification ",
+    "congratulation_desc3":" ERROR: Failed to send you an email. Please try again later. ",
+    "congratulation_desc4":" Verification code has been sent to your mailbox, please check ",
+    "congratulation_desc5":" ERROR: Verification failed, please try again ",
+    "email":"Email",
+    "send_validate_code":" Send verification code",
+    "send_validata_loading":"Sending...",
+    "send_validate_code_again":" Resend ",
+    "input_validate_code_placehold":" Please enter your verification code, ",
+    "validate_button":" Verify "
+
   },
   "ja": {
     "congratulation_desc0":"オーダー金額の認証が完了しました。",
@@ -52,30 +53,32 @@
     "validate_button":"인증하기"
   },
   "ru": {
-    "congratulation_desc0":"恭喜您完成投注额验证",
-    "congratulation_desc1":"邮箱验证后即可开通推广资格",
-    "congratulation_desc3":"邮箱发送失败，请稍后重试",
-    "congratulation_desc4":"验证码已发到邮箱，请查收",
-    "congratulation_desc5":"验证失败请重新获取验证码",
-    "email":"邮箱",
-    "send_validate_code":"发送验证码",
-    "send_validata_loading":"发送中...",
-    "send_validate_code_again":"再发一封",
-    "input_validate_code_placehold":"请输入验证码",
-    "validate_button":"验证"
+    "congratulation_desc0":"：Congratulations for completing the bet validation ",
+    "congratulation_desc1":"Verify your Email to open your promotion qualification ",
+    "congratulation_desc3":" ERROR: Failed to send you an email. Please try again later. ",
+    "congratulation_desc4":" Verification code has been sent to your mailbox, please check ",
+    "congratulation_desc5":" ERROR: Verification failed, please try again ",
+    "email":"Email",
+    "send_validate_code":" Send verification code",
+    "send_validata_loading":"Sending...",
+    "send_validate_code_again":" Resend ",
+    "input_validate_code_placehold":" Please enter your verification code, ",
+    "validate_button":" Verify "
+
   },
   "vi": {
-    "congratulation_desc0":"恭喜您完成投注额验证",
-    "congratulation_desc1":"邮箱验证后即可开通推广资格",
-    "congratulation_desc3":"邮箱发送失败，请稍后重试",
-    "congratulation_desc4":"验证码已发到邮箱，请查收",
-    "congratulation_desc5":"验证失败请重新获取验证码",
-    "email":"邮箱",
-    "send_validate_code":"发送验证码",
-    "send_validata_loading":"发送中...",
-    "send_validate_code_again":"再发一封",
-    "input_validate_code_placehold":"请输入验证码",
-    "validate_button":"验证"
+    "congratulation_desc0":"：Congratulations for completing the bet validation ",
+    "congratulation_desc1":"Verify your Email to open your promotion qualification ",
+    "congratulation_desc3":" ERROR: Failed to send you an email. Please try again later. ",
+    "congratulation_desc4":" Verification code has been sent to your mailbox, please check ",
+    "congratulation_desc5":" ERROR: Verification failed, please try again ",
+    "email":"Email",
+    "send_validate_code":" Send verification code",
+    "send_validata_loading":"Sending...",
+    "send_validate_code_again":" Resend ",
+    "input_validate_code_placehold":" Please enter your verification code, ",
+    "validate_button":" Verify "
+
   },
  "zh-Hant": {
     "congratulation_desc0":"恭喜您完成投註額驗證",
