@@ -6,10 +6,10 @@
     "promoter_rule":"推广规则"
     },
   "en": {
-    "title": "title",
-    "promoter_qualification":"推广资格",
-    "promoter_rebate":"推广返利",
-    "promoter_rule":"推广规则"
+    "title": "Promotion Zone",
+    "promoter_qualification":"Promotion Qualification",
+    "promoter_rebate":"Promotion Rebate",
+    "promoter_rule":"Promotion Rules"
   },
   "ja": {
     "title": "宣伝部門",
@@ -24,16 +24,16 @@
     "promoter_rule":"홍보규칙"
   },
   "ru": {
-    "title": "Футбол",
-    "promoter_qualification":"推广资格",
-    "promoter_rebate":"推广返利",
-    "promoter_rule":"推广规则"
+    "title": "Promotion Zone",
+    "promoter_qualification":"Promotion Qualification",
+    "promoter_rebate":"Promotion Rebate",
+    "promoter_rule":"Promotion Rules"
   },
   "vi": {
-    "title": "Bóng đá",
-    "promoter_qualification":"推广资格",
-    "promoter_rebate":"推广返利",
-    "promoter_rule":"推广规则"
+    "title": "Promotion Zone",
+    "promoter_qualification":"Promotion Qualification",
+    "promoter_rebate":"Promotion Rebate",
+    "promoter_rule":"Promotion Rules"
   },
   "zh-Hant": {
     "title": "推广专区",
