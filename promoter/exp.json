@@ -9,13 +9,13 @@
     "add_exp_desc3":"经验值统计数据每24小时更新一次"
     },
   "en": {
-    "current_exp":"已获得经验值:{value} EXP",
-    "standard_exp":"达标经验值：{value} EXP",
-    "apply_promoter":"申请推广资格",
-    "add_exp_desc0":"经验值说明：每获得",
+    "current_exp":":{value} EXP gained ",
+    "standard_exp":" standard {value} EXP ",
+    "apply_promoter":"Apply to be a promoter",
+    "add_exp_desc0":"EXP instructions: Every gain",
     "add_exp_desc1":"1EXP",
-    "add_exp_desc2":"需投注",
-    "add_exp_desc3":"经验值统计数据每24小时更新一次"
+    "add_exp_desc2":" Need to bet ",
+    "add_exp_desc3":" EXP statistics data are updated every 24 hours "
   },
   "ja": {
     "current_exp":"今の経験値:{value} EXP",
@@ -36,22 +36,22 @@
     "add_exp_desc3":"경험치가 24시간마다 업데이트를 합니다."
   },
   "ru": {
-    "current_exp":"已获得经验值:{value} EXP",
-    "standard_exp":"达标经验值：{value} EXP",
-    "apply_promoter":"申请推广资格",
-    "add_exp_desc0":"经验值说明：每获得",
+    "current_exp":":{value} EXP gained ",
+    "standard_exp":" standard {value} EXP ",
+    "apply_promoter":"Apply to be a promoter",
+    "add_exp_desc0":"EXP instructions: Every gain",
     "add_exp_desc1":"1EXP",
-    "add_exp_desc2":"需投注",
-    "add_exp_desc3":"经验值统计数据每24小时更新一次"
+    "add_exp_desc2":" Need to bet ",
+    "add_exp_desc3":" EXP statistics data are updated every 24 hours "
   },
   "vi": {
-    "current_exp":"已获得经验值:{value} EXP",
-    "standard_exp":"达标经验值：{value} EXP",
-    "apply_promoter":"申请推广资格",
-    "add_exp_desc0":"经验值说明：每获得",
+    "current_exp":":{value} EXP gained ",
+    "standard_exp":" standard {value} EXP ",
+    "apply_promoter":"Apply to be a promoter",
+    "add_exp_desc0":"EXP instructions: Every gain",
     "add_exp_desc1":"1EXP",
-    "add_exp_desc2":"需投注",
-    "add_exp_desc3":"经验值统计数据每24小时更新一次"
+    "add_exp_desc2":" Need to bet ",
+    "add_exp_desc3":" EXP statistics data are updated every 24 hours "
   },
   "zh-Hant": {
     "current_exp":"已獲得經驗值:{value} EXP",
