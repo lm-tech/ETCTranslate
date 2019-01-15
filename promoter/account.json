@@ -16,12 +16,12 @@
     "betted": "베팅 회원수"
   },
   "ru": {
-    "promoted": "推广用户数",
-    "betted": "投注用户数"
+    "promoted": "the number of promoters",
+    "betted": "the number of participants"
   },
   "vi": {
-    "promoted": "推广用户数",
-    "betted": "投注用户数"
+    "promoted": "the number of promoters",
+    "betted": "the number of participants"
   },
   "zh-Hant": {
     "promoted": "推廣用戶數",
