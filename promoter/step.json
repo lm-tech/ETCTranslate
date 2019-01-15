@@ -65,15 +65,15 @@
     "got_qualification_desc":"获得推广资格。",
     "got_qualification_pass_desc":"获得推广资格。"
   },
-  "zh-Hant": {
-    "exp":"经验值验证",
-    "exp_desc":"投注经验值达到{value}才可申请推广资格。",
-    "exp_pass_desc":"已通过",
-    "identity_authentication":"身份认证",
-    "identity_authentication_desc":"需要通过认证才可获得资格。",
-    "identity_authentication_pass_desc":"已通过",
-    "got_qualification":"获取资格",
-    "got_qualification_desc":"获得推广资格。",
-    "got_qualification_pass_desc":"获得推广资格。"
+   "zh-Hant": {
+    "exp":"經驗值驗證",
+    "exp_desc":"投註經驗值達到{value}才可申請推廣資格。",
+    "exp_pass_desc":"已通過",
+    "identity_authentication":"身份認證",
+    "identity_authentication_desc":"需要通過認證才可獲得資格。",
+    "identity_authentication_pass_desc":"已通過",
+    "got_qualification":"獲取資格",
+    "got_qualification_desc":"獲得推廣資格。",
+    "got_qualification_pass_desc":"獲得推廣資格。"
   }
 }
