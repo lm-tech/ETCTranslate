@@ -12,15 +12,15 @@
     ]
     },
   "en": {
-    "congratulation_desc0":"恭喜您获得推广资格",
-    "code_label":"推广码",
-    "url_label":"推广链接",
-    "copy":"复制",
-    "isCopy":"已复制",
-    "tips":[
-      "推广提示：",
-      "1、新用户在平台注册页面输入您的推广码或通过您的推广链接，且注册成功后，该新用户即成为您的推广用户；",
-      "2、推广用户投注成功后，您将获得对应比例的返利金额。"
+    "congratulation_desc0":" Congratulations for being a promoter",
+    "code_label":"promotion code ",
+    "url_label":"promotion link",
+    "copy":"copy",
+    "isCopy":"copied",
+    "Notice":[
+      "Tips:",
+      "1、Users need to enter your promotion code on registration page or register a new account via the provided links. After his/her successful registration, this new user is your invited user.",
+      "2、If the user bets online successfully, you will get your corresponding proportion rebate."
     ]
   },
   "ja": {
@@ -31,8 +31,8 @@
     "isCopy":"コピー完了",
     "tips":[
       "ご注意：",
-      "1、新ユーザーは登録のページにあなたの宣伝コードを入力するなら、あなたの専属ユーザーとなる。新ユーザーがベッティングして後、あなたはリベートを得る。",
-      "2、あなたの宣伝リンクから登録したユーザーもあなたの専属ユーザーとなる。"
+      "1．新ユーザーはあなたの宣伝コード・リンクを通じて登録して後、あなたの専属ユーザーとなる。",
+      "2．新ユーザーがベッティングして後、あなたがリベートを獲得できる。"
     ]
   },
   "ko": {
@@ -48,27 +48,27 @@
     ]
   },
   "ru": {
-    "congratulation_desc0":"恭喜您获得推广资格",
-    "code_label":"推广码",
-    "url_label":"推广链接",
-    "copy":"复制",
-    "isCopy":"已复制",
-    "tips":[
-      "推广提示：",
-      "1、新用户在平台注册页面输入您的推广码或通过您的推广链接，且注册成功后，该新用户即成为您的推广用户；",
-      "2、推广用户投注成功后，您将获得对应比例的返利金额。"
+    "congratulation_desc0":" Congratulations for being a promoter",
+    "code_label":"promotion code ",
+    "url_label":"promotion link",
+    "copy":"copy",
+    "isCopy":"copied",
+    "Notice":[
+      "Tips:",
+      "1、Users need to enter your promotion code on registration page or register a new account via the provided links. After his/her successful registration, this new user is your invited user.",
+      "2、If the user bets online successfully, you will get your corresponding proportion rebate."
     ]
   },
   "vi": {
-    "congratulation_desc0":"恭喜您获得推广资格",
-    "code_label":"推广码",
-    "url_label":"推广链接",
-    "copy":"复制",
-    "isCopy":"已复制",
-    "tips":[
-      "推广提示：",
-      "1、新用户在平台注册页面输入您的推广码或通过您的推广链接，且注册成功后，该新用户即成为您的推广用户；",
-      "2、推广用户投注成功后，您将获得对应比例的返利金额。"
+    "congratulation_desc0":" Congratulations for being a promoter",
+    "code_label":"promotion code ",
+    "url_label":"promotion link",
+    "copy":"copy",
+    "isCopy":"copied",
+    "Notice":[
+      "Tips:",
+      "1、Users need to enter your promotion code on registration page or register a new account via the provided links. After his/her successful registration, this new user is your invited user.",
+      "2、If the user bets online successfully, you will get your corresponding proportion rebate."
     ]
   },
   "zh-Hant": {
