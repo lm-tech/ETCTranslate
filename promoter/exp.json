@@ -54,12 +54,12 @@
     "add_exp_desc3":"经验值统计数据每24小时更新一次"
   },
   "zh-Hant": {
-    "current_exp":"已获得经验值:{value} EXP",
-    "standard_exp":"达标经验值：{value} EXP",
-    "apply_promoter":"申请推广资格",
-    "add_exp_desc0":"经验值说明：每获得",
+    "current_exp":"已獲得經驗值:{value} EXP",
+    "standard_exp":"達標經驗值：{value} EXP",
+    "apply_promoter":"申請推廣資格",
+    "add_exp_desc0":"經驗值說明：每獲得",
     "add_exp_desc1":"1EXP",
-    "add_exp_desc2":"需投注",
-    "add_exp_desc3":"经验值统计数据每24小时更新一次"
+    "add_exp_desc2":"需投註",
+    "add_exp_desc3":"經驗值統計數據每24小時更新壹次"
   }
 }
