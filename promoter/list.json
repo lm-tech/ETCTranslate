@@ -11,15 +11,16 @@
     "cancel":"取消"
     },
   "en": {
-    "pre_month": "上月返利",
-    "added_rebate": "累计返利",
-    "pre_month_betted":"上月投注用户数",
-    "compare_pre_month":"环比前一个月",
-    "setButton":"设置偏好币种",
-    "click_to_see_more":"点击展开更多币种",
-    "no_count_data":"暂无数据",
-    "conform":"确定",
-    "cancel":"取消"
+    "pre_month": "Last Month Rebate",
+    "added_rebate": " Accumulative Rebate ",
+    "pre_month_betted":" The number of bet users last month ",
+    "compare_pre_month":"Compare to pre month",
+    "setButton":" Set your preferred tokens ",
+    "click_to_see_more":"Click to show more tokens",
+    "no_count_data":"No data",
+    "confrrm":"Confirm",
+    "cancel":"Cancel"
+
   },
   "ja": {
     "pre_month": "先月のリベート",
@@ -44,26 +45,26 @@
     "cancel":"취소"
   },
   "ru": {
-    "pre_month": "上月返利",
-    "added_rebate": "累计返利",
-    "pre_month_betted":"上月投注用户数",
-    "compare_pre_month":"环比前一个月",
-    "setButton":"设置偏好币种",
-    "click_to_see_more":"点击展开更多币种",
-    "no_count_data":"暂无数据",
-    "conform":"确定",
-    "cancel":"取消"
+    "pre_month": "Last Month Rebate",
+    "added_rebate": " Accumulative Rebate ",
+    "pre_month_betted":" The number of bet users last month ",
+    "compare_pre_month":"Compare to pre month",
+    "setButton":" Set your preferred tokens ",
+    "click_to_see_more":"Click to show more tokens",
+    "no_count_data":"No data",
+    "confrrm":"Confirm",
+    "cancel":"Cancel"
   },
   "vi": {
-    "pre_month": "上月返利",
-    "added_rebate": "累计返利",
-    "pre_month_betted":"上月投注用户数",
-    "compare_pre_month":"环比前一个月",
-    "setButton":"设置偏好币种",
-    "click_to_see_more":"点击展开更多币种",
-    "no_count_data":"暂无数据",
-    "conform":"确定",
-    "cancel":"取消"
+    "pre_month": "Last Month Rebate",
+    "added_rebate": " Accumulative Rebate ",
+    "pre_month_betted":" The number of bet users last month ",
+    "compare_pre_month":"Compare to pre month",
+    "setButton":" Set your preferred tokens ",
+    "click_to_see_more":"Click to show more tokens",
+    "no_count_data":"No data",
+    "confrrm":"Confirm",
+    "cancel":"Cancel"
   },
   "zh-Hant": {
     "pre_month": "上月返利",
