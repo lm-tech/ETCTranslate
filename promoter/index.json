@@ -87,7 +87,7 @@
     "identity_authentication_desc":"인증이 성공하셔야 자격을 획득할 수 있습니다.",
     "got_qualification":"자격 획득하기",
     "got_qualification_desc":"홍보원 자격을 획득해야 합니다.",
-    "exp_congratulation_desc":"베팅금액의 인증이 성공하엿습니다.<br/>이메일로 인증한 후 홍보원 자격을 획득할 수 있습니다.",
+    "exp_congratulation_desc":"베팅금액의 인증이 성공하였습니다.<br/>이메일로 인증한 후 홍보원 자격을 획득할 수 있습니다.",
     "email":"이메일:",
     "send_verification_code":"인증코드 보내기",
     "input_verification_code":"인증코드를 입력해 주세요.",
