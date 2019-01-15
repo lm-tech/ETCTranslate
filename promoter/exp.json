@@ -27,13 +27,13 @@
     "add_exp_desc3":"経験値データは24時間に一度更新される。"
   },
   "ko": {
-    "current_exp":"已获得经验值:{value} EXP",
-    "standard_exp":"达标经验值：{value} EXP",
-    "apply_promoter":"申请推广资格",
-    "add_exp_desc0":"经验值说明：每获得",
-    "add_exp_desc1":"1EXP",
-    "add_exp_desc2":"需投注",
-    "add_exp_desc3":"经验值统计数据每24小时更新一次"
+    "current_exp":"현재 경험치:{value} EXP",
+    "standard_exp":"목표 경험치：{value} EXP",
+    "apply_promoter":"홍보원 자격을 신청하기",
+    "add_exp_desc0":"경험치 설명:",
+    "add_exp_desc1":"1EXP를 획득하면",
+    "add_exp_desc2":"필요한 베팅금액",
+    "add_exp_desc3":"경험치가 24시간마다 업데이트를 합니다."
   },
   "ru": {
     "current_exp":"已获得经验值:{value} EXP",
