@@ -1,0 +1,86 @@
+{
+  "zh": {
+    "title": "包含但不限于",
+    "remark_01":"附1:各币种返利比例",
+    "betting_amount":"投注金额",
+    "percentage":"返利比例",
+    "rebate_amount":"返利金额",
+    "remark_02":"附2：当前支持推广返利的栏目查询",
+    "no_data":"暂无数据",
+    "support":"支持",
+    "not_support":"不支持",
+    "choice_coin": "选择币种"
+    },
+  "en": {
+    "title": "included but not limited",
+    "remark_01":"Attachment 1: Rebate Ratio for Different Tokens ",
+    "betting_amount":"bet amount",
+    "percentage":"rebate percentage ",
+    "rebate_amount":"rebate amount",
+    "remark_02":"Attachment 2:Current Support Promotion Rebate Products Column title: included but not limited",
+    "no_data":"No data",
+    "support":"support ",
+    "not_support":"not support",
+    "choice_coin": "选择币种"
+  },
+  "ja": {
+    "title": "以下を含むがそれに限られない",
+    "remark_01":"付録1：各コインのリベート率",
+    "betting_amount":"オーダー金額",
+    "percentage":"リベート率",
+    "rebate_amount":"リベート金額",
+    "remark_02":"付録2：適用項目",
+    "no_data":"データ無し",
+    "support":"可",
+    "not_support":"否",
+    "choice_coin": "选择币种"
+  },
+  "ko": {
+    "title": "아래 규칙을 포함되며 단지 이 규칙에 한하지 않습니다.",
+    "remark_01":"첨부1: 각 코인 종류 인센티브 비율",
+    "betting_amount":"베팅금액",
+    "percentage":"인센티브 비율",
+    "rebate_amount":"인센티브 금액",
+    "remark_02":"첨부2: 현재 홍보원 시스템이 가능한 항목 조회",
+    "no_data":"데이터 없음",
+    "support":"가능",
+    "not_support":"불가능",
+    "choice_coin": "选择币种"
+  },
+  "ru": {
+    "title": "included but not limited",
+    "remark_01":"Attachment 1: Rebate Ratio for Different Tokens ",
+    "betting_amount":"bet amount",
+    "percentage":"rebate percentage ",
+    "rebate_amount":"rebate amount",
+    "remark_02":"Attachment 2:Current Support Promotion Rebate Products Column title: included but not limited",
+    "no_data":"No data",
+    "support":"support ",
+    "not_support":"not support",
+    "choice_coin": "选择币种"
+  },
+  "vi": {
+    "title": "included but not limited",
+    "remark_01":"Attachment 1: Rebate Ratio for Different Tokens ",
+    "betting_amount":"bet amount",
+    "percentage":"rebate percentage ",
+    "rebate_amount":"rebate amount",
+    "remark_02":"Attachment 2:Current Support Promotion Rebate Products Column title: included but not limited",
+    "no_data":"No data",
+    "support":"support ",
+    "not_support":"not support",
+    "choice_coin": "选择币种"
+  },
+  "zh-Hant": {
+    "title": "包含但不限于",
+    "remark_01":"附1:各币种返利比例",
+    "betting_amount":"投注金额",
+    "percentage":"返利比例",
+    "rebate_amount":"返利金额",
+    "remark_02":"附2：当前支持推广返利的栏目查询",
+    "no_data":"暫無數據",
+    "support":"支持",
+    "not_support":"不支持",
+    "choice_coin": "选择币种"
+  }
+}
