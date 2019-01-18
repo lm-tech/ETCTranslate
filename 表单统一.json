@@ -1,0 +1,29 @@
+const validationCode = {
+  zh: '发送验证码',
+  en: 'Validation code',
+  ja: '検証コード',
+  ko: '인증번호',
+  ru: 'Код проверки',
+  vi: 'mã xác nhận',
+  'zh-Hant': '驗證碼'
+}
+
+const validationSend = {
+  zh: '点击验证',
+  en: '点击验证',
+  ja: '点击验证',
+  ko: '点击验证',
+  ru: '点击验证',
+  vi: '点击验证',
+  'zh-Hant': '点击验证'
+}
+
+const validationSuccess = {
+  zh: '已验证',
+  en: '已验证',
+  ja: '已验证',
+  ko: '已验证',
+  ru: '已验证',
+  vi: '已验证',
+  'zh-Hant': '已验证',
+}
