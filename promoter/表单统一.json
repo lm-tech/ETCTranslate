@@ -10,20 +10,20 @@ const validationCode = {
 
 const validationSend = {
   zh: '点击验证',
-  en: '点击验证',
-  ja: '点击验证',
-  ko: '点击验证',
-  ru: '点击验证',
-  vi: '点击验证',
-  'zh-Hant': '点击验证'
+  en: 'Validate',
+  ja: '認証',
+  ko: '인증하기',
+  ru: 'Validate',
+  vi: 'Validate',
+  'zh-Hant': '點擊驗證'
 }
 
 const validationSuccess = {
   zh: '已验证',
-  en: '已验证',
-  ja: '已验证',
-  ko: '已验证',
-  ru: '已验证',
-  vi: '已验证',
-  'zh-Hant': '已验证',
+  en: 'Validated',
+  ja: '認証済み',
+  ko: '인증 완료',
+  ru: 'Validated',
+  vi: 'Validated',
+  'zh-Hant': '已驗證',
 }
