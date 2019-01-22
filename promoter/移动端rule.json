@@ -21,7 +21,7 @@
     "no_data":"No data",
     "support":"support ",
     "not_support":"not support",
-    "choice_coin": "选择币种"
+    "choice_coin": "Token Selection"
   },
   "ja": {
     "title": "以下を含むがそれに限られない",
@@ -33,7 +33,7 @@
     "no_data":"データ無し",
     "support":"可",
     "not_support":"否",
-    "choice_coin": "选择币种"
+    "choice_coin": "コイン"
   },
   "ko": {
     "title": "아래 규칙을 포함되며 단지 이 규칙에 한하지 않습니다.",
@@ -45,7 +45,7 @@
     "no_data":"데이터 없음",
     "support":"가능",
     "not_support":"불가능",
-    "choice_coin": "选择币种"
+    "choice_coin": "코인 선택"
   },
   "ru": {
     "title": "included but not limited",
@@ -57,7 +57,7 @@
     "no_data":"No data",
     "support":"support ",
     "not_support":"not support",
-    "choice_coin": "选择币种"
+    "choice_coin": "Token Selection"
   },
   "vi": {
     "title": "included but not limited",
@@ -69,7 +69,7 @@
     "no_data":"No data",
     "support":"support ",
     "not_support":"not support",
-    "choice_coin": "选择币种"
+    "choice_coin": "Token Selection"
   },
   "zh-Hant": {
     "title": "包含但不限于",
@@ -81,6 +81,6 @@
     "no_data":"暫無數據",
     "support":"支持",
     "not_support":"不支持",
-    "choice_coin": "选择币种"
+    "choice_coin": "選擇幣種"
   }
 }
