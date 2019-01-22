@@ -24,7 +24,7 @@
     "readed_and_goon":"已了解，继续",
     "promoter_info_title":"推广体系介绍",
     "promoter_info_warning1":"您的推广资格已被暂停，如有疑问请咨询客服邮箱：support@coingame.com",
-    "i_know": "我知道了"
+    "i_know": "已知晓"
   },
   "en": {
     "title": " Promotion Zone ",
@@ -50,8 +50,8 @@
     "promoter_info_warning":"Coingame Promotion Zone is a place for promoters to make money. The more bets invited users put, The more rewards promoters will get! Come on and to be a promoter",
     "readed_and_goon":"Understand, go on",
     "promoter_info_title":" Promotion System Introduction",
-    "promoter_info_warning1":"您的推广资格已被暂停，如有疑问请咨询客服邮箱：support@coingame.com",
-    "i_know": "我知道了"
+    "promoter_info_warning1":"Your promotion qualification has been suspended. If you have any questions, please contact our customer service: support@coingame.com",
+    "i_know": "Understood"
 
   },
   "ja": {
@@ -78,8 +78,8 @@
     "promoter_info_warning":"Coingame の宣伝者部門とは、宣伝者を稼がせるために企画したキャンペーンです。宣伝効果によって登録した新ユーザーのオーダー金額が高ければ、宣伝者のボーナスも多くなる。皆さん、早速宣伝者になりましょう！",
     "readed_and_goon":"続く",
     "promoter_info_title":"宣伝システムについて",
-    "promoter_info_warning1":"您的推广资格已被暂停，如有疑问请咨询客服邮箱：support@coingame.com",
-    "i_know": "我知道了"
+    "promoter_info_warning1":"あなたの宣伝資格は停止されました。何か疑問がございましたら、カスタマーサービスまでお問い合わせください：support@coingame.com",
+    "i_know": "了解"
   },
   "ko": {
     "title": "홍보원 관리",
@@ -105,8 +105,8 @@
     "promoter_info_warning":"Coingame홍보원 시스템은 홍보원에게 특별히 만든 수익 플랫폼입니다. 리퍼가 많을 수록 인센티브 상금이 많습니다. 홍보원 시스템에 참여하세요.",
     "readed_and_goon":"확인하였습니다.다음에 갑니다",
     "promoter_info_title":"홍보원 시스템 안내",
-    "promoter_info_warning1":"您的推广资格已被暂停，如有疑问请咨询客服邮箱：support@coingame.com",
-    "i_know": "我知道了"
+    "promoter_info_warning1":"회원님의 홍보원 자격이 일시 정지되었습니다. 문의가 있으시면 support@coingame.com로 연락하세요.",
+    "i_know": "확인하였습니다"
   },
   "ru": {
     "title": " Promotion Zone ",
@@ -132,8 +132,8 @@
     "promoter_info_warning":"Coingame Promotion Zone is a place for promoters to make money. The more bets invited users put, The more rewards promoters will get! Come on and to be a promoter",
     "readed_and_goon":"Understand, go on",
     "promoter_info_title":" Promotion System Introduction",
-    "promoter_info_warning1":"您的推广资格已被暂停，如有疑问请咨询客服邮箱：support@coingame.com",
-    "i_know": "我知道了"
+    "promoter_info_warning1":"Your promotion qualification has been suspended. If you have any questions, please contact our customer service: support@coingame.com",
+    "i_know": "Understood"
 
   },
   "vi": {
@@ -160,8 +160,8 @@
     "promoter_info_warning":"Coingame Promotion Zone is a place for promoters to make money. The more bets invited users put, The more rewards promoters will get! Come on and to be a promoter",
     "readed_and_goon":"Understand, go on",
     "promoter_info_title":" Promotion System Introduction",
-    "promoter_info_warning1":"您的推广资格已被暂停，如有疑问请咨询客服邮箱：support@coingame.com",
-    "i_know": "我知道了"
+    "promoter_info_warning1":"Your promotion qualification has been suspended. If you have any questions, please contact our customer service: support@coingame.com",
+    "i_know": "Understood"
 
   },
   "zh-Hant": {
@@ -189,6 +189,6 @@
     "readed_and_goon":"已了解，繼續",
     "promoter_info_title":"推廣體系介紹",
     "promoter_info_warning1":"您的推广资格已被暂停，如有疑问请咨询客服邮箱：support@coingame.com",
-    "i_know": "我知道了"
+    "i_know": "已知曉"
 }
 }
