@@ -9,7 +9,7 @@
     "identity_authentication":"身份认证",
     "identity_authentication_desc":"需要通过认证才可获得资格。",
     "got_qualification":"获取资格",
-    "got_qualification_desc":"获得推广资格。",
+    "got_qualification_desc":"获得推广码和推广链接",
     "exp_congratulation_desc":"恭喜您完成投注额验证<br/>邮箱验证后即可开通推广资格",
     "email":"邮箱：",
     "send_verification_code":"发送验证码",
@@ -20,9 +20,9 @@
     "promoter_url":"推广链接",
     "promoter_info_copy":"复制",
     "tips_0":"推广提示:<br/>1、新用户在注册页面“邀请码”处输入了您的的推广码，这位新用户注册成功后就是您的推广用户，推广用户下注成功后，您将获得返利。<br/>2、专属推广链接的页面注册的用户也将会是您的推广用户。",
-    "promoter_info_warning":"Coingame推广员专区是专为推广员搭建的一个赚钱平台。推广来的用户投注额越多，推广员获得的奖励就越多！快来成为推广员吧",
+    "promoter_info_warning":"为推广员搭建的赚钱平台已上线。成为coingame推广员，推广的用户投注越多，获得的奖励就越多。快来成为推广员吧！",
     "readed_and_goon":"已了解，继续",
-    "promoter_info_title":"推广体系介绍"
+    "promoter_info_title":"欢迎来到推广专区"
   },
   "en": {
     "title": " Promotion Zone ",
@@ -34,7 +34,7 @@
     "identity_authentication":" Identity Authentication ",
     "identity_authentication_desc":"Please verify your identity authentication to get your promotion qualification",
     "got_qualification":" Get Qualification ",
-    "got_qualification_desc":" Get Promotion Qualification ",
+    "got_qualification_desc":" Got promotion code and link ",
     "exp_congratulation_desc":" Congratulations to you for completing the bet verification <br/> Qualifications for promotion will be accessed after your mailbox verification ",
     "email":"Email：",
     "send_verification_code":" Send verification code,
@@ -46,9 +46,9 @@
     "promoter_info_copy":"Copy",
     "tips_0":"Tips:<br/>1、New users has entered your promotion code in the blank "invitation code" on registration page, and this new user is your invited user after his/her successful registration. If the user bets online successfully, you will get your rebate",
      <br/>2、The user registered through your exclusive promotion link page will also be your invited user ",
-    "promoter_info_warning":"Coingame Promotion Zone is a place for promoters to make money. The more bets invited users put, The more rewards promoters will get! Come on and to be a promoter",
+    "promoter_info_warning":"Coingame Promotion Zone's been put online. The more bets invited users put, The more rewards promoters will get! Come on and to be a promoter",
     "readed_and_goon":"Understand, go on",
-    "promoter_info_title":" Promotion System Introduction"
+    "promoter_info_title":"Welcome to the Promotion zone"
 
   },
   "ja": {
@@ -72,9 +72,9 @@
     "promoter_url":"宣伝リンク",
     "promoter_info_copy":"コピー",
     "tips_0":"ご注意:<br/>1、新ユーザーは登録のページであなたの宣伝コードを入力するなら、あなたの専属ユーザーとなる。新ユーザーがベッティングして後、あなたはリベートを得る。<br/>2、あなたの宣伝リンクから登録したユーザーもあなたの専属ユーザーとなる。",
-    "promoter_info_warning":"Coingame の宣伝者部門とは、宣伝者を稼がせるために企画したキャンペーンです。宣伝効果によって登録した新ユーザーのオーダー金額が高ければ、宣伝者のボーナスも多くなる。皆さん、早速宣伝者になりましょう！",
+    "promoter_info_warning":"宣伝者を稼がせるために企画したキャンペーンが始まった。宣伝効果によって登録した新ユーザーのオーダー金額が高ければ、宣伝者のボーナスも多くなる。皆さん、早速Coingameの宣伝者になりましょう！",
     "readed_and_goon":"続く",
-    "promoter_info_title":"宣伝システムについて"
+    "promoter_info_title":"宣伝者部門へようこそ"
   },
   "ko": {
     "title": "홍보원 관리",
@@ -97,9 +97,9 @@
     "promoter_url":"홍보링크",
     "promoter_info_copy":"복사하기",
     "tips_0":"홍보 안내:<br/>1.신규회원님이 회원가입 페이지 “초대코드”에서 회원님의 홍보코드를 입력하였습니다. 신규회원님이 회원가입 후 홍보원의 리퍼가 되고 베팅 성공한 후 인센티브를 획득할 수 있습니다.<br/>2.홍보원의 홍보 링크로 회원가입을 하는 신규회원도 리퍼가 될 것입니다.",
-    "promoter_info_warning":"Coingame홍보원 시스템은 홍보원에게 특별히 만든 수익 플랫폼입니다. 리퍼가 많을 수록 인센티브 상금이 많습니다. 홍보원 시스템에 참여하세요.",
+    "promoter_info_warning":"홍보원 시스템이 오픈되었습니다. Coingame 홍보원이 되고 많은 사람을 초대할 수록 인센티브가 많습니다,  어서 해보세요.",
     "readed_and_goon":"확인하였습니다.다음에 갑니다",
-    "promoter_info_title":"홍보원 시스템 안내"
+    "promoter_info_title":"홍보원 센터에 오신 것을 환영합니다."
   },
   "ru": {
     "title": " Promotion Zone ",
@@ -176,8 +176,8 @@
     "promoter_url":"推廣鏈接",
     "promoter_info_copy":"復制",
     "tips_0":"推廣提示:<br/>1、新用戶在註冊頁面“邀請碼”處輸入了您的的推廣碼，這位新用戶註冊成功後就是您的推廣用戶，推廣用戶下註成功後，您將獲得返利。<br/>2、專屬推廣鏈接的頁面註冊的用戶也將會是您的推廣用戶。",
-    "promoter_info_warning":"Coingame推廣員專區是專為推廣員搭建的壹個賺錢平臺。推廣來的用護投註額越多，推廣員獲得的獎勵就越多！快來成為推廣員吧",
+    "promoter_info_warning":"為推廣員搭建的賺錢平臺已上線。成為coingame推廣員，推廣的用戶投註越多，獲得的獎勵就越多。快來成為推廣員吧！",
     "readed_and_goon":"已了解，繼續",
-    "promoter_info_title":"推廣體系介紹"
+    "promoter_info_title":"歡迎來到推廣專區"
   }
 }
