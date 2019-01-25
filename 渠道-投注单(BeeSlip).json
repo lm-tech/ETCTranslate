@@ -219,8 +219,8 @@
       "bet_to_normal": "스마트 컨트렉트 배팅으로 리턴",
       "detail_bet_expired_noNumber": "베팅금액을 입력하세요",
       "bet_no_data": "베팅 리스트가 비어있습니다. 베팅을 시작하세요.",
-      "bet_success": "恭喜，投注成功",
-      "bet_failed": "很遗憾，投注失败",
+      "bet_success": "축하합니다. 베팅 성공했습니다.",
+      "bet_failed": "죄송합니다.베팅 실패했습니다.",
       "bet_number": "건",
       "copy": "복사",
       "bet_code_tip": "충전 QR코드",
@@ -245,10 +245,10 @@
       "bet_warn_more": "{currency} 스마트 계약 주소로 {currency} 이외의 자산 충전을 금지하며 주소로 충전한 자산이 {currency} 이 아닐 경우, 모든 자산은 되찾을 수 없습니다.",
       "label_asian_handicap": "아시아 핸디캡",
       "label_goal_line": "오버/언더",
-      "can_bet": "当前可投注余额：",
+      "can_bet": "현재 베팅 가능한 잔액：",
       "go_to_deposit": "충전하기",
-      "query_failed": "该选项已停止下注",
-      "go_to_login": "立即登录"
+      "query_failed": "해당 옵션 베팅 종료되었습니다.",
+      "go_to_login": "로그인"
     },
     "ru": {
       "bet_slip_title": "Заказ ставки",
