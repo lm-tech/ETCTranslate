@@ -22,10 +22,10 @@
     },
     "ko": {
       "centralization": "회원 베팅하기",
-      "to_bet": "前往充值提币",
-      "bet_deposit": "充值提币",
-      "bet_list": "我的投注",
-      "bet_lang": "语言切换"
+      "to_bet": "출입금하로 가기 ",
+      "bet_deposit": "출입금",
+      "bet_list": "나의 베팅",
+      "bet_lang": "언어 선택"
     },
     "ru": {
       "centralization": "Member betting",
