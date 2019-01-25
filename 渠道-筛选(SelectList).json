@@ -1,0 +1,58 @@
+{
+    "zh": {
+      "title": "选择比赛",
+      "select": "全选",
+      "unselect": "反选",
+      "cancel": "取消",
+      "confirm": "确定",
+      "clean_all": "清空选项"
+    },
+    "en": {
+      "title": "Select a game",
+      "select": "Select all",
+      "unselect": "Inverse",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "clean_all": "清空选项"
+    },
+    "ko": {
+      "title": "경기 선택",
+      "select": "모두 선택",
+      "unselect": "모두 취소",
+      "cancel": "취소",
+      "confirm": "확인",
+      "clean_all": "清空选项"
+    },
+    "ja": {
+      "title": "試合を選択",
+      "select": "一括選択",
+      "unselect": "選択を解除",
+      "cancel": "キャンセル",
+      "confirm": "確認",
+      "clean_all": "清空选项"
+    },
+    "ru": {
+      "title": "Select a game",
+      "select": "Select all",
+      "unselect": "Inverse",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "vi": {
+      "title": "Select a game",
+      "select": "Select all",
+      "unselect": "Inverse",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "zh-Hant": {
+      "title": "選擇比賽",
+      "select": "全選",
+      "unselect": "反選",
+      "cancel": "取消",
+      "confirm": "確認",
+      "clean_all": "清空选项"
+    }
+  }
+  
+  

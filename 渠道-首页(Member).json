@@ -1,0 +1,51 @@
+{
+    "zh": {
+      "centralization": "会员下注",
+      "to_bet": "前往充值提币",
+      "bet_deposit": "充值提币",
+      "bet_list": "我的投注",
+      "bet_lang": "语言切换"
+    },
+    "en": {
+      "centralization": "Member Betting",
+      "to_bet": "前往充值提币",
+      "bet_deposit": "充值提币",
+      "bet_list": "我的投注",
+      "bet_lang": "语言切换"
+    },
+    "ja": {
+      "centralization": "会員ベッティング",
+      "to_bet": "前往充值提币",
+      "bet_deposit": "充值提币",
+      "bet_list": "我的投注",
+      "bet_lang": "语言切换"
+    },
+    "ko": {
+      "centralization": "회원 베팅하기",
+      "to_bet": "前往充值提币",
+      "bet_deposit": "充值提币",
+      "bet_list": "我的投注",
+      "bet_lang": "语言切换"
+    },
+    "ru": {
+      "centralization": "Member betting",
+      "to_bet": "前往充值提币",
+      "bet_deposit": "充值提币",
+      "bet_list": "我的投注",
+      "bet_lang": "语言切换"
+    },
+    "vi": {
+      "centralization": "Member betting",
+      "to_bet": "前往充值提币",
+      "bet_deposit": "充值提币",
+      "bet_list": "我的投注",
+      "bet_lang": "语言切换"
+    },
+    "zh-Hant": {
+      "centralization": "會員下注",
+      "to_bet": "前往充值提币",
+      "bet_deposit": "充值提币",
+      "bet_list": "我的投注",
+      "bet_lang": "语言切换"
+    }
+  }
