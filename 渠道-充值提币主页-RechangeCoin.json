@@ -1,0 +1,64 @@
+{
+  "zh": {
+    "RechangeCoin_btn_cz": "充值",
+    "RechangeCoin_btn_tb": "提币",
+    "RechangeCoin_frozen": "冻结资产",
+    "RechangeCoin_btn_history": "充提记录",
+    "RechangeCoin_btn_title": "充值提币",
+    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+
+  },
+  "en": {
+    "RechangeCoin_btn_cz": "充值",
+    "RechangeCoin_btn_tb": "提币",
+    "RechangeCoin_frozen": "冻结资产",
+    "RechangeCoin_btn_history": "充提记录",
+    "RechangeCoin_btn_title": "充值提币",
+    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+
+  },
+  "ja": {
+    "RechangeCoin_btn_cz": "充值",
+    "RechangeCoin_btn_tb": "提币",
+    "RechangeCoin_frozen": "冻结资产",
+    "RechangeCoin_btn_history": "充提记录",
+    "RechangeCoin_btn_title": "充值提币",
+    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+
+  },
+  "ko": {
+    "RechangeCoin_btn_cz": "充值",
+    "RechangeCoin_btn_tb": "提币",
+    "RechangeCoin_frozen": "冻结资产",
+    "RechangeCoin_btn_history": "充提记录",
+    "RechangeCoin_btn_title": "充值提币",
+    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+
+  },
+  "ru": {
+    "RechangeCoin_btn_cz": "充值",
+    "RechangeCoin_btn_tb": "提币",
+    "RechangeCoin_frozen": "冻结资产",
+    "RechangeCoin_btn_history": "充提记录",
+    "RechangeCoin_btn_title": "充值提币",
+    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+  },
+  "vi": {
+    "RechangeCoin_btn_cz": "充值",
+    "RechangeCoin_btn_tb": "提币",
+    "RechangeCoin_frozen": "冻结资产",
+    "RechangeCoin_btn_history": "充提记录",
+    "RechangeCoin_btn_title": "充值提币",
+    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+
+  },
+  "zh-Hant": {
+    "RechangeCoin_btn_cz": "充值",
+    "RechangeCoin_btn_tb": "提币",
+    "RechangeCoin_frozen": "冻结资产",
+    "RechangeCoin_btn_history": "充提记录",
+    "RechangeCoin_btn_title": "充值提币",
+    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+
+  }
+}
