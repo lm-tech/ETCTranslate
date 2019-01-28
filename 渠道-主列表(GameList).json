@@ -26,8 +26,8 @@
       "week_5": "Friday",
       "week_6": "Saturday",
       "all": "All",
-      "all_game": "全部赛事",
-      "all_clean": "清空选项"
+      "all_game": "All events",
+      "all_clean": "Clear options"
     },
     "ko": {
       "opending": "실시간",
@@ -56,8 +56,8 @@
       "week_5": "金曜日",
       "week_6": "土曜日",
       "all": "全部",
-      "all_game": "全部赛事",
-      "all_clean": "清空选项"
+      "all_game": "全試合",
+      "all_clean": "一括削除"
     },
     "ru": {
       "opending": "Real-time",
@@ -97,8 +97,8 @@
       "week_5": "週五",
       "week_6": "週六",
       "all": "全部",
-      "all_game": "全部赛事",
-      "all_clean": "清空选项"
+      "all_game": "全部賽事",
+      "all_clean": "清空選項"
     }
   }
   
