@@ -95,8 +95,8 @@
       "bet_to_normal": "Return to smart contract prediction",
       "detail_bet_expired_noNumber": "Enter your prediction amount",
       "bet_no_data": "No order data, go betting",
-      "bet_success": "恭喜，投注成功",
-      "bet_failed": "很遗憾，投注失败",
+      "bet_success": "Congratulations on your successful bet",
+      "bet_failed": "Unfortunately, you failed to bet",
       "bet_number": "Number",
       "copy": "Copy",
       "bet_code_tip": "Deposit QR code",
@@ -121,10 +121,10 @@
       "bet_warn_more": "Don't deposit into {currency} smart contract address assets except {currency}, any deposited {currency} address non-{currency} assets will be irretrievable.",
       "label_asian_handicap": "Asian Handicap",
       "label_goal_line": "Goal Line",
-      "can_bet": "当前可投注余额：",
+      "can_bet": "Current available balance:",
       "go_to_deposit": "Go deposit",
-      "query_failed": "该选项已停止下注",
-      "go_to_login": "立即登录"
+      "query_failed": "Sorry, no more bet for this option",
+      "go_to_login": "Log in now"
     },
     "ja": {
       "bet_slip_title": "ベッティングオーダー",
@@ -157,8 +157,8 @@
       "bet_to_normal": "戻る、スマートコントラクトを使用してベッティング",
       "detail_bet_expired_noNumber": "オーダーを入力してください。",
       "bet_no_data": "オーダーリストにまだ何もない、早速ご参加ください。",
-      "bet_success": "恭喜，投注成功",
-      "bet_failed": "很遗憾，投注失败",
+      "bet_success": "ベッティング完了",
+      "bet_failed": "ベッティング失敗",
       "bet_number": "条",
       "copy": "コピー",
       "bet_code_tip": "チャージ・QRコード",
@@ -183,10 +183,10 @@
       "bet_warn_more": "{currency} 以外の資産を {currency} アドレスにチャージすることは禁じられています。チャージされた {currency} 以外の資産は回収できません。",
       "label_asian_handicap": "アジアンハンディキャップ",
       "label_goal_line": "オーバーアンダー",
-      "can_bet": "当前可投注余额：",
+      "can_bet": "残高：",
       "go_to_deposit": "チャージ",
-      "query_failed": "该选项已停止下注",
-      "go_to_login": "立即登录"
+      "query_failed": "当項目に関するベッティングが中止になりました",
+      "go_to_login": "すぐログイン"
     },
     "ko": {
       "bet_slip_title": "베팅 리스트",
@@ -393,8 +393,8 @@
       "bet_to_normal": "返回智能合約下注",
       "detail_bet_expired_noNumber": "請輸入投注金額",
       "bet_no_data": "投注單空空如也，趕緊來下注吧",
-      "bet_success": "恭喜，投注成功",
-      "bet_failed": "很遗憾，投注失败",
+      "bet_success": "恭喜，投註成功",
+      "bet_failed": "很遺憾，投註失敗",
       "bet_number": "條",
       "copy": "複製",
       "bet_code_tip": "充值二維碼",
@@ -419,10 +419,10 @@
       "bet_warn_more": "禁止向 {currency} 智能合約地址充值除 {currency} 之外的資產，任何衝入 {currency} 地址的非 {currency} 資產將不可找回。",
       "label_asian_handicap": "亞洲讓分盤",
       "label_goal_line": "大小盤",
-      "can_bet": "当前可投注余额：",
+      "can_bet": "當前可投註余額：",
       "go_to_deposit": "去充值",
-      "query_failed": "该选项已停止下注",
-      "go_to_login": "立即登录"
+      "query_failed": "該選項已停止下註",
+      "go_to_login": "立即登錄"
     }
   }
   
