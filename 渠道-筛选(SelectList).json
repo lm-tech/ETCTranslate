@@ -13,7 +13,7 @@
       "unselect": "Inverse",
       "cancel": "Cancel",
       "confirm": "Confirm",
-      "clean_all": "清空选项"
+      "clean_all": "Clear options"
     },
     "ko": {
       "title": "경기 선택",
@@ -29,7 +29,7 @@
       "unselect": "選択を解除",
       "cancel": "キャンセル",
       "confirm": "確認",
-      "clean_all": "清空选项"
+      "clean_all": "一括削除"
     },
     "ru": {
       "title": "Select a game",
@@ -51,7 +51,7 @@
       "unselect": "反選",
       "cancel": "取消",
       "confirm": "確認",
-      "clean_all": "清空选项"
+      "clean_all": "清空選項"
     }
   }
   
