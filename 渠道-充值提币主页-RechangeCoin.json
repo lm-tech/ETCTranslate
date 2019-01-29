@@ -9,30 +9,30 @@
 
   },
   "en": {
-    "RechangeCoin_btn_cz": "充值",
-    "RechangeCoin_btn_tb": "提币",
-    "RechangeCoin_frozen": "冻结资产",
-    "RechangeCoin_btn_history": "充提记录",
-    "RechangeCoin_btn_title": "充值提币",
-    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+    "RechangeCoin_btn_cz": "Top up",
+    "RechangeCoin_btn_tb": "Withdraw",
+    "RechangeCoin_frozen": "Frozen Assets",
+    "RechangeCoin_btn_history": "Transactions",
+    "RechangeCoin_btn_title": "Top up and Withdraw",
+    "RechangeCoin_ts": "Your bonus is in the way or the withdrawal has not confirmed, which can not be used for any events.  Frozen assets are not included."
 
   },
   "ja": {
-    "RechangeCoin_btn_cz": "充值",
-    "RechangeCoin_btn_tb": "提币",
-    "RechangeCoin_frozen": "冻结资产",
-    "RechangeCoin_btn_history": "充提记录",
-    "RechangeCoin_btn_title": "充值提币",
-    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+    "RechangeCoin_btn_cz": "入金",
+    "RechangeCoin_btn_tb": "出金",
+    "RechangeCoin_frozen": "資産凍結",
+    "RechangeCoin_btn_history": "入出金記録",
+    "RechangeCoin_btn_title": "入出金",
+    "RechangeCoin_ts": "まだ送付されていない賞金や出金されていない資産はベッティングに使用できません。凍結された資産はXXXを含んでいません。"
 
   },
   "ko": {
-    "RechangeCoin_btn_cz": "充值",
-    "RechangeCoin_btn_tb": "提币",
-    "RechangeCoin_frozen": "冻结资产",
-    "RechangeCoin_btn_history": "充提记录",
-    "RechangeCoin_btn_title": "充值提币",
-    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+    "RechangeCoin_btn_cz": "입금",
+    "RechangeCoin_btn_tb": "출금",
+    "RechangeCoin_frozen": "자산 동결",
+    "RechangeCoin_btn_history": "출입금 기록",
+    "RechangeCoin_btn_title": "출입금",
+    "RechangeCoin_ts": "상금이 입금하거나 출금 심사 중이니 이벤트나 황동에 사용할 수 없습니다.  동결 자산은 포함되지 않음. "
 
   },
   "ru": {
@@ -54,11 +54,11 @@
   },
   "zh-Hant": {
     "RechangeCoin_btn_cz": "充值",
-    "RechangeCoin_btn_tb": "提币",
-    "RechangeCoin_frozen": "冻结资产",
-    "RechangeCoin_btn_history": "充提记录",
-    "RechangeCoin_btn_title": "充值提币",
-    "RechangeCoin_ts": "奖金在途或提币未审核资产，无法用于活动或下注。冻结资产不包含。"
+    "RechangeCoin_btn_tb": "提幣",
+    "RechangeCoin_frozen": "凍結資產",
+    "RechangeCoin_btn_history": "充提記錄",
+    "RechangeCoin_btn_title": "充值提幣",
+    "RechangeCoin_ts": "獎金在途或提幣未審核資產，無法用於活動或下註。凍結資產不包含。"
 
   }
 }
