@@ -4,19 +4,19 @@
       "tips": "最近30天"
     },
     "en": {
-      "title": "我的投注",
-      "tips": "最近30天"
+      "title": "My predictions",
+      "tips": "Last 30 days"
     },
     "ja": {
-      "title": "我的投注",
-      "tips": "最近30天"
+      "title": "私のベッティング",
+      "tips": "最近30日間"
     },
     "ko": {
       "title": "나의 베팅 기록",
       "tips": "최근 30일"
     },
     "zh-Hant": {
-      "title": "我的投注",
+      "title": "我的投註",
       "tips": "最近30天"
     }
   }
