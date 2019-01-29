@@ -5,23 +5,23 @@
     "tips": "最近30天"
   },
   "en": {
-    "title": "充值",
-    "title2": "提币",
-    "tips": "最近30天"
+    "title": "Top up",
+    "title2": "Withdraw",
+    "tips": "Last 30 days"
   },
   "ja": {
-    "title": "充值",
-    "title2": "提币",
-    "tips": "最近30天"
+    "title": "入金",
+    "title2": "出金",
+    "tips": "最近30日間"
   },
   "ko": {
-    "title": "充值",
-    "title2": "提币",
-    "tips": "最近30天"
+    "title": "입금",
+    "title2": "출금",
+    "tips": "최근 30일"
   },
   "zh-Hant": {
     "title": "充值",
-    "title2": "提币",
+    "title2": "提幣",
     "tips": "最近30天"
   }
 }
