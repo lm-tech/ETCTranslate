@@ -28,7 +28,7 @@
     "error_messages_networks": "网络错误"
   },
   "en": {
-    "deposit_close": "收起",
+    "deposit_close": "Roll up",
     "deposit_address_title": "{currency} Deposit address：",
     "deposit_address_focus_zero":"This top-up address is a multi-signature address, which may improve the security. If your wallet does not support top-up to multi-signature addresses, you can use an alternate one",
     "deposit_address_focus_one": "Please note: Depositing non-{currency} assets to {currency} address is prohibited and any deposited assets are irretrievable",
@@ -56,7 +56,7 @@
     "error_messages_networks": "Network error"
   },
   "ko": {
-    "deposit_close": "收起",
+    "deposit_close": "닫기",
     "deposit_address_title": "{currency} 코인 입금 주소：",
     "deposit_address_focus_zero":"해당 입금 주소는 다중서명주소이며 안전성이 높습니다. 고객님의 지갑이 다중서명주소를 지원하지 않으면 예비주소로 입금하면 됩니다. ",
     "deposit_address_focus_one": " 주의사항: {currency} 의 주소로 {currency} 가 아닌 기타 코인을 입금할 시, 환불이 되지 않는 점 유의바랍니다. ",
@@ -84,7 +84,7 @@
     "error_messages_networks": "인터넷 오류가  발생하였습니다."
   },
   "ja": {
-    "deposit_close": "收起",
+    "deposit_close": "戻る",
     "deposit_address_title": "{currency} ウオレットアドレス：",
     "deposit_address_focus_zero":"この入金アドレスはマルチシグアドレスであり、安全性を高めるマルチシグの技術を使いました。もしお客様のウォレットがマルチシグアドレスに入金できないなら、予備のアドレスにご入金ください。",
     "deposit_address_focus_one": "注意：{currency} 以外の資産を {currency} アドレスにチャージすることは禁じられています。チャージされた {currency} 以外の資産は回収できません。",
