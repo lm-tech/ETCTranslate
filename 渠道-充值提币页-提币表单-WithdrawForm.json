@@ -46,6 +46,7 @@
     "withdraw_form_amount_too_big": "余额不足,大于最大可提币数额"
   },
   "en": {
+    "withdraw_form_cancel": "withdraw cancel",
     "withdraw_form_zfxq":"Transactions",
     "withdraw_form_address": "Withdrawal address",
     "withdraw_form_memo": "Remark(MEMO)",
@@ -91,6 +92,7 @@
     "withdraw_form_amount_too_big": "Insufficient balance, you have exceeded the maximum withdrawal amount."
   },
   "ko": {
+    "withdraw_form_cancel":"取消",
     "withdraw_form_zfxq":"수수료 내역",
     "withdraw_form_address": "코인출금 주소",
     "withdraw_form_memo": "메모(MEMO)",
@@ -136,6 +138,7 @@
     "withdraw_form_amount_too_big": "잔액이 최대 출금가능 금액보다 큽니다."
   },
   "ja": {
+    "withdraw_form_cancel":"取消",
     "withdraw_form_zfxq":"手数料詳細",
     "withdraw_form_address": "引き出しアドレス",
     "withdraw_form_memo": "メモ(MEMO)",
@@ -181,6 +184,7 @@
     "withdraw_form_amount_too_big": "残高不足"
   },
   "ru": {
+    "withdraw_form_cancel":"取消",
     "withdraw_form_zfxq":"资费详情",
     "withdraw_form_address": "Адрес извлечения виртуальной валюты",
     "withdraw_form_memo": "备注(MEMO)",
@@ -226,6 +230,7 @@
     "withdraw_form_amount_too_big": "Недостаточный баланс, превышающий максимальную извлекаемую сумму"
   },
   "vi": {
+    "withdraw_form_cancel":"取消",
     "withdraw_form_zfxq":"资费详情",
     "withdraw_form_address": "địa chỉ nạp xu",
     "withdraw_form_memo": "备注(MEMO)",
@@ -271,6 +276,7 @@
     "withdraw_form_amount_too_big": "Số tiền nhỏ hơn số tiền tối đa muốn nạp"
   },
   "zh-Hant": {
+    "withdraw_form_cancel":"取消",
     "withdraw_form_zfxq":"資費詳情",
     "withdraw_form_address": "提幣地址",
     "withdraw_form_memo": "備註(MEMO)",
