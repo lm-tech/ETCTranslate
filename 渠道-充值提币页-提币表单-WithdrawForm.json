@@ -46,7 +46,7 @@
     "withdraw_form_amount_too_big": "余额不足,大于最大可提币数额"
   },
   "en": {
-    "withdraw_form_cancel": "withdraw cancel",
+    "withdraw_form_cancel": "Cancel",
     "withdraw_form_zfxq":"Transactions",
     "withdraw_form_address": "Withdrawal address",
     "withdraw_form_memo": "Remark(MEMO)",
@@ -92,7 +92,7 @@
     "withdraw_form_amount_too_big": "Insufficient balance, you have exceeded the maximum withdrawal amount."
   },
   "ko": {
-    "withdraw_form_cancel":"取消",
+    "withdraw_form_cancel":"취소",
     "withdraw_form_zfxq":"수수료 내역",
     "withdraw_form_address": "코인출금 주소",
     "withdraw_form_memo": "메모(MEMO)",
@@ -138,7 +138,7 @@
     "withdraw_form_amount_too_big": "잔액이 최대 출금가능 금액보다 큽니다."
   },
   "ja": {
-    "withdraw_form_cancel":"取消",
+    "withdraw_form_cancel":"キャンセル",
     "withdraw_form_zfxq":"手数料詳細",
     "withdraw_form_address": "引き出しアドレス",
     "withdraw_form_memo": "メモ(MEMO)",
