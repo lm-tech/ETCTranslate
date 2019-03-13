@@ -15,7 +15,9 @@
     "hot": "热门投注",
     "opening": "即将开赛",
     "filter_text": "联赛筛选",
+    "filter_idText": "联赛: ",
     "filter_type": "类目筛选",
+    "time_all": "时间筛选",
     "filtered": "已选{count}项"
   },
   "en": {
@@ -30,13 +32,15 @@
     "detail_history_no_data": "No data",
     "content_bet_365": " ",
     "content_coin_mark": "All data has been referenced from CoinMarketCap",
-    "content_esports": "The deadline for forecast will be adjusted based on the actual start time of the game.",
+    "content_esports": "The deadline for predictions will be adjusted based on the actual start time of the game.",
     "tip_link": "Please click here to find predictions before June 11th.",
-    "hot": "Hot",
-    "opening": "Coming Soon",
-    "filter_text": "League Screening",
-    "filter_type": "Item Screening",
-    "filtered": "Selected {count}"
+    "hot": "Hot Bets",
+    "opening": "Coming soon",
+    "filter_text": "League screening",
+    "filter_idText": "联赛: ",
+    "filter_type": "Item screening",
+    "time_all": "Time: all",
+    "filtered": "Selected{count}"
   },
   "ja": {
     "soccer": "サッカー",
@@ -55,7 +59,9 @@
     "hot": "人気ベッティン",
     "opening": "間もなく開始",
     "filter_text": "リーグ戦",
+    "filter_idText": "联赛: ",
     "filter_type": "カテゴリー",
+    "time_all": "時間:すべて",
     "filtered": "{count}を選択した"
   },
   "ko": {
@@ -75,7 +81,9 @@
     "hot": "인기 베팅 항목",
     "opening": "런칭 예정",
     "filter_text": "리그별",
+    "filter_idText": "联赛: ",
     "filter_type": "항목별",
+    "time_all": "시간:모두",
     "filtered": "{count} 선택됨"
   },
   "ru": {
@@ -95,7 +103,9 @@
     "hot": "Hot Bets",
     "opening": "Coming soon",
     "filter_text": "League screening",
+    "filter_idText": "联赛: ",
     "filter_type": "Item screening",
+    "time_all": "Time: all",
     "filtered": "Selected{count}"
   },
   "vi": {
@@ -114,7 +124,9 @@
     "hot": "Hot Bets",
     "opening": "Coming soon",
     "filter_text": "League screening",
+    "filter_idText": "联赛: ",
     "filter_type": "Item screening",
+    "time_all": "Time: all",
     "filtered": "Selected{count}"
   },
   "zh-Hant": {
@@ -133,7 +145,9 @@
     "hot": "熱門投注",
     "opening": "即將開賽",
     "filter_text": "聯賽篩選",
+    "filter_idText": "联赛: ",
     "filter_type": "類目篩選",
+    "time_all": "時間：全部",
     "filtered": "已選{count}項"
   }
 }
