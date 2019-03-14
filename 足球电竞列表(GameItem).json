@@ -1,31 +1,142 @@
 {
-    "zh": {
-      "detail_time_left": "剩余时间:",
-      "detail_bet_expired": "投注单已满"
-    },
-    "en": {
-      "detail_time_left": "Remaining Time:",
-      "detail_bet_expired": "Reached the forecast slip limit"
-    },
-    "ja": {
-      "detail_time_left": "残り時間：",
-      "detail_bet_expired": "マキシマムオーダーに達しました。"
-    },
-    "ko": {
-      "detail_time_left": "남은 시간:",
-      "detail_bet_expired": "베팅 오더 최대치에 도달하였습니다"
-    },
-    "ru": {
-      "detail_time_left": "Остальное время: ",
-      "detail_bet_expired": "Уже нет заказа ставки"
-    },
-    "vi": {
-      "detail_time_left": "Thời gian còn lại:",
-      "detail_bet_expired": "Đơn cá cược đã đầy"
-    },
-    "zh-Hant": {
-      "detail_time_left": "剩餘時間:",
-      "detail_bet_expired": "投注單已滿"
-    }
+  "zh": {
+    "detal_header_opening": "进行中",
+    "detal_header_revoked":"已撤盘",
+    "detal_header_closed": "已截止",
+    "detal_header_published": "已开奖",
+    "detail_game_word_cup": "足球",
+    "detail_game_sessions": "第{sessions}轮",
+    "detail_game_time": "比赛时间：{time}分",
+    "detail_game_stop_bet": "下注即将截止",
+    "quick_button_home_team": "主胜",
+    "quick_button_away_team": "客胜",
+    "quick_button_pin": "平",
+    "detail_time_left": "剩余时间：",
+    "detail_bet_expired": "投注单已满",
+    "login_and_quick_bets": "登录会员即刻享受极速下注",
+    "go_login": "会员登录",
+    "go_bets": "直接下注",
+    "inPlay": "进行中",
+    "closed": "已结束"
+  },
+  "en": {
+    "detal_header_opening": "Available now",
+    "detal_header_revoked":"已撤盘",
+    "detal_header_closed": "Closed",
+    "detal_header_published": "Result Announced",
+    "detail_game_word_cup": "Soccer",
+    "detail_game_sessions": "Round {sessions}",
+    "detail_game_time": "Time Elapsed: {time} minutes",
+    "detail_game_stop_bet": "Orders will be closed soon.",
+    "quick_button_home_team": "Home win",
+    "quick_button_away_team": "Away win",
+    "quick_button_pin": "Draw",
+    "detail_time_left": "Time left: ",
+    "detail_bet_expired": "Reached the prediction slip limit",
+    "login_and_quick_bets": "Login to make a prediction",
+    "go_login": "Member login",
+    "go_bets": "Make a prediction",
+    "inPlay": "Game in progress",
+    "closed": "Game over"
+  },
+  "ja": {
+    "detal_header_opening": "進行中",
+    "detal_header_revoked":"已撤盘",
+    "detal_header_closed": "これまでに",
+    "detal_header_published": "既に賞を出した",
+    "detail_game_word_cup": "サッカー",
+    "detail_game_sessions": "第{sessions}回",
+    "detail_game_time": "試合時間：{time}分",
+    "detail_game_stop_bet": "間もなくベッティングが終了",
+    "quick_button_home_team": "ホームチームが勝つ",
+    "quick_button_away_team": "アウェイチームが勝つ",
+    "quick_button_pin": "引き分け",
+    "detail_time_left": "残り時間：",
+    "detail_bet_expired": "マキシマムオーダーに達しました。",
+    "login_and_quick_bets": "ログイン後早速ベッティングできる",
+    "go_login": "ログイン",
+    "go_bets": "ベッティング",
+    "inPlay": "試合中",
+    "closed": "終了"
+  },
+  "ko": {
+    "detal_header_opening": "진행중",
+    "detal_header_revoked":"已撤盘",
+    "detal_header_closed": "마감",
+    "detal_header_published": "당첨마감",
+    "detail_game_word_cup": "축구",
+    "detail_game_sessions": "제{sessions}회",
+    "detail_game_time": "경기시간: {time}분分",
+    "detail_game_stop_bet": "배팅 마감 예정",
+    "quick_button_home_team": "홈팀 승리",
+    "quick_button_away_team": "원정팀 승리",
+    "quick_button_pin": "무승부",
+    "detail_time_left": "남은 시간:",
+    "detail_bet_expired": "베팅 오더 최대치에 도달하였습니다",
+    "login_and_quick_bets": "로그인 후 빠른배팅 사용 가능",
+    "go_login": "회원 로그인",
+    "go_bets": "배팅하기",
+    "inPlay": "경기 진행중 ",
+    "closed": "마감됨"
+  },
+  "ru": {
+    "detal_header_opening": "Обработка",
+    "detal_header_revoked":"已撤盘",
+    "detal_header_closed": "Был закрыт",
+    "detal_header_published": "Уже награжден",
+    "detail_game_word_cup": "Кубок мира",
+    "detail_game_sessions": "{sessions} раунд",
+    "detail_game_time": "Время соревнований: {time} минуты",
+    "detail_game_stop_bet": "Ставка будет закрыта",
+    "quick_button_home_team": "Победа команды хозяев",
+    "quick_button_away_team": "Победа команды гостей",
+    "quick_button_pin": "В галстуке",
+    "detail_time_left": "Остальное время:",
+    "detail_bet_expired": "Reached the prediction slip limit",
+    "login_and_quick_bets": "Наслаждайтесь ставки сразу после входа в систему.",
+    "go_login": "Вход пользователя",
+    "go_bets": "Прямая ставка",
+    "inPlay": "Game in progress",
+    "closed": "Game over"
+  },
+  "vi": {
+    "detal_header_opening": "Đang tiến hành",
+    "detal_header_revoked":"已撤盘",
+    "detal_header_closed": "đã kết thúc",
+    "detal_header_published": "Đã mở thưởng",
+    "detail_game_word_cup": "word_cup",
+    "detail_game_sessions": "Thứ{sessions}Vòng",
+    "detail_game_time": "：Thời gian thi đấu{time}phút",
+    "detail_game_stop_bet": "Đặc  cược sắp hết hạn.",
+    "quick_button_home_team": "Chủ thắng",
+    "quick_button_away_team": "Khách thắng",
+    "quick_button_pin": "Bằng",
+    "detail_time_left": "Thời gian còn lại:",
+    "detail_bet_expired": "Reached the prediction slip limit",
+    "login_and_quick_bets": "Ngay lập tức tận hưởng tốc độ đặt cược sau khi đăng nhập",
+    "go_login": "Hội viên đăng nhập",
+    "go_bets": "đặc cược trực tiếp",
+    "inPlay": "Game in progress",
+    "closed": "Game over"
+  },
+  "zh-Hant": {
+    "detal_header_opening": "進行中",
+    "detal_header_revoked":"已撤盘",
+    "detal_header_closed": "已截止",
+    "detal_header_published": "已開獎",
+    "detail_game_word_cup": "足球",
+    "detail_game_sessions": "第{sessions}輪",
+    "detail_game_time": "比賽時間：{time}分",
+    "detail_game_stop_bet": "下注即將截止",
+    "quick_button_home_team": "主勝",
+    "quick_button_away_team": "客勝",
+    "quick_button_pin": "平",
+    "detail_time_left": "剩餘時間:",
+    "detail_bet_expired": "投注單已滿",
+    "login_and_quick_bets": "登錄會員即刻享受極速下注",
+    "go_login": "會員登錄",
+    "go_bets": "直接下注",
+    "inPlay": "進行中",
+    "closed": "已結束"
   }
-  
+}
