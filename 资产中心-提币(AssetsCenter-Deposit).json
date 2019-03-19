@@ -33,15 +33,15 @@
     "deposit_address_title": "{currency} 코인 입금 주소：",
     "deposit_address_memo": "메모(MEMO)：",
     "deposit_address_focus_1": " 주의사항: ",
-    "deposit_address_focus_2": "주의: 메모를 잘못 입력하면 자산 손실이 방생할 수 있으니 다시 확인 부탁드립니다.",
-    "deposit_qrcode": "{currency} 충전 QR코드",
+    "deposit_address_focus_2": "주의: 메모를 잘못 입력할 경우 자산 손실이 발생할 수 있으니 한번 더 확인해주세요.",
+    "deposit_qrcode": "{currency} 입금 QR코드",
     "memo_qrcode": "메모 QR코드",
     "detail_forecast_copied": "복사됨",
     "copy_address": "복사",
     "copy_address_waring": "주의",
     "copy_address_tip1": "복사한 주소는 ",
     "copy_address_tip2": "충전 주소입니다",
-    "copy_address_tip3": "{currency}의 주소로 {currency}가 아닌 기타 코인을 입금할 시, 환불이 되지 않는 점 유의바랍니다. ",
+    "copy_address_tip3": "{currency} 코인 주소로 {currency}가 아닌 다른 코인을 입금할 경우 환불이 불가능합니다. ",
     "i_konw": "확인하였습니다"
   },
   "ja": {
