@@ -26,10 +26,10 @@
   "ko": {
     "header_title_word_cup": "축구",
     "header_title_funny_guessing": "취미 예측",
-    "esports": "e스포츠",
-    "user_center": "개인센터",
-    "centralization": "회원 베팅하기",
-    "non_centralization": "계약 베팅하기"
+    "esports": "e-스포츠",
+    "user_center": "내 정보",
+    "centralization": "일반베팅",
+    "non_centralization": "간편베팅"
   },
   "ru": {
     "header_title_word_cup": "Футбол",

@@ -26,16 +26,16 @@
     "message_no_data": "No data"
   },
   "ko": {
-    "messages_title": "새소식",
+    "messages_title": "새 알림",
     "messages_select_all": "모두 선택",
-    "messages_delete_selected": "선택사항 삭제",
+    "messages_delete_selected": "선택된 알림 삭제",
     "messages_read_all": "모두 읽음",
-    "messages_theme": "테마",
-    "messages_time": "시간",
+    "messages_theme": "제목",
+    "messages_time": "날짜",
     "messages_part_1": "(총",
-    "messages_part_2": "개 소식, 그 중 읽지 않은 소식",
+    "messages_part_2": "개 알림, 읽지 않은 알림",
     "messages_part_3": "개",
-    "messages_center": "받은 소식",
+    "messages_center": "알림 관리",
     "message_no_data": "데이터 없음"
   },
   "ja": {

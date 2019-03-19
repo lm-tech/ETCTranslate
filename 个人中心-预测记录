@@ -17,7 +17,8 @@
   "ko": {
     "forecast_record_title": "예측기록",
     "forecast_record_recent_30_day": "최근30일",
-    "forecast_record_custom": "날짜 선택"
+    "forecast_record_custom": "날짜"
+
   },
   "ru": {
     "forecast_record_title": "Запись прогноза",
