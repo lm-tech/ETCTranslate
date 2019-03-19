@@ -14,11 +14,11 @@
     "go_bets": "Place Forecast"
   },
   "ko": {
-    "back_normal_bets": "스마트 컨트렉트 배팅으로 리턴",
-    "back_quick_bets": "회원배팅으로 리턴",
-    "login_and_quick_bets": "로그인 후 빠른배팅 사용 가능",
+    "back_normal_bets": "간편베팅으로 돌아가기",
+    "back_quick_bets": "일반베팅으로 돌아가기",
+    "login_and_quick_bets": "로그인 후 바로 베팅 가능",
     "go_login": "회원 로그인",
-    "go_bets": "배팅하기"
+    "go_bets": "베팅하기"
   },
   "ja": {
     "back_normal_bets": "戻る，スマートコントラクトを使用してベッティング",
