@@ -36,13 +36,13 @@
     "quick_button_pin": "引き分け"
   },
   "ko": {
-    "detal_header_opening": "진행중",
+    "detal_header_opening": "진행 중",
     "detal_header_closed": "마감",
-    "detal_header_published": "당첨마감",
+    "detal_header_published": "정산 종료",
     "detail_game_word_cup": "축구",
     "detail_game_sessions": "제{sessions}회",
-    "detail_game_time": "경기시간: {time}분分",
-    "detail_game_stop_bet": "배팅 마감 예정",
+    "detail_game_time": "경기시간: {time}분",
+    "detail_game_stop_bet": "베팅이 곧 마감됩니다",
     "quick_button_home_team": "홈 팀",
     "quick_button_away_team": "원정 팀",
     "quick_button_pin": "무승부"
