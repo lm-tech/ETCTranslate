@@ -260,6 +260,7 @@
     "installFailed": "安装失败",
     "startDownload": "开始下载",
     "currentIsLatestVersion": "当前是最新版本"
+    
   },
   "validate": {
     "userNotExist": "用户不存在",
