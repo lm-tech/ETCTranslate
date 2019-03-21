@@ -75,7 +75,11 @@
     "forecastReturn": "预测退回",
     "matchCancel": "比赛取消",
     "lotteryOpening": "开奖中",
-    "bonusPayment": "奖金发放中"
+    "bonusPayment": "奖金发放中",
+    "bettingCount": "投注数：{number}",
+    "odds": "赔率：{odds}",
+    "bettingAmount": "下注金额：{amount}",
+    "awardOrBackAmount": "奖金/退回金额：{amount}"
   },
   "user": {
     "logout": "退出登录",
@@ -172,7 +176,9 @@
     "pleaseInputOriginMailVC": "请输入原邮箱验证码",
     "newMailVerificationCode": "新邮箱验证码",
     "pleaseInputNewVC": "请输入新邮箱验证码",
-    "rechargeAddressQRCode": "{currency}充值地址二维码"
+    "rechargeAddressQRCode": "{currency}充值地址二维码",
+    "pleaseInputSpecifiedLengthPwd": "请输入8-32位字符密码",
+    "twoInconsistentPasswords": "两次输入密码不一致"
   },
   "common": {
     "message": "消息",
@@ -201,7 +207,7 @@
     "deleteAll": "全部删除",
     "autoCloseAfterSeconds": "({seconds}s后自动关闭)",
     "fee": "手续费",
-    "feeEachStroke": "手续费：{fee}/笔",
+    "feeEachStroke": "手续费：{fee}{currency}/笔",
     "refuse": "拒绝",
     "agree": "同意",
     "termsOfUse": "使用条款",
@@ -232,7 +238,7 @@
     "finish": "完成",
     "messageDetail": "消息详情",
     "importantTips": "重要提示",
-    "copyRechargeAddressImportantTips": "您当前所复制的地址为ETC充值地址。禁止向ETC地址充值除ETC之外的资产，任何充入ETC地址的非ETC资产将不可找回。",
+    "copyRechargeAddressImportantTips": "您当前所复制的地址为{currency}充值地址。禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回。",
     "rechargeAddressImportantTips": "禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回。",
     "copySuccess": "复制成功",
     "searchHistory": "搜索历史",
@@ -248,7 +254,12 @@
     "talkLater": "以后再说",
     "updateImmediately": "立即更新",
     "clickBackAgain": "再按一次退出应用",
-    "privacyProtocol": "隐私协议"
+    "privacyProtocol": "隐私协议",
+    "phoneNotInstallMarkets": "您的手机没有安装Android应用市场",
+    "downloadFailed": "下载失败",
+    "installFailed": "安装失败",
+    "startDownload": "开始下载",
+    "currentIsLatestVersion": "当前是最新版本"
   },
   "validate": {
     "userNotExist": "用户不存在",
@@ -307,6 +318,8 @@
     "connectFailed": "连接失败",
     "parseException": "解析错误",
     "pleaseLogin": "请先登录",
-    "loginStatusInvalid": "登录失效，请重新登录"
+    "loginStatusInvalid": "登录失效，请重新登录",
+    "invalidPhone": "无效的手机号码",
+    "networkError": "网络错误"
   }
 }
