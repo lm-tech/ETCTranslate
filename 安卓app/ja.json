@@ -79,7 +79,8 @@
     "bettingCount":"投注数：{number}",
     "odds": "赔率：{odds}",
     "bettingAmount": "下注金额：{amount}",
-    "awardOrBackAmount": "奖金/退回金额：{amount}"
+    "awardOrBackAmount": "奖金/退回金额：{amount}",
+    "oddsChanged": "盘口更新/赔率更新"
   },
   "user": {
     "logout": "退出登录",
@@ -178,7 +179,8 @@
     "pleaseInputNewVC": "请输入新邮箱验证码",
     "rechargeAddressQRCode":"{currency}充值地址二维码",
     "pleaseInputSpecifiedLengthPwd": "请输入8-32位字符密码",
-    "twoInconsistentPasswords": "两次输入密码不一致"
+    "twoInconsistentPasswords": "两次输入密码不一致",
+    "rechargeWithdrawCoin":"充值提币"
   },
 
   "common": {
