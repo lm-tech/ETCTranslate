@@ -3,77 +3,98 @@
     "user_center_title": "账户管理",
     "user_center_account": "账号：",
     "user_center_login_password": "登录密码：",
-    "user_center_withdraw_password": "提币密码：",
+    "user_center_withdraw_password": "资金密码：",
     "user_center_register_time": "注册时间：",
     "register_time": "{year}年{month}月{day}日",
     "user_center_invite_code": "邀请码",
     "user_center_invite_code_copy": "复制邀请码",
-    "user_center_invite_code_already_copy": "已复制" 
+    "user_center_invite_code_already_copy": "已复制",
+    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "code_label": "推广码",
+    "url_label": "推广链接"
   },
   "en": {
     "user_center_title": "Settings",
     "user_center_account": "Account: ",
     "user_center_login_password": "Login Password: ",
-    "user_center_withdraw_password": "Withdrawal Password: ",
+    "user_center_withdraw_password": "资金密码：",
     "user_center_register_time": "Member Since:",
     "register_time": "{year} year {month} month {day} day",
     "user_center_invite_code": "Invitation code",
     "user_center_invite_code_copy": "Copy invitation code",
-    "user_center_invite_code_already_copy": "Copied" 
+    "user_center_invite_code_already_copy": "Copied",
+    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "code_label": "推广码",
+    "url_label": "推广链接"
   },
   "ko": {
     "user_center_title": "계정관리",
     "user_center_account": "계정：",
     "user_center_login_password": "로그인 비밀번호：",
-    "user_center_withdraw_password": "출금 비밀번호",
-    "user_center_register_time": "회원가입 날짜：",
+    "user_center_withdraw_password": "资金密码：",
+    "user_center_register_time": "회원가입 시간：",
     "register_time": "{year}년{month}월{day}일",
     "user_center_invite_code": "요청코드",
     "user_center_invite_code_copy": "요청코드 복사하기",
-    "user_center_invite_code_already_copy": "복사하였습니다" 
+    "user_center_invite_code_already_copy": "복사하였습니다",
+    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "code_label": "推广码",
+    "url_label": "推广链接"
   },
   "ja": {
     "user_center_title": "アカウント管理",
     "user_center_account": "アカウント：",
     "user_center_login_password": "ログインパスワード：",
-    "user_center_withdraw_password": "出金パスワード：",
+    "user_center_withdraw_password": "资金密码：",
     "user_center_register_time": "登録時間：",
     "register_time": "{year}年{month}月{day}日",
     "user_center_invite_code": "招待コード",
     "user_center_invite_code_copy": "招待コードをコピーする",
-    "user_center_invite_code_already_copy": "コピー済み" 
+    "user_center_invite_code_already_copy": "コピー済み",
+    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "code_label": "推广码",
+    "url_label": "推广链接"
   },
   "ru": {
     "user_center_title": "Управление аккаунтом",
     "user_center_account": "Номер аккаунта：",
     "user_center_login_password": "Логин пароль:",
-    "user_center_withdraw_password": "Пароль для извлечения виртуальной валюты：",
+    "user_center_withdraw_password": "资金密码：",
     "user_center_register_time": "Зарегистрированное время：",
     "register_time": "{year}год{month}месяц{day}день",
     "user_center_invite_code": "Код приглашения",
     "user_center_invite_code_copy": "Копировать код приглашения",
-    "user_center_invite_code_already_copy": "скопированный" 
+    "user_center_invite_code_already_copy": "скопированный",
+    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "code_label": "推广码",
+    "url_label": "推广链接"
   },
   "vi": {
     "user_center_title": "quản lý tài khoảng",
     "user_center_account": "tài khoảng：",
     "user_center_login_password": "mật khẩu đăng nhập：",
-    "user_center_withdraw_password": "mật khẩu nhắc tiền：",
+    "user_center_withdraw_password": "资金密码：",
     "user_center_register_time": "thời gian đăng ký：",
     "register_time": "{year}năm{month}tháng{day}ngày",
     "user_center_invite_code": "Mã thư mời",
     "user_center_invite_code_copy": "Sao chép mã thư mời",
-    "user_center_invite_code_already_copy": "Đã sao chép" 
+    "user_center_invite_code_already_copy": "Đã sao chép",
+    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "code_label": "推广码",
+    "url_label": "推广链接"
   },
   "zh-Hant": {
     "user_center_title": "帳戶管理",
     "user_center_account": "帳號：",
     "user_center_login_password": "登錄密碼：",
-    "user_center_withdraw_password": "提幣密碼：",
+    "user_center_withdraw_password": "资金密码：",
     "user_center_register_time": "註冊時間：",
     "register_time": "{year}年{month}月{day}日",
     "user_center_invite_code": "邀請碼",
     "user_center_invite_code_copy": "複製邀請碼",
-    "user_center_invite_code_already_copy": "已復制" 
+    "user_center_invite_code_already_copy": "已復制",
+    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "code_label": "推广码",
+    "url_label": "推广链接"
   }
 }

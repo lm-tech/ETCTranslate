@@ -15,6 +15,7 @@
     "change_email_form_label_formal_vcode": "原邮箱验证码：",
     "input_button_focus": "若验证码邮件没有顺利到达您的收件箱，请注意检查垃圾箱内的邮件",
     "input_new_email": "请输入新邮箱",
+    "pc_input_new_email": "请输入新邮箱地址",
     "input_old_vcode": "请输入原邮箱验证码",
     "input_new_vcode": "请输入新邮箱验证码"
   },
@@ -34,27 +35,29 @@
     "change_email_form_label_formal_vcode": "Old verification code:",
     "input_button_focus": "If you do not receive an email, please check your junk or spam folders.",
     "input_new_email": "Please enter a new email address",
+    "pc_input_new_email": "请输入新邮箱地址",
     "input_old_vcode": "Please enter the old verification code",
     "input_new_vcode": "Please enter the new verification code"
   },
   "ko": {
     "change_email_form_validate_empty_email": "이메일을 입력해주세요",
     "change_email_form_validate_error_email": "정확한 이메일을 입력해주세요",
-    "change_email_form_validate_empty_vcode": "인증번호를 입력해주세요",
-    "change_email_form_validate_six_vcode": "인증번호 6자리를 입력해주세요",
-    "change_email_form_validate_empty_trade_password": "출금 비밀번호를 입력해주세요",
-    "change_email_form_send_success": "이메일을 발송하였습니다. 확인해주세요.",
-    "change_email_form_label_email": "새 이메일:",
-    "change_email_form_label_vcode": "새 이메일 인증번호:",
-    "change_email_form_label_trade_password": "출금 비밀번호",
+    "change_email_form_validate_empty_vcode": "인증 번호를 입력해주세요",
+    "change_email_form_validate_six_vcode": "6자 인증 번호를 입력해주세요",
+    "change_email_form_validate_empty_trade_password": "거래 비밀번호를 입력해주세요",
+    "change_email_form_send_success": "발송성공",
+    "change_email_form_label_email": "새 이메일：",
+    "change_email_form_label_vcode": "새 이메일의 인증번호：",
+    "change_email_form_label_trade_password": "거래 비밀번호",
     "change_email_form_cancel": "취소",
-    "change_email_form_confirm": "확인",
-    "change_email_form_success": "변경 완료!",
-    "change_email_form_label_formal_vcode": "기존 이메일 인증번호:",
-    "input_button_focus": "인증 메일을 받지 못한 경우 스팸 메일함도 확인해주세요.",
+    "change_email_form_confirm": "수정 확인",
+    "change_email_form_success": "수정 성공！",
+    "change_email_form_label_formal_vcode": "기존 이메일 인정번호：",
+    "input_button_focus": "스팸함의 메시지를 확인해주세요.",
     "input_new_email": "새 이메일을 입력해주세요",
-    "input_old_vcode": "기존 이메일 인증번호를 입력해주세요",
-    "input_new_vcode": "새 이메일 인증번호를 입력해주세요"
+    "pc_input_new_email": "请输入新邮箱地址",
+    "input_old_vcode": "기존 이메일 인정번호를 입력해주세요",
+    "input_new_vcode": "새 이메일 인정번호를 입력해주세요"
   },
   "ja": {
     "change_email_form_validate_empty_email": "メールアドレスを入力してください",
@@ -72,6 +75,7 @@
     "change_email_form_label_formal_vcode": "旧メールアドレスの認証コード：",
     "input_button_focus": "メールが届かない可能性があるため、一度「迷惑メール」フォルダをご確認ください",
     "input_new_email": "新しいメールアドレスを入力してください",
+    "pc_input_new_email": "请输入新邮箱地址",
     "input_old_vcode": "メールの元検証コードを入力してください",
     "input_new_vcode": "メールの新検証コードを入力してください"
   },
@@ -91,6 +95,7 @@
     "change_email_form_label_formal_vcode": "Оригинальный код подтверждения электронной почты:",
     "input_button_focus": "Почта может не дойти до вашего почтового ящика гладко, пожалуйста, проверьте информацию в мусор",
     "input_new_email": "Введите новый адрес электронной почты",
+    "pc_input_new_email": "请输入新邮箱地址",
     "input_old_vcode": "Введите первоначальный код подтверждения электронной почты",
     "input_new_vcode": "Введите новый код подтверждения электронной почты"
   },
@@ -110,6 +115,7 @@
     "change_email_form_label_formal_vcode": "mã xác nhận hộp thư cũ:",
     "input_button_focus": "Mail có thể không có khả năng tiếp cận hộp thư của bạn thông suốt, vui lòng kiểm tra thông tin rác",
     "input_new_email": "xin nhập hộp thư mới",
+    "pc_input_new_email": "请输入新邮箱地址",
     "input_old_vcode": "xin nhập lại mã xác nhận hộp thư cũ",
     "input_new_vcode": "xin nhập mã xác nhận hộp thư mới"
   },
@@ -129,6 +135,7 @@
     "change_email_form_label_formal_vcode": "原郵箱驗證碼：",
     "input_button_focus": "郵件可能無法順利到達您的郵箱，請注意檢查垃圾箱內的信息",
     "input_new_email": "請輸入新郵箱",
+    "pc_input_new_email": "请输入新邮箱地址",
     "input_old_vcode": "請輸入原郵箱驗證碼",
     "input_new_vcode": "請輸入新郵箱驗證碼"
   }

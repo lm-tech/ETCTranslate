@@ -1,0 +1,58 @@
+{
+  "zh": {
+    "infoCenter_top_img_Text": "打造区块链最全面的互动娱乐平台",
+    "infoSlider_text":[
+      { "name" :"投注记录", "path": "/my-Center/bet-record" },
+      { "name" :"账户管理", "path": "/my-Center/user-center" },
+      { "name" :"消息中心", "path": "/my-Center/message-center" }
+    ]
+  },
+  "en": {
+    "infoCenter_top_img_Text": "打造区块链最全面的互动娱乐平台",
+    "infoSlider_text":[
+      { "name" :"投注记录", "path": "/my-Center/bet-record" },
+      { "name" :"账户管理", "path": "/my-Center/user-center" },
+      { "name" :"消息中心", "path": "/my-Center/message-center" }
+    ]
+  },
+  "ko": {
+    "infoCenter_top_img_Text": "打造区块链最全面的互动娱乐平台",
+    "infoSlider_text":[
+      { "name" :"投注记录", "path": "/my-Center/bet-record" },
+      { "name" :"账户管理", "path": "/my-Center/user-center" },
+      { "name" :"消息中心", "path": "/my-Center/message-center" }
+    ]
+  },
+  "ja": {
+    "infoCenter_top_img_Text": "打造区块链最全面的互动娱乐平台",
+    "infoSlider_text":[
+      { "name" :"投注记录", "path": "/my-Center/bet-record" },
+      { "name" :"账户管理", "path": "/my-Center/user-center" },
+      { "name" :"消息中心", "path": "/my-Center/message-center" }
+    ]
+  },
+  "ru": {
+    "infoCenter_top_img_Text": "打造区块链最全面的互动娱乐平台",
+    "infoSlider_text":[
+      { "name" :"投注记录", "path": "/my-Center/bet-record" },
+      { "name" :"账户管理", "path": "/my-Center/user-center" },
+      { "name" :"消息中心", "path": "/my-Center/message-center" }
+    ]
+  },
+  "vi": {
+    "infoCenter_top_img_Text": "打造区块链最全面的互动娱乐平台",
+    "infoSlider_text":[
+      { "name" :"投注记录", "path": "/my-Center/bet-record" },
+      { "name" :"账户管理", "path": "/my-Center/user-center" },
+      { "name" :"消息中心", "path": "/my-Center/message-center" }
+    ]
+  },
+  "zh-Hant": {
+    "infoCenter_top_img_Text": "打造区块链最全面的互动娱乐平台",
+    "infoSlider_text":[
+      { "name" :"投注记录", "path": "/my-Center/bet-record" },
+      { "name" :"账户管理", "path": "/my-Center/user-center" },
+      { "name" :"消息中心", "path": "/my-Center/message-center" }
+    ]
+  }
+}
