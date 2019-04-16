@@ -3,13 +3,13 @@
     "bet_record_title": "投注记录"
   },
   "en": {
-    "bet_record_title": "投注记录"
+    "bet_record_title": "Forecast History"
   },
   "ko": {
-    "bet_record_title": "投注记录"
+    "bet_record_title": "베팅기록"
   },
   "ja": {
-    "bet_record_title": "投注记录"
+    "bet_record_title": "‐ベッティング記録"
   },
   "ru": {
     "bet_record_title": "投注记录"
@@ -18,6 +18,6 @@
     "bet_record_title": "投注记录"
   },
   "zh-Hant": {
-    "bet_record_title": "投注记录"
+    "bet_record_title": "投注記錄"
   }
 }
