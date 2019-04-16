@@ -4,9 +4,9 @@
     "bet_slip_mine": "我的投注",
     "bet_slip_goAufladen": "立即充值",
     "bet_slip_update": "接受变化",
-    "bet_slip_login": "登陆并投注",
+    "bet_slip_login": "登录并投注",
     "bet_slip_needLogin": "后可查看账户余额信息",
-    "login": "登陆",
+    "login": "登录",
     "bet_slip_currency": "{currency}余额",
     "bet_slip_title": "投注单",
     "available_balance": "当前可用余额",
@@ -62,11 +62,11 @@
     "record_table_fee": "赔率"
   },
   "en": {
-    "bet_slip_smart": "Smart Sontract ",
-    "bet_slip_mine": "我的投注",
+    "bet_slip_smart": "Smart Contract ",
+    "bet_slip_mine": "My Predictions",
     "bet_slip_update": "接受变化",
-    "bet_slip_login": "登陆并投注",
-    "login": "登陆",
+    "bet_slip_login": "登录并投注",
+    "login": "Login",
 
     "bet_slip_currency": "{currency}余额",
     "bet_slip_needLogin": "后可查看账户余额信息",
@@ -84,7 +84,7 @@
     "bet_item_get": "Estimated Winnings Amount: ",
     "bet_slip": "Forecast",
     "bet_up": "Roll up",
-    "bet_clear": "清空",
+    "bet_clear": "Delete all",
     "detail_forecast_copied": "Copied",
     "bet_type_victory": "1X2",
     "bet_type_let": "Handicap",
@@ -125,10 +125,10 @@
   },
   "ja": {
     "bet_slip_smart": "スマートコントラクト",
-    "bet_slip_mine": "我的投注",
+    "bet_slip_mine": "私のベッティング",
     "bet_slip_currency": "{currency}余额",
-    "bet_slip_login": "登陆并投注",
-    "login": "登陆",
+    "bet_slip_login": "登录并投注",
+    "login": "登録",
 
     "bet_slip_needLogin": "后可查看账户余额信息",
     "bet_slip_goAufladen": "立即充值",
@@ -146,7 +146,7 @@
     "bet_item_get": "ベッティング賞金：",
     "bet_slip": "ベッティング",
     "bet_up": "戻る",
-    "bet_clear": "清空",
+    "bet_clear": "一括削除",
     "detail_forecast_copied": "コピーした",
     "bet_type_victory": "勝ち・引き分け・負け",
     "bet_type_let": "ハンディキャップ",
@@ -187,9 +187,9 @@
   },
   "ko": {
     "bet_slip_smart": "스마트 계약",
-    "bet_slip_mine": "我的投注",
-    "bet_slip_login": "登陆并投注",
-    "login": "登陆",
+    "bet_slip_mine": "나의 베팅 기록",
+    "bet_slip_login": "登录并投注",
+    "login": "회원가입하기",
 
     "bet_slip_currency": "{currency}余额",
     "bet_slip_needLogin": "后可查看账户余额信息",
@@ -208,7 +208,7 @@
     "bet_item_get": "예상 당첨금액:",
     "bet_slip": "베팅하기",
     "bet_up": "닫기",
-    "bet_clear": "清空",
+    "bet_clear": "모두 삭제",
     "detail_forecast_copied": "복사됨",
     "bet_type_victory": "승무패",
     "bet_type_let": "핸디캡",
@@ -250,8 +250,8 @@
   "ru": {
     "bet_slip_smart": "Smart contract",
     "bet_slip_mine": "我的投注",
-    "bet_slip_login": "登陆并投注",
-    "login": "登陆",
+    "bet_slip_login": "登录并投注",
+    "login": "登錄",
 
     "bet_slip_currency": "{currency}余额",
     "bet_slip_needLogin": "后可查看账户余额信息",
@@ -314,8 +314,8 @@
   "vi": {
     "bet_slip_smart": "Smart contract",
     "bet_slip_mine": "我的投注",
-    "bet_slip_login": "登陆并投注",
-    "login": "登陆",
+    "bet_slip_login": "登录并投注",
+    "login": "登录",
 
     "bet_slip_currency": "{currency}余额",
     "bet_slip_needLogin": "后可查看账户余额信息",
@@ -376,10 +376,10 @@
   },
   "zh-Hant": {
     "bet_slip_smart": "智能合約",
-    "bet_slip_mine": "我的投注",
-    "login": "登陆",
+    "bet_slip_mine": "我的投註",
+    "login": "登录",
 
-    "bet_slip_login": "登陆并投注",
+    "bet_slip_login": "登录并投注",
     "bet_slip_currency": "{currency}余额",
     "bet_slip_needLogin": "后可查看账户余额信息",
     "bet_slip_goAufladen": "立即充值",
