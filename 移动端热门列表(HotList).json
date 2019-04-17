@@ -1,24 +1,24 @@
 {
-    "zh": {
-      "title": "热门下注"
-    },
-    "en": {
-      "title": "Hot Bets"
-    },
-    "ko": {
-      "title": "인기 베팅 항목"
-    },
-    "ja": {
-      "title": "人気ベッティン"
-    },
-    "ru": {
-      "title": "Hot bets"
-    },
-    "vi": {
-      "title": "Hot bets"
-    },
-    "zh-Hant": {
-      "title": "熱門下注"
-    }
+  "zh": {
+    "title": "热门投注"
+  },
+  "en": {
+    "title": "热门投注"
+  },
+  "ko": {
+    "title": "热门投注"
+  },
+  "ja": {
+    "title": "热门投注"
+  },
+  "ru": {
+    "title": "热门投注"
+  },
+  "vi": {
+    "title": "热门投注"
+  },
+  "zh-Hant": {
+    "title": "热门投注"
   }
-  
+}
+
