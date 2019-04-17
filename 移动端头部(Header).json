@@ -3,42 +3,49 @@
     "header_title_guide": "新手引导",
     "header_all_forecast_history": "全网预测历史",
     "cancel": "取消",
-    "confirm": "确认"
+    "confirm": "确定",
+    "select_Text":"联赛筛选"
   },
   "en": {
-    "header_title_guide": "Beginners Guide",
+    "header_title_guide": "Beginner's Guide",
     "header_all_forecast_history": "Whole Network Forecast History",
     "cancel": "Cancel",
-    "confirm": "Confirm"
+    "confirm": "Confirm",
+    "select_Text":"联赛筛选"
   },
   "ja": {
     "header_title_guide": "初心者ブックガイド",
     "header_all_forecast_history": "全ネット予測履歴",
     "cancel": "キャンセル",
-    "confirm": "確認"
+    "confirm": "確認",
+    "select_Text":"联赛筛选"
   },
   "ko": {
     "header_title_guide": "신규회원 가이드",
     "header_all_forecast_history": "예측 기록",
     "cancel": "취소",
-    "confirm": "확인"
+    "confirm": "확인",
+    "select_Text":"联赛筛选"
   },
   "ru": {
     "header_title_guide": "Руководство для начинающих ",
     "header_all_forecast_history": "Вся история сетевых прогнозов",
     "cancel": "Cancel",
-    "confirm": "Confirm"
+    "confirm": "Confirm",
+    "select_Text":"联赛筛选"
   },
   "vi": {
     "header_title_guide": "Hướng dẫn người mới",
     "header_all_forecast_history": "Toàn bộ mạng dự báo lịch sử",
     "cancel": "Cancel",
-    "confirm": "Confirm"
+    "confirm": "Confirm",
+    "select_Text":"联赛筛选"
   },
   "zh-Hant": {
     "header_title_guide": "新手引導",
     "header_all_forecast_history": "全網預測歷史",
     "cancel": "取消",
-    "confirm": "確定"
+    "confirm": "確定",
+    "select_Text":"联赛筛选"
   }
 }
