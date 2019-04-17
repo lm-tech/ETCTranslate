@@ -19,6 +19,7 @@
     "filter_idText": "联赛: ",
     "filter_type": "类目筛选",
     "time_all": "时间筛选",
+    "time_choose":"时间: ",
     "filtered": "已选{count}项"
   },
   "en": {
@@ -42,6 +43,7 @@
     "filter_idText": "联赛: ",
     "filter_type": "Item screening",
     "time_all": "Time: all",
+    "time_choose":"时间: ",
     "filtered": "Selected{count}"
   },
   "ja": {
@@ -65,6 +67,7 @@
     "filter_idText": "联赛: ",
     "filter_type": "カテゴリー",
     "time_all": "時間:すべて",
+    "time_choose":"时间: ",
     "filtered": "{count}を選択した"
   },
   "ko": {
@@ -88,6 +91,7 @@
     "filter_idText": "联赛: ",
     "filter_type": "항목별",
     "time_all": "시간:모두",
+    "time_choose":"时间: ",
     "filtered": "{count} 선택됨"
   },
   "ru": {
@@ -111,6 +115,7 @@
     "filter_idText": "联赛: ",
     "filter_type": "Item screening",
     "time_all": "Time: all",
+    "time_choose":"时间: ",
     "filtered": "Selected{count}"
   },
   "vi": {
@@ -133,6 +138,7 @@
     "filter_idText": "联赛: ",
     "filter_type": "Item screening",
     "time_all": "Time: all",
+    "time_choose":"时间: ",
     "filtered": "Selected{count}"
   },
   "zh-Hant": {
@@ -155,6 +161,7 @@
     "filter_idText": "联赛: ",
     "filter_type": "類目篩選",
     "time_all": "時間：全部",
+    "time_choose":"时间: ",
     "filtered": "已選{count}項"
   }
 }
