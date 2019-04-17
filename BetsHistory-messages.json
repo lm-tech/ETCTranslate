@@ -124,7 +124,7 @@
     "detail_game_all": "Match",
     "detail_game_bos": "Map {number}",
     "need_login_search": "后可查看投注记录",
-    "login": "登录",
+    "login": "Login",
     "record_table_fee": "Odds"
   },
   "ja": {
@@ -134,7 +134,7 @@
     "bet_slip_login": "登录并投注",
     "bet_slip_detail": "查看详情",
     "need_login_search": "后可查看投注记录",
-    "login": "登录",
+    "login": "ログイン",
 
     "bet_slip_needLogin": "后可查看账户余额信息",
     "bet_slip_goAufladen": "立即充值",
@@ -197,7 +197,7 @@
     "bet_slip_login": "登录并投注",
     "bet_slip_detail": "查看详情",
     "need_login_search": "后可查看投注记录",
-    "login": "회원가입하기",
+    "login": "로그인",
     "bet_slip_currency": "{currency}余额",
     "bet_slip_needLogin": "后可查看账户余额信息",
     "bet_slip_goAufladen": "立即充值",
