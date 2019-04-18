@@ -1,0 +1,57 @@
+{
+  "zh": {
+    "header_title_word_cup": "足球",
+    "header_title_funny_guessing": "趣味竞猜",
+    "esports": "电竞",
+    "user_center": "个人中心",
+    "centralization": "会员下注",
+    "non_centralization": "合约下注",
+    "guess_competition": "账号投注",
+    "contract_bet": "合约投注",
+    "guess_content": "游戏"
+  },
+  "en": {
+    "header_title_word_cup": "Soccer",
+    "header_title_funny_guessing": "Prediction",
+    "esports": "ESports",
+    "user_center": "Account",
+    "centralization": "Member Betting",
+    "non_centralization": "Smart Contract Betting",
+    "guess_competition": "账号投注",
+    "contract_bet": "合约投注",
+    "guess_content": "游戏"
+  },
+  "ja": {
+    "header_title_word_cup": "サッカー",
+    "header_title_funny_guessing": "おもしろいベッティング",
+    "esports": "eスポーツ",
+    "user_center": "個人センター",
+    "centralization": "会員ベッティング",
+    "non_centralization": "コントラクトベッティング",
+    "guess_competition": "账号投注",
+    "contract_bet": "合约投注",
+    "guess_content": "游戏"
+  },
+  "ko": {
+    "header_title_word_cup": "축구",
+    "header_title_funny_guessing": "취미 예측",
+    "esports": "e스포츠",
+    "user_center": "개인센터",
+    "centralization": "회원 베팅하기",
+    "non_centralization": "계약 베팅하기",
+    "guess_competition": "账号投注",
+    "contract_bet": "合约投注",
+    "guess_content": "游戏"
+  },
+  "zh-Hant": {
+    "header_title_word_cup": "足球",
+    "header_title_funny_guessing": "趣味競猜",
+    "esports": "電競",
+    "user_center": "個人中心",
+    "centralization": "會員下注",
+    "non_centralization": "合約下注",
+    "guess_competition": "账号投注",
+    "contract_bet": "合约投注",
+    "guess_content": "游戏"
+  }
+}
