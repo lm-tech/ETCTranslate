@@ -63,12 +63,14 @@
     "no_thanks": "我再看看",
     "login_now": "立即登录",
     "detail_game_type_big_or_small": "大小盘",
-    "detail_game_type_asian_handicap": "亚洲让分盘"
+    "detail_game_type_asian_handicap": "亚洲让分盘",
+    "socket_change": "您所选投注的赔率、盘口有效性已产生变化。",
+    "no_account": "我还没有账户，",
+    "to_register": "立即注册"
   },
   "en": {
     "bet_range_tz": "投注范围:",
     "bet_item_itemget": "预计返回：",
-
     "bet_slip_title": "Prediction Slip",
     "available_balance": "Current Available Balance",
     "bet_choose": "Option:",
@@ -129,12 +131,14 @@
     "no_thanks": "Not Now",
     "login_now": "Login Now",
     "detail_game_type_big_or_small": "Goal Line",
-    "detail_game_type_asian_handicap": "Asian Handicap"
+    "detail_game_type_asian_handicap": "Asian Handicap",
+    "socket_change": "您所选投注的赔率、盘口有效性已产生变化。",
+    "no_account": "我还没有账户，",
+    "to_register": "立即注册"
   },
   "ja": {
     "bet_range_tz": "投注范围:",
     "bet_item_itemget": "预计返回：",
-
     "bet_slip_title": "ベッティングオーダー",
     "available_balance": "残高",
     "bet_choose": "選択：",
@@ -195,12 +199,14 @@
     "no_thanks": "検討する",
     "login_now": "すぐログイン",
     "detail_game_type_big_or_small": "オーバーアンダー",
-    "detail_game_type_asian_handicap": "アジアンハンディキャップ"
+    "detail_game_type_asian_handicap": "アジアンハンディキャップ",
+    "socket_change": "您所选投注的赔率、盘口有效性已产生变化。",
+    "no_account": "我还没有账户，",
+    "to_register": "立即注册"
   },
   "ko": {
     "bet_range_tz": "投注范围:",
     "bet_item_itemget": "预计返回：",
-
     "bet_slip_title": "베팅 리스트",
     "available_balance": "현재 잔액",
     "bet_choose": "선택：",
@@ -261,12 +267,14 @@
     "no_thanks": "더보기",
     "login_now": "지금 로그인하기",
     "detail_game_type_big_or_small": "오버/언더",
-    "detail_game_type_asian_handicap": "아시아 핸디캡"
+    "detail_game_type_asian_handicap": "아시아 핸디캡",
+    "socket_change": "您所选投注的赔率、盘口有效性已产生变化。",
+    "no_account": "我还没有账户，",
+    "to_register": "立即注册"
   },
   "ru": {
     "bet_range_tz": "投注范围:",
     "bet_item_itemget": "预计返回：",
-
     "bet_slip_title": "Заказ ставки",
     "available_balance": "Немедленно перезарядить",
     "bet_choose": "Опцион：",
@@ -332,7 +340,6 @@
   "vi": {
     "bet_range_tz": "投注范围:",
     "bet_item_itemget": "预计返回：",
-
     "bet_slip_title": "Phiếu đặc cược",
     "available_balance": "Số dư hiện tại có sẵn",
     "bet_choose": "Lựa chọn:",
@@ -398,7 +405,6 @@
   "zh-Hant": {
     "bet_range_tz": "投注范围:",
     "bet_item_itemget": "预计返回：",
-
     "bet_slip_title": "投注單",
     "available_balance": "當前資產餘額",
     "bet_choose": "選擇:",
@@ -459,6 +465,9 @@
     "no_thanks": "我再看看",
     "login_now": "立即登錄",
     "detail_game_type_big_or_small": "大小盤 ",
-    "detail_game_type_asian_handicap": "亞洲讓分盤"
+    "detail_game_type_asian_handicap": "亞洲讓分盤",
+    "socket_change": "您所选投注的赔率、盘口有效性已产生变化。",
+    "no_account": "我还没有账户，",
+    "to_register": "立即注册"
   }
 }

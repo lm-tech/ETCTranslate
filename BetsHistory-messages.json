@@ -5,7 +5,7 @@
     "bet_slip_mine": "我的投注",
     "bet_slip_goAufladen": "立即充值",
     "bet_slip_update": "接受变化",
-    "bet_slip_login": "登录并投注",
+    "bet_slip_login": "登陆并投注",
     "bet_slip_needLogin": "后可查看账户余额信息",
     "bet_slip_currency": "{currency}余额",
     "bet_slip_title": "投注单",
@@ -60,16 +60,18 @@
     "detail_game_all": "全场",
     "detail_game_bos": "第{number}局",
     "need_login_search": "后可查看投注记录",
-    "login": "登录",
-    "record_table_fee": "赔率"
+    "login": "登陆",
+    "record_table_fee": "赔率",
+    "record_betting": "未结算",
+    "record_award": "已开奖",
+    "record_back": "已撤盘"
   },
   "en": {
     "bet_slip_smart": "Smart Sontract ",
     "bet_slip_mine": "My Predictions",
     "bet_slip_update": "接受变化",
-    "bet_slip_login": "登录并投注",
+    "bet_slip_login": "登陆并投注",
     "bet_slip_detail": "查看详情",
-
     "bet_slip_currency": "{currency}余额",
     "bet_slip_needLogin": "后可查看账户余额信息",
     "bet_slip_goAufladen": "立即充值",
@@ -124,14 +126,17 @@
     "detail_game_all": "Match",
     "detail_game_bos": "Map {number}",
     "need_login_search": "后可查看投注记录",
-    "login": "Login",
-    "record_table_fee": "Odds"
+    "login": "登陆",
+    "record_table_fee": "Odds",
+    "record_betting": "未结算",
+    "record_award": "已开奖",
+    "record_back": "已撤盘"
   },
   "ja": {
     "bet_slip_smart": "スマートコントラクト",
     "bet_slip_mine": "我的投注",
     "bet_slip_currency": "{currency}余额",
-    "bet_slip_login": "登录并投注",
+    "bet_slip_login": "登陆并投注",
     "bet_slip_detail": "查看详情",
     "need_login_search": "后可查看投注记录",
     "login": "ログイン",
@@ -189,12 +194,15 @@
     "bet_coupon": "出金できない資産で相殺",
     "detail_game_all": "全試合",
     "detail_game_bos": "第{number}回戦",
-    "record_table_fee": "倍率"
+    "record_table_fee": "倍率",
+    "record_betting": "未结算",
+    "record_award": "已开奖",
+    "record_back": "已撤盘"
   },
   "ko": {
     "bet_slip_smart": "스마트 계약",
     "bet_slip_mine": "나의 베팅 기록",
-    "bet_slip_login": "登录并投注",
+    "bet_slip_login": "登陆并投注",
     "bet_slip_detail": "查看详情",
     "need_login_search": "后可查看投注记录",
     "login": "로그인",
@@ -252,12 +260,15 @@
     "bet_coupon": "출금불가한 자산으로 공제",
     "detail_game_all": "올 코트",
     "detail_game_bos": "제{number}회",
-    "record_table_fee": "배당률"
+    "record_table_fee": "배당률",
+    "record_betting": "未结算",
+    "record_award": "已开奖",
+    "record_back": "已撤盘"
   },
   "ru": {
     "bet_slip_smart": "Smart contract",
     "bet_slip_mine": "我的投注",
-    "bet_slip_login": "登录并投注",
+    "bet_slip_login": "登陆并投注",
     "bet_slip_detail": "查看详情",
     "need_login_search": "后可查看投注记录",
     "login": "登录",
@@ -322,7 +333,7 @@
   "vi": {
     "bet_slip_smart": "Smart contract",
     "bet_slip_mine": "我的投注",
-    "bet_slip_login": "登录并投注",
+    "bet_slip_login": "登陆并投注",
     "bet_slip_detail": "查看详情",
     "need_login_search": "后可查看投注记录",
     "login": "登录",
@@ -444,6 +455,9 @@
     "bet_coupon": "不可提資產抵扣",
     "detail_game_all": "全場",
     "detail_game_bos": "第{number}局",
-    "record_table_fee": "賠率"
+    "record_table_fee": "賠率",
+    "record_betting": "未结算",
+    "record_award": "已开奖",
+    "record_back": "已撤盘"
   }
 }

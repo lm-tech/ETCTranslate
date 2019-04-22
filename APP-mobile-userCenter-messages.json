@@ -16,7 +16,9 @@
     "usercenter_log_out": "退出登录",
     "usercenter_avalible_currency": "可用资产：",
     "usercenter_forecast_give": "平台赠送",
-    "usercenter_invite": "邀请码"
+    "usercenter_invite": "邀请码",
+    "warn_copied": "已拷贝到粘贴板",
+    "language": "简体中文"
   },
   "en": {
     "title":"Account",
@@ -35,7 +37,9 @@
     "usercenter_message_center": "Message Center",
     "usercenter_log_out": "Logout",
     "usercenter_avalible_currency": "Available Assets: ",
-    "usercenter_forecast_give": "Platform Reward"
+    "usercenter_forecast_give": "Platform Reward",
+    "warn_copied": "已拷贝到粘贴板",
+    "language": "英文"
   },
   "ja": {
     "title":"個人センター",
@@ -54,7 +58,9 @@
     "usercenter_message_center": "メッセージセンター",
     "usercenter_log_out": "ログアウト",
     "usercenter_avalible_currency": "可用資産：",
-    "usercenter_forecast_give": "プラットフォームからのギフト"
+    "usercenter_forecast_give": "プラットフォームからのギフト",
+    "warn_copied": "已拷贝到粘贴板",
+    "language": "日文"
   },
   "ko": {
     "title":"내 정보",
@@ -73,7 +79,9 @@
     "usercenter_message_center": "정보센터",
     "usercenter_log_out": "로그아웃",
     "usercenter_avalible_currency": "이용가능자산:",
-    "usercenter_forecast_give": "코인게임의 서비스"
+    "usercenter_forecast_give": "코인게임의 서비스",
+    "warn_copied": "已拷贝到粘贴板",
+    "language": "韩文"
   },
   "ru": {
     "title":"个人中心",
@@ -130,6 +138,8 @@
     "usercenter_message_center": "消息中心",
     "usercenter_log_out": "退出登錄",
     "usercenter_avalible_currency": "可用資產：",
-    "usercenter_forecast_give": "平臺贈送"
+    "usercenter_forecast_give": "平臺贈送",
+    "warn_copied": "已拷贝到粘贴板",
+    "language": "繁体中文"
   }
 }
