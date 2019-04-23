@@ -5,7 +5,7 @@
     "and_down":"扫描即可下载",
     "infoSlider_text":[
       {
-        "name":"新手引导-账户下注"
+        "name":"新手引导-账号投注"
       },
       {
         "name":"新手引导-智能合约投注"
@@ -23,14 +23,14 @@
   },
   "en": {
     "promotion_area":"Promotion Zone",
-    "play_guide":"玩法指南",
-    "and_down":"扫描即可下载",
+    "play_guide":"Tutorials",
+    "and_down":"Scan to download",
     "infoSlider_text":[
       {
-        "name":"新手引导-账户下注"
+        "name":"Beginner’s Guide - Membership"
       },
       {
-        "name":"新手引导-智能合约投注"
+        "name":"Beginner’s Guide - Smart contract"
       },
       {
         "name":"Game Rules"
@@ -45,14 +45,14 @@
   },
   "ja": {
     "promotion_area":"宣伝部分",
-    "play_guide":"玩法指南",
-    "and_down":"扫描即可下载",
+    "play_guide":"プレイガイド",
+    "and_down":"スキャンでダウンロードできます",
     "infoSlider_text":[
       {
-        "name":"新手引导-账户下注"
+        "name":"チュートリアル - 会員ベット"
       },
       {
-        "name":"新手引导-智能合约投注"
+        "name":"チュートリア - 直接ベット"
       },
       {
         "name":"ベッティングの細則"
@@ -67,14 +67,14 @@
   },
   "ko": {
     "promotion_area":"홍보원 센터",
-    "play_guide":"玩法指南",
-    "and_down":"扫描即可下载",
+    "play_guide":"플레이 방법",
+    "and_down":"스캔하여 다운받기",
     "infoSlider_text":[
       {
-        "name":"新手引导-账户下注"
+        "name":"신규회원 가이드 - 일반베팅"
       },
       {
-        "name":"新手引导-智能合约投注"
+        "name":"신규회원 가이드 - 간편베팅"
       },
       {
         "name":"예측 규칙"
@@ -93,7 +93,7 @@
     "and_down":"掃描即可下載",
     "infoSlider_text":[
       {
-        "name":"新手引導-賬戶下註"
+        "name":"新手引導-賬號投註"
       },
       {
         "name":"新手引導-智能合約投註"
