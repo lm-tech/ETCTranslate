@@ -31,7 +31,7 @@
     "detail_bet_expired": "Reached the prediction slip limit",
     "inPlay": "Game in progress",
     "closed": "Game over",
-    "detal_header_revoked": "已撤盘"
+    "detal_header_revoked": "Cancelled"
   },
   "ja": {
     "detal_header_opening": "進行中",
@@ -48,7 +48,7 @@
     "detail_bet_expired": "マキシマムオーダーに達しました。",
     "inPlay": "試合中",
     "closed": "終了",
-    "detal_header_revoked": "已撤盘"
+    "detal_header_revoked": "試合はキャンセルされました"
   },
   "ko": {
     "detal_header_opening": "진행중",
@@ -65,7 +65,7 @@
     "detail_bet_expired": "베팅 오더 최대치에 도달하였습니다",
     "inPlay": "경기 진행중",
     "closed": "마감됨",
-    "detal_header_revoked": "已撤盘"
+    "detal_header_revoked": "관련 베팅이 취소되었습니다"
   },
   "ru": {
     "detal_header_opening": "Обработка",
@@ -116,6 +116,6 @@
     "detail_bet_expired": "投注單已滿",
     "inPlay": "比賽進行中",
     "closed": "已結束",
-    "detal_header_revoked": "已撤盘"
+    "detal_header_revoked": "已撤盤"
   }
 }
