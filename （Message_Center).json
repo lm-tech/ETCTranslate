@@ -26,8 +26,8 @@
     "messages_part_3": "pieces)",
     "messages_center": "Message Center",
     "message_no_data": "No data",
-    "messages_page_prev":"上一页",
-    "messages_page_next":"下一页"
+    "messages_page_prev":"Previous",
+    "messages_page_next":"Next"
   },
   "ko": {
     "messages_title": "새소식",
@@ -41,8 +41,8 @@
     "messages_part_3": "개",
     "messages_center": "받은 소식",
     "message_no_data": "데이터 없음",
-    "messages_page_prev":"上一页",
-    "messages_page_next":"下一页"
+    "messages_page_prev":"이전 페이지",
+    "messages_page_next":"다음 페이지"
   },
   "ja": {
     "messages_title": "受信トレイ",
@@ -56,8 +56,8 @@
     "messages_part_3": "件)",
     "messages_center": "メッセージセンター",
     "message_no_data": "データ無し",
-    "messages_page_prev":"上一页",
-    "messages_page_next":"下一页"
+    "messages_page_prev":"前のページ",
+    "messages_page_next":"次のページ"
   },
   "ru": {
     "messages_title": "Мое сообщение",
@@ -101,7 +101,7 @@
     "messages_part_3": "條)",
     "messages_center": "消息中心",
     "message_no_data": "暫無數據",
-    "messages_page_prev":"上一页",
-    "messages_page_next":"下一页"
+    "messages_page_prev":"上壹頁",
+    "messages_page_next":"下壹頁"
   }
 }
