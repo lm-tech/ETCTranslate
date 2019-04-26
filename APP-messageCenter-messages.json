@@ -19,7 +19,7 @@
   "en": {
     "messages_title": "My messages",
     "messages_cancel": "Cancel",
-    "messages_edit": "编辑",
+    "messages_edit": "Edit",
     "messages_select_all": "Select all",
     "messages_delete_selected": "Delete the selected messages",
     "messages_read_all": "Mark as read",
@@ -30,13 +30,13 @@
     "messages_part_3": "pieces)",
     "messages_center": "Message Center",
     "message_no_data": "No data",
-    "messages_page_prev":"上一页",
-    "messages_page_next":"下一页"
+    "messages_page_prev":"Previous",
+    "messages_page_next":"Next"
   },
   "ko": {
     "messages_title": "새소식",
     "messages_cancel": "취소",
-    "messages_edit": "编辑",
+    "messages_edit": "수정하기",
     "messages_select_all": "모두 선택",
     "messages_delete_selected": "선택사항 삭제",
     "messages_read_all": "모두 읽음",
@@ -47,8 +47,8 @@
     "messages_part_3": "개",
     "messages_center": "받은 소식",
     "message_no_data": "데이터 없음",
-    "messages_page_prev":"上一页",
-    "messages_page_next":"下一页"
+    "messages_page_prev":"이전 페이지",
+    "messages_page_next":"다음 페이지"
   },
   "ja": {
     "messages_title": "受信トレイ",
@@ -64,8 +64,8 @@
     "messages_part_3": "件)",
     "messages_center": "メッセージセンター",
     "message_no_data": "データ無し",
-    "messages_page_prev":"上一页",
-    "messages_page_next":"下一页"
+    "messages_page_prev":"前のページ",
+    "messages_page_next":"次のページ"
   },
   "ru": {
     "messages_title": "Мое сообщение",
@@ -104,7 +104,7 @@
   "zh-Hant": {
     "messages_title": "我的消息",
     "messages_cancel": "取消",
-    "messages_edit": "编辑",
+    "messages_edit": "編輯",
     "messages_select_all": "全部選擇",
     "messages_delete_selected": "刪除已選",
     "messages_read_all": "全部已讀",
@@ -115,7 +115,7 @@
     "messages_part_3": "條)",
     "messages_center": "消息中心",
     "message_no_data": "暫無數據",
-    "messages_page_prev":"上一页",
-    "messages_page_next":"下一页"
+    "messages_page_prev":"上壹頁",
+    "messages_page_next":"下壹頁"
   }
 }
