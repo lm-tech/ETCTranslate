@@ -8,36 +8,36 @@
       "private_service": "隐私服务"
     },
     "en": {
-      "title": "玩法指南",
-      "notice_guide_member": "新手引导-账户投注",
-      "notice_guide_smart": "新手引导-智能合约投注",
-      "guess_rule": "竞猜细则",
-      "use_rule": "使用条款",
-      "private_service": "隐私服务"
+      "title": "Tutorials",
+      "notice_guide_member": "Beginner’s Guide - Membership",
+      "notice_guide_smart": "Beginner’s Guide - Smart contract",
+      "guess_rule": "Game Rule",
+      "use_rule": "Terms of Use",
+      "private_service": "Privacy Policy"
     },
     "ko": {
-      "title": "玩法指南",
-      "notice_guide_member": "新手引导-账户投注",
-      "notice_guide_smart": "新手引导-智能合约投注",
-      "guess_rule": "竞猜细则",
-      "use_rule": "使用条款",
-      "private_service": "隐私服务"
+      "title": "플레이 방법",
+      "notice_guide_member": "신규회원 가이드 – 계정으로 베팅하기",
+      "notice_guide_smart": "신규회원 가이드 – 스마트 컨트랙트로 베팅하기",
+      "guess_rule": "취미 예측",
+      "use_rule": "이용약관",
+      "private_service": "보안약관"
     },
     "ja": {
-      "title": "玩法指南",
-      "notice_guide_member": "新手引导-账户投注",
-      "notice_guide_smart": "新手引导-智能合约投注",
-      "guess_rule": "竞猜细则",
-      "use_rule": "使用条款",
-      "private_service": "隐私服务"
+      "title": "プレイガイド",
+      "notice_guide_member": "チュートリアル - 会員ベット",
+      "notice_guide_smart": "チュートリア - 直接ベット",
+      "guess_rule": "悬赏クイズの細かいルール",
+      "use_rule": "利用契約",
+      "private_service": "プライバシー規約"
     },
     "zh-Hant": {
       "title": "玩法指南",
-      "notice_guide_member": "新手引导-账户投注",
-      "notice_guide_smart": "新手引导-智能合约投注",
-      "guess_rule": "竞猜细则",
-      "use_rule": "使用条款",
-      "private_service": "隐私服务"
+      "notice_guide_member": "新手引导-賬號投註",
+      "notice_guide_smart": "新手引導-智能合約投註",
+      "guess_rule": "競猜細則",
+      "use_rule": "使用條款",
+      "private_service": "隱私服務"
     }
   }
   
