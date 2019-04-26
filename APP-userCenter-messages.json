@@ -16,7 +16,7 @@
   },
   "en": {
     "user_center_title": "Settings",
-    "user_center_qd": "签到",
+    "user_center_qd": "Check In",
     "user_center_account": "Account: ",
     "user_center_login_password": "Login Password: ",
     "user_center_withdraw_password": "Fund Password: ",
@@ -25,13 +25,13 @@
     "user_center_invite_code": "Invitation code",
     "user_center_invite_code_copy": "Copy invitation code",
     "user_center_invite_code_already_copy": "Copied",
-    "pc_user_center_invite_code_already_copy":"复制成功！",
-    "code_label": "推广码",
-    "url_label": "推广链接"
+    "pc_user_center_invite_code_already_copy":"Copied！",
+    "code_label": "Invitation Code",
+    "url_label": "Invitation Link"
   },
   "ko": {
     "user_center_title": "계정관리",
-    "user_center_qd": "签到",
+    "user_center_qd": "출석체크",
     "user_center_account": "계정：",
     "user_center_login_password": "로그인 비밀번호：",
     "user_center_withdraw_password": "거래 비밀번호：",
@@ -40,13 +40,13 @@
     "user_center_invite_code": "요청코드",
     "user_center_invite_code_copy": "요청코드 복사하기",
     "user_center_invite_code_already_copy": "복사하였습니다",
-    "pc_user_center_invite_code_already_copy":"复制成功！",
-    "code_label": "推广码",
-    "url_label": "推广链接"
+    "pc_user_center_invite_code_already_copy":"복사 완료！",
+    "code_label": "초대코드",
+    "url_label": "홍보원 링크"
   },
   "ja": {
     "user_center_title": "アカウント管理",
-    "user_center_qd": "签到",
+    "user_center_qd": "ログイン",
     "user_center_account": "アカウント：",
     "user_center_login_password": "ログインパスワード：",
     "user_center_withdraw_password": "出金パスワード：",
@@ -55,9 +55,9 @@
     "user_center_invite_code": "招待コード",
     "user_center_invite_code_copy": "招待コードをコピーする",
     "user_center_invite_code_already_copy": "コピー済み",
-    "pc_user_center_invite_code_already_copy":"复制成功！",
-    "code_label": "推广码",
-    "url_label": "推广链接"
+    "pc_user_center_invite_code_already_copy":"コピー完了！",
+    "code_label": "ログイン",
+    "url_label": "宣伝リンク"
   },
   "ru": {
     "user_center_title": "Управление аккаунтом",
@@ -91,7 +91,7 @@
   },
   "zh-Hant": {
     "user_center_title": "帳戶管理",
-    "user_center_qd": "签到",
+    "user_center_qd": "簽到",
     "user_center_account": "帳號：",
     "user_center_login_password": "登錄密碼：",
     "user_center_withdraw_password": "資金密碼：",
@@ -100,8 +100,8 @@
     "user_center_invite_code": "邀請碼",
     "user_center_invite_code_copy": "複製邀請碼",
     "user_center_invite_code_already_copy": "已復制",
-    "pc_user_center_invite_code_already_copy":"复制成功！",
-    "code_label": "推广码",
-    "url_label": "推广链接"
+    "pc_user_center_invite_code_already_copy":"復制成功！",
+    "code_label": "推廣碼",
+    "url_label": "推廣鏈接"
   }
 }
