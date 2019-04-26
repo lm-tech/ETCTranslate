@@ -23,9 +23,9 @@
     "user_center_invite_code": "Invitation code",
     "user_center_invite_code_copy": "Copy invitation code",
     "user_center_invite_code_already_copy": "Copied",
-    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "pc_user_center_invite_code_already_copy":"Copied！",
     "code_label": "Promotion Code",
-    "url_label": "推广链接"
+    "url_label": "Invitation Link"
   },
   "ko": {
     "user_center_title": "계정관리",
@@ -37,9 +37,9 @@
     "user_center_invite_code": "요청코드",
     "user_center_invite_code_copy": "요청코드 복사하기",
     "user_center_invite_code_already_copy": "복사하였습니다",
-    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "pc_user_center_invite_code_already_copy":"복사 완료!",
     "code_label": "홍보 코드",
-    "url_label": "推广链接"
+    "url_label": "홍보원 링크"
   },
   "ja": {
     "user_center_title": "アカウント管理",
@@ -51,9 +51,9 @@
     "user_center_invite_code": "招待コード",
     "user_center_invite_code_copy": "招待コードをコピーする",
     "user_center_invite_code_already_copy": "コピー済み",
-    "pc_user_center_invite_code_already_copy":"复制成功！",
+    "pc_user_center_invite_code_already_copy":"コピー完了",
     "code_label": "宣伝コード",
-    "url_label": "推广链接"
+    "url_label": "宣伝リンク"
   },
   "ru": {
     "user_center_title": "Управление аккаунтом",
@@ -93,8 +93,8 @@
     "user_center_invite_code": "邀請碼",
     "user_center_invite_code_copy": "複製邀請碼",
     "user_center_invite_code_already_copy": "已復制",
-    "pc_user_center_invite_code_already_copy":"复制成功！",
-    "code_label": "推广码",
-    "url_label": "推广链接"
+    "pc_user_center_invite_code_already_copy":"復制成功！",
+    "code_label": "推廣碼",
+    "url_label": "推廣鏈接"
   }
 }
