@@ -27,10 +27,10 @@
     "copied":"已拷贝到粘贴板"
   },
   "en": {
-    "contact_title":"联系客服",
+    "contact_title":"Contact Coingame",
     "contacts": [
       {
-        "name": "微信",
+        "name": "Wechat",
         "content":"Coingame_666"
       },
       {
@@ -51,13 +51,13 @@
       }
     ],
     "cancel": "Cancel",
-    "copied":"已拷贝到粘贴板"
+    "copied":"Copied to clipboard"
   },
   "ja": {
-    "contact_title":"联系客服",
+    "contact_title":"コールセンターに連絡",
     "contacts": [
       {
-        "name": "微信",
+        "name": "",
         "content":"Coingame_666"
       },
       {
@@ -78,13 +78,13 @@
       }
     ],
     "cancel": "キャンセル",
-    "copied":"已拷贝到粘贴板"
+    "copied":"クリップボードに格納しました"
   },
   "ko": {
-    "contact_title":"联系客服",
+    "contact_title":"고객센터",
     "contacts": [
       {
-        "name": "微信",
+        "name": "Wechat",
         "content":"Coingame_666"
       },
       {
@@ -105,7 +105,7 @@
       }
     ],
     "cancel": "취소",
-    "copied":"已拷贝到粘贴板"
+    "copied":"클립보드에 복사되었습니다"
   },
   "ru": {
     "contact_title":"联系客服",
@@ -162,7 +162,7 @@
     "copied":"已拷贝到粘贴板"
   },
   "zh-Hant": {
-    "contact_title":"联系客服",
+    "contact_title":"聯系客服",
     "contacts": [
       {
         "name": "微信",
@@ -186,6 +186,6 @@
       }
     ],
     "cancel": "取消",
-    "copied":"已拷贝到粘贴板"
+    "copied":"已拷貝到粘貼板"
   }
 }
