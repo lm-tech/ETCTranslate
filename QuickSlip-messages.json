@@ -69,8 +69,8 @@
     "to_register": "立即注册"
   },
   "en": {
-    "bet_range_tz": "投注范围:",
-    "bet_item_itemget": "预计返回：",
+    "bet_range_tz": "Bet Range:",
+    "bet_item_itemget": "Estimated Return：",
     "bet_slip_title": "Prediction Slip",
     "available_balance": "Current Available Balance",
     "bet_choose": "Option:",
@@ -132,13 +132,13 @@
     "login_now": "Login Now",
     "detail_game_type_big_or_small": "Goal Line",
     "detail_game_type_asian_handicap": "Asian Handicap",
-    "socket_change": "您所选投注的赔率、盘口有效性已产生变化。",
+    "socket_change": "The odds, handicap or validness of your selection(s) has changed.",
     "no_account": "我还没有账户，",
     "to_register": "立即注册"
   },
   "ja": {
-    "bet_range_tz": "投注范围:",
-    "bet_item_itemget": "预计返回：",
+    "bet_range_tz": "クイズ範囲:",
+    "bet_item_itemget": "間も無く戻ります：",
     "bet_slip_title": "ベッティングオーダー",
     "available_balance": "残高",
     "bet_choose": "選択：",
@@ -200,13 +200,13 @@
     "login_now": "すぐログイン",
     "detail_game_type_big_or_small": "オーバーアンダー",
     "detail_game_type_asian_handicap": "アジアンハンディキャップ",
-    "socket_change": "您所选投注的赔率、盘口有效性已产生变化。",
+    "socket_change": "選択したクイズの損失率、動向や有効性は変化しました。",
     "no_account": "我还没有账户，",
     "to_register": "立即注册"
   },
   "ko": {
-    "bet_range_tz": "投注范围:",
-    "bet_item_itemget": "预计返回：",
+    "bet_range_tz": "베팅금액 범위:",
+    "bet_item_itemget": "예상 수익：",
     "bet_slip_title": "베팅 리스트",
     "available_balance": "현재 잔액",
     "bet_choose": "선택：",
@@ -268,7 +268,7 @@
     "login_now": "지금 로그인하기",
     "detail_game_type_big_or_small": "오버/언더",
     "detail_game_type_asian_handicap": "아시아 핸디캡",
-    "socket_change": "您所选投注的赔率、盘口有效性已产生变化。",
+    "socket_change": "베팅하신 항목의 배당, 베팅 유형 혹은 유효 여부가 변경되었습니다.",
     "no_account": "我还没有账户，",
     "to_register": "立即注册"
   },
@@ -403,8 +403,8 @@
     "detail_game_type_asian_handicap": "Asian Handicap"
   },
   "zh-Hant": {
-    "bet_range_tz": "投注范围:",
-    "bet_item_itemget": "预计返回：",
+    "bet_range_tz": "投註範圍:",
+    "bet_item_itemget": "預計返回：",
     "bet_slip_title": "投注單",
     "available_balance": "當前資產餘額",
     "bet_choose": "選擇:",
@@ -466,8 +466,8 @@
     "login_now": "立即登錄",
     "detail_game_type_big_or_small": "大小盤 ",
     "detail_game_type_asian_handicap": "亞洲讓分盤",
-    "socket_change": "您所选投注的赔率、盘口有效性已产生变化。",
-    "no_account": "我还没有账户，",
-    "to_register": "立即注册"
+    "socket_change": "您所選投註的賠率、盤口有效性已產生變化。",
+    "no_account": "我還沒有賬戶，",
+    "to_register": "立即註冊"
   }
 }
