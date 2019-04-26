@@ -17,20 +17,20 @@
     "user_center": "Account",
     "centralization": "Member Betting",
     "non_centralization": "Smart Contract Betting",
-    "guess_competition": "账号投注",
-    "contract_bet": "合约投注",
-    "guess_content": "游戏"
+    "guess_competition": "Bet via account",
+    "contract_bet": "Bet via smart contract",
+    "guess_content": "Game"
   },
   "ja": {
     "header_title_word_cup": "サッカー",
     "header_title_funny_guessing": "おもしろいベッティング",
     "esports": "eスポーツ",
     "user_center": "個人センター",
-    "centralization": "会員ベッティング",
-    "non_centralization": "コントラクトベッティング",
-    "guess_competition": "账号投注",
-    "contract_bet": "合约投注",
-    "guess_content": "游戏"
+    "centralization": "会員ベット",
+    "non_centralization": "直接ベット",
+    "guess_competition": "アカウント予測",
+    "contract_bet": "智能契約クイズ",
+    "guess_content": "ゲーム"
   },
   "ko": {
     "header_title_word_cup": "축구",
@@ -39,9 +39,9 @@
     "user_center": "개인센터",
     "centralization": "회원 베팅하기",
     "non_centralization": "계약 베팅하기",
-    "guess_competition": "账号投注",
-    "contract_bet": "合约投注",
-    "guess_content": "游戏"
+    "guess_competition": "일반베팅",
+    "contract_bet": "간편베팅",
+    "guess_content": "Game"
   },
   "zh-Hant": {
     "header_title_word_cup": "足球",
@@ -50,8 +50,8 @@
     "user_center": "個人中心",
     "centralization": "會員下注",
     "non_centralization": "合約下注",
-    "guess_competition": "账号投注",
-    "contract_bet": "合约投注",
-    "guess_content": "游戏"
+    "guess_competition": "賬號投註",
+    "contract_bet": "合約投註",
+    "guess_content": "遊戲"
   }
 }
