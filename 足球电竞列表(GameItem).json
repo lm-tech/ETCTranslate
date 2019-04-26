@@ -21,7 +21,7 @@
   },
   "en": {
     "detal_header_opening": "Available now",
-    "detal_header_revoked":"已撤盘",
+    "detal_header_revoked":"Cancelled",
     "detal_header_closed": "Closed",
     "detal_header_published": "Result Announced",
     "detail_game_word_cup": "Soccer",
@@ -41,7 +41,7 @@
   },
   "ja": {
     "detal_header_opening": "進行中",
-    "detal_header_revoked":"已撤盘",
+    "detal_header_revoked":"試合はキャンセルされました",
     "detal_header_closed": "これまでに",
     "detal_header_published": "既に賞を出した",
     "detail_game_word_cup": "サッカー",
@@ -61,7 +61,7 @@
   },
   "ko": {
     "detal_header_opening": "진행중",
-    "detal_header_revoked":"已撤盘",
+    "detal_header_revoked":"관련 베팅이 취소되었습니다",
     "detal_header_closed": "마감",
     "detal_header_published": "당첨마감",
     "detail_game_word_cup": "축구",
@@ -121,7 +121,7 @@
   },
   "zh-Hant": {
     "detal_header_opening": "進行中",
-    "detal_header_revoked":"已撤盘",
+    "detal_header_revoked":"已撤盤",
     "detal_header_closed": "已截止",
     "detal_header_published": "已開獎",
     "detail_game_word_cup": "足球",
