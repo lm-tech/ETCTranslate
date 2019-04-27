@@ -26,8 +26,8 @@
     "week_5": "Friday",
     "week_6": "Saturday",
     "all": "All",
-    "filter_text": "联赛筛选",
-    "time_all": "时间筛选"
+    "filter_text": "Filter by Games",
+    "time_all": "Filter by Time"
   },
   "ko": {
     "opending": "실시간",
