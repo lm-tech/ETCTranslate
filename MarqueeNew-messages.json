@@ -5,15 +5,15 @@
   },
   "en": {
     "promotion_notice": "Announcement",
-    "promotion_loding": "加载中"
+    "promotion_loding": "Loading"
   },
   "ko": {
     "promotion_notice": "공지",
-    "promotion_loding": "加载中"
+    "promotion_loding": "로딩 중"
   },
   "ja": {
     "promotion_notice": "お知らせ",
-    "promotion_loding": "加载中"
+    "promotion_loding": "ローディング"
   },
   "ru": {
     "promotion_notice": "公告",
@@ -25,6 +25,6 @@
   },
   "zh-Hant": {
     "promotion_notice": "公告",
-    "promotion_loding": "加载中"
+    "promotion_loding": "加載中"
   }
 }
