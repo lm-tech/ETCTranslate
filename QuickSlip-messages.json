@@ -133,8 +133,8 @@
     "detail_game_type_big_or_small": "Goal Line",
     "detail_game_type_asian_handicap": "Asian Handicap",
     "socket_change": "The odds, handicap or validness of your selection(s) has changed.",
-    "no_account": "我还没有账户，",
-    "to_register": "立即注册"
+    "no_account": "I don’t have an account，",
+    "to_register": "sign up now"
   },
   "ja": {
     "bet_range_tz": "クイズ範囲:",
