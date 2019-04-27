@@ -128,7 +128,7 @@
     "need_login_search": "Bet record available for review in",
     "login": "Login",
     "record_table_fee": "Odds",
-    "record_betting": "未结算",
+    "record_betting": "",
     "record_award": "Result Announced",
     "record_back": "Cancelled"
   },
@@ -195,7 +195,7 @@
     "detail_game_all": "全試合",
     "detail_game_bos": "第{number}回戦",
     "record_table_fee": "倍率",
-    "record_betting": "未结算",
+    "record_betting": "未決算",
     "record_award": "既に賞を出した",
     "record_back": "試合はキャンセルされました"
   },
@@ -261,7 +261,7 @@
     "detail_game_all": "올 코트",
     "detail_game_bos": "제{number}회",
     "record_table_fee": "배당률",
-    "record_betting": "未结算",
+    "record_betting": "정산 대기 중",
     "record_award": "정산 종료",
     "record_back": "관련 베팅이 취소되었습니다"
   },
