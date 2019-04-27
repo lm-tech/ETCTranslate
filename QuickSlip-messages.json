@@ -201,8 +201,8 @@
     "detail_game_type_big_or_small": "オーバーアンダー",
     "detail_game_type_asian_handicap": "アジアンハンディキャップ",
     "socket_change": "選択したクイズの損失率、動向や有効性は変化しました。",
-    "no_account": "我还没有账户，",
-    "to_register": "立即注册"
+    "no_account": "まだアカウントはありません，",
+    "to_register": "直ぐに登録"
   },
   "ko": {
     "bet_range_tz": "베팅금액 범위:",
@@ -269,8 +269,8 @@
     "detail_game_type_big_or_small": "오버/언더",
     "detail_game_type_asian_handicap": "아시아 핸디캡",
     "socket_change": "베팅하신 항목의 배당, 베팅 유형 혹은 유효 여부가 변경되었습니다.",
-    "no_account": "我还没有账户，",
-    "to_register": "立即注册"
+    "no_account": "아직 계정이 없습니다，",
+    "to_register": "회원 가입하기"
   },
   "ru": {
     "bet_range_tz": "投注范围:",
