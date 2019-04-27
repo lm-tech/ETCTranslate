@@ -10,25 +10,25 @@
   "en": {
     "infoCenter_top_img_Text": "Building the most comprehensive blockchain platform of interactive entertainment",
     "infoSlider_text":[
-      { "name" :"投注记录", "path": "/my-Center/bet-record" },
-      { "name" :"账户管理", "path": "/my-Center/user-center" },
-      { "name" :"消息中心", "path": "/my-Center/message-center" }
+      { "name" :"Forecast History", "path": "/my-Center/bet-record" },
+      { "name" :"Settings", "path": "/my-Center/user-center" },
+      { "name" :"Message Center", "path": "/my-Center/message-center" }
     ]
   },
   "ko": {
     "infoCenter_top_img_Text": "블록체인 기반의 엔터테인먼트 플랫폼",
     "infoSlider_text":[
-      { "name" :"投注记录", "path": "/my-Center/bet-record" },
-      { "name" :"账户管理", "path": "/my-Center/user-center" },
-      { "name" :"消息中心", "path": "/my-Center/message-center" }
+      { "name" :"베팅기록", "path": "/my-Center/bet-record" },
+      { "name" :"계정관리", "path": "/my-Center/user-center" },
+      { "name" :"알림 관리", "path": "/my-Center/message-center" }
     ]
   },
   "ja": {
     "infoCenter_top_img_Text": "ブロックチェーン一番全面的なインタラクティブエンターテインメントプラットフォームを作ります",
     "infoSlider_text":[
-      { "name" :"投注记录", "path": "/my-Center/bet-record" },
-      { "name" :"账户管理", "path": "/my-Center/user-center" },
-      { "name" :"消息中心", "path": "/my-Center/message-center" }
+      { "name" :"‐ベッティング記録", "path": "/my-Center/bet-record" },
+      { "name" :"アカウント管理", "path": "/my-Center/user-center" },
+      { "name" :"メッセージセンター", "path": "/my-Center/message-center" }
     ]
   },
   "ru": {
@@ -50,8 +50,8 @@
   "zh-Hant": {
     "infoCenter_top_img_Text": "打造區塊鏈最全面的互動娛樂平臺",
     "infoSlider_text":[
-      { "name" :"投注记录", "path": "/my-Center/bet-record" },
-      { "name" :"账户管理", "path": "/my-Center/user-center" },
+      { "name" :"投註記錄", "path": "/my-Center/bet-record" },
+      { "name" :"賬戶管理", "path": "/my-Center/user-center" },
       { "name" :"消息中心", "path": "/my-Center/message-center" }
     ]
   }
