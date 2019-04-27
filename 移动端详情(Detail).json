@@ -4,16 +4,16 @@
     "warn_tips_2": "下注"
   },
   "en": {
-    "warn_tips_1": "本场比赛仅支持",
-    "warn_tips_2": "下注"
+    "warn_tips_1": "This game accepts only",
+    "warn_tips_2": ""
   },
   "ja": {
-    "warn_tips_1": "本场比赛仅支持",
-    "warn_tips_2": "下注"
+    "warn_tips_1": "本試合は",
+    "warn_tips_2": "でのみ予測が出来ます"
   },
   "ko": {
-    "warn_tips_1": "本场比赛仅支持",
-    "warn_tips_2": "下注"
+    "warn_tips_1": "본 경기는",
+    "warn_tips_2": "로만 베팅이 가능합니다"
   },
   "ru": {
     "warn_tips_1": "本场比赛仅支持",
@@ -24,7 +24,7 @@
     "warn_tips_2": "下注"
   },
   "zh-Hant": {
-    "warn_tips_1": "本场比赛仅支持",
-    "warn_tips_2": "下注"
+    "warn_tips_1": "本場比賽僅支持",
+    "warn_tips_2": "下註"
   }
 }
