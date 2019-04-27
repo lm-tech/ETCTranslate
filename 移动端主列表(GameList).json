@@ -41,8 +41,8 @@
     "week_5": "금요일",
     "week_6": "토요일",
     "all": "전부",
-    "filter_text": "联赛筛选",
-    "time_all": "时间筛选"
+    "filter_text": "리그 선택",
+    "time_all": "날짜 선택"
   },
   "ja": {
     "opending": "即時",
@@ -56,8 +56,8 @@
     "week_5": "金曜日",
     "week_6": "土曜日",
     "all": "全部",
-    "filter_text": "联赛筛选",
-    "time_all": "时间筛选"
+    "filter_text": "リーグ戦を篩に掛けます",
+    "time_all": "時間を篩に掛けます"
   },
   "ru": {
     "opending": "Real-time",
@@ -101,8 +101,8 @@
     "week_5": "週五",
     "week_6": "週六",
     "all": "全部",
-    "filter_text": "联赛筛选",
-    "time_all": "时间筛选"
+    "filter_text": "聯賽篩選",
+    "time_all": "時間篩選"
   }
 }
 
