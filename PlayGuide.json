@@ -1,0 +1,100 @@
+{
+  "zh": {
+    "infoSlider_text":[
+      {
+        "name":"新手引导-账号投注"
+      },
+      {
+        "name":"新手引导-智能合约投注"
+      },
+      {
+        "name":"竞猜细则"
+      },
+      {
+        "name":"使用条款"
+      },
+      {
+        "name":"隐私条款"
+      }
+    ]
+  },
+  "en": {
+    "infoSlider_text":[
+      {
+        "name":"Beginner’s Guide - Membership"
+      },
+      {
+        "name":"Beginner’s Guide - Smart contract"
+      },
+      {
+        "name":"Game Rule"
+      },
+      {
+        "name":"Terms of Use"
+      },
+      {
+        "name":"Privacy Policy"
+      }
+    ]
+  },
+  "ja": {
+    "infoSlider_text":[
+      {
+        "name":"チュートリアル - 会員ベット"
+      },
+      {
+        "name":"チュートリア - 直接ベット"
+      },
+      {
+        "name":"悬赏クイズの細かいルール"
+      },
+      {
+        "name":"利用契約"
+      },
+      {
+        "name":"プライバシー規約"
+      }
+    ]
+  },
+  "ko": {
+    "promotion_area":"홍보원 센터",
+    "play_guide":"玩法指南",
+    "and_down":"扫描即可下载",
+    "infoSlider_text":[
+      {
+        "name":"신규회원 가이드 – 계정으로 베팅하기"
+      },
+      {
+        "name":"신규회원 가이드 – 스마트 컨트랙트로 베팅하기"
+      },
+      {
+        "name":"취미 예측"
+      },
+      {
+        "name":"이용약관"
+      },
+      {
+        "name":"보안약관"
+      }
+    ]
+  },
+  "zh-Hant": {
+    "infoSlider_text":[
+      {
+        "name":"新手引導-賬戶下註"
+      },
+      {
+        "name":"新手引導-智能合約投註"
+      },
+      {
+        "name":"競猜細則"
+      },
+      {
+        "name":"使用條款"
+      },
+      {
+        "name":"隱私條款"
+      }
+    ]
+  }
+}

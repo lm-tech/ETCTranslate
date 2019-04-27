@@ -1,0 +1,191 @@
+{
+  "zh": {
+    "contact_title":"联系客服",
+    "contacts": [
+      {
+        "name": "微信",
+        "content":"Coingame_666"
+      },
+      {
+        "name": "QQ",
+        "content":"468631374"
+      },
+      {
+        "name": "Email",
+        "content":"support@coingame.com"
+      },
+      {
+        "name": "Telegram",
+        "content":"https://t.me/Coingame_official"
+      },
+      {
+        "name": "Kakao talk",
+        "content":" http://pf.kakao.com/_Mirxnj"
+      }
+    ],
+    "cancel": "取消",
+    "copied":"已拷贝到粘贴板"
+  },
+  "en": {
+    "contact_title":"Contact Coingame",
+    "contacts": [
+      {
+        "name": "Wechat",
+        "content":"Coingame_666"
+      },
+      {
+        "name": "QQ",
+        "content":"468631374"
+      },
+      {
+        "name": "Email",
+        "content":"support@coingame.com"
+      },
+      {
+        "name": "Telegram",
+        "content":"https://t.me/Coingame_official"
+      },
+      {
+        "name": "Kakao talk",
+        "content":" http://pf.kakao.com/_Mirxnj"
+      }
+    ],
+    "cancel": "Cancel",
+    "copied":"Copied to clipboard"
+  },
+  "ja": {
+    "contact_title":"コールセンターに連絡",
+    "contacts": [
+      {
+        "name": "",
+        "content":"Coingame_666"
+      },
+      {
+        "name": "QQ",
+        "content":"468631374"
+      },
+      {
+        "name": "Email",
+        "content":"support@coingame.com"
+      },
+      {
+        "name": "Telegram",
+        "content":"https://t.me/Coingame_official"
+      },
+      {
+        "name": "Kakao talk",
+        "content":" http://pf.kakao.com/_Mirxnj"
+      }
+    ],
+    "cancel": "キャンセル",
+    "copied":"クリップボードに格納しました"
+  },
+  "ko": {
+    "contact_title":"고객센터",
+    "contacts": [
+      {
+        "name": "Wechat",
+        "content":"Coingame_666"
+      },
+      {
+        "name": "QQ",
+        "content":"468631374"
+      },
+      {
+        "name": "Email",
+        "content":"support@coingame.com"
+      },
+      {
+        "name": "Telegram",
+        "content":"https://t.me/Coingame_official"
+      },
+      {
+        "name": "Kakao talk",
+        "content":" http://pf.kakao.com/_Mirxnj"
+      }
+    ],
+    "cancel": "취소",
+    "copied":"클립보드에 복사되었습니다"
+  },
+  "ru": {
+    "contact_title":"联系客服",
+    "contacts": [
+      {
+        "name": "微信",
+        "content":"Coingame_666"
+      },
+      {
+        "name": "QQ",
+        "content":"468631374"
+      },
+      {
+        "name": "Email",
+        "content":"support@coingame.com"
+      },
+      {
+        "name": "Telegram",
+        "content":"https://t.me/Coingame_official"
+      },
+      {
+        "name": "Kakao talk",
+        "content":" http://pf.kakao.com/_Mirxnj"
+      }
+    ],
+    "cancel": "Cancel",
+    "copied":"已拷贝到粘贴板"
+  },
+  "vi": {
+    "contact_title":"联系客服",
+    "contacts": [
+      {
+        "name": "微信",
+        "content":"Coingame_666"
+      },
+      {
+        "name": "QQ",
+        "content":"468631374"
+      },
+      {
+        "name": "Email",
+        "content":"support@coingame.com"
+      },
+      {
+        "name": "Telegram",
+        "content":"https://t.me/Coingame_official"
+      },
+      {
+        "name": "Kakao talk",
+        "content":" http://pf.kakao.com/_Mirxnj"
+      }
+    ],
+    "cancel": "Cancel",
+    "copied":"已拷贝到粘贴板"
+  },
+  "zh-Hant": {
+    "contact_title":"聯系客服",
+    "contacts": [
+      {
+        "name": "微信",
+        "content":"Coingame_666"
+      },
+      {
+        "name": "QQ",
+        "content":"468631374"
+      },
+      {
+        "name": "Email",
+        "content":"support@coingame.com"
+      },
+      {
+        "name": "Telegram",
+        "content":"https://t.me/Coingame_official"
+      },
+      {
+        "name": "Kakao talk",
+        "content":" http://pf.kakao.com/_Mirxnj"
+      }
+    ],
+    "cancel": "取消",
+    "copied":"已拷貝到粘貼板"
+  }
+}

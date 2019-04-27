@@ -17,11 +17,11 @@
   },
   "ko": {
     "record_detail_later_30": "최근 30일",
-    "record_detail_custom": "자체 정의",
-    "record_detail_forecast": "예측내역",
-    "record_detail_input": "Deposit History",
-    "record_detail_output": "지출내역",
-    "record_detail_give": "코인게임의 서비스"
+    "record_detail_custom": "날짜 선택",
+    "record_detail_forecast": "예측기록",
+    "record_detail_input": "입금기록",
+    "record_detail_output": "출금기록",
+    "record_detail_give": "이벤트 증정"
   },
   "ja": {
     "record_detail_later_30": "最近30日間",

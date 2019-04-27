@@ -1,0 +1,37 @@
+{
+  "zh": {
+    "content_title_word_cup": "足球",
+    "content_title_number_coin": "数字货币",
+    "content_title_detail": "竞猜细则",
+    "content_title_guide": "新手引导",
+    "centralization": "账号投注"
+  },
+  "en": {
+    "content_title_word_cup": "Soccer",
+    "content_title_number_coin": "Cryptocurrency",
+    "content_title_detail": "Game Rule",
+    "content_title_guide": "Beginner's Guide",
+    "centralization": "Member Betting"
+  },
+  "ja": {
+    "content_title_word_cup": "サッカー",
+    "content_title_number_coin": "デジタル通貨",
+    "content_title_detail": "悬赏クイズの細かいルール",
+    "content_title_guide": "初心者ブックガイド",
+    "centralization": "会員ベット"
+  },
+  "ko": {
+    "content_title_word_cup": "축구",
+    "content_title_number_coin": "디지털 화폐",
+    "content_title_detail": "예측 규칙",
+    "content_title_guide": "신규회원 가이드",
+    "centralization": "회원 베팅하기"
+  },
+  "zh-Hant": {
+    "content_title_word_cup": "足球",
+    "content_title_number_coin": "數字貨幣",
+    "content_title_detail": "競猜細則",
+    "content_title_guide": "新手引導",
+    "centralization": "賬號投註"
+  }
+}
