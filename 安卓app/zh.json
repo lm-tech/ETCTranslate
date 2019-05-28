@@ -106,7 +106,8 @@
     "bettingHistory": "投注历史",
     "viewAll": "查看全部",
     "playWayOption": "玩法-选项",
-    "forecastAddressSearch": "预测地址搜索"
+    "forecastAddressSearch": "预测地址搜索",
+    "gameSupportCurrency":"本场比赛仅支持{currency}下注"
   },
   "user": {
     "logout": "退出登录",

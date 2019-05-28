@@ -106,7 +106,8 @@
     "bettingHistory": "Forecast History",
     "viewAll": "View All",
     "playWayOption": "Market-Options",
-    "forecastAddressSearch": "Forecast Address Search"
+    "forecastAddressSearch": "Forecast Address Search",
+    "gameSupportCurrency":"Support {currency} Forecast Only"
   },
   "user": {
     "logout": "Logout",

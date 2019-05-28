@@ -106,7 +106,8 @@
     "bettingHistory": "배팅기록",
     "viewAll": "전체보기",
     "playWayOption": "배팅방법-항목",
-    "forecastAddressSearch": "예측 주소검색"
+    "forecastAddressSearch": "예측 주소검색",
+    "gameSupportCurrency":"이번 경기는 {currency}만 베탕가능합니다"
   },
   "user": {
     "logout": "로그아웃",

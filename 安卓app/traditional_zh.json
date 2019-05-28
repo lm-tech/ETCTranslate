@@ -106,7 +106,8 @@
     "bettingHistory": "投注历史",
     "viewAll": "查看全部",
     "playWayOption": "玩法-選項",
-    "forecastAddressSearch": "預測位址搜索"
+    "forecastAddressSearch": "預測位址搜索",
+    "gameSupportCurrency":"本場比賽僅支持{currency}下注"
   },
   "user": {
     "logout": "退出登錄",

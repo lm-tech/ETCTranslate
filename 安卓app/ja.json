@@ -106,7 +106,8 @@
     "bettingHistory": "ベッティング記録",
     "viewAll": "詳細をチェック",
     "playWayOption": "ベッティング方式-選択肢",
-    "forecastAddressSearch": "ベッティングアドレスを検索"
+    "forecastAddressSearch": "ベッティングアドレスを検索",
+    "gameSupportCurrency":"この試合は、{currency}のみでベッティングできる"
   },
   "user": {
     "logout": "ログアウト",
