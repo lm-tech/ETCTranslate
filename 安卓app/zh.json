@@ -16,7 +16,8 @@
     "finished": "已结束",
     "bettingCoinType": "下注币种",
     "raceResult": "赛果",
-    "congratulationsBettingSuccess": "恭喜您，投注成功！",
+    "bettingSuccess": "投注成功！",
+    "bettingFailed": "投注失败！",
     "viewOrder": "查看订单",
     "continueBetting": "继续投注",
     "bettingOddNumbers": "投注单号：{orderNumber}",
@@ -47,6 +48,7 @@
     "select": "选择：",
     "exceedingTheMaximumAmountOfBet": "超过本选项最大下注额",
     "betExceedBalanceOfTheAccount": "下注金额不能超过账号可用余额",
+    "tooLittleAmountToBet": "下注金额不能小于{limit}",
     "invalidOrBetAmountFull": "已失效/投注额已满",
     "marqueeInvest": "用户{account},在【{playNames}】下注了{amount},大家快来围观！",
     "marqueeEarn": "用户{account},在【{playNames}】赢得了{amount},让我们恭喜他！",
@@ -107,7 +109,7 @@
     "viewAll": "查看全部",
     "playWayOption": "玩法-选项",
     "forecastAddressSearch": "预测地址搜索",
-    "gameSupportCurrency":"本场比赛仅支持{currency}下注"
+    "gameSupportCurrency": "本场比赛仅支持{currency}下注"
   },
   "user": {
     "logout": "退出登录",
