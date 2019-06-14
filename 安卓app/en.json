@@ -20,32 +20,32 @@
     "bettingFailed": "Failed to place bet",
     "viewOrder": "View Orders",
     "continueBetting": "Continue Betting",
-    "bettingOddNumbers": "Bet Slip ID: {orderNumber}",------订单？投注单？
+    "bettingOddNumbers": "Bet Slip ID: {orderNumber}",
     "bettingDate": "Time: {date}",
     "bettingItem": "Betting Option: {item}",
     "forecastAmount": "Bet Amount: {amount}",
-    "prizeAmount": "获奖金额：{amount}",----本金？
+    "prizeAmount": "Prize: {amount}",
     "notCanWithdrawAssetsDeductible": "Unwithdrawable Balance Deduction: ",
-    "bettingHashValue": "Bet Slip Hash: {hash}",------订单？投注单？
-    "forecastCouldWin": "预计可赢：{win}",-----本金？
+    "bettingHashValue": "Bet Slip Hash: {hash}",
+    "forecastCouldWin": "Estimated Prize: {win}",
     "availableBalanceInsufficient": "Insufficient balance",
     "bettingAmountFull": "Reached maximum total amount",
     "notSettlement": "Awaiting settlement",
     "hasSettlement": "Settled",
     "noLottery": "Awaiting result",
     "lottery": "Result announced",
-    "orderNumber": "Order ID: {orderNumber}",------订单？投注单？
+    "orderNumber": "Order ID: {orderNumber}",
     "standoff": "Draw",
     "game": "Game",
     "filter": "Filter",
-    "bettingUpperLimit": "Maximum Total Amount",-------金额？
+    "bettingUpperLimit": "Maximum Total Amount",
     "referee": "Referee",
     "stadium": "Stadium",
     "match": "Full Time",
-    "numberOfGames": "Map{number}",----Round?
+    "numberOfGames": "Round {number}",
     "theBettingListIsFull": "Reached maximum number of bet slips",
     "select": "Selected: ",
-    "exceedingTheMaximumAmountOfBet": "Exceeding maximum amount on this option",-------单人还是总的？
+    "exceedingTheMaximumAmountOfBet": "Exceeding maximum total amount on this option",
     "betExceedBalanceOfTheAccount": "The bet amount should not be higher than available account balance",
     "tooLittleAmountToBet":"Minimum bet amount: {limit}",
     "invalidOrBetAmountFull": "Expired / Reached maximum total amount",
@@ -59,32 +59,32 @@
     "over": "Over",
     "under": "Under",
     "flat": "Draw",
-    "field": "Pitch",----场地？
+    "field": "Pitch",
     "weather": "Weather",
     "betFailed": "Failed to place bet",
     "withdrawCoinIng": "Withdrawal in progress",
     "blockChainConfirm": "Confirming contract",
-    "notFrozen": "Available",----可用？
+    "notFrozen": "Available",
     "pending": "Pending review",
-    "rejected": "Withdrawal failed. Please try again",-----退回？
-    "withdrawCoinSuccess": "Withdrawl successful",----状态还是提示？
-    "documentsInvalid": "Doc invalidated",------单据？
+    "rejected": "Withdrawal failed. Funds are unlocked.",
+    "withdrawCoinSuccess": "Withdrawl successful",
+    "documentsInvalid": "Invalidated",
     "inReview": "Review in progress",
-    "forecastReturn": "Refund",----状态还是按钮？
+    "forecastReturn": "Refunded",
     "matchCancel": "Game cancelled",
     "lotteryOpening": "Announcing result",
     "bonusPayment": "Distributing prizes",
     "bettingCount": "Number of Bet Slips: {number}",
     "odds": "Odds: {odds}",
     "bettingAmount": "Bet Amount: {amount}",
-    "backAmount": "Payout: {amount}",----包含本金？
+    "backAmount": "Payout: {amount}",
     "oddsChanged": "Change of odds or handicap",
     "dateFilter": "Filter by Time",
     "revoked": "Game cancelled",
-    "bettingRange": "Range of Bet Amount",------金额范围？
+    "bettingRange": "Range",
     "orderInvalid": "Order Failed",
     "inputAmount": "Enter amount",
-    "bettingTotalAmount": "Total Bet Amount",----总金额？
+    "bettingTotalAmount": "Total",
     "expectReturn": "Estimated Return",
     "confirmBetting": "Place Bet",
     "acceptChange": "Accept",
@@ -129,7 +129,7 @@
     "couldWithdrawAmount": "Withdrawalable: {amount}{currency}",
     "modifyLoginMail": "Change Login Email Address",
     "modifyCapitalPassword": "Change Fund Password",
-    "modifyMail": "Change Email Address",-----130和133什么区别？
+    "modifyMail": "New Email address",
     "sendVerificationCode": "Send Code",
     "verificationCode": "Verification code",
     "verificationCodeHasSend": "Code Sent",
@@ -139,15 +139,15 @@
     "pleaseInputInvitationCode": "Please enter referral code",
     "pleaseInputMailVerificationCode": "Please enter Email verification code",
     "pleaseInputNewMailAddress": "Please enter new Email address",
-    "pleaseInputBoundMailAddress": "Please enter current Email address",----绑定？
+    "pleaseInputBoundMailAddress": "Please enter current Email address",
     "receivingMailTips": "If you do not receive the mail, please check your junk or spam folders",
     "loginPasswordFormat": "Password (8 - 23 digits)",
     "nextStep": "Next",
-    "asset": "Assets",-----单复数?
-    "canWithdrawAsset": "Withdrawable Assets",
-    "notCanWithdrawAsset": "Unwithdrawable Assets",
+    "asset": "Assets",
+    "canWithdrawAsset": "Withdrawable",
+    "notCanWithdrawAsset": "Unwithdrawable",
     "activityGiveAway": "Event Gifts",
-    "freezeAsset": "冻结资产",-----已冻结资产还是按钮？
+    "freezeAsset": "Locked Assets",
     "rechargeRecord": "Deposit Records",
     "withdrawCoinAddress": "Withdrawal Address：",
     "withdrawCoinAmount": "Withdrawal Amount：",
@@ -209,11 +209,11 @@
     "registerAgree": "By registering you agree to ",
     "coinGameTermsOfService": "[Coingame Terms of Services]",
     "hasAccount": "Existing Account",
-    "directLogin": "Log In Now",----直接？
+    "directLogin": "Log In",
     "pleaseInputMailAddress": "Please enter Email address",
     "stepOne": "Step 1",
     "stepTwo": "Step 2",
-    "newUserRegister": "Register",----新用户？？
+    "newUserRegister": "Register",
     "pleaseInputLoginPwd": "Please enter login password",
     "registerNow": "Register Now",
     "retrievePassword": "Retrieve Password",
@@ -295,7 +295,7 @@
     "nonMemberDirectBetting": "Smart Contract Forecast",
     "pleaseClickHere": "Click Here",
     "allType": "All Categories",
-    "nonMemberBetting": "非会员下注",------????
+    "nonMemberBetting": "Bet via Smart Contract",
     "getId": "OK",
     "refresh": "Reload",
     "selectLanguage": "Select Language",
@@ -341,7 +341,7 @@
     "total": "All",
     "pleaseInstallQQ": "Please install QQ",
     "longPressSaveQRCode": "Long press to save the QR code",
-    "howManyCount": "{number} messages in total",-----条？
+    "howManyCount": "{number} messages in total",
     "versionUpdateTips": "New Version Reminder",
     "talkLater": "Later",
     "updateImmediately": "Update Now",
