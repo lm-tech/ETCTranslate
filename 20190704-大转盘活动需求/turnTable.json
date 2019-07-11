@@ -34,6 +34,7 @@
     "toBet":"前去投注",
     "acquire":"获得了",
     "wined":"获得奖励",
+    "thanksJoin":"谢谢参与",
     "roles":{
       "schedule": "附表1",
       "rule1":"一、参与方式：",
@@ -87,6 +88,7 @@
     "toBet":"ベットに行く",
     "acquire":"获得了",
     "wined":"获得奖励",
+    "thanksJoin":"谢谢参与",
     "roles":{
       "schedule": "附表1",
       "rule1":"参加する方法：",
@@ -139,6 +141,7 @@
     "toBet":"베팅하러 가기",
     "acquire":"获得了",
     "wined":"获得奖励",
+    "thanksJoin":"谢谢参与",
     "roles":{
       "schedule": "부록1",
       "rule1":"참여 방법:",
@@ -191,6 +194,7 @@
     "toBet":"Place Bet Now",
     "acquire":"won",
     "wined":"获得奖励",
+    "thanksJoin":"谢谢参与",
     "roles":{
       "schedule": "see Appendix 1",
       "rule1":"I. How to Play：",
@@ -245,6 +249,7 @@
     "toBet":"前去投註",
     "acquire":"获得了",
     "wined":"获得奖励",
+    "thanksJoin":"谢谢参与",
     "roles":{
       "schedule": "附表1",
       "rule1":"壹、 參與方式：",
