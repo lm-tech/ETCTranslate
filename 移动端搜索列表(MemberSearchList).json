@@ -1,24 +1,30 @@
 {
-    "zh": {
-      "confirm": "确定"
-    },
-    "en": {
-      "confirm": "Confirm"
-    },
-    "ko": {
-      "confirm": "확인"
-    },
-    "ja": {
-      "confirm": "確認"
-    },
-    "ru": {
-      "confirm": "Confirm"
-    },
-    "vi": {
-      "confirm": "Confirm"
-    },
-    "zh-Hant": {
-      "confirm": "確定"
-    }
+  "zh": {
+    "confirm": "搜索：",
+    "search_result":"搜索结果共{result}条"
+  },
+  "en": {
+    "confirm": "Search:",
+    "search_result":"搜索结果共{result}条"
+  },
+  "ko": {
+    "confirm": "조회:",
+    "search_result":"搜索结果共{result}条"
+  },
+  "ja": {
+    "confirm": "検索：",
+    "search_result":"搜索结果共{result}条"
+  },
+  "ru": {
+    "confirm": "Search:",
+    "search_result":"搜索结果共{result}条"
+  },
+  "vi": {
+    "confirm": "Search:",
+    "search_result":"搜索结果共{result}条"
+  },
+  "zh-Hant": {
+    "confirm": "搜索：",
+    "search_result":"搜索结果共{result}条"
   }
-  
+}

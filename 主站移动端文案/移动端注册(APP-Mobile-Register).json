@@ -1,0 +1,27 @@
+{
+  "zh": {
+    "register_title": "新用户注册",
+    "register_step1":"步骤 1",
+    "register_step2":"步骤 2"
+  },
+  "en": {
+    "register_title": "新用户注册",
+    "register_step1":"步骤 1",
+    "register_step2":"步骤 2"
+  },
+  "ja": {
+    "register_title": "新用户注册",
+    "register_step1":"步骤 1",
+    "register_step2":"步骤 2"
+  },
+  "ko": {
+    "register_title": "新用户注册",
+    "register_step1":"步骤 1",
+    "register_step2":"步骤 2"
+  },
+  "zh-Hant": {
+    "register_title": "新用户注册",
+    "register_step1":"步骤 1",
+    "register_step2":"步骤 2"
+  }
+}
