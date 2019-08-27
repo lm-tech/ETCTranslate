@@ -1,0 +1,68 @@
+{
+    "zh": {
+        "login_to_bet": "登录后即可进行投币",
+        "tab_sports": "赛事",
+        "tab_activity": "活动",
+        "tab_wallet": "资产",
+        "tab_home": "我的",
+        "home_member": "账户投币",
+        "smart_member": "合约投币",
+        "server_center": "客服中心",
+        "server_play": "玩法指南",
+        "smart_title": "智能合约投币",
+        "member_title": "账户投币"
+    },
+    "en": {
+        "login_to_bet": "登录后即可进行投币",
+        "tab_sports": "赛事",
+        "tab_activity": "活动",
+        "tab_wallet": "资产",
+        "tab_home": "我的",
+        "home_member": "账户投币",
+        "smart_member": "合约投币",
+        "server_center": "客服中心",
+        "server_play": "玩法指南",
+        "smart_title": "智能合约投币",
+        "member_title": "账户投币"
+    },
+    "ko": {
+        "login_to_bet": "登录后即可进行投币",
+        "tab_sports": "赛事",
+        "tab_activity": "活动",
+        "tab_wallet": "资产",
+        "tab_home": "我的",
+        "home_member": "账户投币",
+        "smart_member": "合约投币",
+        "server_center": "客服中心",
+        "server_play": "玩法指南",
+        "smart_title": "智能合约投币",
+        "member_title": "账户投币"
+    },
+    "ja": {
+        "login_to_bet": "登录后即可进行投币",
+        "tab_sports": "赛事",
+        "tab_activity": "活动",
+        "tab_wallet": "资产",
+        "tab_home": "我的",
+        "home_member": "账户投币",
+        "smart_member": "合约投币",
+        "server_center": "客服中心",
+        "server_play": "玩法指南",
+        "smart_title": "智能合约投币",
+        "member_title": "账户投币"
+    },
+    "zh-Hant": {
+        "login_to_bet": "登录后即可进行投币",
+        "tab_sports": "赛事",
+        "tab_activity": "活动",
+        "tab_wallet": "资产",
+        "tab_home": "我的",
+        "home_member": "账户投币",
+        "smart_member": "合约投币",
+        "server_center": "客服中心",
+        "server_play": "玩法指南",
+        "smart_title": "智能合约投币",
+        "member_title": "账户投币"
+    }
+  }
+  
