@@ -2,7 +2,7 @@
   "zh": {
     "infoSlider_text":[
       {
-        "name":"新手指导"
+        "name":"新手引导"
       },
       {
         "name":"预测细则"
@@ -49,7 +49,7 @@
   "en": {
     "infoSlider_text":[
       {
-        "name":"新手指导"
+        "name":"Beginner’s Guide"
       },
       {
         "name":"Game Rule"
@@ -66,37 +66,37 @@
     ],
     "sliderGuideChildText": [
       {
-        "name":"账号投币"
+        "name":"Membership"
       },
       {
-        "name":"智能合约投币"
+        "name":"Smart contract"
       }
     ],
     "infoSlider_child_text":[
       {
-        "name":"足球"
+        "name":"Soccer"
       },
       {
-        "name":"棒球"
+        "name":"Baseball"
       },
       {
-        "name":"网球"
+        "name":"Tennis"
       },
       {
-        "name":"篮球"
+        "name":"Basketball"
       },
       {
-        "name":"电竞"
+        "name":"E-sports"
       },
       {
-        "name":"游戏"
+        "name":"Games"
       }
     ]
   },
   "ja": {
     "infoSlider_text":[
       {
-        "name":"新手指导"
+        "name":"チュートリアル"
       },
       {
         "name":"悬赏クイズの細かいルール"
@@ -113,40 +113,40 @@
     ],
     "sliderGuideChildText": [
       {
-        "name":"账号投币"
+        "name":"会員ベット"
       },
       {
-        "name":"智能合约投币"
+        "name":"直接ベット"
       }
     ],
     "infoSlider_child_text":[
       {
-        "name":"足球"
+        "name":"サッカー"
       },
       {
-        "name":"棒球"
+        "name":"野球"
       },
       {
-        "name":"网球"
+        "name":"テニス"
       },
       {
-        "name":"篮球"
+        "name":"バスケットボール"
       },
       {
-        "name":"电竞"
+        "name":"E-sports"
       },
       {
-        "name":"游戏"
+        "name":"Games"
       }
     ]
   },
   "ko": {
     "promotion_area":"홍보원 관리",
-    "play_guide":"玩法指南",
-    "and_down":"扫描即可下载",
+    "play_guide":"이용 안내",
+    "and_down":"스캔하여 다운",
     "infoSlider_text":[
       {
-        "name":"新手指导"
+        "name":"신규회원 가이드"
       },
       {
         "name":"예측 규정"
@@ -163,37 +163,37 @@
     ],
     "sliderGuideChildText": [
       {
-        "name":"账号投币"
+        "name":"계정으로 베팅하기"
       },
       {
-        "name":"智能合约投币"
+        "name":"스마트 컨트랙트로 베팅하기"
       }
     ],
     "infoSlider_child_text":[
       {
-        "name":"足球"
+        "name":"축구"
       },
       {
-        "name":"棒球"
+        "name":"야구"
       },
       {
-        "name":"网球"
+        "name":"테니스"
       },
       {
-        "name":"篮球"
+        "name":"농구"
       },
       {
-        "name":"电竞"
+        "name":"E-sports"
       },
       {
-        "name":"游戏"
+        "name":"Games"
       }
     ]
   },
   "zh-Hant": {
     "infoSlider_text":[
       {
-        "name":"新手指导"
+        "name":"新手引導"
       },
       {
         "name":"競猜細則"
@@ -210,10 +210,10 @@
     ],
     "sliderGuideChildText": [
       {
-        "name":"账号投币"
+        "name":"賬號投幣"
       },
       {
-        "name":"智能合约投币"
+        "name":"智能合約投幣"
       }
     ],
     "infoSlider_child_text":[
@@ -224,16 +224,16 @@
         "name":"棒球"
       },
       {
-        "name":"网球"
+        "name":"網球"
       },
       {
-        "name":"篮球"
+        "name":"籃球"
       },
       {
-        "name":"电竞"
+        "name":"E-sports"
       },
       {
-        "name":"游戏"
+        "name":"Games"
       }
     ]
   }
