@@ -1,0 +1,42 @@
+{
+  "zh": {
+    "footer_hot_game": "热门游戏",
+    "footer_recent_play": "最近玩过",
+    "footer_more_game": "更多游戏",
+    "footer_sport_events": "体育赛事",
+    "footer_sport_events_more": "更多赛事",
+    "footer_partner": "合作伙伴"
+  },
+  "en": {
+    "footer_hot_game": "热门游戏",
+    "footer_recent_play": "最近玩过",
+    "footer_more_game": "更多游戏",
+    "footer_sport_events":"体育赛事",
+    "footer_sport_events_more": "更多赛事",
+    "footer_partner": "合作伙伴"
+  },
+  "ko": {
+    "footer_hot_game": "热门游戏",
+    "footer_recent_play": "最近玩过",
+    "footer_more_game": "更多游戏",
+    "footer_sport_events":"体育赛事",
+    "footer_sport_events_more": "更多赛事",
+    "footer_partner": "合作伙伴"
+  },
+  "ja": {
+    "footer_hot_game": "热门游戏",
+    "footer_recent_play": "最近玩过",
+    "footer_more_game": "更多游戏",
+    "footer_sport_events":"体育赛事",
+    "footer_sport_events_more": "更多赛事",
+    "footer_partner": "合作伙伴"
+  },
+  "zh-Hant": {
+    "footer_hot_game": "热门游戏",
+    "footer_recent_play": "最近玩过",
+    "footer_more_game": "更多游戏",
+    "footer_sport_events":"体育赛事",
+    "footer_sport_events_more": "更多赛事",
+    "footer_partner": "合作伙伴"
+  }
+}

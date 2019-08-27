@@ -1,148 +1,187 @@
 {
   "zh": {
-    "input_validation_empty_email": "请输入邮箱",
-    "input_validation_error_email": "请输入正确的邮箱",
-    "input_validation_empty_validation_code": "请输入验证码",
-    "input_validation_empty_password": "请输入登录密码",
-    "input_validation_error_password": "密码长度为8到32位",
-    "input_validation_mismatch": "两次输入密码不一致",
-    "input_send_success": "发送成功，请查收",
-    "input_button_next": "下一步",
-    "input_button_focus": "若验证码邮件没有顺利到达您的收件箱，请注意检查垃圾箱内的邮件",
-    "input_validation_empty_new_password": "请输入确认登录密码",
-    "input_forgot_new_password": "请输入8-32位密码",
-    "input_forgot_confirm_password": "请输入确认登录密码",
-    "setPwdSuccess": "恭喜！您的密码重设成功",
-    "input_go_login": "立即登录",
-    "password_tip_letter": "请仅使用8-32位字母",
-    "password_tip_symbol": "数字和常用符号",
-    "password_tip_space": "中间不能有空格",
-    "password_tip_capital_lower_case": "注意区分大小写"
+    "promotion_area":"推广专区",
+    "play_guide":"玩法指南",
+    "and_down":"扫描即可下载",
+    "to_signIn": "每日签到",
+    "infoSlider_text":[
+      {
+        "name":"新手引导-账号投币"
+      },
+      {
+        "name":"新手引导-智能合约投币"
+      },
+      {
+        "name":"预测细则"
+      },
+      {
+        "name":"使用条款"
+      },
+      {
+        "name":"隐私条款"
+      }
+    ],
+    "index":"首页",
+    "games":"游戏",
+    "events":"赛事",
+    "activities":"活动",
+    "app_download": "APP下载",
+    "header_login": "登录",
+    "header_register": "注册",
+    "header_assetCenter":"资产中心",
+    "header_recharge":"充值/提币",
+    "header_bet_record":"投币记录",
+    "header_userAccount":"个人账户",
+    "header_accountManage":"账号管理",
+    "header_messageCenter":"消息中心",
+    "header_logout":"退出"
   },
   "en": {
-    "input_validation_empty_email": "Please enter your email address",
-    "input_validation_error_email": "Please enter a valid email address",
-    "input_validation_empty_validation_code": "Please enter the verification code",
-    "input_validation_empty_password": "Please enter the login password",
-    "input_validation_error_password": "Maximum length must be between 8-32 characters",
-    "input_validation_mismatch": "Passwords do not match",
-    "input_send_success": "Sent. Please review.",
-    "input_button_next": "Next step",
-    "input_button_success": "Successfully reset!",
-    "input_button_focus": "If you do not receive an email, please check your junk or spam folders",
-    "input_validation_empty_new_password": "Confirm login password",
-    "input_forgot_new_password": "Please enter a password",
-    "input_forgot_confirm_password": "Please enter and confirm the login password",
-    "setPwdSuccess": "恭喜！您的密码重设成功",
-    "input_go_login": "Login Now",
-    "password_tip_letter": "请仅使用8-32位字母",
-    "password_tip_symbol": "数字和常用符号",
-    "password_tip_space": "中间不能有空格",
-    "password_tip_capital_lower_case": "注意区分大小写"
-  },
-  "ko": {
-    "input_validation_empty_email": "이메일을 입력해주세요",
-    "input_validation_error_email": "정확한 이메일을 입력해주세요",
-    "input_validation_empty_validation_code": "인증번호를 입력해주세요",
-    "input_validation_empty_password": "로그인 비밀번호를 입력해주세요",
-    "input_validation_error_password": "비밀번호 길이는 8~32자리입니다. ",
-    "input_validation_mismatch": "비밀번호가 동일하지 않습니다. ",
-    "input_send_success": "이메일을 발송하였습니다. 확인해주세요.",
-    "input_button_next": "다음",
-    "input_button_success": "재설정 성공",
-    "input_button_focus": "인증 메일을 받지 못한 경우 스팸 메일함도 확인해주세요",
-    "input_validation_empty_new_password": "로그인 비밀번호를 입력해주세요",
-    "input_forgot_new_password": "8-32자 비밀번호를 입력해주세요",
-    "input_forgot_confirm_password": "로그인 비밀번호를 입력해주세요",
-    "setPwdSuccess": "恭喜！您的密码重设成功",
-    "input_go_login": "지금 로그인하기",
-    "password_tip_letter": "请仅使用8-32位字母",
-    "password_tip_symbol": "数字和常用符号",
-    "password_tip_space": "中间不能有空格",
-    "password_tip_capital_lower_case": "注意区分大小写"
+    "promotion_area":"Promotion Zone",
+    "play_guide":"Tutorials",
+    "and_down":"Scan to download",
+    "to_signIn": "Daily Check-in",
+    "infoSlider_text":[
+      {
+        "name":"Beginner’s Guide - Membership"
+      },
+      {
+        "name":"Beginner’s Guide - Smart contract"
+      },
+      {
+        "name":"Game Rules"
+      },
+      {
+        "name":"Terms of Use"
+      },
+      {
+        "name":"Privacy Policy"
+      }
+    ],
+    "index":"Home",
+    "games":"GAMES",
+    "events":"赛事",
+    "activities":"Promotion",
+    "app_download": "APP下载",
+    "header_login": "登录",
+    "header_register": "注册",
+    "header_assetCenter":"资产中心",
+    "header_recharge":"充值/提币",
+    "header_bet_record":"投币记录",
+    "header_userAccount":"个人账户",
+    "header_accountManage":"账号管理",
+    "header_messageCenter":"消息中心",
+    "header_logout":"退出"
   },
   "ja": {
-    "input_validation_empty_email": "メールアドレスを入力してください",
-    "input_validation_error_email": "正しいメールアドレスを入力してください",
-    "input_validation_empty_validation_code": "認証コードを入力してください",
-    "input_validation_empty_password": "ログインパスワードを入力してください",
-    "input_validation_error_password": "パスワードの長さは8桁から32桁になる",
-    "input_validation_mismatch": "パスワードが一致しない",
-    "input_send_success": "送信成功、ご確認ください",
-    "input_button_next": "次のステップ",
-    "input_button_success": "リセット完了！",
-    "input_button_focus": "メールが届かない可能性があるため、一度「迷惑メール」フォルダをご確認ください",
-    "input_validation_empty_new_password": "ログインパスワードを入力してください。",
-    "input_forgot_new_password": "8桁～32桁のパスワードを入力してください。",
-    "input_forgot_confirm_password": "ログインパスワードを入力してください。",
-    "setPwdSuccess": "恭喜！您的密码重设成功",
-    "input_go_login": "すぐログイン",
-    "password_tip_letter": "请仅使用8-32位字母",
-    "password_tip_symbol": "数字和常用符号",
-    "password_tip_space": "中间不能有空格",
-    "password_tip_capital_lower_case": "注意区分大小写"
+    "promotion_area":"宣伝部分",
+    "play_guide":"プレイガイド",
+    "and_down":"スキャンでダウンロードできます",
+    "to_signIn": "Daily Check-in",
+    "infoSlider_text":[
+      {
+        "name":"チュートリアル - 会員ベット"
+      },
+      {
+        "name":"チュートリア - 直接ベット"
+      },
+      {
+        "name":"ベッティングの細則"
+      },
+      {
+        "name":"利用契約"
+      },
+      {
+        "name":"プライバシー規約"
+      }
+    ],
+    "index":"トップページ",
+    "games":"GAMES",
+    "events":"赛事",
+    "activities":"イベント",
+    "app_download": "APP下载",
+    "header_login": "登录",
+    "header_register": "注册",
+    "header_assetCenter":"资产中心",
+    "header_recharge":"充值/提币",
+    "header_bet_record":"投币记录",
+    "header_userAccount":"个人账户",
+    "header_accountManage":"账号管理",
+    "header_messageCenter":"消息中心",
+    "header_logout":"退出"
   },
-  "ru": {
-    "input_validation_empty_email": "Пожалуйста, введите свой адрес электронной почты",
-    "input_validation_error_email": "Пожалуйста, введите действующий адрес электронной почты",
-    "input_validation_empty_validation_code": "Пожалуйста, введите проверочный код",
-    "input_validation_empty_password": "Пожалуйста, введите пароль для входа",
-    "input_validation_error_password": "Длина пароля-от 6 до 32 символа",
-    "input_validation_mismatch": "Пароли, введенные дважды, были несогласованными",
-    "input_send_success": "Успешно отправлено, пожалуйста, проверьте",
-    "input_button_next": "Следующий шаг",
-    "input_button_success": "Сброс успешно!",
-    "input_button_focus": "Почта может не дойти до вашего почтового ящика гладко, пожалуйста, проверьте информацию в мусор",
-    "input_validation_empty_new_password": "Пожалуйста, введите пароль для входа",
-    "input_forgot_new_password": "Пожалуйста, введите пароль из 8-32 цифр",
-    "input_forgot_confirm_password": "Пожалуйста, введите пароль для входа",
-    "setPwdSuccess": "恭喜！您的密码重设成功",
-    "input_go_login": "Login now",
-    "password_tip_letter": "请仅使用8-32位字母",
-    "password_tip_symbol": "数字和常用符号",
-    "password_tip_space": "中间不能有空格",
-    "password_tip_capital_lower_case": "注意区分大小写"
-  },
-  "vi": {
-    "input_validation_empty_email": "xin nhập hộp thư",
-    "input_validation_error_email": "xin nhập chính xác hộp thư",
-    "input_validation_empty_validation_code": "xin nhập mã xác nhận",
-    "input_validation_empty_password": "xin nhập mật khẩu đăng nhập",
-    "input_validation_error_password": "mật khẩu có thể dài từ 8-32 sô",
-    "input_validation_mismatch": "hai lần mật khẩu không khớp",
-    "input_send_success": "gửi thành công，xin kiểm tra",
-    "input_button_next": "bước tiếp theo",
-    "input_button_success": "cài đặc lại thành công！",
-    "input_button_focus": "Mail có thể không có khả năng tiếp cận hộp thư của bạn thông suốt, vui lòng kiểm tra thông tin rác",
-    "input_validation_empty_new_password": "xin nhập chính xác mật khẩu đăng nhập",
-    "input_forgot_new_password": "xin nhập từ 8-32 số mật khẩu",
-    "input_forgot_confirm_password": "xin nhập chính xác mật khẩu đăng nhập",
-    "setPwdSuccess": "恭喜！您的密码重设成功",
-    "input_go_login": "Login now",
-    "password_tip_letter": "请仅使用8-32位字母",
-    "password_tip_symbol": "数字和常用符号",
-    "password_tip_space": "中间不能有空格",
-    "password_tip_capital_lower_case": "注意区分大小写"
+  "ko": {
+    "promotion_area":"홍보원 관리",
+    "play_guide":"이용 안내",
+    "and_down":"스캔하여 다운",
+    "to_signIn": "매일매일 출석체크",
+    "infoSlider_text":[
+      {
+        "name":"신규회원 가이드 - 일반베팅"
+      },
+      {
+        "name":"신규회원 가이드 - 간편베팅"
+      },
+      {
+        "name":"예측 규칙"
+      },
+      {
+        "name":"이용약관"
+      },
+      {
+        "name":"보안약관"
+      }
+    ],
+    "index":"홈페이지",
+    "games":"GAMES",
+    "events":"赛事",
+    "activities":"이벤트",
+    "app_download": "APP下载",
+    "header_login": "登录",
+    "header_register": "注册",
+    "header_assetCenter":"资产中心",
+    "header_recharge":"充值/提币",
+    "header_bet_record":"投币记录",
+    "header_userAccount":"个人账户",
+    "header_accountManage":"账号管理",
+    "header_messageCenter":"消息中心",
+    "header_logout":"退出"
   },
   "zh-Hant": {
-    "input_validation_empty_email": "請輸入郵箱",
-    "input_validation_error_email": "請輸入正確的郵箱",
-    "input_validation_empty_validation_code": "請輸入驗證碼",
-    "input_validation_empty_password": "請輸入登錄密碼",
-    "input_validation_error_password": "密碼長度為8到32位",
-    "input_validation_mismatch": "兩次輸入密碼不一致",
-    "input_send_success": "發送成功，請查收",
-    "input_button_next": "下一步",
-    "input_button_success": "重置成功！",
-    "input_button_focus": "郵件可能無法順利到達您的郵箱，請注意檢查垃圾箱內的信息",
-    "input_validation_empty_new_password": "請輸入確認登錄密碼",
-    "input_forgot_new_password": "請輸入8-32位密碼",
-    "input_forgot_confirm_password": "請輸入確認登錄密碼",
-    "setPwdSuccess": "恭喜！您的密码重设成功",
-    "input_go_login": "立即登錄",
-    "password_tip_letter": "请仅使用8-32位字母",
-    "password_tip_symbol": "数字和常用符号",
-    "password_tip_space": "中间不能有空格",
-    "password_tip_capital_lower_case": "注意区分大小写"
+    "promotion_area":"推廣專區",
+    "play_guide":"玩法指南",
+    "and_down":"掃描即可下載",
+    "to_signIn": "每日簽到",
+    "infoSlider_text":[
+      {
+        "name":"新手引導-賬號投註"
+      },
+      {
+        "name":"新手引導-智能合約投註"
+      },
+      {
+        "name":"競猜細則"
+      },
+      {
+        "name":"使用條款"
+      },
+      {
+        "name":"隱私條款"
+      }
+    ],
+    "index":"首页",
+    "games":"游戏",
+    "events":"赛事",
+    "activities":"活動",
+    "app_download": "APP下载",
+    "header_login": "登录",
+    "header_register": "注册",
+    "header_assetCenter":"资产中心",
+    "header_recharge":"充值/提币",
+    "header_bet_record":"投币记录",
+    "header_userAccount":"个人账户",
+    "header_accountManage":"账号管理",
+    "header_messageCenter":"消息中心",
+    "header_logout":"退出"
   }
 }
