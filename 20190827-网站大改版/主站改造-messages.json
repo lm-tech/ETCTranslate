@@ -10,7 +10,14 @@
         "server_center": "客服中心",
         "server_play": "玩法指南",
         "smart_title": "智能合约投币",
-        "member_title": "账户投币"
+        "member_title": "账户投币",
+        "remember_auth": "记住我",
+        "input_sign_up_success": "恭喜您！密码重设成功",
+        "step_one": "账号验证",
+        "step_two": "重设密码",
+        "step_three": "操作成功",
+        "register_one": "账户注册",
+        "register_two": "注册验证"
     },
     "en": {
         "login_to_bet": "登录后即可进行投币",
@@ -23,7 +30,14 @@
         "server_center": "客服中心",
         "server_play": "玩法指南",
         "smart_title": "智能合约投币",
-        "member_title": "账户投币"
+        "member_title": "账户投币",
+        "remember_auth": "记住我",
+        "input_sign_up_success": "恭喜您！密码重设成功",
+        "step_one": "账号验证",
+        "step_two": "重设密码",
+        "step_three": "操作成功",
+        "register_one": "账户注册",
+        "register_two": "注册验证"
     },
     "ko": {
         "login_to_bet": "登录后即可进行投币",
@@ -36,7 +50,14 @@
         "server_center": "客服中心",
         "server_play": "玩法指南",
         "smart_title": "智能合约投币",
-        "member_title": "账户投币"
+        "member_title": "账户投币",
+        "remember_auth": "记住我",
+        "input_sign_up_success": "恭喜您！密码重设成功",
+        "step_one": "账号验证",
+        "step_two": "重设密码",
+        "step_three": "操作成功",
+        "register_one": "账户注册",
+        "register_two": "注册验证"
     },
     "ja": {
         "login_to_bet": "登录后即可进行投币",
@@ -49,7 +70,14 @@
         "server_center": "客服中心",
         "server_play": "玩法指南",
         "smart_title": "智能合约投币",
-        "member_title": "账户投币"
+        "member_title": "账户投币",
+        "remember_auth": "记住我",
+        "input_sign_up_success": "恭喜您！密码重设成功",
+        "step_one": "账号验证",
+        "step_two": "重设密码",
+        "step_three": "操作成功",
+        "register_one": "账户注册",
+        "register_two": "注册验证"
     },
     "zh-Hant": {
         "login_to_bet": "登录后即可进行投币",
@@ -62,7 +90,14 @@
         "server_center": "客服中心",
         "server_play": "玩法指南",
         "smart_title": "智能合约投币",
-        "member_title": "账户投币"
+        "member_title": "账户投币",
+        "remember_auth": "记住我",
+        "input_sign_up_success": "恭喜您！密码重设成功",
+        "step_one": "账号验证",
+        "step_two": "重设密码",
+        "step_three": "操作成功",
+        "register_one": "账户注册",
+        "register_two": "注册验证"
     }
   }
   
