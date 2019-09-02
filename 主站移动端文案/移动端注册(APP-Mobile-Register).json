@@ -1,27 +1,32 @@
 {
   "zh": {
     "register_title": "新用户注册",
-    "register_step1":"步骤 1",
-    "register_step2":"步骤 2"
+    "register_step1":"账号注册",
+    "register_step2":"注册验证",
+    "register_right_title":"去登录"
   },
   "en": {
-    "register_title": "新用户注册",
-    "register_step1":"步骤 1",
-    "register_step2":"步骤 2"
+    "register_title": "Register",
+    "register_step1":"账号注册",
+    "register_step2":"注册验证",
+    "register_right_title":"去登录"
   },
   "ja": {
-    "register_title": "新用户注册",
-    "register_step1":"步骤 1",
-    "register_step2":"步骤 2"
+    "register_title": "新規ユーザの登録",
+    "register_step1":"账号注册",
+    "register_step2":"注册验证",
+    "register_right_title":"去登录"
   },
   "ko": {
-    "register_title": "新用户注册",
-    "register_step1":"步骤 1",
-    "register_step2":"步骤 2"
+    "register_title": "신규 회원가입",
+    "register_step1":"账号注册",
+    "register_step2":"注册验证",
+    "register_right_title":"去登录"
   },
   "zh-Hant": {
     "register_title": "新用户注册",
-    "register_step1":"步骤 1",
-    "register_step2":"步骤 2"
+    "register_step1":"账号注册",
+    "register_step2":"注册验证",
+    "register_right_title":"去登录"
   }
 }
