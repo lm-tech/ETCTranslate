@@ -111,10 +111,10 @@
     "header_logout":"ログアウト"
   },
   "ko": {
-    "promotion_area":"홍보원 관리",
+    "promotion_area":"홍보원",
     "play_guide":"이용 안내",
     "and_down":"스캔하여 다운",
-    "to_signIn": "매일매일 출석체크",
+    "to_signIn": "출석체크",
     "infoSlider_text":[
       {
         "name":"신규회원 가이드 - 일반베팅"
@@ -133,10 +133,10 @@
       }
     ],
     "index":"Home",
-    "games":"경기",
-    "events":"스포츠",
-    "activities":"활동",
-    "app_download": "App",
+    "games":"Games",
+    "events":"Sports",
+    "activities":"Campaigns",
+    "app_download": "APP 다운",
     "header_login": "로그인",
     "header_register": "회원가입",
     "header_assetCenter":"자산",
