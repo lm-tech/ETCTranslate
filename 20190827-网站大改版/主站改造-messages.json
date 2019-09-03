@@ -17,7 +17,13 @@
         "step_two": "重设密码",
         "step_three": "操作成功",
         "register_one": "账户注册",
-        "register_two": "注册验证"
+        "register_two": "注册验证",
+        "title_1": "百倍乐趣",
+        "title_2": "千倍收益",
+        "show_all": "查看全部",
+        "show_close": "收起",
+        "go_on": "立即参与",
+        "rule_title": "活动规则:"
     },
     "en": {
         "login_to_bet": "登录后即可进行投币",
@@ -37,7 +43,13 @@
         "step_two": "重设密码",
         "step_three": "操作成功",
         "register_one": "账户注册",
-        "register_two": "注册验证"
+        "register_two": "注册验证",
+        "title_1": "百倍乐趣",
+        "title_2": "千倍收益",
+        "show_all": "查看全部",
+        "show_close": "收起",
+        "go_on": "立即参与",
+        "rule_title": "活动规则:"
     },
     "ko": {
         "login_to_bet": "登录后即可进行投币",
@@ -57,7 +69,13 @@
         "step_two": "重设密码",
         "step_three": "操作成功",
         "register_one": "账户注册",
-        "register_two": "注册验证"
+        "register_two": "注册验证",
+        "title_1": "百倍乐趣",
+        "title_2": "千倍收益",
+        "show_all": "查看全部",
+        "show_close": "收起",
+        "go_on": "立即参与",
+        "rule_title": "活动规则:"
     },
     "ja": {
         "login_to_bet": "登录后即可进行投币",
@@ -77,7 +95,13 @@
         "step_two": "重设密码",
         "step_three": "操作成功",
         "register_one": "账户注册",
-        "register_two": "注册验证"
+        "register_two": "注册验证",
+        "title_1": "百倍乐趣",
+        "title_2": "千倍收益",
+        "show_all": "查看全部",
+        "show_close": "收起",
+        "go_on": "立即参与",
+        "rule_title": "活动规则:"
     },
     "zh-Hant": {
         "login_to_bet": "登录后即可进行投币",
@@ -97,7 +121,13 @@
         "step_two": "重设密码",
         "step_three": "操作成功",
         "register_one": "账户注册",
-        "register_two": "注册验证"
+        "register_two": "注册验证",
+        "title_1": "百倍乐趣",
+        "title_2": "千倍收益",
+        "show_all": "查看全部",
+        "show_close": "收起",
+        "go_on": "立即参与",
+        "rule_title": "活动规则:"
     }
   }
   
