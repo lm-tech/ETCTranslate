@@ -17,11 +17,11 @@
   },
   "ko": {
     "footer_hot_game": "인기 게임",
-    "footer_recent_play": "최근 게임",
-    "footer_more_game": "더 많은 게임",
-    "footer_sport_events":"스포츠 이벤트",
-    "footer_sport_events_more": "더 많은 이벤트",
-    "footer_partner": "파트너"
+    "footer_recent_play": "최근 플레이",
+    "footer_more_game": "더 보기",
+    "footer_sport_events":"스포츠 경기",
+    "footer_sport_events_more": "더 보기",
+    "footer_partner": "파트너사"
   },
   "ja": {
     "footer_hot_game": "人気ゲーム",
