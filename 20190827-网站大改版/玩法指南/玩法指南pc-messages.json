@@ -63,20 +63,20 @@
         "name":"滚球"
       },
       {
-        "name":"串关"
+        "name":"过关"
       }
     ]
   },
   "en": {
     "infoSlider_text":[
       {
-        "name":"新手指导"
+        "name":"Beginner’s Guide"
       },
       {
         "name":"Game Rule"
       },
       {
-        "name":"常见问题"
+        "name":"FAQ"
       },
       {
         "name":"Terms of Use"
@@ -90,61 +90,61 @@
     ],
     "sliderGuideChildText": [
       {
-        "name":"账号投币"
+        "name":"Membership"
       },
       {
-        "name":"智能合约投币"
+        "name":"Smart contract"
       }
     ],
     "infoSlider_child_text":[
       {
-        "name":"足球"
+        "name":"Soccer"
       },
       {
-        "name":"电竞"
+        "name":"E-sports"
       },
       {
-        "name":"篮球"
+        "name":"Basketball"
       },
       {
-        "name":"棒球"
+        "name":"Baseball"
       },
       {
-        "name":"网球"
+        "name":"Tennis"
       },
       {
-        "name":"排球"
+        "name":"Valleyball"
       },
       {
-        "name":"斯诺克"
+        "name":"Snooker"
       },
       {
-        "name":"飞镖"
+        "name":"Darts"
       },
       {
-        "name":"彩票"
+        "name":"Lottery"
       },
       {
-        "name":"金融"
+        "name":"Finance"
       },
       {
-        "name":"滚球"
+        "name":"In-Play"
       },
       {
-        "name":"串关"
+        "name":"Parlay"
       }
     ]
   },
   "ja": {
     "infoSlider_text":[
       {
-        "name":"新手指导"
+        "name":"チュートリアル"
       },
       {
         "name":"悬赏クイズの細かいルール"
       },
       {
-        "name":"常见问题"
+        "name":"FAQ"
       },
       {
         "name":"利用契約"
@@ -158,64 +158,64 @@
     ],
     "sliderGuideChildText": [
       {
-        "name":"账号投币"
+        "name":"会員ベット"
       },
       {
-        "name":"智能合约投币"
+        "name":"直接ベット"
       }
     ],
     "infoSlider_child_text":[
       {
-        "name":"足球"
+        "name":"サッカー"
       },
       {
-        "name":"电竞"
+        "name":"E-sports"
       },
       {
-        "name":"篮球"
+        "name":"バスケットボール"
       },
       {
-        "name":"棒球"
+        "name":"野球"
       },
       {
-        "name":"网球"
+        "name":"テニス"
       },
       {
-        "name":"排球"
+        "name":"バレーボール"
       },
       {
-        "name":"斯诺克"
+        "name":"スヌーカー"
       },
       {
-        "name":"飞镖"
+        "name":"ダーツ"
       },
       {
-        "name":"彩票"
+        "name":"宝くじ"
       },
       {
         "name":"金融"
       },
       {
-        "name":"滚球"
+        "name":"インプレイベッティング"
       },
       {
-        "name":"串关"
+        "name":"パーレイ"
       }
     ]
   },
   "ko": {
     "promotion_area":"홍보원 관리",
-    "play_guide":"玩法指南",
-    "and_down":"扫描即可下载",
+    "play_guide":"이용 안내",
+    "and_down":"스캔하여 다운",
     "infoSlider_text":[
       {
-        "name":"新手指导"
+        "name":"신규회원 가이드"
       },
       {
         "name":"예측 규정"
       },
       {
-        "name":"常见问题"
+        "name":"FAQ"
       },
       {
         "name":"이용약관"
@@ -229,61 +229,61 @@
     ],
     "sliderGuideChildText": [
       {
-        "name":"账号投币"
+        "name":"계정으로 베팅하기"
       },
       {
-        "name":"智能合约投币"
+        "name":"스마트 컨트랙트로 베팅하기"
       }
     ],
     "infoSlider_child_text":[
       {
-        "name":"足球"
+        "name":"축구"
       },
       {
-        "name":"电竞"
+        "name":"E-sports"
       },
       {
-        "name":"篮球"
+        "name":"농구"
       },
       {
-        "name":"棒球"
+        "name":"야구"
       },
       {
-        "name":"网球"
+        "name":"테니스"
       },
       {
-        "name":"排球"
+        "name":"배구"
       },
       {
-        "name":"斯诺克"
+        "name":"스누커"
       },
       {
-        "name":"飞镖"
+        "name":"다트"
       },
       {
-        "name":"彩票"
+        "name":"복권"
       },
       {
-        "name":"金融"
+        "name":"금융"
       },
       {
-        "name":"滚球"
+        "name":"실시간 게임"
       },
       {
-        "name":"串关"
+        "name":"다폴"
       }
     ]
   },
   "zh-Hant": {
     "infoSlider_text":[
       {
-        "name":"新手指导"
+        "name":"新手指導"
       },
       {
         "name":"競猜細則"
       },
       {
-        "name":"常见问题"
+        "name":"常見問題"
       },
       {
         "name":"使用條款"
@@ -297,10 +297,10 @@
     ],
     "sliderGuideChildText": [
       {
-        "name":"账号投币"
+        "name":"賬號投幣"
       },
       {
-        "name":"智能合约投币"
+        "name":"智能合約投幣"
       }
     ],
     "infoSlider_child_text":[
@@ -308,25 +308,25 @@
         "name":"足球"
       },
       {
-        "name":"电竞"
+        "name":"電競"
       },
       {
-        "name":"篮球"
+        "name":"籃球"
       },
       {
         "name":"棒球"
       },
       {
-        "name":"网球"
+        "name":"網球"
       },
       {
         "name":"排球"
       },
       {
-        "name":"斯诺克"
+        "name":"斯諾克"
       },
       {
-        "name":"飞镖"
+        "name":"飛鏢"
       },
       {
         "name":"彩票"
@@ -335,10 +335,10 @@
         "name":"金融"
       },
       {
-        "name":"滚球"
+        "name":"滾球"
       },
       {
-        "name":"串关"
+        "name":"過關"
       }
     ]
   }
