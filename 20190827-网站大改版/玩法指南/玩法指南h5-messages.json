@@ -35,7 +35,7 @@
     "guess_rule_basketball": "Basketball",
     "guess_rule_baseball": "Baseball",
     "guess_rule_tennic": "Tennis",
-    "guess_rule_volleyball": "valleyball",
+    "guess_rule_volleyball": "Valleyball",
     "guess_rule_snooker": "Snooker",
     "guess_rule_darts": "Darts",
     "guess_rule_lottery": "Lottery",
@@ -73,7 +73,7 @@
   },
   "ja": {
     "title": "プレイガイド",
-    "notice_guide": "新手引导",
+    "notice_guide": "チュートリアル",
     "notice_guide_member": "会員ベット",
     "notice_guide_smart": "直接ベット",
     "guess_rule": "悬赏クイズの細かいルール",
