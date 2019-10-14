@@ -1,0 +1,38 @@
+{
+  "zh": {
+    "coin_confirm":"{currency}提币确认",
+    "coin_amount":"提币金额：",
+    "fee":"手续费：",
+    "submit_confirm":"确认",
+    "back":"返回上一步"
+  },
+  "en": {
+    "coin_confirm":"{currency}提币确认",
+    "coin_amount":"提币金额：",
+    "fee":"手续费：",
+    "submit_confirm":"确认",
+    "back":"返回上一步"
+  },
+  "ko": {
+    "coin_confirm":"{currency}提币确认",
+    "coin_amount":"提币金额：",
+    "fee":"手续费：",
+    "submit_confirm":"确认",
+    "back":"返回上一步"
+  },
+  "ja": {
+    "coin_confirm":"{currency}提币确认",
+    "coin_amount":"提币金额：",
+    "fee":"手续费：",
+    "submit_confirm":"确认",
+    "back":"返回上一步"
+  },
+
+  "zh-Hant": {
+    "coin_confirm":"{currency}提币确认",
+    "coin_amount":"提币金额：",
+    "fee":"手续费：",
+    "submit_confirm":"确认",
+    "back":"返回上一步"
+  }
+}

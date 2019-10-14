@@ -1,0 +1,27 @@
+{
+  "zh": {
+    "google_verify_title":"绑定谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  },
+  "en": {
+    "google_verify_title":"绑定谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  },
+  "ko": {
+    "google_verify_title":"绑定谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  },
+  "ja": {
+    "google_verify_title":"绑定谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  },
+  "zh-Hant": {
+    "google_verify_title":"绑定谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  }
+}

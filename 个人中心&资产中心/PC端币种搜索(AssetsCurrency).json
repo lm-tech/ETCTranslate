@@ -1,0 +1,22 @@
+{
+  "zh": {
+    "input_currency": "请输入币种",
+    "no_currency":"暂未搜到该币种！"
+  },
+  "en": {
+    "input_currency": "请输入币种",
+    "no_currency":"暂未搜到该币种！"
+  },
+  "ko": {
+    "input_currency": "请输入币种",
+    "no_currency":"暂未搜到该币种！"
+  },
+  "ja": {
+    "input_currency": "请输入币种",
+    "no_currency":"暂未搜到该币种！"
+  },
+  "zh-Hant": {
+    "input_currency": "请输入币种",
+    "no_currency":"暂未搜到该币种！"
+  }
+}

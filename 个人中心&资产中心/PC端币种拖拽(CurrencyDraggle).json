@@ -1,0 +1,27 @@
+{
+  "zh": {
+    "cancel": "取消",
+    "save":"保存",
+    "long_press_sort":"*长按任意币种图标可进行拖动排序*"
+  },
+  "en": {
+    "cancel": "取消",
+    "save":"保存",
+    "long_press_sort":"*长按任意币种图标可进行拖动排序*"
+  },
+  "ko": {
+    "cancel": "取消",
+    "save":"保存",
+    "long_press_sort":"*长按任意币种图标可进行拖动排序*"
+  },
+  "ja": {
+    "cancel": "取消",
+    "save":"保存",
+    "long_press_sort":"*长按任意币种图标可进行拖动排序*"
+  },
+  "zh-Hant": {
+    "cancel": "取消",
+    "save":"保存",
+    "long_press_sort":"*长按任意币种图标可进行拖动排序*"
+  }
+}

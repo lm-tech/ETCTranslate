@@ -1,0 +1,67 @@
+{
+  "zh": {
+    "email_title":"修改邮箱",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "new_email_label":"新邮箱",
+    "button_confirm":"确认",
+    "change_email_form_validate_empty_email": "请输入邮箱",
+    "change_email_form_validate_error_email": "请输入正确的邮箱",
+    "change_email_form_validate_empty_vcode": "请输入验证码",
+    "change_email_form_validate_six_vcode": "请输入6位数验证码",
+    "input_send_success": "发送成功， 请查收",
+    "change_email_form_success": "修改成功！"
+  },
+  "en": {
+    "email_title":"修改邮箱",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "new_email_label":"新邮箱",
+    "button_confirm":"确认",
+    "change_email_form_validate_empty_email": "Please enter your email address",
+    "change_email_form_validate_error_email": "Please enter a valid email address",
+    "change_email_form_validate_empty_vcode": "Please enter the verification code",
+    "change_email_form_validate_six_vcode": "Please enter the 6-digit verification code",
+    "input_send_success": "Successfully sent, please check",
+    "change_email_form_success": "Successfully changed!"
+  },
+  "ko": {
+    "email_title":"修改邮箱",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "new_email_label":"新邮箱",
+    "button_confirm":"确认",
+    "change_email_form_validate_empty_email": "이메일을 입력해주세요",
+    "change_email_form_validate_error_email": "정확한 이메일을 입력해주세요",
+    "change_email_form_validate_empty_vcode": "인증 번호를 입력해주세요",
+    "change_email_form_validate_six_vcode": "6자 인증 번호를 입력해주세요",
+    "input_send_success": "발송성공",
+    "change_email_form_success": "수정 성공！"
+  },
+  "ja": {
+    "email_title":"修改邮箱",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "new_email_label":"新邮箱",
+    "button_confirm":"确认",
+    "change_email_form_validate_empty_email": "メールアドレスを入力してください",
+    "change_email_form_validate_error_email": "正しいメールアドレスを入力してください",
+    "change_email_form_validate_empty_vcode": "認証コードを入力してください",
+    "change_email_form_validate_six_vcode": "6桁の認証コードを入力してください",
+    "input_send_success": "送信成功、ご確認ください",
+    "change_email_form_success": "修正完了！"
+  },
+  "zh-Hant": {
+    "email_title":"修改邮箱",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "new_email_label":"新邮箱",
+    "button_confirm":"确认",
+    "change_email_form_validate_empty_email": "請輸入郵箱",
+    "change_email_form_validate_error_email": "請輸入正確的郵箱",
+    "change_email_form_validate_empty_vcode": "請輸入驗證碼",
+    "change_email_form_validate_six_vcode": "請輸入6位數驗證碼",
+    "input_send_success": "發送成功， 請查收",
+    "change_email_form_success": "修改成功！"
+  }
+}

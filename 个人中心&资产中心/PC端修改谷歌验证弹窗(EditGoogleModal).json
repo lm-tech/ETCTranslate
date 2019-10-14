@@ -1,0 +1,27 @@
+{
+  "zh": {
+    "edit_google_verify_title":"修改谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  },
+  "en": {
+    "edit_google_verify_title":"修改谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  },
+  "ko": {
+    "edit_google_verify_title":"修改谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  },
+  "ja": {
+    "edit_google_verify_title":"修改谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  },
+  "zh-Hant": {
+    "edit_google_verify_title":"修改谷歌验证",
+    "bind_google":"绑定谷歌",
+    "email_verify":"邮箱验证"
+  }
+}

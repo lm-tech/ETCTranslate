@@ -1,0 +1,32 @@
+{
+  "zh": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "confirm_text":"为了保障账户资金安全，至少需要开启1项双重身份验证方式。可在开启其他验证方式后再进行关闭。",
+    "button_confirm":"确认"
+  },
+  "en": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "confirm_text":"为了保障账户资金安全，至少需要开启1项双重身份验证方式。可在开启其他验证方式后再进行关闭。",
+    "button_confirm":"确认"
+  },
+  "ko": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "confirm_text":"为了保障账户资金安全，至少需要开启1项双重身份验证方式。可在开启其他验证方式后再进行关闭。",
+    "button_confirm":"确认"
+  },
+  "ja": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "confirm_text":"为了保障账户资金安全，至少需要开启1项双重身份验证方式。可在开启其他验证方式后再进行关闭。",
+    "button_confirm":"确认"
+  },
+  "zh-Hant": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "confirm_text":"为了保障账户资金安全，至少需要开启1项双重身份验证方式。可在开启其他验证方式后再进行关闭。",
+    "button_confirm":"确认"
+  }
+}

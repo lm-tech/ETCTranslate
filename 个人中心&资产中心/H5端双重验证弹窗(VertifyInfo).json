@@ -1,0 +1,47 @@
+{
+    "zh": {
+        "vertify_tips": " 为了您的资金安全，请设置6位数的资金密码。此密码将作为您提币的重要凭证。",
+        "bind_google": "谷歌验证绑定",
+        "bind_google_tips": "提现安全验证，请绑定谷歌验证器",
+        "bind_email": "邮箱验证绑定",
+        "bind_email_tips": "默认验证方式",
+        "bind": "已绑定",
+        "title": "双重身份验证"
+    },
+    "en": {
+        "vertify_tips": " 为了您的资金安全，请设置6位数的资金密码。此密码将作为您提币的重要凭证。",
+        "bind_google": "谷歌验证绑定",
+        "bind_google_tips": "提现安全验证，请绑定谷歌验证器",
+        "bind_email": "邮箱验证绑定",
+        "bind_email_tips": "默认验证方式",
+        "bind": "已绑定",
+        "title": "双重身份验证"
+    },
+    "ko": {
+        "vertify_tips": " 为了您的资金安全，请设置6位数的资金密码。此密码将作为您提币的重要凭证。",
+        "bind_google": "谷歌验证绑定",
+        "bind_google_tips": "提现安全验证，请绑定谷歌验证器",
+        "bind_email": "邮箱验证绑定",
+        "bind_email_tips": "默认验证方式",
+        "bind": "已绑定",
+        "title": "双重身份验证"
+    },
+    "ja": {
+        "vertify_tips": " 为了您的资金安全，请设置6位数的资金密码。此密码将作为您提币的重要凭证。",
+        "bind_google": "谷歌验证绑定",
+        "bind_google_tips": "提现安全验证，请绑定谷歌验证器",
+        "bind_email": "邮箱验证绑定",
+        "bind_email_tips": "默认验证方式",
+        "bind": "已绑定",
+        "title": "双重身份验证"
+    },
+    "zh-Hant": {
+        "vertify_tips": " 为了您的资金安全，请设置6位数的资金密码。此密码将作为您提币的重要凭证。",
+        "bind_google": "谷歌验证绑定",
+        "bind_google_tips": "提现安全验证，请绑定谷歌验证器",
+        "bind_email": "邮箱验证绑定",
+        "bind_email_tips": "默认验证方式",
+        "bind": "已绑定",
+        "title": "双重身份验证"
+    }
+}

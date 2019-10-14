@@ -1,0 +1,72 @@
+{
+  "zh": {
+    "assets_pwd_title":"修改资金密码",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "assets_pwd_label":"新资金密码",
+    "assets_pwd_confirm_label":"确认新密码",
+    "button_confirm":"确认",
+    "input_validate_empty_validation_code": "请输入验证码",
+    "input_validate_empty_trade_password":"新资金密码",
+    "input_transaction_asset_password": "请输入6位数密码",
+    "input_validate_mismatch": "两次密码输入不一致",
+    "input_send_success": "发送成功， 请查收",
+    "vcode_error":"验证码不正确"
+  },
+  "en": {
+    "assets_pwd_title":"修改资金密码",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "assets_pwd_label":"新资金密码",
+    "assets_pwd_confirm_label":"确认新密码",
+    "button_confirm":"确认",
+    "input_validate_empty_validation_code": "Please enter the verification code",
+    "input_validate_empty_trade_password":"新资金密码",
+    "input_transaction_asset_password": "Please enter your 6-digit password",
+    "input_validate_mismatch": "Passwords do not match",
+    "input_send_success": "Successfully sent, please check",
+    "vcode_error":"验证码不正确"
+  },
+  "ko": {
+    "assets_pwd_title":"修改资金密码",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "assets_pwd_label":"新资金密码",
+    "assets_pwd_confirm_label":"确认新密码",
+    "button_confirm":"确认",
+    "input_validate_empty_validation_code": "인증코드 발송를 입력해 주세요",
+    "input_validate_empty_trade_password":"新资金密码",
+    "input_transaction_asset_password": "6자 비밀번호를 입력해주세요",
+    "input_validate_mismatch": "비밀번호가 동일하지 않습니다. ",
+    "input_send_success": "발송성공",
+    "vcode_error":"验证码不正确"
+  },
+  "ja": {
+    "assets_pwd_title":"修改资金密码",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "assets_pwd_label":"新资金密码",
+    "assets_pwd_confirm_label":"确认新密码",
+    "button_confirm":"确认",
+    "input_validate_empty_validation_code": "認証コードを入力してください",
+    "input_validate_empty_trade_password":"新资金密码",
+    "input_transaction_asset_password": "６桁のパスワードを入力してください。",
+    "input_validate_mismatch": "パスワードが一致しない",
+    "input_send_success": "送信成功、ご確認ください",
+    "vcode_error":"验证码不正确"
+  },
+  "zh-Hant": {
+    "assets_pwd_title":"修改资金密码",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "assets_pwd_label":"新资金密码",
+    "assets_pwd_confirm_label":"确认新密码",
+    "button_confirm":"确认",
+    "input_validate_empty_validation_code": "請輸入驗證碼",
+    "input_validate_empty_trade_password":"新资金密码",
+    "input_transaction_asset_password": "請輸入6位數密碼",
+    "input_validate_mismatch": "兩次密碼輸入不一致",
+    "input_send_success": "發送成功， 請查收",
+    "vcode_error":"验证码不正确"
+  }
+}

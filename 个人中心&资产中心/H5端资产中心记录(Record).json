@@ -1,0 +1,47 @@
+{
+  "zh": {
+    "tab_deposit": "充值记录",
+    "tab_withdraw": "提币记录",
+    "tab_give": "平台赠送",
+    "timeChoose_title": "选择时间",
+    "time_choose": "最近{date}天",
+    "personal": "自定义",
+    "start_choose": "请选择"
+  },
+  "en": {
+    "tab_deposit": "充值记录",
+    "tab_withdraw": "提币记录",
+    "tab_give": "平台赠送",
+    "timeChoose_title": "选择时间",
+    "time_choose": "最近{date}天",
+    "personal": "自定义",
+    "start_choose": "请选择"
+  },
+  "ko": {
+    "tab_deposit": "充值记录",
+    "tab_withdraw": "提币记录",
+    "tab_give": "平台赠送",
+    "timeChoose_title": "选择时间",
+    "time_choose": "最近{date}天",
+    "personal": "自定义",
+    "start_choose": "请选择"
+  },
+  "ja": {
+    "tab_deposit": "充值记录",
+    "tab_withdraw": "提币记录",
+    "tab_give": "平台赠送",
+    "timeChoose_title": "选择时间",
+    "time_choose": "最近{date}天",
+    "personal": "自定义",
+    "start_choose": "请选择"
+  },
+  "zh-Hant": {
+    "tab_deposit": "充值记录",
+    "tab_withdraw": "提币记录",
+    "tab_give": "平台赠送",
+    "timeChoose_title": "选择时间",
+    "time_choose": "最近{date}天",
+    "personal": "自定义",
+    "start_choose": "请选择"
+  }
+}

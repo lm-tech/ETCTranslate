@@ -1,0 +1,47 @@
+{
+  "zh": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "button_confirm":"确认",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "input_send_success": "发送成功，请查收",
+    "error_only_one":"验证至少保留一种"
+  },
+  "en": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "button_confirm":"确认",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "input_send_success": "Sent. Please review.",
+    "error_only_one":"验证至少保留一种"
+  },
+  "ko": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "button_confirm":"确认",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "input_send_success": "이메일을 발송하였습니다. 확인해주세요.",
+    "error_only_one":"验证至少保留一种"
+  },
+  "ja": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "button_confirm":"确认",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "input_send_success": "送信成功、ご確認ください",
+    "error_only_one":"验证至少保留一种"
+  },
+  "zh-Hant": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "button_confirm":"确认",
+    "email_label":"邮箱账号",
+    "vcode_label":"验证码",
+    "input_send_success": "發送成功，請查收",
+    "error_only_one":"验证至少保留一种"
+  }
+}

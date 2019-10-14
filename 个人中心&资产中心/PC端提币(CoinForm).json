@@ -1,0 +1,27 @@
+{
+  "zh": {
+    "recharge_info":"提币信息",
+    "recharge_confirm":"提币确认",
+    "recharge_check_confirm":"二次验证"
+  },
+  "en": {
+    "recharge_info":"提币信息",
+    "recharge_confirm":"提币确认",
+    "recharge_check_confirm":"二次验证"
+  },
+  "ko": {
+    "recharge_info":"提币信息",
+    "recharge_confirm":"提币确认",
+    "recharge_check_confirm":"二次验证"
+  },
+  "ja": {
+    "recharge_info":"提币信息",
+    "recharge_confirm":"提币确认",
+    "recharge_check_confirm":"二次验证"
+  },
+  "zh-Hant": {
+    "recharge_info":"提币信息",
+    "recharge_confirm":"提币确认",
+    "recharge_check_confirm":"二次验证"
+  }
+}

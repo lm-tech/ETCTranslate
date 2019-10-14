@@ -1,0 +1,43 @@
+{
+  "zh": {
+    "recharge_text": "充值",
+    "coin_text":"提币",
+    "assets_amount":"总资产折合：",
+    "recharge_tip":"重要提示：禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回",
+    "coin_tip":"重要提示：不支持平台内部地址转账，请不要将{currency}提币至非{currency}地址",
+    "assets_center_currency_statement": "币种声明"
+  },
+  "en": {
+    "recharge_text": "充值",
+    "coin_text":"提币",
+    "assets_amount":"总资产折合：",
+    "recharge_tip":"重要提示：禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回",
+    "coin_tip":"重要提示：不支持平台内部地址转账，请不要将{currency}提币至非{currency}地址",
+    "currency":"币种",
+    "assets_center_currency_statement": "Token Disclaimer"
+  },
+  "ko": {
+    "recharge_text": "充值",
+    "coin_text":"提币",
+    "assets_amount":"总资产折合：",
+    "recharge_tip":"重要提示：禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回",
+    "coin_tip":"重要提示：不支持平台内部地址转账，请不要将{currency}提币至非{currency}地址",
+    "assets_center_currency_statement": "암호화폐 면책조항"
+  },
+  "ja": {
+    "recharge_text": "充值",
+    "coin_text":"提币",
+    "assets_amount":"总资产折合：",
+    "recharge_tip":"重要提示：禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回",
+    "coin_tip":"重要提示：不支持平台内部地址转账，请不要将{currency}提币至非{currency}地址",
+    "assets_center_currency_statement": "重要な声明"
+  },
+  "zh-Hant": {
+    "recharge_text": "充值",
+    "coin_text":"提币",
+    "assets_amount":"总资产折合：",
+    "recharge_tip":"重要提示：禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回",
+    "coin_tip":"重要提示：不支持平台内部地址转账，请不要将{currency}提币至非{currency}地址",
+    "assets_center_currency_statement": "幣種聲明"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "zh": {
+        "input_place": "输入搜索币种名",
+        "cancel": "取消",
+        "hot_search": "热门搜索",
+        "shrink_coin": "已冻结："
+    },
+    "en": {
+        "input_place": "输入搜索币种名",
+        "cancel": "取消",
+        "hot_search": "热门搜索",
+        "shrink_coin": "已冻结："
+    },
+    "ko": {
+        "input_place": "输入搜索币种名",
+        "cancel": "取消",
+        "hot_search": "热门搜索",
+        "shrink_coin": "已冻结："
+    },
+    "ja": {
+        "input_place": "输入搜索币种名",
+        "cancel": "取消",
+        "hot_search": "热门搜索",
+        "shrink_coin": "已冻结："
+    },
+    "zh-Hant": {
+        "input_place": "输入搜索币种名",
+        "cancel": "取消",
+        "hot_search": "热门搜索",
+        "shrink_coin": "已冻结："
+    }
+}

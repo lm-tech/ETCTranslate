@@ -1,0 +1,32 @@
+{
+    "zh": {
+        "amount_back": "预计到账",
+        "widthdraw_fee": "手续费",
+        "button_confirm": "确定",
+        "title": "提币确认"
+    },
+    "en": {
+        "amount_back": "预计到账",
+        "widthdraw_fee": "手续费",
+        "button_confirm": "确定",
+        "title": "提币确认"
+    },
+    "ko": {
+        "amount_back": "预计到账",
+        "widthdraw_fee": "手续费",
+        "button_confirm": "确定",
+        "title": "提币确认"
+    },
+    "ja": {
+        "amount_back": "预计到账",
+        "widthdraw_fee": "手续费",
+        "button_confirm": "确定",
+        "title": "提币确认"
+    },
+    "zh-hant": {
+        "amount_back": "预计到账",
+        "widthdraw_fee": "手续费",
+        "button_confirm": "确定",
+        "title": "提币确认"
+    }
+}
