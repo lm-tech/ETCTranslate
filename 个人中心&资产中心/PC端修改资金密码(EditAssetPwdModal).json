@@ -10,7 +10,7 @@
     "input_validate_empty_trade_password":"新资金密码",
     "input_transaction_asset_password": "请输入6位数密码",
     "input_validate_mismatch": "两次密码输入不一致",
-    "input_send_success": "发送成功， 请查收",
+    "input_send_success": "发送成功，请查收",
     "vcode_error":"验证码不正确"
   },
   "en": {
