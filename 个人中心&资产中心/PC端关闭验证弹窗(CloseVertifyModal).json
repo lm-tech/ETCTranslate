@@ -6,7 +6,7 @@
     "email_label":"邮箱账号",
     "vcode_label":"验证码",
     "input_send_success": "发送成功，请查收",
-    "error_only_one":"验证至少保留一种"
+    "error_only_one":"至少保留一种验证方式"
   },
   "en": {
     "email_verify_title":"关闭邮箱验证",
