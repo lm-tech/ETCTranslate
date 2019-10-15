@@ -26,7 +26,7 @@
     "register_error_2": "验证码错误",
     "register_error_3": "账号被冻结，冻结时长2小时",
     "register_error_other": "系统异常",
-    "top_tips": "为了您的资金安全，此密码将作为您提币的重要凭证请设置 6位数字的资金密码",
+    "top_tips": "为了您的资金安全，此密码将作为您提币的重要凭证，请设置6位数字的资金密码",
     "set_coin_password_success": "设置成功"
   },
   "en": {
