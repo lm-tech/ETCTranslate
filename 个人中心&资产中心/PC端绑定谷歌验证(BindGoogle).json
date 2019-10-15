@@ -10,14 +10,14 @@
     "copy":"复制",
     "pwd_tip":"密钥用于手机更换或遗失时找回谷歌验证器，绑定前请务必将下述密钥备份保存",
     "step3_text":"输入谷歌验证器中6位验证码",
-    "googleVcode":"Google验证码",
+    "googleVcode":"谷歌验证码",
     "vcode":"验证码",
     "email_label":"邮箱账号",
     "vcode_label":"验证码",
     "button_confirm":"确认",
     "input_send_success": "发送成功，请查收",
     "vcode_error":"验证码不正确",
-    "google_key_error":"googleKey失效"
+    "google_key_error":"GoogleKey失效"
   },
   "en": {
     "bind_google_step1_tip":"谷歌验证器是一款动态口令工具，工作原理类似短信动态验证。绑定后每30s生成一个动态验证码，验证码可用于登录、提现、修改安全设置等操作的安全验证。",
