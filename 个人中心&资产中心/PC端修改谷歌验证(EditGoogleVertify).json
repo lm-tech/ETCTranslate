@@ -7,7 +7,7 @@
     "copy":"复制",
     "pwd_tip":"密钥用于手机更换或遗失时找回谷歌验证器，绑定前请务必将下述密钥备份保存",
     "step3_text":"输入谷歌验证器中6位验证码",
-    "googleVcode":"Google验证码",
+    "googleVcode":"谷歌验证码",
     "vcode":"验证码",
     "button_confirm":"确认",
     "email_label":"邮箱账号",
@@ -15,7 +15,7 @@
     "old_google_vcode_label":"原谷歌验证码",
     "input_send_success": "发送成功，请查收",
     "vode_error":"验证码不正确",
-    "google_key_error": "googleKey失效"
+    "google_key_error": "GoogleKey失效"
   },
   "en": {
     "step1_text":"新谷歌验证器中添加密钥并备份",
@@ -86,6 +86,6 @@
     "old_google_vcode_label":"原谷歌验证码",
     "input_send_success": "發送成功，請查收",
     "vode_error":"验证码不正确",
-    "google_key_error": "googleKey失效"
+    "google_key_error": "GoogleKey失效"
   }
 }
