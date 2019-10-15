@@ -62,7 +62,7 @@
     "withdraw_form_amount_too_low_gect": "最低提币数量1,000 GECT",
     "withdraw_form_amount_too_area_gect": "提币范围：1,000 GECT ~  ",
     "withdraw_error_1001": "验证信息缺失",
-    "withdraw_error_VERIFY_ERROR_GA": "google验证码错误",
+    "withdraw_error_VERIFY_ERROR_GA": "谷歌验证码错误",
     "withdraw_error_VERIFY_ERROR_EMAIL": "邮箱验证码错误",
     "withdraw_error_USER_BLOCK": "提币功能冻结（2小时）",
     "withdraw_error_WITHDRAW_ADDRESS_IS_INTERNAL_ADDRESS": "暂不支持平台内部地址转账",
