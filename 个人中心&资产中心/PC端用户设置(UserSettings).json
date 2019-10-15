@@ -13,7 +13,7 @@
     "assets_pwd_text":"资金密码",
     "assets_pwd_use":"用于保护资金安全",
     "two_verify":"二次验证",
-    "two_verify_tip":"至少开启1项双重身份验证；强力建议开启2项",
+    "two_verify_tip":"至少开启1项双重身份验证；强烈建议开启2项",
     "email_verify_text":"邮箱验证",
     "google_verify_text":"谷歌验证",
     "account_use":"用于加强资金安全保护",
