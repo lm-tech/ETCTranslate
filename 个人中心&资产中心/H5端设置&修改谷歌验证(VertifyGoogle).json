@@ -17,7 +17,7 @@
         "google_code_place": "请输入谷歌验证码",
         "google_code_valid": "请输入6位验证码",
         "button_submit": "提交",
-        "google_title_update": "新谷歌验证",
+        "google_title_update": "修改谷歌验证",
         "google_error_1001": "验证码不正确",
         "google_error_1002": "GoogleKey失效",
         "google_error_9999": "网络错误",
