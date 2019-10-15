@@ -2,7 +2,7 @@
   "zh": {
     "change_password_validate_empty_old_password": "请输入原登录密码",
     "change_password_validate_empty_new_password": "请输入密码",
-    "change_password_validate_error_new_password": "密码长度为6位",
+    "change_password_validate_error_new_password": "密码为6位数字",
     "change_password_validate_empty_validation_code": "请输入验证码",
     "change_password_validate_confirm_new_password": "两次输入密码不一致",
     "change_password_send_success": "发送成功，请查收",
@@ -13,7 +13,7 @@
     "change_password_cancel": "取消",
     "change_password_confirm": "确认",
     "change_password_success": "修改成功！",
-    "change_password_strength_notice": "登录密码8-32位字符，建议包含字母大小写及特殊符号",
+    "change_password_strength_notice": "登录密码8-32位字符，建议包含字母、数字及特殊符号",
     "input_button_focus": "若验证码邮件没有顺利到达您的收件箱，请注意检查垃圾箱内的邮件",
     "change_password_validate_empty_comfirm_password": "确认密码",
     "label_email": "邮箱:",
