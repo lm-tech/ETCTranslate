@@ -9,7 +9,7 @@
     "change_email_form_validate_error_email": "请输入正确的邮箱",
     "change_email_form_validate_empty_vcode": "请输入验证码",
     "change_email_form_validate_six_vcode": "请输入6位数验证码",
-    "input_send_success": "发送成功， 请查收",
+    "input_send_success": "发送成功，请查收",
     "change_email_form_success": "修改成功！"
   },
   "en": {
