@@ -1,0 +1,192 @@
+{
+  "zh": {
+    "promotion_area": "推广专区",
+    "play_guide": "玩法指南",
+    "and_down": "扫描即可下载",
+    "to_signIn": "每日签到",
+    "infoSlider_text": [
+      {
+        "name": "新手引导-账号投币"
+      },
+      {
+        "name": "新手引导-智能合约投币"
+      },
+      {
+        "name": "预测细则"
+      },
+      {
+        "name": "使用条款"
+      },
+      {
+        "name": "隐私条款"
+      }
+    ],
+    "index": "首页",
+    "games": "游戏",
+    "events": "赛事",
+    "activities": "活动",
+    "app_download": "APP下载",
+    "header_login": "登录",
+    "header_register": "注册",
+    "header_assetCenter": "资产中心",
+    "header_recharge": "充值/提币",
+    "header_bet_record": "投币记录",
+    "header_userAccount": "个人账户",
+    "header_accountManage": "账号管理",
+    "header_messageCenter": "消息中心",
+    "header_logout": "退出",
+    "header_see_detail": "查看详情"
+  },
+  "en": {
+    "promotion_area": "Promotion Zone",
+    "play_guide": "Tutorials",
+    "and_down": "Scan to download",
+    "to_signIn": "Daily Check-in",
+    "infoSlider_text": [
+      {
+        "name": "Beginner’s Guide - Membership"
+      },
+      {
+        "name": "Beginner’s Guide - Smart contract"
+      },
+      {
+        "name": "Game Rules"
+      },
+      {
+        "name": "Terms of Use"
+      },
+      {
+        "name": "Privacy Policy"
+      }
+    ],
+    "index": "Home",
+    "games": "Games",
+    "events": "Sports",
+    "activities": "Campaigns",
+    "app_download": "Download App",
+    "header_login": "Login",
+    "header_register": "Sign Up",
+    "header_assetCenter": "Assets",
+    "header_recharge": "Deposit & More",
+    "header_bet_record": "Forecast History",
+    "header_userAccount": "Personal Account",
+    "header_accountManage": "Settings",
+    "header_messageCenter": "Message Center",
+    "header_logout": "Logout",
+    "header_see_detail": "Details"
+  },
+  "ja": {
+    "promotion_area": "宣伝部分",
+    "play_guide": "プレイガイド",
+    "and_down": "スキャンでダウンロードできます",
+    "to_signIn": "チェックイン",
+    "infoSlider_text": [
+      {
+        "name": "チュートリアル - 会員ベット"
+      },
+      {
+        "name": "チュートリア - 直接ベット"
+      },
+      {
+        "name": "ベッティングの細則"
+      },
+      {
+        "name": "利用契約"
+      },
+      {
+        "name": "プライバシー規約"
+      }
+    ],
+    "index": "Home",
+    "games": "ゲーム",
+    "events": "スポーツ",
+    "activities": "イベント",
+    "app_download": "Download App",
+    "header_login": "ログイン",
+    "header_register": "新規登録",
+    "header_assetCenter": "資産",
+    "header_recharge": "チャージ",
+    "header_bet_record": "‐ベッティング記録",
+    "header_userAccount": "個人アカウント",
+    "header_accountManage": "アカウント管理",
+    "header_messageCenter": "メッセージセンター",
+    "header_logout": "ログアウト",
+    "header_see_detail": "詳細"
+  },
+  "ko": {
+    "promotion_area": "홍보원",
+    "play_guide": "이용 안내",
+    "and_down": "스캔하여 다운",
+    "to_signIn": "출석체크",
+    "infoSlider_text": [
+      {
+        "name": "신규회원 가이드 - 일반베팅"
+      },
+      {
+        "name": "신규회원 가이드 - 간편베팅"
+      },
+      {
+        "name": "예측 규칙"
+      },
+      {
+        "name": "이용약관"
+      },
+      {
+        "name": "보안약관"
+      }
+    ],
+    "index": "Home",
+    "games": "Games",
+    "events": "Sports",
+    "activities": "Campaigns",
+    "app_download": "APP 다운",
+    "header_login": "로그인",
+    "header_register": "회원가입",
+    "header_assetCenter": "자산",
+    "header_recharge": "충전 / 출금",
+    "header_bet_record": "베팅기록",
+    "header_userAccount": "내 계정",
+    "header_accountManage": "계정관리",
+    "header_messageCenter": "받은 소식",
+    "header_logout": "로그 아웃",
+    "header_see_detail": "알림 내용"
+  },
+  "zh-Hant": {
+    "promotion_area": "推廣專區",
+    "play_guide": "玩法指南",
+    "and_down": "掃描即可下載",
+    "to_signIn": "每日簽到",
+    "infoSlider_text": [
+      {
+        "name": "新手引導-賬號投註"
+      },
+      {
+        "name": "新手引導-智能合約投註"
+      },
+      {
+        "name": "競猜細則"
+      },
+      {
+        "name": "使用條款"
+      },
+      {
+        "name": "隱私條款"
+      }
+    ],
+    "index": "首頁",
+    "games": "遊戲",
+    "events": "賽事",
+    "activities": "活動",
+    "app_download": "App下載",
+    "header_login": "登錄",
+    "header_register": "註冊",
+    "header_assetCenter": "資產中心",
+    "header_recharge": "充值/提幣",
+    "header_bet_record": "投币記錄",
+    "header_userAccount": "個人賬戶",
+    "header_accountManage": "帳号管理",
+    "header_messageCenter": "消息中心",
+    "header_logout": "退出",
+    "header_see_detail": "查看詳情"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "zh": {
+    "pwd_title": "设置资金密码",
+    "pwd_label": "资金密码:",
+    "pwd_label_confirm": "确认密码:",
+    "button_confirm": "确定",
+    "pwd_tips": "*为了您的资金安全，此密码将作为您提币重要凭证。",
+    "pwd_require": "请输入密码",
+    "pwd_confirm_require": "请确认密码",
+    "pwd_confirm_error": "密码不一致",
+    "pwd_submit_success": "设置成功",
+    "pwd_valid": "请输入6位数字资金密码",
+    "pwd_confirm_valid": "确认新资金密码"
+  },
+  "en": {
+    "pwd_title": "Set Fund Password",
+    "pwd_label": "Fund password:",
+    "pwd_label_confirm": "Verify password:",
+    "button_confirm": "Confirm",
+    "pwd_tips": "*To ensure you fund security, this password will be an essential factor for your withdrawals.",
+    "pwd_require": "Please enter password",
+    "pwd_confirm_require": "Please confirm password",
+    "pwd_confirm_error": "The passwords don't match",
+    "pwd_submit_success": "Done",
+    "pwd_valid": "Please enter 6-digit number payment password",
+    "pwd_confirm_valid": "Confirm new payment password"
+  },
+  "ko": {
+    "pwd_title": "출금 비밀번호 설정",
+    "pwd_label": "거래 비밀번호:",
+    "pwd_label_confirm": "비밀번호 확인:",
+    "button_confirm": "확인",
+    "pwd_tips": "*계정 보안을 위해 본 출금 비밀번호는 출금 시 반드시 필요합니다.",
+    "pwd_require": "비밀번호를 입력하세요",
+    "pwd_confirm_require": "비밀번호를 한 번 더 입력하세요",
+    "pwd_confirm_error": "비밀번호가 일치하지 않습니다",
+    "pwd_submit_success": "설정 완료",
+    "pwd_valid": "출금 비밀번호 6자리 숫자 입력",
+    "pwd_confirm_valid": "새로운 자산 비밀번호 확인"
+  },
+  "ja": {
+    "pwd_title": "資金パスワードを設定",
+    "pwd_label": "資金パスワードを設定:",
+    "pwd_label_confirm": "パスワードを確認:",
+    "button_confirm": "確認",
+    "pwd_tips": "*あなたの資金の安全性のために、このパスワードをあなたが出金する時の重要な証拠として使ってください。",
+    "pwd_require": "パスワードを入力してください",
+    "pwd_confirm_require": "パスワードを確認してください",
+    "pwd_confirm_error": "パスワードが一致しません",
+    "pwd_submit_success": "設定完了",
+    "pwd_valid": "6桁の数字資金のパスワードを入力してください",
+    "pwd_confirm_valid": "新資金パスワードを確認"
+  },
+  "zh-Hant": {
+    "pwd_title": "設置資金密碼",
+    "pwd_label": "資金密碼:",
+    "pwd_label_confirm": "確認密碼:",
+    "button_confirm": "確定",
+    "pwd_tips": "*為了您的資金安全，此密碼將作為您提幣的重要憑證。",
+    "pwd_require": "請輸入密碼",
+    "pwd_confirm_require": "請確認密碼",
+    "pwd_confirm_error": "密碼不一致",
+    "pwd_submit_success": "設置成功",
+    "pwd_valid": "請輸入6位數字資金密碼",
+    "pwd_confirm_valid": "確認新資金密碼"
+  }
+}

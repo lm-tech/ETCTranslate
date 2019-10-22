@@ -1,0 +1,23 @@
+{
+  "zh": {
+    "detail_history_toBottom": "已经到达底线"
+  },
+  "en": {
+    "detail_history_toBottom": "End of the list"
+  },
+  "ja": {
+    "detail_history_toBottom": "ボトムラインに到達しました"
+  },
+  "ko": {
+    "detail_history_toBottom": "더 이상 표시할 내용이 없습니다"
+  },
+  "ru": {
+    "detail_history_toBottom": "已经到达底线"
+  },
+  "vi": {
+    "detail_history_toBottom": "已经到达底线"
+  },
+  "zh-Hant": {
+    "detail_history_toBottom": "已經到達底線"
+  }
+}

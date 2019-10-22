@@ -1,0 +1,17 @@
+{
+  "zh": {
+    "closed_message": "活动已下线，开启时间已官方通知为准"
+  },
+  "en": {
+    "closed_message": "The event has been closed. Please refer to official announcements for reopening time."
+  },
+  "ko": {
+    "closed_message": "이벤트가 일시 종료되었습니다. 재시작 시간은 홈페이지를 참조해주세요"
+  },
+  "ja": {
+    "closed_message": "The event has been closed. Please refer to official announcements for reopening time."
+  },
+  "zh-Hant": {
+    "closed_message": "活動已下線，開啟時間已官方通知為準"
+  }
+}

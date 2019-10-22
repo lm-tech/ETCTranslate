@@ -1,0 +1,44 @@
+{
+  "zh": {
+    "coming_title": "即将开赛",
+    "update": "换一换",
+    "more": "更多",
+    "detail_game_sessions": "第{sessions}轮"
+  },
+  "en": {
+    "coming_title": "Coming soon",
+    "update": "Switch",
+    "more": "More",
+    "detail_game_sessions": "Round {sessions}"
+  },
+  "ja": {
+    "coming_title": "間もなく開始",
+    "update": "スイッチ",
+    "more": "もっと見る",
+    "detail_game_sessions": "第{sessions}回"
+  },
+  "ko": {
+    "coming_title": "런칭 예정",
+    "update": "새로고침",
+    "more": "더보기",
+    "detail_game_sessions": "제{sessions}회"
+  },
+  "ru": {
+    "coming_title": "Coming soon",
+    "update": "Switch",
+    "more": "More",
+    "detail_game_sessions": "{sessions} раунд"
+  },
+  "vi": {
+    "coming_title": "Coming soon",
+    "update": "Switch",
+    "more": "More",
+    "detail_game_sessions": "Thứ{sessions}Vòng"
+  },
+  "zh-Hant": {
+    "coming_title": "即将开赛",
+    "update": "换一换",
+    "more": "更多",
+    "detail_game_sessions": "第{sessions}輪"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "zh": {
+    "message_detail_back_title": "消息详情",
+    "message_detail_back": "返回"
+  },
+  "en": {
+    "message_detail_back_title": "Message details",
+    "message_detail_back": "Back"
+  },
+  "ko": {
+    "message_detail_back_title": "알림 내용",
+    "message_detail_back": "뒤로"
+  },
+  "ja": {
+    "message_detail_back_title": "メッセージ詳細",
+    "message_detail_back": "戻る"
+  },
+  "ru": {
+    "message_detail_back_title": "消息详情",
+    "message_detail_back": "Возвращать"
+  },
+  "vi": {
+    "message_detail_back_title": "消息详情",
+    "message_detail_back": "hồi về"
+  },
+  "zh-Hant": {
+    "message_detail_back_title": "消息詳情",
+    "message_detail_back": "返回"
+  }
+}

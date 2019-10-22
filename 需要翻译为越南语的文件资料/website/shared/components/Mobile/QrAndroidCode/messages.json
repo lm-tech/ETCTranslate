@@ -1,0 +1,44 @@
+{
+  "zh": {
+    "androidMessage": "点击按钮",
+    "androidApp": "下载安卓APP",
+    "androidVersion": "版本号:V",
+    "immediately": "立即下载"
+  },
+  "en": {
+    "androidMessage": "Hit the button to",
+    "androidApp": "download Android App",
+    "androidVersion": "Version:V",
+    "immediately": "Download Now"
+  },
+  "ja": {
+    "androidMessage": "ボタンをクリックして、",
+    "androidApp": "Androidアプリをダウンロードする",
+    "androidVersion": "バージョン番号:V",
+    "immediately": "今すぐにダウンロードする"
+  },
+  "ko": {
+    "androidMessage": "Android App",
+    "androidApp": " 다운로드",
+    "androidVersion": "버전 정보:V",
+    "immediately": "다운로드"
+  },
+  "ru": {
+    "androidMessage": "点击按钮",
+    "androidApp": "下载安卓APP",
+    "androidVersion": "版本号:V",
+    "immediately": "立即下载"
+  },
+  "vi": {
+    "androidMessage": "点击按钮",
+    "androidApp": "下载安卓APP",
+    "androidVersion": "版本号:V",
+    "immediately": "立即下载"
+  },
+  "zh-Hant": {
+    "androidMessage": "點擊按鈕",
+    "androidApp": "下載安卓App",
+    "androidVersion": "版本號:V",
+    "immediately": "立即下載"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "content_title_detail": "飞镖",
+    "detail_big_title": "飞镖赛",
+    "detail_big_title1": "投币在最终胜出者 (冠军倍数) 的预测，永不失效。不幸投币在半途退出的选手的投币，将做赌输论。",
+    "detail_paragraph_one": "淘汰赛投币",
+    "detail_paragraph_one1": "只要在第一循环中，有选手掷标，则那位被升上去下一轮循环赛的选手，即被确定为胜出者。若无人掷标，则所有投币作废。",
+    "detail_paragraph_two": "全场赛投币",
+    "detail_paragraph_two1": "事先规定的全部场次, 必须都打完。如因任何原因这些场次未能打完，尽管有选手获奖或夺冠，所有投币仍然作废。",
+    "detail_paragraph_three": "投币结算",
+    "detail_paragraph_three1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
+  },
+  "en": {
+    "content_title_detail": "Darts",
+    "detail_big_title": "Darts",
+    "detail_big_title1": "When prediction on the outright tournament winner, all wagers have action; there are no refunds. Should a player withdraw before a tournament begins, any predictions on that player to win the tournament will be graded as losses.",
+    "detail_paragraph_one": "Match Wagers",
+    "detail_paragraph_one1": "The player progressing to the next round will be deemed the winner, providing one of the players has thrown a dart at the start of the first leg. If the first dart is not thrown, all predictions will be void.",
+    "detail_paragraph_two": "Sets Wagers",
+    "detail_paragraph_two1": "The full number of sets required to win the match must be completed. If for any reason the match is awarded to a contestant before the full number of sets are completed, all Sets wagers on the match will be void.",
+    "detail_paragraph_three": "Settlement of Wagers",
+    "detail_paragraph_three1": "All predictions will be settled after the time and dates specified in the prediction.Market trading data and results will be obtained from reputable third parties.If the market does not have valid data based on technical issues, or the data cannot be confirmed, the platform has the right to retain the delayed payout until it is confirmed by a trusted third party."
+  },
+  "ko": {
+    "content_title_detail": "다트",
+    "detail_big_title": "다트",
+    "detail_big_title1": "토너먼트 우승자에 대해 베팅할 때는 모든 베팅이 진행됩니다. 환불이 되지 않습니다. 특정 선수가 토너먼트가 시작하기 전에 불참을 선언하면 해당 선수의 우승에 베팅된 금액은 손실로 평가될 것입니다.",
+    "detail_paragraph_one": "토너먼트 베팅",
+    "detail_paragraph_one1": "두 명의 선수 가운데 한 선수가 첫 레그에 다트를 던졌으면 다음 라운드에 진출하는 선수가 승자로 간주됩니다. 첫 다트를 던지지 않았으면 모든 베팅이 무효 처리됩니다.",
+    "detail_paragraph_two": "세트 베팅",
+    "detail_paragraph_two1": "세트 베팅: 경기에서 승리하는 데 필요한 세트 수가 완료되어야 합니다. 어떤 이유에서든 승리에 필요한 세트 수가 채워지기 전에 한 팀의 승리가 선언될 경우, 해당 경기에 대한 모든 세트 베팅은 무효 처리됩니다.",
+    "detail_paragraph_three": "베팅 금액 정산",
+    "detail_paragraph_three1": "예측 결제는 해당 경기의 공식 스코어 공급업체 또는 홈페이지에서 발표한 데이터를 근거로 한다. 공식 스코어 공급업체 및 홈페이지가 존재하지 않거나 제공된 데이터에 명확한 오류가 있음을 증명할 증거가 존재할 경우 독자적인 자료를 근거로 정산을 진행한다."
+  },
+  "ja": {
+    "content_title_detail": "ダーツ",
+    "detail_big_title": "ダーツ",
+    "detail_big_title1": "完全なトーナメント勝者賭けは、賭けは全て成立となり、返還はありません。 トーナメントが始まる前に賭けている選手が棄権すれば、そのトーナメントではその選手の全ての賭けが損失となります。",
+    "detail_paragraph_one": "マッチ賭け",
+    "detail_paragraph_one1": "マッチ賭け:次のラウンドへ上がった選手が勝者とみなされます。選手のうち1人が矢を投げて1回戦の始まりと定めます。最初の矢が放り投げられない場合、全ての賭けは無効です。",
+    "detail_paragraph_two": "セット賭け",
+    "detail_paragraph_two1": "セット賭け:試合に勝つのに必要とされるセット数は、完全に完了されなければなりません。 何かの理由で試合がセットの数が完了される前に競技者にセットを与えるならば、試合の全てのセット賭けは無効です。",
+    "detail_paragraph_three": "決済について：",
+    "detail_paragraph_three1": "決済は、関連する試合またはイベントの公式サイトに掲載されているデータに基づいて行われます。公式サイトが存在しない、または公式サイトのデータが不正確であると証明される場合、当社は関連する独立した情報に基づいて決済します。一貫性のある独立した証拠がない、または証拠に矛盾がする場合、当社はうちのデータに基づいて決済します。"
+  },
+  "ru": {
+    "content_title_detail": "飞镖",
+    "detail_big_title": "飞镖赛",
+    "detail_big_title1": "投币在最终胜出者 (冠军倍数) 的预测，永不失效。不幸投币在半途退出的选手的投币，将做赌输论。",
+    "detail_paragraph_one": "淘汰赛投币",
+    "detail_paragraph_one1": "只要在第一循环中，有选手掷标，则那位被升上去下一轮循环赛的选手，即被确定为胜出者。若无人掷标，则所有投币作废。",
+    "detail_paragraph_two": "全场赛投币",
+    "detail_paragraph_two1": "事先规定的全部场次, 必须都打完。如因任何原因这些场次未能打完，尽管有选手获奖或夺冠，所有投币仍然作废。",
+    "detail_paragraph_three": "投币结算",
+    "detail_paragraph_three1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
+  },
+  "vi": {
+    "content_title_detail": "飞镖",
+    "detail_big_title": "飞镖赛",
+    "detail_big_title1": "投币在最终胜出者 (冠军倍数) 的预测，永不失效。不幸投币在半途退出的选手的投币，将做赌输论。",
+    "detail_paragraph_one": "淘汰赛投币",
+    "detail_paragraph_one1": "只要在第一循环中，有选手掷标，则那位被升上去下一轮循环赛的选手，即被确定为胜出者。若无人掷标，则所有投币作废。",
+    "detail_paragraph_two": "全场赛投币",
+    "detail_paragraph_two1": "事先规定的全部场次, 必须都打完。如因任何原因这些场次未能打完，尽管有选手获奖或夺冠，所有投币仍然作废。",
+    "detail_paragraph_three": "投币结算",
+    "detail_paragraph_three1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
+  },
+  "zh-Hant": {
+    "content_title_detail": "飛鏢",
+    "detail_big_title": "飛鏢賽",
+    "detail_big_title1": "投幣在最終勝出者 (冠軍倍數) 的預測，永不失效。不幸投幣在半途退出的選手的投幣，將做賭輸論。",
+    "detail_paragraph_one": "淘汰賽投幣",
+    "detail_paragraph_one1": "只要在第一迴圈中，有選手擲標，則那位被升上去下一輪循環賽的選手，即被確定為勝出者。若無人擲標，則所有投幣作廢。",
+    "detail_paragraph_two": "全場賽投幣",
+    "detail_paragraph_two1": "事先規定的全部場次, 必須都打完。如因任何原因這些場次未能打完，儘管有選手獲獎或奪冠，所有投幣仍然作廢。",
+    "detail_paragraph_three": "投幣結算",
+    "detail_paragraph_three1": "投幣結算將以相關比賽或賽事的官方比分提供商或官方網站所公佈的資料為根據。當官方比分提供商或官方網站不存在或有重要證據證明官方比分提供商或官方網站的資料有誤時，我們將依據相關獨立資料進行結算。"
+  }
+}

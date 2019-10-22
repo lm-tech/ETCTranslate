@@ -1,0 +1,247 @@
+{
+  "zh": {
+    "title": [
+      "活动内容",
+      "参与方式",
+      "活动规则"
+    ],
+    "content": {
+      "part1": "活动期间用户在Coingame投币英雄联盟",
+      "part2": "赛区的任意一场赛事（",
+      "part3": "仅限单局获胜方及单局一血玩法",
+      "part4": "），若投币战队的任一队员于该局完成三杀及以上的多杀且注单为赢，即可获得最高40 USDT的红利。"
+    },
+    "ways": {
+      "part1": "符合条件的用户请将",
+      "part2": "用户名、注单号、投币截图",
+      "part3": "通过官方客服邮箱support@coingame.com提交。审核无误后，工作人员会在收到邮件后的3个工作日内将红利派发至用户平台账户中。",
+      "part4": "示例：",
+      "partName": "用户名",
+      "partSlip": "注单号",
+      "part5": "投币截图"
+    },
+    "rules": {
+      "rule1": "活动时间：2019年6月1日起至夏季赛结束。",
+      "rule2": "此活动适用于平台注册用户。",
+      "rule3": "用户投币额为",
+      "rule3_1": "等值30 USDT及以上的全币种订单，且投币倍数>1.50",
+      "rule3_2": "皆可参与此活动。币种的USDT汇率以比赛结束第二日10:00AM（UTC+8）CoinMarketCap为准，并以此汇率计算出投币金额。",
+      "rule4": "奖励金额：",
+      "rule4_1": [
+        "多杀数",
+        "奖励"
+      ],
+      "rule4_2": [
+        "三杀",
+        "4 USDT"
+      ],
+      "rule4_3": [
+        "四杀",
+        "12 USDT"
+      ],
+      "rule4_4": [
+        "五杀",
+        "40 USDT"
+      ],
+      "rule5": "每日可申请1次活动红利。",
+      "rule6": "活动红利可用于投币，用户投币后即可提币。",
+      "rule7": "快捷客服通道："
+    }
+  },
+  "en": {
+    "title": [
+      "Event Content",
+      "Way of Participation",
+      "Event Rules"
+    ],
+    "content": {
+      "part1": "During the event, Coingame users who place prediction and win",
+      "part2": "in any LOL competition (",
+      "part3": "only for single-round winners and single-round first blood",
+      "part4": ") , can get a multi-kill bonus of up to 40 USDT if any player in the winning team completes triple-kill or higher."
+    },
+    "ways": {
+      "part1": "Eligible users can submit ",
+      "part2": "your username, order ID, and screenshot of the order ",
+      "part3": " through the official customer service E-mail: support@coingame.com. Once reviewed and confirmed, Coingame staff will send the bonus to your account within 3 work days.",
+      "part4": "For example:",
+      "partName": "User ID",
+      "partSlip": "Forecast Slip ID",
+      "part5": "Screenshot of the order"
+    },
+    "rules": {
+      "rule1": "Event Time: 2019.6.1 -- the end of 2019 LOL summer splite.",
+      "rule2": "This event applies to registered Coingame users.",
+      "rule3": "Orders with prediction amount ",
+      "rule3_1": "at 30 USDT or higher and the prediction multiple is higher than 1.50",
+      "rule3_2": ", in all currencies, are applicable for this event. The USDT exchange rates of the currencies are subject to data of CoinMarketCap at 10:00 am (UTC+8) on the second day of the matchup, and the prediction amount will be calculated therefrom.",
+      "rule4": "Bonus Amount:",
+      "rule4_1": [
+        "Kills",
+        "Bonus"
+      ],
+      "rule4_2": [
+        "Triple Kill",
+        "4 USDT"
+      ],
+      "rule4_3": [
+        "Quadro Kill",
+        "12 USDT"
+      ],
+      "rule4_4": [
+        "Penta Kill",
+        "40 USDT"
+      ],
+      "rule5": "Each user can apply for 1 event bonus per day.",
+      "rule6": "The event bonus can be used for prediction. It will be available for withdrawal after being used in predictions.",
+      "rule7": "Customer Service Channels:"
+    }
+  },
+  "ja": {
+    "title": [
+      "Event Content",
+      "Way of Participation",
+      "Event Rules"
+    ],
+    "content": {
+      "part1": "During the event, Coingame users who place prediction and win",
+      "part2": "in any LOL competition (",
+      "part3": "only for single-round winners and single-round first blood",
+      "part4": ") , can get a multi-kill bonus of up to 40 USDT if any player in the winning team completes triple-kill or higher."
+    },
+    "ways": {
+      "part1": "Eligible users can submit ",
+      "part2": "your username, order ID, and screenshot of the order ",
+      "part3": " through the official customer service E-mail: support@coingame.com. Once reviewed and confirmed, Coingame staff will send the bonus to your account within 3 work days.",
+      "part4": "For example:",
+      "partName": "User ID",
+      "partSlip": "Forecast Slip ID",
+      "part5": "Screenshot of the order"
+    },
+    "rules": {
+      "rule1": "Event Time: 2019.6.1 -- the end of 2019 LOL summer splite.",
+      "rule2": "This event applies to registered Coingame users.",
+      "rule3": "Orders with prediction amount ",
+      "rule3_1": "at 30 USDT or higher and the prediction multiple is higher than 1.50",
+      "rule3_2": ", in all currencies, are applicable for this event. The USDT exchange rates of the currencies are subject to data of CoinMarketCap at 10:00 am (UTC+8) on the second day of the matchup, and the prediction amount will be calculated therefrom.",
+      "rule4": "Bonus Amount:",
+      "rule4_1": [
+        "Kills",
+        "Bonus"
+      ],
+      "rule4_2": [
+        "Triple Kill",
+        "4 USDT"
+      ],
+      "rule4_3": [
+        "Quadro Kill",
+        "12 USDT"
+      ],
+      "rule4_4": [
+        "Penta Kill",
+        "40 USDT"
+      ],
+      "rule5": "Each user can apply for 1 event bonus per day.",
+      "rule6": "The event bonus can be used for prediction. It will be available for withdrawal after being used in predictions.",
+      "rule7": "Customer Service Channels:"
+    }
+  },
+  "ko": {
+    "title": [
+      "이벤트 내용",
+      "참여 방법",
+      "이벤트 규칙"
+    ],
+    "content": {
+      "part1": "이벤트 기간 내 Coingame 플랫폼의 롤 리그인 ",
+      "part2": "경기에서 사용자의 베팅이 예측에 성공하였으며 (",
+      "part3": "매 라운드 승자 베팅과 첫킬 예측",
+      "part4": ") , 베팅한 팀의 선수가 해당 라운드에서 트리플킬 이상의 멀티킬을 기록하였을 경우 최대 40 USDT의 보상을 획득할 수 있습니다."
+    },
+    "ways": {
+      "part1": "참여 조건에 부합하는 사용자는 ",
+      "part2": "계정, 베팅 오더 번호, 베팅 오더 스크린샷 및 멀티킬 스크린샷을 ",
+      "part3": " 공식 고객센터 이메일인 support@coingame.com으로 보내주세요. 확인 후 문제가 없을 경우 3일(휴일 제외) 내에 이벤트 보상이 Coingame 계정으로 지급됩니다.",
+      "part4": "예:",
+      "partName": "계정",
+      "partSlip": "베팅 오더 번호",
+      "part5": "내기 스크린 샷"
+    },
+    "rules": {
+      "rule1": "이벤트 기간: 2019년 6월 1일부터 서머 시즌 종료까지.",
+      "rule2": "본 이벤트는 계정 사용자(일반 베팅)만 참여 가능합니다.",
+      "rule3": "",
+      "rule3_1": "배당이 1.5 초과하며 베팅 금액을 USDT로 환산했을 때 30USDT 이상인 모든 종류의 암호화폐 베팅 ",
+      "rule3_2": " 이벤트에 참여 가능합니다. USDT 대비 환율은 경기 종료 다음날 10:00AM（UTC+8）CoinMarketCap 을 기준으로 환산되어 사용자의 베팅 금액이 계산됩니다.",
+      "rule4": "보상 금액:",
+      "rule4_1": [
+        "멀티킬",
+        "보상"
+      ],
+      "rule4_2": [
+        "트리플킬",
+        "4 USDT"
+      ],
+      "rule4_3": [
+        "쿼드라킬",
+        "12 USDT"
+      ],
+      "rule4_4": [
+        "펜타킬",
+        "40 USDT"
+      ],
+      "rule5": "본 이벤트는 매일 한 번씩만 참여 가능합니다.",
+      "rule6": "이벤트 보상은 플랫폼 내의 모든 게임 및 스포츠 예측에 사용이 가능하며 베팅 후 출금 가능합니다.",
+      "rule7": "고객센터:"
+    }
+  },
+  "zh-Hant": {
+    "title": [
+      "活動內容",
+      "參與管道",
+      "活動規則"
+    ],
+    "content": {
+      "part1": "活動期間用戶在Coingame投币英雄聯盟",
+      "part2": "賽區的任意一場賽事（",
+      "part3": "僅限單局獲勝方及單局一血玩法",
+      "part4": ") , 若投币戰隊的任一隊員於該局完成三殺及以上的多殺且注單為贏，即可獲得最高40 USDT的紅利。"
+    },
+    "ways": {
+      "part1": "符合條件的用戶請將",
+      "part2": "用戶名、注單號、投币截圖",
+      "part3": "通過官方客服郵箱support@coingame.com提交。審核無誤後，工作人員會在收到郵件的3個工作日內將紅利派發至用戶平台賬戶中。",
+      "part4": "示例:",
+      "partName": "用戶名",
+      "partSlip": "注單號",
+      "part5": "投币截圖"
+    },
+    "rules": {
+      "rule1": "活動時間：2019年6月1日起至夏季賽結束。",
+      "rule2": "此活動適用於平台註冊用戶。",
+      "rule3": "用戶投币額為",
+      "rule3_1": "等值30 USDT及以上的全幣種訂單，且投币賠率>1.50",
+      "rule3_2": "皆可參與此活動。幣種的USDT匯率以比賽結束第二日10:00AM（UTC+8） CoinMarketCap為準，並以此匯率計算出投币金額。",
+      "rule4": "獎勵金額：",
+      "rule4_1": [
+        "多殺數",
+        "獎勵"
+      ],
+      "rule4_2": [
+        "三殺",
+        "4 USDT"
+      ],
+      "rule4_3": [
+        "四殺",
+        "12 USDT"
+      ],
+      "rule4_4": [
+        "五殺",
+        "40 USDT"
+      ],
+      "rule5": "每日可申請1次活動紅利。",
+      "rule6": "活動紅利可用於投币，用戶投币後即可提幣。",
+      "rule7": "快捷客服通道："
+    }
+  }
+}

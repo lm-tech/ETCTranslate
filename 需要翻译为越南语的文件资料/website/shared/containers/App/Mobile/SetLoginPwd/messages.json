@@ -1,0 +1,22 @@
+{
+  "zh": {
+    "bind_email_title": "设置登录密码",
+    "bind_email_cancel": "取消"
+  },
+  "en": {
+    "bind_email_title": "Set login password",
+    "bind_email_cancel": "Cancel"
+  },
+  "ko": {
+    "bind_email_title": "로그인 비밀번호 설정",
+    "bind_email_cancel": "취소"
+  },
+  "ja": {
+    "bind_email_title": "ログインパスワードの設置",
+    "bind_email_cancel": "取り消す"
+  },
+  "zh-Hant": {
+    "bind_email_title": "設置登錄密碼",
+    "bind_email_cancel": "取消"
+  }
+}

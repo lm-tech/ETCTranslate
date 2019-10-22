@@ -1,0 +1,23 @@
+{
+  "zh": {
+    "forgot_password_title": "找回密码"
+  },
+  "en": {
+    "forgot_password_title": "Get back password"
+  },
+  "ja": {
+    "forgot_password_title": "パスワードを取り戻す"
+  },
+  "ko": {
+    "forgot_password_title": "비밀번호 찾기"
+  },
+  "ru": {
+    "forgot_password_title": "Получить пароль"
+  },
+  "vi": {
+    "forgot_password_title": "tìm lại mật khẩu"
+  },
+  "zh-Hant": {
+    "forgot_password_title": "找回密碼"
+  }
+}

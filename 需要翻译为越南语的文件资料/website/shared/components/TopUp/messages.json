@@ -1,0 +1,72 @@
+{
+  "zh": {
+    "guide_link": "新手引导",
+    "services_link": "使用条款",
+    "personal_link": "隐私条款",
+    "guess_detail": "预测细则",
+    "menu_home": "首页",
+    "loading_error": "加载失败",
+    "refresh": "重新加载",
+    "topUp_wx": "微信:"
+  },
+  "en": {
+    "guide_link": "Beginner's Guide",
+    "services_link": "Terms of Use",
+    "personal_link": "Privacy Policy",
+    "guess_detail": "Game Rule",
+    "menu_home": "Home",
+    "loading_error": "Failed to Load",
+    "refresh": "Re-Load",
+    "topUp_wx": "Wechat:"
+  },
+  "ja": {
+    "guide_link": "初心者ブックガイド",
+    "services_link": "利用契約",
+    "personal_link": "プライバシー規約",
+    "guess_detail": "ベッティングの細則",
+    "menu_home": "トップページ",
+    "loading_error": "読み込みに失敗",
+    "refresh": "再読み込み",
+    "topUp_wx": "Wechat:"
+  },
+  "ko": {
+    "guide_link": "신규회원 가이드",
+    "services_link": "이용약관",
+    "personal_link": "보안약관",
+    "guess_detail": "예측 규칙",
+    "menu_home": "홈페이지",
+    "loading_error": "로딩 실패하였습니다.",
+    "refresh": "새로고침",
+    "topUp_wx": "Wechat:"
+  },
+  "ru": {
+    "guide_link": "Руководство для начинающих",
+    "services_link": "Terms of Use",
+    "personal_link": "Статьи конфиденциальности",
+    "guess_detail": "Правила прогноза",
+    "menu_home": "Home",
+    "loading_error": "Failed to load",
+    "refresh": "Re-load",
+    "topUp_wx": "Wechat:"
+  },
+  "vi": {
+    "guide_link": "Hướng dẫn người mới",
+    "services_link": "Terms of Use",
+    "personal_link": "Chính sách bảo mật",
+    "guess_detail": "Chi tiết thi đố",
+    "menu_home": "Home",
+    "loading_error": "Failed to load",
+    "refresh": "Re-load",
+    "topUp_wx": "Wechat:"
+  },
+  "zh-Hant": {
+    "guide_link": "新手引導",
+    "services_link": "使用條款",
+    "personal_link": "隱私條款",
+    "guess_detail": "競猜細則",
+    "menu_home": "首頁",
+    "loading_error": "載入失敗",
+    "refresh": "重新載入",
+    "topUp_wx": "微信:"
+  }
+}

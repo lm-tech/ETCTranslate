@@ -1,0 +1,626 @@
+{
+  "zh": {
+    "title": "倍数点数榜",
+    "rankingUpdate": "距离榜单更新",
+    "dataUpdate": "距离数据更新",
+    "thead": [
+      "用户名",
+      "倍数点数"
+    ],
+    "period": "期",
+    "curr": "本",
+    "userRankinList": {
+      "title": [
+        "第",
+        "数据详情"
+      ],
+      "currTitle": "本期数据实时更新",
+      "betTotal": "本期总投币数",
+      "validBetTotal": "有效投币数",
+      "oddPoint": "您的当前倍数点数",
+      "rank": "您的当前排名",
+      "isOnRank": "(未上榜)"
+    },
+    "isJoin": [
+      "已加入",
+      "立即加入"
+    ],
+    "joinAndLook": "立即加入活动查看您的排名",
+    "loginAndLook": "立即登录查看排名",
+    "winWarn": "冲榜路上惊喜连连  连胜赢取额外奖励",
+    "winCont": [
+      "还需「连赢",
+      "场」即可赢取「4连胜奖励」"
+    ],
+    "winWarnGet": [
+      "您有",
+      "笔奖励可以领取"
+    ],
+    "noUser": "虚位以待",
+    "joinAndApplyWarn": "赶快加入活动，领取连胜奖励 ",
+    "loginBtnWin": "立即登录，查看连胜记录",
+    "goToWinReward": "立即进入，赢取连胜奖励",
+    "endActivityWarn": "本期活动已结束，敬请期待下一期",
+    "confirmEndBtn": "确认",
+    "roles": {
+      "schedule": "附表",
+      "rule1": "本期活动时间：",
+      "rule1_1": "2019.6.3 00:00:00 - 2019.6.9 23:59:59（UTC/GMT8）",
+      "rule2": "请立即加入并进行投币获取「倍数点数」，玩家比拼「倍数点数」由高至低排行；每期排名前十位玩家可获得奖励。",
+      "rule3": "倍数点数计算规则：",
+      "rule3_1": "倍数点数=（投币倍数之和-有效投币数）*（1+有效投币数*0.02）。",
+      "rule41": "投币倍数计算规则：",
+      "rule41_1": "倍数≤5时，按实际倍数计算，若倍数>5时，统一按倍数5计算",
+      "rule41_2": "（如用户投币倍数为11.7，倍数点数按5计算）。",
+      "rule4": "有效投币数计算规则：单笔投币需要满足所投币币种达到相应的投币额方可被计为有效投币，详见《附表1》。",
+      "rule4_1_1": "（1）单场比赛不同玩法的投币可计为",
+      "rule4_1_1_1": "多次有效投币；",
+      "rule4_1_2": "（2）单场比赛相同玩法多次投币仅计算",
+      "rule4_1_2_1": "一次（首次）有效投币；",
+      "rule4_2": [
+        "ETC",
+        "ETH",
+        "BTC",
+        "EOS",
+        "USDT",
+        "XRP",
+        "BCH",
+        "LTC",
+        "QTUM",
+        "TRX",
+        "NULS",
+        "SWTC",
+        "HPB",
+        "ULAM",
+        "GQ",
+        "CZT",
+        "GECT"
+      ],
+      "rule4_3": [
+        "5",
+        "0.2",
+        "0.01",
+        "5",
+        "30",
+        "80",
+        "0.1",
+        "0.5",
+        "10",
+        "1000",
+        "30",
+        "25000",
+        "60",
+        "1000",
+        "35000",
+        "50",
+        "350"
+      ],
+      "rule5": "奖励规则：",
+      "rule5_1": "（1）本期活动截止时间锁定排名，按照排名发放奖励，详见《附表2》；",
+      "rule5_2": "（2）活动奖励于活动结束后72小时内发放至用户资产中心；",
+      "rule5_2_3": "（3）活动奖励可用于投币，用户投币后即可提币；",
+      "rule5_3": [
+        "排名",
+        "第一名",
+        "第二名",
+        "第三名",
+        "第四至十名"
+      ],
+      "rule5_4": [
+        "奖励",
+        "100 USDT",
+        "50 USDT",
+        "30 USDT",
+        "10 USDT"
+      ],
+      "rule6": "Coingame保留对此活动的最终解释权，如有疑问请联系",
+      "rule7": "快捷客服通道："
+    },
+    "startTip": "该活动尚未开始，敬请期待",
+    "endTip": "活动已结束，请等待下一期",
+    "start": [
+      "活动将于",
+      "开始"
+    ]
+  },
+  "ja": {
+    "title": "オッズポイントリスト",
+    "rankingUpdate": "データ更新まで",
+    "dataUpdate": "データ更新まで",
+    "thead": [
+      "ユーザー名",
+      "オッズポイント"
+    ],
+    "period": "期目",
+    "curr": "冊目",
+    "userRankinList": {
+      "title": [
+        "番目",
+        "データ詳細"
+      ],
+      "currTitle": "今期データがリアルタイム更新",
+      "betTotal": "今期総賭け数",
+      "validBetTotal": "有効賭け数",
+      "oddPoint": "あなたの現在のオッズポイント",
+      "rank": "あなたの現在のランキング",
+      "isOnRank": "(not listed)"
+    },
+    "isJoin": [
+      "すでに参加中",
+      "今すぐ参加する"
+    ],
+    "joinAndLook": "今すぐイベントに参加してランキングをご確認ください。",
+    "loginAndLook": "すぐに登録しますm",
+    "winWarn": "ランクへの途中に続けざまに驚喜,連勝で追加の報酬を勝ち取り",
+    "winCont": [
+      "「4連勝報酬」までは後",
+      "回連勝」が必要"
+    ],
+    "winWarnGet": [
+      "あなたには",
+      "件の報酬が待っています。"
+    ],
+    "noUser": "ご参加を心から望みます。",
+    "joinAndApplyWarn": "今すぐイベントに参加し連勝の報酬を受け取りましょう。",
+    "loginBtnWin": "今すぐログインして連勝記録をチェックする",
+    "goToWinReward": "ページを開き、連勝奨を取ろう",
+    "endActivityWarn": "このイベントは終了しました、次期をお楽しみください",
+    "confirmEndBtn": "確認する",
+    "roles": {
+      "schedule": "添付の表",
+      "rule1": "今期イベントの期間：",
+      "rule1_1": "2019.6.3 00:00:00 - 2019.6.9 23:59:59（UTC/GMT8）",
+      "rule2": "「今すぐ参加」して、賭け金を置いて「オッズポイント」をゲットしてください。プレイヤーは「オッズポイント」を高い順に競い;各期のトップ10のプレーヤーが報酬を獲得できます。",
+      "rule3": "オッズポイントの計算ルール：",
+      "rule3_1": "オッズポイント=（ベットオッズの合計 - 有効ベット）*（1 +有効ベット* 0.02）",
+      "rule41": "オーダー賠償率の計算規則：",
+      "rule41_1": "賠償率≦5の場合、実際の賠償率により計算します。賠償率>5の場合、賠償率5で計算します。",
+      "rule41_2": "（ユーザは賠償率が11.7であるの場合、賠償率の点数は5で計算します。）",
+      "rule4": "有効なベット数の計算ルール：1回のベットは賭け金の通貨が対応するベット額（詳細は「添付の表1」をご参照）に達すれば、有効なベットとしてカウントされることができます。",
+      "rule4_1_1": "(1)",
+      "rule4_1_1_1": "単一のゲームにおける異なるプレイ法に対する賭けは複数",
+      "rule4_1_1_2": "の有効な賭けとして数えることができ;",
+      "rule4_1_2": "(2)",
+      "rule4_1_2_1": "単一のゲームにおける同じプレイ法に対する複数の賭けは一度だけ（最初の）有効な賭",
+      "rule4_1_2_2": "けとして数えられる;",
+      "rule4_2": [
+        "ETC",
+        "ETH",
+        "BTC",
+        "EOS",
+        "USDT",
+        "XRP",
+        "BCH",
+        "LTC",
+        "QTUM",
+        "TRX",
+        "NULS",
+        "SWTC",
+        "HPB",
+        "ULAM",
+        "GQ",
+        "CZT",
+        "GECT"
+      ],
+      "rule4_3": [
+        "5",
+        "0.2",
+        "0.01",
+        "5",
+        "30",
+        "80",
+        "0.1",
+        "0.5",
+        "10",
+        "1000",
+        "30",
+        "25000",
+        "60",
+        "1000",
+        "35000",
+        "50",
+        "350"
+      ],
+      "rule5": "報酬ルール：",
+      "rule5_1": "（1）このイベントは締め切りでランキングをロックし、ランキングに応じて報酬を支給することです（詳細は添付の表2をご参照）。",
+      "rule5_2": "（2）イベント報酬は、イベント終了後72時間以内にユーザ資産センタに入金します。",
+      "rule5_2_3": "（3）活動報酬は賭けに使うことができ、ユーザーは支払い後に賭けることができます",
+      "rule5_3": [
+        "「ランキング」",
+        "「1位」",
+        "「2位」",
+        "「3位」",
+        "「4〜10位」"
+      ],
+      "rule5_4": [
+        "報酬",
+        "100 USDT",
+        "50 USDT",
+        "30 USDT",
+        "10 USDT"
+      ],
+      "rule6": "Coingameはこのイベントに対し最終的な解釈権を持ち、何かご質問がございましたら、",
+      "rule7": "スピードカスタマーサポート："
+    },
+    "startTip": "イベントはまだ開始されていないので、しばらくお待ちください。",
+    "endTip": "イベントは終了しました、次期をお楽しみください。",
+    "start": [
+      "イベントは",
+      "開始"
+    ]
+  },
+  "ko": {
+    "title": "배당 포인트 랭킹",
+    "rankingUpdate": "랭킹 업데이트까지",
+    "dataUpdate": "데이터 업데이트까지",
+    "thead": [
+      "계정",
+      "배당 포인트"
+    ],
+    "period": "라운드",
+    "curr": "이번",
+    "userRankinList": {
+      "title": [
+        "제",
+        "데이터 세부사항"
+      ],
+      "currTitle": "이번 라운드 데이터는 실시간으로 업데이트 됩니다",
+      "betTotal": "이번 라운드 총 베팅 횟수",
+      "validBetTotal": "유효 베팅 횟수",
+      "oddPoint": "현재 나의 베팅 포인트",
+      "rank": "현재 나의 랭킹 순위",
+      "isOnRank": "(랭킹 미등록)"
+    },
+    "isJoin": [
+      "참여 완료",
+      "참여하기"
+    ],
+    "joinAndLook": "이벤트 참여 후 랭킹을 확인하세요",
+    "loginAndLook": "로그인 후 랭킹을 확인하세요",
+    "winWarn": "연속 예측 성공 시 쏟아지는 추가 보상",
+    "winCont": [
+      "앞으로 「",
+      "경기 연승」하면, 「4연승 보상」획득 가능"
+    ],
+    "winWarnGet": [
+      "",
+      "개의 수령 가능한 보상이 있습니다."
+    ],
+    "noUser": "공석",
+    "joinAndApplyWarn": "이벤트에 참여하여 연승 보상을 받아가세요",
+    "loginBtnWin": "로그인 후 연승 기록을 확인하세요",
+    "goToWinReward": "연승 보상 확인하기",
+    "endActivityWarn": "이번 라운드 이벤트가 이미 종료되었습니다. 다음 라운드를 기대해주세요",
+    "confirmEndBtn": "확인",
+    "roles": {
+      "schedule": "참조",
+      "rule1": "이번 라운드 이벤트 기간：",
+      "rule1_1": "2019.6.3 00:00:00 - 2019.6.9 23:59:59（UTC/GMT8）",
+      "rule2": "이벤트 참여 후 베팅하여 「배당 포인트」를 획득하세요. 사용자 간의 「배당 포인트」를 경쟁하여 랭킹 순위를 결정합니다. 매 라운드 상위 10명의 사용자에겐 추가 상금이 지급됩니다.",
+      "rule3": "배당 포인트 계산법: ",
+      "rule3_1": "배당 포인트 = (베팅 배당 합계 – 유효 베팅 횟수) * (1+유효 베팅 횟수 * 0.02)",
+      "rule41": "베팅 포인트 계산법: ",
+      "rule41_1": "배당≤5 일 경우 실제 배당으로 계산됩니다. 배당>5 일 경우 배당은 모두 5로 계산됩니다 ",
+      "rule41_2": "(예: 사용자가 베팅한 배당이 11.7일 경우 베팅 포인트 계산 시 배당은 5로 측정).",
+      "rule4": "유효베팅 횟수 계산법: 암호화폐 종류마다 상응하는 베팅액에 도달한 베팅만 유효 베팅으로 계산됩니다. 자세한 내용은 <참조 1>을 확인하세요.",
+      "rule4_1_1": "（1）",
+      "rule4_1_1_1": "한 경기 내 여러 종류의 베팅 유형 ",
+      "rule4_1_1_2": "은 각각 서로 다른 유효 베팅으로 계산됩니다.",
+      "rule4_1_2": "（2）",
+      "rule4_1_2_1": "한 경기 내 같은 종류의 베팅 유형 ",
+      "rule4_1_2_2": "은 하나의(최초 베팅) 유효 베팅으로 계산됩니다.",
+      "rule4_2": [
+        "ETC",
+        "ETH",
+        "BTC",
+        "EOS",
+        "USDT",
+        "XRP",
+        "BCH",
+        "LTC",
+        "QTUM",
+        "TRX",
+        "NULS",
+        "SWTC",
+        "HPB",
+        "ULAM",
+        "GQ",
+        "CZT",
+        "GECT"
+      ],
+      "rule4_3": [
+        "5",
+        "0.2",
+        "0.01",
+        "5",
+        "30",
+        "80",
+        "0.1",
+        "0.5",
+        "10",
+        "1000",
+        "30",
+        "25000",
+        "60",
+        "1000",
+        "35000",
+        "50",
+        "350"
+      ],
+      "rule5": "보상 규칙：",
+      "rule5_1": "（1）해당 라운드 이벤트 종료 시간의 랭킹에 따라 보상을 지급합니다. 자세한 내용은 <참조 2>를 확인하세요.",
+      "rule5_2": "（2）이벤트 보상은 이벤트 종료 후 72시간 내에 사용자 계정으로 지급됩니다.",
+      "rule5_2_3": "（3）이벤트 보상은 출금 불가능 자산으로 지급되며 베팅 후 출금 가능 자산으로 변환됩니다.",
+      "rule5_3": [
+        "랭킹",
+        "1위",
+        "2위",
+        "3위",
+        "4위 ~ 10위"
+      ],
+      "rule5_4": [
+        "보상",
+        "100 USDT",
+        "50 USDT",
+        "30 USDT",
+        "10 USDT"
+      ],
+      "rule6": "본 이벤트의 최종 해석권은 Coingame이 보유하고 있습니다. 문의사항이 있을 경우 ",
+      "rule7": "고객센터："
+    },
+    "startTip": "해당 이벤트는 아직 준비 중입니다.",
+    "endTip": "이벤트가 이미 종료되었습니다. 다음 라운드를 기다려 주세요.",
+    "start": [
+      "이벤트는",
+      "에 시작됩니다."
+    ]
+  },
+  "en": {
+    "title": "Multiple Point Ranking",
+    "rankingUpdate": "Update of list",
+    "dataUpdate": "Update of data",
+    "thead": [
+      "Username",
+      "Multiple Point"
+    ],
+    "period": "Round ",
+    "curr": "Current ",
+    "userRankinList": {
+      "title": [
+        " ",
+        "Detailed Data"
+      ],
+      "currTitle": "Real-Time Data",
+      "betTotal": "Current Total Orders",
+      "validBetTotal": "Effective Orders",
+      "oddPoint": "Your Multiple Point",
+      "rank": "Your Rank",
+      "isOnRank": "(Not listed)"
+    },
+    "isJoin": [
+      "Joined",
+      "Join Now"
+    ],
+    "joinAndLook": "Join now to check your rank",
+    "loginAndLook": "Sign in to check your rank",
+    "winWarn": "Get ranked for surprises. Get bonus for winning streaks.",
+    "winCont": [
+      "You need「",
+      " more wins」to get「4-game Winning Streak Bonus」"
+    ],
+    "winWarnGet": [
+      "You have",
+      "bonuses available"
+    ],
+    "noUser": "Awaiting Participants",
+    "joinAndApplyWarn": "Join now to get your bonus for winning streaks",
+    "loginBtnWin": "Sign in now to check your records of winning streaks",
+    "goToWinReward": "Enter Now and Get Winning Streak Bonus",
+    "endActivityWarn": "This round is over, please look forward to next round event",
+    "confirmEndBtn": "Confirm",
+    "roles": {
+      "schedule": "Appendix",
+      "rule1": "Current Round:",
+      "rule1_1": "2019.6.3 00:00:00 - 2019.6.9 23:59:59（UTC/GMT+8）",
+      "rule2": "Please Join Now to get「Multiple Points」. Players will be competing for Multiple Point and ranked from higher to lower. Top 10 players of each round will get rewarded.",
+      "rule3": "Calculating Method of Multiple Point:",
+      "rule3_1": " Multiple Point = (Sum of Each Order’s Multiple - Effective Orders) × (1 + Effective Orders × 0.02)",
+      "rule41": "Calculating Method of order’s multiple: ",
+      "rule41_1": "If the multiple ≤ 5, the calculating method will according to the actual multiple; if the multiple > 5, the calculating method will based on the multiple points by 5 ",
+      "rule41_2": "(such as the user prediction multiple of 11.7, multiple points by 5).",
+      "rule4": "Calculating Method of Effective Orders: Any single order is required to reach certain prediction amount in the used currency to be counted as an effective order. Please refer to Appendix 1 for more details.",
+      "rule4_1_1": "(1)Orders with different gameplay types in a single game can be counted as ",
+      "rule4_1_1_1": "multiple effective orders;",
+      "rule4_1_2": "(2)while orders with the same gameplay type in a single game will be counted ",
+      "rule4_1_2_1": "only once (the first order).",
+      "rule4_2": [
+        "ETC",
+        "ETH",
+        "BTC",
+        "EOS",
+        "USDT",
+        "XRP",
+        "BCH",
+        "LTC",
+        "QTUM",
+        "TRX",
+        "NULS",
+        "SWTC",
+        "HPB",
+        "ULAM",
+        "GQ",
+        "CZT",
+        "GECT"
+      ],
+      "rule4_3": [
+        "5",
+        "0.2",
+        "0.01",
+        "5",
+        "30",
+        "80",
+        "0.1",
+        "0.5",
+        "10",
+        "1000",
+        "30",
+        "25000",
+        "60",
+        "1000",
+        "35000",
+        "50",
+        "350"
+      ],
+      "rule5": "Rewarding Rules",
+      "rule5_1": "(1)The ranking list will be locked by the end of the current round, and rewards will be issued in accordance with the list. Please see Appendix 2 for details;",
+      "rule5_2": "(2)Rewards will be sent to your Asset Center within 72 hours after the end of the event.",
+      "rule5_2_3": "(3)The event bonus can be used for prediction. It will be available for withdrawal after being used in predictions.",
+      "rule5_3": [
+        "Rank",
+        "1",
+        "2",
+        "3",
+        "4 - 10"
+      ],
+      "rule5_4": [
+        "Reward",
+        "100 USDT",
+        "50 USDT",
+        "30 USDT",
+        "10 USDT"
+      ],
+      "rule6": "Coingame reserves the final interpretation of the event. Any queries please contact: ",
+      "rule7": "Customer Service:"
+    },
+    "startTip": "Event has not started. Please stay tuned.",
+    "endTip": "Event has ended. Please wait for the next round.",
+    "start": [
+      "Event Will",
+      "Start at"
+    ]
+  },
+  "zh-Hant": {
+    "title": "賠率點數榜",
+    "rankingUpdate": "距離榜單更新",
+    "dataUpdate": "距離數據更新",
+    "thead": [
+      "用戶名",
+      "賠率點數"
+    ],
+    "period": "期",
+    "curr": "本",
+    "userRankinList": {
+      "title": [
+        "第",
+        "數據詳情"
+      ],
+      "currTitle": "本期數據實時更新",
+      "betTotal": "本期總投註數",
+      "validBetTotal": "有效投註數",
+      "oddPoint": "您的當前賠率點數",
+      "rank": "您的當前排名",
+      "isOnRank": "(未上榜)"
+    },
+    "isJoin": [
+      "已加入",
+      "立即加入"
+    ],
+    "joinAndLook": "立即加入活動查看您的排名",
+    "loginAndLook": "立即登錄查看排名",
+    "winWarn": "沖榜路上驚喜連連  連勝贏取額外獎勵",
+    "winCont": [
+      "還需「連贏",
+      "場」即可贏取「4連勝獎勵」"
+    ],
+    "winWarnGet": [
+      "您有",
+      "筆獎勵可以領取"
+    ],
+    "noUser": "虛位以待",
+    "joinAndApplyWarn": "趕快加入活動，領取連勝獎勵",
+    "loginBtnWin": "立即登錄，查看連勝紀錄",
+    "goToWinReward": "立即進入，贏取連勝獎勵",
+    "endActivityWarn": "本期活動已結束，敬請期待下一期",
+    "confirmEndBtn": "確認",
+    "roles": {
+      "schedule": "附表",
+      "rule1": "本期活動時間：",
+      "rule1_1": "2019.6.3 00:00:00 - 2019.6.9 23:59:59（UTC/GMT8）",
+      "rule2": "請”立即加入”並進行投註獲取「賠率點數」，玩家比拼「賠率點數」由高至低排行；每期排名前十位玩家可獲得獎勵。",
+      "rule3": "賠率點數計算規則：",
+      "rule3_1": "賠率點數=（投註賠率之和-有效投註數）*（1+有效投註數*0.02）。",
+      "rule41": "投币賠率計算規則：",
+      "rule41_1": "賠率≤5時，按實際賠率計算，若賠率>5時，統一按賠率5計算",
+      "rule41_2": "（如用戶投币賠率為11.7，賠率點數按5計算）。",
+      "rule4": "有效投註數計算規則：單筆投註需要滿足所投註幣種達到相應的投註額方可被計為有效投註，詳見《附表1》。",
+      "rule4_1_1": "（1）單場比賽不同玩法的投註可計為",
+      "rule4_1_1_1": "多次有效投註；",
+      "rule4_1_2": "（2）單場比賽相同玩法多次投註僅計算",
+      "rule4_1_2_1": "壹次（首次）有效投註；",
+      "rule4_2": [
+        "ETC",
+        "ETH",
+        "BTC",
+        "EOS",
+        "USDT",
+        "XRP",
+        "BCH",
+        "LTC",
+        "QTUM",
+        "TRX",
+        "NULS",
+        "SWTC",
+        "HPB",
+        "ULAM",
+        "GQ",
+        "CZT",
+        "GECT"
+      ],
+      "rule4_3": [
+        "5",
+        "0.2",
+        "0.01",
+        "5",
+        "30",
+        "80",
+        "0.1",
+        "0.5",
+        "10",
+        "1000",
+        "30",
+        "25000",
+        "60",
+        "1000",
+        "35000",
+        "50",
+        "350"
+      ],
+      "rule5": "獎勵規則：",
+      "rule5_1": "（1）本期活動截止時間鎖定排名，按照排名發放獎勵，詳見《附表2》；",
+      "rule5_2": "（2）活動獎勵於活動結束後72小時內發放至用戶資產中心；",
+      "rule5_2_3": "（3）活動獎勵可用於投币，用戶投币後即可提幣；",
+      "rule5_3": [
+        "排名",
+        "第一名",
+        "第二名",
+        "第三名",
+        "第四至十名"
+      ],
+      "rule5_4": [
+        "獎勵",
+        "100 USDT",
+        "50 USDT",
+        "30 USDT",
+        "10 USDT"
+      ],
+      "rule6": "Coingame保留對此活動的最終解釋權，如有疑問請聯系",
+      "rule7": "快捷客服通道："
+    },
+    "startTip": "該活動尚未開始，敬請期待",
+    "endTip": "活動已結束，請等待下壹期",
+    "start": [
+      "活動將於",
+      "開始"
+    ]
+  }
+}

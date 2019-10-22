@@ -1,0 +1,58 @@
+{
+  "zh": {
+    "title": "活动中心",
+    "documentTitle": "活动详情",
+    "activity_rule_tit": "活动规则",
+    "activity_look_detail": "查看详情",
+    "activity_hide_detail": "收起",
+    "activity_go_to_join": "立即参与",
+    "is_long_term_show": "长期",
+    "enterSignIn": "签到领币",
+    "enterPromoter": "推广有礼"
+  },
+  "en": {
+    "title": "Events & Campaigns",
+    "documentTitle": "details",
+    "activity_rule_tit": "Rules",
+    "activity_look_detail": "View more",
+    "activity_hide_detail": "View less",
+    "activity_go_to_join": "Join Now",
+    "is_long_term_show": "Long-term",
+    "enterSignIn": "Daily Check-in",
+    "enterPromoter": "Promotion Zone"
+
+  },
+  "ja": {
+    "title": "イベントセンタ",
+    "documentTitle": "活动详情",
+    "activity_rule_tit": "活動ルール",
+    "activity_look_detail": "すべて表示",
+    "activity_hide_detail": "折り畳む",
+    "activity_go_to_join": "今すぐ参加",
+    "is_long_term_show": "長い間",
+    "enterSignIn": "Daily Check-in",
+    "enterPromoter": "宣伝部分"
+  },
+  "ko": {
+    "title": "이벤트",
+    "documentTitle": "活动详情",
+    "activity_rule_tit": "이벤트 규칙",
+    "activity_look_detail": "더보기",
+    "activity_hide_detail": "간략히",
+    "activity_go_to_join": "참여하기",
+    "is_long_term_show": "무기한 진행 중",
+    "enterSignIn": "출석체크",
+    "enterPromoter": "홍보원 관리"
+  },
+  "zh-Hant": {
+    "title": "活動中心",
+    "documentTitle": "活動詳情",
+    "activity_rule_tit": "活動規則",
+    "activity_look_detail": "查看詳情",
+    "activity_hide_detail": "收起",
+    "activity_go_to_join": "立即參與",
+    "is_long_term_show": "長期",
+    "enterSignIn": "簽到領幣",
+    "enterPromoter": "推廣有禮"
+  }
+}

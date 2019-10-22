@@ -1,0 +1,30 @@
+﻿{
+  "zh": {
+    "time_start": "开始时间",
+    "time_end": "结束时间"
+  },
+  "en": {
+    "time_start": "Start time",
+    "time_end": "End time"
+  },
+  "ko": {
+    "time_start": "시작 시간",
+    "time_end": "마감 시간"
+  },
+  "ja": {
+    "time_start": "開始時間",
+    "time_end": "終了時間"
+  },
+  "ru": {
+    "time_start": "Время начала",
+    "time_end": "Время конца"
+  },
+  "vi": {
+    "time_start": "Thời gian bắt đầu",
+    "time_end": "Thời gian kết thúc"
+  },
+  "zh-Hant": {
+    "time_start": "開始時間",
+    "time_end": "結束時間"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "zh": {
+    "title": "热门投币",
+    "detail_history_no_data": "暂无数据"
+  },
+  "en": {
+    "title": "Popular",
+    "detail_history_no_data": "No data"
+  },
+  "ko": {
+    "title": "핫 베팅항목",
+    "detail_history_no_data": "데이터 없음"
+  },
+  "ja": {
+    "title": "人気ベッティング",
+    "detail_history_no_data": "データ無し"
+  },
+  "ru": {
+    "title": "热门投币"
+  },
+  "vi": {
+    "title": "热门投币"
+  },
+  "zh-Hant": {
+    "title": "熱門投註",
+    "detail_history_no_data": "暫無數據"
+  }
+}

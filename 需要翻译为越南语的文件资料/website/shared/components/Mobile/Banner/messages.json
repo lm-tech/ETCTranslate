@@ -1,0 +1,44 @@
+{
+  "zh": {
+    "banner_order_title": "已开奖金额：",
+    "banner_stpe_one": "注册并购买ETC",
+    "banner_stpe_two": "将ETC转入您的私人钱包",
+    "banner_stpe_three": "将钱包中的ETC转入预测选项的合约地址中"
+  },
+  "en": {
+    "banner_order_title": "Total Winnings distributed:",
+    "banner_stpe_one": "Register and purchase ETC",
+    "banner_stpe_two": "Deposit ETC into your own private wallet",
+    "banner_stpe_three": "ETC Address to fund this Prediction"
+  },
+  "ko": {
+    "banner_order_title": " 당첨금：",
+    "banner_stpe_one": "ETC 등록 및 구매",
+    "banner_stpe_two": "ETC를 개인지갑으로 송금",
+    "banner_stpe_three": "지갑 내의 ETC를 예측항목의 협의주소로 송금"
+  },
+  "ja": {
+    "banner_order_title": "賞金総額：",
+    "banner_stpe_one": "ETCの登録と購入",
+    "banner_stpe_two": "あなたの個人財布までにETCを繰り越す",
+    "banner_stpe_three": "財布にあるETCを悬赏クイズの契約アドレスに缲り越す"
+  },
+  "ru": {
+    "banner_order_title": "Сумма, которая была присуждена：",
+    "banner_stpe_one": "Регистрация с Bitfinex и купите ETC",
+    "banner_stpe_two": "Передача ETC на ваш приватный кошелек",
+    "banner_stpe_three": "Регистрация и покупка ETC"
+  },
+  "vi": {
+    "banner_order_title": "Số tiền giải thưởng đã mở：",
+    "banner_stpe_one": "Đăng ký và mua ETC",
+    "banner_stpe_two": "Để ETC chuyển tiền vào ví Tiền cá nhân của bạn",
+    "banner_stpe_three": "Mang tiền trong ví ETC chuyển vào cuộc thi đố trong điều mục địa chỉ hợp đồng"
+  },
+  "zh-Hant": {
+    "banner_order_title": "已開獎金額：",
+    "banner_stpe_one": "註冊併購買ETC",
+    "banner_stpe_two": "將ETC轉入您的私人錢包",
+    "banner_stpe_three": "將錢包中的ETC轉入競猜選項的合約地址中"
+  }
+}

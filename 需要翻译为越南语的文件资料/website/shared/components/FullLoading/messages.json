@@ -1,0 +1,37 @@
+{
+  "zh": {
+    "internet_error": "页面加载异常",
+    "refresh_tip": "请刷新或检查网络",
+    "refresh": "刷新"
+  },
+  "en": {
+    "internet_error": "Loading Error",
+    "refresh_tip": "Please Refresh or Check the Network",
+    "refresh": "Reload"
+  },
+  "ja": {
+    "internet_error": "ローディングエラー",
+    "refresh_tip": "再読み込みまたはネットワークチェックをしてください",
+    "refresh": "再読み込み"
+  },
+  "ko": {
+    "internet_error": "페이지 로딩  오류가 발생하였습니다.",
+    "refresh_tip": "새로고침하거나 네트워크를 확인하세요.",
+    "refresh": "새로고침"
+  },
+  "ru": {
+    "internet_error": "Loading Error",
+    "refresh_tip": "Please Refresh or Check the Network",
+    "refresh": "Reload"
+  },
+  "vi": {
+    "internet_error": "Loading Error",
+    "refresh_tip": "Please Refresh or Check the Network",
+    "refresh": "Reload"
+  },
+  "zh-Hant": {
+    "internet_error": "頁面加載異常",
+    "refresh_tip": "請刷新或檢查網絡",
+    "refresh": "刷新"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "zh": {
+    "rules": "活动规则",
+    "check_able": "签到",
+    "check_done": "已领取",
+    "check_max": "名额已满",
+    "continues_1": "连续签到最高可额外获得 ",
+    "continues_2": "",
+    "received": "恭喜您，获得",
+    "change_currency":"更换币种"
+  },
+  "en": {
+    "rules": "Rules",
+    "check_able": "Check In",
+    "check_done": "Collected",
+    "check_max": "Daily cap reached",
+    "continues_1": "Check-in can receive ",
+    "continues_2": "in addition.",
+    "received": "You’ve received",
+    "change_currency":"Change Currency"
+  },
+  "ko": {
+    "rules": "이벤트 규칙",
+    "check_able": "출석체크",
+    "check_done": "수령함",
+    "check_max": "인원 마감",
+    "continues_1": "연속 출석체크 시 획득 가능한 최대 추가 보상 ",
+    "continues_2": "",
+    "received": "아래 보상을 획득하셨습니다",
+    "change_currency":"코인 변경"
+  },
+  "ja": {
+    "rules": "Rules",
+    "check_able": "Check In",
+    "check_done": "Collected",
+    "check_max": "Daily cap reached",
+    "continues_1": "Check-in can receive ",
+    "continues_2": "in addition.",
+    "received": "You’ve received",
+    "change_currency":"Change Currency"
+  },
+  "zh-Hant": {
+    "rules": "活動規則",
+    "check_able": "簽到",
+    "check_done": "已领取",
+    "check_max": "名額已滿",
+    "continues_1": "連續簽到最高可額外獲得 ",
+    "continues_2": "",
+    "received": "恭喜您，獲得",
+    "change_currency":"更換幣種"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "zh": {
+    "back_normal_bets": "返回智能合约投币",
+    "back_quick_bets": "返回会员投币",
+    "login_and_quick_bets": "登录会员即刻享受极速投币",
+    "go_login": "会员登录",
+    "go_bets": "直接投币"
+  },
+  "en": {
+    "back_normal_bets": "Return to smart contract forecast",
+    "back_quick_bets": "Return to previous page",
+    "login_and_quick_bets": "Login to place forecast",
+    "go_login": "Member Login",
+    "go_bets": "Place Forecast"
+  },
+  "ko": {
+    "back_normal_bets": "스마트 컨트렉트 배팅으로 리턴",
+    "back_quick_bets": "회원배팅으로 리턴",
+    "login_and_quick_bets": "로그인 후 빠른배팅 사용 가능",
+    "go_login": "회원 로그인",
+    "go_bets": "배팅하기"
+  },
+  "ja": {
+    "back_normal_bets": "戻る，スマートコントラクトを使用してベッティング",
+    "back_quick_bets": "会員に戻ってベッティングする",
+    "login_and_quick_bets": "ログイン後早速ベッティングできる",
+    "go_login": "ログイン",
+    "go_bets": "ベッティング"
+  },
+  "ru": {
+    "back_normal_bets": "Вернуться к смарт-договорной ставка",
+    "back_quick_bets": "Вернуться к члену ставка",
+    "login_and_quick_bets": "Наслаждайтесь ставки сразу после входа в систему.",
+    "go_login": "Вход пользователя",
+    "go_bets": "Прямая ставка"
+  },
+  "vi": {
+    "back_normal_bets": "về lại họp đồng và đặc cược",
+    "back_quick_bets": "về lại hội viên đặc cược",
+    "login_and_quick_bets": "Ngay lập tức tận hưởng tốc độ đặt cược sau khi đăng nhập",
+    "go_login": "Hội viên đăng nhập",
+    "go_bets": "đặc cược trực tiếp"
+  },
+  "zh-Hant": {
+    "back_normal_bets": "返回智能合約投币",
+    "back_quick_bets": "返回會員投币",
+    "login_and_quick_bets": "登錄會員即刻享受極速投币",
+    "go_login": "會員登錄",
+    "go_bets": "直接投币"
+  }
+}

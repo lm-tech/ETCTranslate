@@ -1,0 +1,47 @@
+{
+  "zh": {
+    "title_1": "百倍乐趣",
+    "title_2": "千倍收益",
+    "show_all": "查看全部",
+    "show_close": "收起",
+    "go_on": "立即参与",
+    "rule_title": "活动规则:",
+    "is_long_term_show": "长期"
+  },
+  "en": {
+    "title_1": "Great Fun",
+    "title_2": "Big Win",
+    "show_all": "Details",
+    "show_close": "Fold",
+    "go_on": "Join Now",
+    "rule_title": "Game Rule:",
+    "is_long_term_show": "Long-term"
+  },
+  "ko": {
+    "title_1": "Great Fun",
+    "title_2": "Big Win",
+    "show_all": "세부 사항",
+    "show_close": "접기",
+    "go_on": "즉시 참여",
+    "rule_title": "활동 규칙:",
+    "is_long_term_show": "무기한 진행 중"
+  },
+  "ja": {
+    "title_1": "Great Fun",
+    "title_2": "Big Win",
+    "show_all": "詳細を見る",
+    "show_close": "折りたたむ",
+    "go_on": "すぐに参加する",
+    "rule_title": "活動ルール:",
+    "is_long_term_show": "長い間"
+  },
+  "zh-Hant": {
+    "title_1": "百倍樂趣",
+    "title_2": "千倍收益",
+    "show_all": "查看全部",
+    "show_close": "收起",
+    "go_on": "立即參與",
+    "rule_title": "活動規則:",
+    "is_long_term_show": "长期"
+  }
+}

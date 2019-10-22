@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "dtail_forecast_title": "ETC预测",
+    "detail_forecast_choose": "选择：",
+    "detail_forecast_address": "预测充币地址：",
+    "detail_forecast_notice": "禁止从交易所直接提币至预测地址,请使用官方或私人钱包充值ETC到预测地址",
+    "detail_forecast_all": "最小单笔预测金额： 0.5ETC",
+    "detail_forecast_copied": "已复制"
+  },
+  "en": {
+    "dtail_forecast_title": "ETC Forecast",
+    "detail_forecast_choose": "Option:",
+    "detail_forecast_address": "Forecast Deposit Address:",
+    "detail_forecast_notice": "Direct withdrawal from an exchange address to the forecast address is prohibited.",
+    "detail_forecast_notice_two": "Transfer of ETC is only allowed from official or private wallet to the forecast address",
+    "detail_forecast_all": "Minimum forecast stake amount: 0.5ETC",
+    "detail_forecast_copied": "Copied"
+  },
+  "ja": {
+    "dtail_forecast_title": "ETC予測",
+    "detail_forecast_choose": "選択：",
+    "detail_forecast_address": "コインをチャージのアドレス予測：",
+    "detail_forecast_notice": "取引所から直接予測アドレスまでにコインを引き出すことは禁止されている。",
+    "detail_forecast_notice_two": "公式または個人の財布を使用してETCを予測アドレスまでにチャージしてください",
+    "detail_forecast_all": "毎回最小の予測金額： 0.5ETC",
+    "detail_forecast_copied": "コピーした"
+  },
+  "ko": {
+    "dtail_forecast_title": "ETC예측",
+    "detail_forecast_choose": "선택：",
+    "detail_forecast_address": "코인충전 주소예측：",
+    "detail_forecast_notice": "거래소에서 직접 예측주소로 코인을 입금하는건 금지사항입니다. ",
+    "detail_forecast_notice_two": "공식 지갑 또는 개인 지갑을 사용하여 ETC를 예측주소로 입금하세요",
+    "detail_forecast_all": "최소 일회 예측 금액 ： 0.5ETC",
+    "detail_forecast_copied": "복사됨"
+  },
+  "ru": {
+    "dtail_forecast_title": "ETC Прогноз",
+    "detail_forecast_choose": "Опцион：",
+    "detail_forecast_address": "Прогнозный адрес депозита：",
+    "detail_forecast_notice": "Запретить прямой вывод средств с биржи на прогнозный адрес. ",
+    "detail_forecast_notice_two": "Перевод ETC допускается только с официального или личного кошелька на прогнозный адрес",
+    "detail_forecast_all": "Минимальная сумма прогноза： 0.5ETC",
+    "detail_forecast_copied": "скопированный"
+  },
+  "vi": {
+    "dtail_forecast_title": "dự báo ETC",
+    "detail_forecast_choose": "lựa trọn:",
+    "detail_forecast_address": "dự báo địa chỉ nạp xu:",
+    "detail_forecast_notice": "Cấm từ Sở giao dịch nạp xu trực tiếp  đến địa chỉ dự đoán",
+    "detail_forecast_all": "0.5ETC Số tiền đơn tối thiểu đơn dự báo   0.5ETC",
+    "detail_forecast_copied": "đã được sao chép"
+  },
+  "zh-Hant": {
+    "dtail_forecast_title": "ETC預測",
+    "detail_forecast_choose": "選擇：",
+    "detail_forecast_address": "預測充幣地址：",
+    "detail_forecast_notice": "禁止從交易所直接提幣至預測地址,請使用官方或私人錢包充值ETC到預測地址",
+    "detail_forecast_all": "最小單筆預測金額： 0.5ETC",
+    "detail_forecast_copied": "已複製"
+  }
+}

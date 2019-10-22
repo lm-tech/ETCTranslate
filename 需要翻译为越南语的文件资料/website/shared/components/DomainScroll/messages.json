@@ -1,0 +1,17 @@
+{
+    "zh": {
+      "domain_tips": "备用网址："
+    },
+    "en": {
+       "domain_tips": "Alternative Link："
+    },
+    "ja": {
+       "domain_tips": "代替URL："
+    },
+    "ko": {
+       "domain_tips": "대체 링크："
+    },
+    "zh-Hant": {
+       "domain_tips": "備用網址："
+    }
+  }
