@@ -9,39 +9,39 @@
         "title": "双重身份验证"
     },
     "en": {
-        "vertify_tips": " 为了您的资金安全，请设置6位数的资金密码。此密码将作为您提币的重要凭证。",
-        "bind_google": "谷歌验证绑定",
-        "bind_google_tips": "提现安全验证，请绑定谷歌验证器",
-        "bind_email": "邮箱验证绑定",
-        "bind_email_tips": "默认验证方式",
-        "bind": "已绑定",
-        "title": "双重身份验证"
+        "vertify_tips": " To ensure your asset security, please set a payment password with 6-digit number. This password will be your important key to withdraw assets.",
+        "bind_google": "Enable Google Authenticator",
+        "bind_google_tips": "Please enable Google Authenticator to complete withdrawal authentication ",
+        "bind_email": "Enable Email Authentication",
+        "bind_email_tips": "Default",
+        "bind": "Enabled",
+        "title": "2-Factor Authentication"
     },
     "ko": {
-        "vertify_tips": " 为了您的资金安全，请设置6位数的资金密码。此密码将作为您提币的重要凭证。",
-        "bind_google": "谷歌验证绑定",
-        "bind_google_tips": "提现安全验证，请绑定谷歌验证器",
-        "bind_email": "邮箱验证绑定",
-        "bind_email_tips": "默认验证方式",
-        "bind": "已绑定",
-        "title": "双重身份验证"
+        "vertify_tips": " 자산 보안을 위해 6자리 숫자의 출금 비밀번호를 설정해주세요. 해당 출금 비밀번호는 출금 시 반드시 필요합니다.",
+        "bind_google": "구글 OTP 연동",
+        "bind_google_tips": "출금 보안을 위해 구글 OTP를 연동해주세요.",
+        "bind_email": "이메일 인증 연동",
+        "bind_email_tips": "기본 인증 방식",
+        "bind": "연동 완료",
+        "title": "2차 보안 인증"
     },
     "ja": {
-        "vertify_tips": " 为了您的资金安全，请设置6位数的资金密码。此密码将作为您提币的重要凭证。",
-        "bind_google": "谷歌验证绑定",
-        "bind_google_tips": "提现安全验证，请绑定谷歌验证器",
-        "bind_email": "邮箱验证绑定",
-        "bind_email_tips": "默认验证方式",
-        "bind": "已绑定",
-        "title": "双重身份验证"
+        "vertify_tips": " 資金セキュリティのため、6桁の資金パスワードを設定してください。 このパスワードは、コインの重要なドキュメントとして使用されます。",
+        "bind_google": "Google認証バインディング",
+        "bind_google_tips": "コイン引出のセキュリティ認証をするため、Google認証システム連携をしてください",
+        "bind_email": "メールアドレス認証連携",
+        "bind_email_tips": "メールアドレス認証連携",
+        "bind": "連携済み",
+        "title": "二要素認証"
     },
     "zh-Hant": {
-        "vertify_tips": " 为了您的资金安全，请设置6位数的资金密码。此密码将作为您提币的重要凭证。",
-        "bind_google": "谷歌验证绑定",
-        "bind_google_tips": "提现安全验证，请绑定谷歌验证器",
-        "bind_email": "邮箱验证绑定",
-        "bind_email_tips": "默认验证方式",
-        "bind": "已绑定",
-        "title": "双重身份验证"
+        "vertify_tips": " 為了您的資金安全，請設置6位數的資金密碼。此密碼將作為您提幣的重要憑證。",
+        "bind_google": "谷歌驗證綁定",
+        "bind_google_tips": "提現安全驗證，請綁定谷歌驗證器",
+        "bind_email": "郵箱驗證綁定",
+        "bind_email_tips": "默認驗證方式",
+        "bind": "已綁定",
+        "title": "雙重身份驗證"
     }
 }
