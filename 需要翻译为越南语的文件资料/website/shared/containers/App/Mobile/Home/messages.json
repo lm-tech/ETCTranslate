@@ -1,58 +1,58 @@
 {
-  "zh": {
-    "content_coin_mark": "数字货币预测数据均参考自coinmarketcap",
-    "content_coin_world_mark": "本类预测数据均参考自prediction365",
-    "content_title_esports": "投币时间将根据实际比赛时间调整",
-    "soccer": "足球",
-    "funny_guessing": "趣味预测",
-    "esports": "电竞"
-  },
-  "en": {
-    "content_coin_mark": "Cryptocurrency data is referenced from CoinMarketCap",
-    "content_coin_world_mark": "All data is referenced from prediction365",
-    "content_title_esports": "The predictions deadline will be adjusted depending on the acutal game start time",
-    "soccer": "Soccer",
-    "funny_guessing": "Prediction",
-    "esports": "eSports"
-  },
-  "ja": {
-    "content_coin_mark": "デジタル通貨ベッティングに関するデータはすべてcoinmarketcapを参考にしています",
-    "content_coin_world_mark": "ベッティングに関するデータはすべてprediction365を参考にしています",
-    "content_title_esports": "ベッティング時間は実際の試合時間による調整されます",
-    "soccer": "サッカー",
-    "funny_guessing": "おもしろいベッティング",
-    "esports": "eスポーツ"
-  },
-  "ko": {
-    "content_coin_mark": "암호화폐 예측 관련 데이터는 모두 coinmarketcap 데이터에 의거합니다",
-    "content_coin_world_mark": " ",
-    "content_title_esports": "배팅시간은 실제 경기시간에 따라 조정할 것이다",
-    "soccer": "축구",
-    "funny_guessing": "예측 규정",
-    "esports": "e스포츠"
-  },
-  "ru": {
-    "content_coin_mark": "Цифровая валюта коэффициентов прогнозирования ссылаются из coinmaketcap",
-    "content_coin_world_mark": "На этот тип прогнозирования ссылаются из prediction365",
-    "content_title_esports": "Крайний срок подачи ставок будет скорректирован в зависимости от времени начала игры.",
-    "soccer": "Футбол",
-    "funny_guessing": "Прогнозирование",
-    "esports": "eСпорт"
-  },
-  "vi": {
-    "content_coin_mark": "Chữ số tiền tệ dữ liệu thi đố đều được tham khảo từ coinmarketcap",
-    "content_coin_world_mark": "loại dữ liệu thi đố đều được tham khảo từprediction365",
-    "content_title_esports": "Thời hạn cá cược sẽ được điều chỉnh tùy thuộc vào thời gian bắt đầu trò chơi thực tế.",
-    "soccer": "Bóng đá",
-    "funny_guessing": "Thi đố thú vị",
-    "esports": "eSports"
-  },
-  "zh-Hant": {
-    "content_coin_mark": "數字貨幣競猜數據均參考自coinmarketcap",
-    "content_coin_world_mark": "本類競猜數據均參考自prediction365",
-    "content_title_esports": "投币時間將根據實際比賽時間調整",
-    "soccer": "足球",
-    "funny_guessing": "趣味競猜",
-    "esports": "電競"
-  }
+	"zh": {
+		"content_coin_mark": "数字货币预测数据均参考自coinmarketcap",
+		"content_coin_world_mark": "本类预测数据均参考自prediction365",
+		"content_title_esports": "投币时间将根据实际比赛时间调整",
+		"soccer": "足球",
+		"funny_guessing": "趣味预测",
+		"esports": "电竞"
+	},
+	"en": {
+		"content_coin_mark": "Cryptocurrency data is referenced from CoinMarketCap",
+		"content_coin_world_mark": "All data is referenced from prediction365",
+		"content_title_esports": "The predictions deadline will be adjusted depending on the acutal game start time",
+		"soccer": "Soccer",
+		"funny_guessing": "Prediction",
+		"esports": "eSports"
+	},
+	"ja": {
+		"content_coin_mark": "デジタル通貨ベッティングに関するデータはすべてcoinmarketcapを参考にしています",
+		"content_coin_world_mark": "ベッティングに関するデータはすべてprediction365を参考にしています",
+		"content_title_esports": "ベッティング時間は実際の試合時間による調整されます",
+		"soccer": "サッカー",
+		"funny_guessing": "おもしろいベッティング",
+		"esports": "eスポーツ"
+	},
+	"ko": {
+		"content_coin_mark": "암호화폐 예측 관련 데이터는 모두 coinmarketcap 데이터에 의거합니다",
+		"content_coin_world_mark": " ",
+		"content_title_esports": "배팅시간은 실제 경기시간에 따라 조정할 것이다",
+		"soccer": "축구",
+		"funny_guessing": "예측 규정",
+		"esports": "e스포츠"
+	},
+	"ru": {
+		"content_coin_mark": "Цифровая валюта коэффициентов прогнозирования ссылаются из coinmaketcap",
+		"content_coin_world_mark": "На этот тип прогнозирования ссылаются из prediction365",
+		"content_title_esports": "Крайний срок подачи ставок будет скорректирован в зависимости от времени начала игры.",
+		"soccer": "Футбол",
+		"funny_guessing": "Прогнозирование",
+		"esports": "eСпорт"
+	},
+	"vi": {
+		"content_coin_mark": "数字货币预测数据均参考自coinmarketcap",
+		"content_coin_world_mark": "本类预测数据均参考自prediction365",
+		"content_title_esports": "投币时间将根据实际比赛时间调整",
+		"soccer": "足球",
+		"funny_guessing": "趣味预测",
+		"esports": "电竞"
+	},
+	"zh-Hant": {
+		"content_coin_mark": "數字貨幣競猜數據均參考自coinmarketcap",
+		"content_coin_world_mark": "本類競猜數據均參考自prediction365",
+		"content_title_esports": "投币時間將根據實際比賽時間調整",
+		"soccer": "足球",
+		"funny_guessing": "趣味競猜",
+		"esports": "電競"
+	}
 }

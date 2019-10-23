@@ -1,30 +1,30 @@
 {
-  "zh": {
-    "record_detail_later_30": "最近30天",
-    "record_detail_custom": "自定义"
-  },
-  "en": {
-    "record_detail_later_30": "Recent 30 days",
-    "record_detail_custom": "Custom"
-  },
-  "ko": {
-    "record_detail_later_30": "최근 30일",
-    "record_detail_custom": "날짜 선택"
-  },
-  "ja": {
-    "record_detail_later_30": "最近30日間",
-    "record_detail_custom": "カスタム"
-  },
-  "ru": {
-    "record_detail_later_30": "Последние 30 дней",
-    "record_detail_custom": "Настроить"
-  },
-  "vi": {
-    "record_detail_later_30": "trong vòng 30 ngày",
-    "record_detail_custom": "tự định nghĩa"
-  },
-  "zh-Hant": {
-    "record_detail_later_30": "最近30天",
-    "record_detail_custom": "自定義"
-  }
+	"zh": {
+		"record_detail_later_30": "最近30天",
+		"record_detail_custom": "自定义"
+	},
+	"en": {
+		"record_detail_later_30": "Recent 30 days",
+		"record_detail_custom": "Custom"
+	},
+	"ko": {
+		"record_detail_later_30": "최근 30일",
+		"record_detail_custom": "날짜 선택"
+	},
+	"ja": {
+		"record_detail_later_30": "最近30日間",
+		"record_detail_custom": "カスタム"
+	},
+	"ru": {
+		"record_detail_later_30": "Последние 30 дней",
+		"record_detail_custom": "Настроить"
+	},
+	"vi": {
+		"record_detail_later_30": "最近30天",
+		"record_detail_custom": "自定义"
+	},
+	"zh-Hant": {
+		"record_detail_later_30": "最近30天",
+		"record_detail_custom": "自定義"
+	}
 }

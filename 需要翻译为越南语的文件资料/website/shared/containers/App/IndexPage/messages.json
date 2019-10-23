@@ -1,42 +1,50 @@
 {
-  "zh": {
-    "footer_hot_game": "热门游戏",
-    "footer_recent_play": "最近玩过",
-    "footer_more_game": "更多游戏",
-    "footer_sport_events": "体育赛事",
-    "footer_sport_events_more": "更多赛事",
-    "footer_partner": "合作伙伴"
-  },
-  "en": {
-    "footer_hot_game": "Trendings",
-    "footer_recent_play": "Recent Games",
-    "footer_more_game": "More Games",
-    "footer_sport_events": "Sport Events",
-    "footer_sport_events_more": "More Events",
-    "footer_partner": "Partners"
-  },
-  "ko": {
-    "footer_hot_game": "인기 게임",
-    "footer_recent_play": "최근 게임",
-    "footer_more_game": "더 보기",
-    "footer_sport_events": "스포츠 경기",
-    "footer_sport_events_more": "더 보기",
-    "footer_partner": "파트너"
-  },
-  "ja": {
-    "footer_hot_game": "人気ゲーム",
-    "footer_recent_play": "最近プレイ中",
-    "footer_more_game": "その他のゲーム",
-    "footer_sport_events": "スポーツイベント",
-    "footer_sport_events_more": "その他のイベント",
-    "footer_partner": "パートナー"
-  },
-  "zh-Hant": {
-    "footer_hot_game": "熱門遊戲",
-    "footer_recent_play": "最近玩過",
-    "footer_more_game": "更多遊戲",
-    "footer_sport_events": "體育賽事",
-    "footer_sport_events_more": "更多賽事",
-    "footer_partner": "合作夥伴"
-  }
+	"zh": {
+		"footer_hot_game": "热门游戏",
+		"footer_recent_play": "最近玩过",
+		"footer_more_game": "更多游戏",
+		"footer_sport_events": "体育赛事",
+		"footer_sport_events_more": "更多赛事",
+		"footer_partner": "合作伙伴"
+	},
+	"en": {
+		"footer_hot_game": "Trendings",
+		"footer_recent_play": "Recent Games",
+		"footer_more_game": "More Games",
+		"footer_sport_events": "Sport Events",
+		"footer_sport_events_more": "More Events",
+		"footer_partner": "Partners"
+	},
+	"ko": {
+		"footer_hot_game": "인기 게임",
+		"footer_recent_play": "최근 게임",
+		"footer_more_game": "더 보기",
+		"footer_sport_events": "스포츠 경기",
+		"footer_sport_events_more": "더 보기",
+		"footer_partner": "파트너"
+	},
+	"ja": {
+		"footer_hot_game": "人気ゲーム",
+		"footer_recent_play": "最近プレイ中",
+		"footer_more_game": "その他のゲーム",
+		"footer_sport_events": "スポーツイベント",
+		"footer_sport_events_more": "その他のイベント",
+		"footer_partner": "パートナー"
+	},
+	"zh-Hant": {
+		"footer_hot_game": "熱門遊戲",
+		"footer_recent_play": "最近玩過",
+		"footer_more_game": "更多遊戲",
+		"footer_sport_events": "體育賽事",
+		"footer_sport_events_more": "更多賽事",
+		"footer_partner": "合作夥伴"
+	},
+	"vi": {
+		"footer_hot_game": "热门游戏",
+		"footer_recent_play": "最近玩过",
+		"footer_more_game": "更多游戏",
+		"footer_sport_events": "体育赛事",
+		"footer_sport_events_more": "更多赛事",
+		"footer_partner": "合作伙伴"
+	}
 }

@@ -1,65 +1,65 @@
 {
-  "zh": {
-    "detail_history_no_data": "暂无数据",
-    "hot": "热门投币",
-    "forthcoming": "即将开赛",
-    "search": "搜索",
-    "main": "首页",
-    "search_result":"搜索结果共{result}条",
-    "detail_history_toBottom": "已经到达底线"
-  },
-  "en": {
-    "detail_history_no_data": "No data",
-    "hot": "Popular",
-    "forthcoming": "Coming soon",
-    "search": "Search",
-    "main": "Home",
-    "search_result":"{result} search results",
-    "detail_history_toBottom": "End of the list"
-  },
-  "ja": {
-    "detail_history_no_data": "データなし",
-    "hot": "人気ベッティング",
-    "forthcoming": "間もなく開始",
-    "search": "検索",
-    "main": "トップページ",
-    "search_result":"検査結果合計{result}",
-    "detail_history_toBottom": "ボトムラインに到達しました"
-  },
-  "ko": {
-    "detail_history_no_data": "데이터 없음",
-    "hot": "핫 베팅항목",
-    "forthcoming": "런칭 예정",
-    "search": "조회",
-    "main": "홈페이지",
-    "search_result":"총{result}개의 검색결과",
-    "detail_history_toBottom": "더 이상 표시할 내용이 없습니다"
-  },
-  "ru": {
-    "detail_history_no_data": "Временно нет данных",
-    "hot": "Горячая ставка",
-    "forthcoming": "Coming soon",
-    "search": "Search",
-    "main": "Home",
-    "search_result":"搜索结果共{result}条",
-    "detail_history_toBottom": "End of the list"
-  },
-  "vi": {
-    "detail_history_no_data": "Tạm thời không có số liệu",
-    "hot": "Đầu tư Hot",
-    "forthcoming": "Coming soon",
-    "search": "Search",
-    "main": "Home",
-    "search_result":"搜索结果共{result}条",
-    "detail_history_toBottom": "End of the list"
-  },
-  "zh-Hant": {
-    "detail_history_no_data": "暫無數據",
-    "hot": "熱門投币",
-    "forthcoming": "即將開賽",
-    "search": "搜索",
-    "main": "首页",
-    "search_result":"搜索結果共{result}條",
-    "detail_history_toBottom": "已經到達底線"
-  }
+	"zh": {
+		"detail_history_no_data": "暂无数据",
+		"hot": "热门投币",
+		"forthcoming": "即将开赛",
+		"search": "搜索",
+		"main": "首页",
+		"search_result": "搜索结果共{result}条",
+		"detail_history_toBottom": "已经到达底线"
+	},
+	"en": {
+		"detail_history_no_data": "No data",
+		"hot": "Popular",
+		"forthcoming": "Coming soon",
+		"search": "Search",
+		"main": "Home",
+		"search_result": "{result} search results",
+		"detail_history_toBottom": "End of the list"
+	},
+	"ja": {
+		"detail_history_no_data": "データなし",
+		"hot": "人気ベッティング",
+		"forthcoming": "間もなく開始",
+		"search": "検索",
+		"main": "トップページ",
+		"search_result": "検査結果合計{result}",
+		"detail_history_toBottom": "ボトムラインに到達しました"
+	},
+	"ko": {
+		"detail_history_no_data": "데이터 없음",
+		"hot": "핫 베팅항목",
+		"forthcoming": "런칭 예정",
+		"search": "조회",
+		"main": "홈페이지",
+		"search_result": "총{result}개의 검색결과",
+		"detail_history_toBottom": "더 이상 표시할 내용이 없습니다"
+	},
+	"ru": {
+		"detail_history_no_data": "Временно нет данных",
+		"hot": "Горячая ставка",
+		"forthcoming": "Coming soon",
+		"search": "Search",
+		"main": "Home",
+		"search_result": "搜索结果共{result}条",
+		"detail_history_toBottom": "End of the list"
+	},
+	"vi": {
+		"detail_history_no_data": "暂无数据",
+		"hot": "热门投币",
+		"forthcoming": "即将开赛",
+		"search": "搜索",
+		"main": "首页",
+		"search_result": "搜索结果共{result}条",
+		"detail_history_toBottom": "已经到达底线"
+	},
+	"zh-Hant": {
+		"detail_history_no_data": "暫無數據",
+		"hot": "熱門投币",
+		"forthcoming": "即將開賽",
+		"search": "搜索",
+		"main": "首页",
+		"search_result": "搜索結果共{result}條",
+		"detail_history_toBottom": "已經到達底線"
+	}
 }

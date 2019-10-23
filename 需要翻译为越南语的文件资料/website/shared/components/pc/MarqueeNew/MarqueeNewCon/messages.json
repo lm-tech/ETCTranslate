@@ -1,37 +1,37 @@
 {
-  "zh": {
-    "marquee_invest": "用户{account},在【{playname}】投币了{amount} {currency}，大家快来围观！",
-    "marquee2_earn": "用户{account},在【{playname}】赢得了{amount} {currency}，让我们恭喜他！",
-    "promotion_notice": "公告"
-  },
-  "en": {
-    "marquee_invest": "User {account}, prediction on【{playname}】with {amount} {currency}, take a look!",
-    "marquee2_earn": "User {account}, prediction on【{playname}】 and win {amount} {currency}, let's congratulate him!",
-    "promotion_notice": "Notice"
-  },
-  "ko": {
-    "marquee_invest": "{account}님이 【{playname}】에서 {amount} {currency}를 베팅하였습니다.자세한 정보 보기",
-    "marquee2_earn": "{account}님이 【{playname}】에서 {amount} {currency}를 획득하였습니다.축하드립니다.",
-    "promotion_notice": "공지"
-  },
-  "ja": {
-    "marquee_invest": "ユーザーの{account}さんは、【{playname}】に{amount} {currency}をオーダーしました。",
-    "marquee2_earn": "ユーザーの{account}さんは、【{playname}】により{amount} {currency}を取得しました。おめでとうございます！",
-    "promotion_notice": "お知らせ"
-  },
-  "ru": {
-    "marquee_invest": "User{account},prediction on【{playname}】with {amount} {currency}, take a look!",
-    "marquee2_earn": "User{account},prediction on【{playname}】 and win {amount} {currency}, let's congratulate him!",
-    "promotion_notice": "公告"
-  },
-  "vi": {
-    "marquee_invest": "User{account},prediction on【{playname}】with {amount} {currency}, take a look!",
-    "marquee2_earn": "User{account},prediction on【{playname}】 and win {amount} {currency}, let's congratulate him!",
-    "promotion_notice": "公告"
-  },
-  "zh-Hant": {
-    "marquee_invest": "用戶{account},在【{playname}】投币了{amount} {currency},大家快來圍觀！",
-    "marquee2_earn": "用戶{account},在【{playname}】贏得了{amount} {currency},讓我們恭喜他！",
-    "promotion_notice": "公告"
-  }
+	"zh": {
+		"marquee_invest": "用户{account},在【{playname}】投币了{amount} {currency}，大家快来围观！",
+		"marquee2_earn": "用户{account},在【{playname}】赢得了{amount} {currency}，让我们恭喜他！",
+		"promotion_notice": "公告"
+	},
+	"en": {
+		"marquee_invest": "User {account}, prediction on【{playname}】with {amount} {currency}, take a look!",
+		"marquee2_earn": "User {account}, prediction on【{playname}】 and win {amount} {currency}, let's congratulate him!",
+		"promotion_notice": "Notice"
+	},
+	"ko": {
+		"marquee_invest": "{account}님이 【{playname}】에서 {amount} {currency}를 베팅하였습니다.자세한 정보 보기",
+		"marquee2_earn": "{account}님이 【{playname}】에서 {amount} {currency}를 획득하였습니다.축하드립니다.",
+		"promotion_notice": "공지"
+	},
+	"ja": {
+		"marquee_invest": "ユーザーの{account}さんは、【{playname}】に{amount} {currency}をオーダーしました。",
+		"marquee2_earn": "ユーザーの{account}さんは、【{playname}】により{amount} {currency}を取得しました。おめでとうございます！",
+		"promotion_notice": "お知らせ"
+	},
+	"ru": {
+		"marquee_invest": "User{account},prediction on【{playname}】with {amount} {currency}, take a look!",
+		"marquee2_earn": "User{account},prediction on【{playname}】 and win {amount} {currency}, let's congratulate him!",
+		"promotion_notice": "公告"
+	},
+	"vi": {
+		"marquee_invest": "用户{account},在【{playname}】投币了{amount} {currency}，大家快来围观！",
+		"marquee2_earn": "用户{account},在【{playname}】赢得了{amount} {currency}，让我们恭喜他！",
+		"promotion_notice": "公告"
+	},
+	"zh-Hant": {
+		"marquee_invest": "用戶{account},在【{playname}】投币了{amount} {currency},大家快來圍觀！",
+		"marquee2_earn": "用戶{account},在【{playname}】贏得了{amount} {currency},讓我們恭喜他！",
+		"promotion_notice": "公告"
+	}
 }

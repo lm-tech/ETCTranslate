@@ -1,17 +1,20 @@
 {
-  "zh": {
-    "headerTitle": "游戏"
-  },
-  "en": {
-    "headerTitle": "Game"
-  },
-  "ja": {
-    "headerTitle": "ゲーム"
-  },
-  "ko": {
-    "headerTitle": "게임"
-  },
-  "zh-Hant": {
-    "headerTitle": "遊戲"
-  }
+	"zh": {
+		"headerTitle": "游戏"
+	},
+	"en": {
+		"headerTitle": "Game"
+	},
+	"ja": {
+		"headerTitle": "ゲーム"
+	},
+	"ko": {
+		"headerTitle": "게임"
+	},
+	"zh-Hant": {
+		"headerTitle": "遊戲"
+	},
+	"vi": {
+		"headerTitle": "游戏"
+	}
 }

@@ -1,65 +1,65 @@
 ﻿{
-  "zh": {
-    "content_title_word_cup": "足球",
-    "content_title_number_coin": "数字货币",
-    "content_title_detail": "预测细则",
-    "funny_guessing": "趣味预测",
-    "esports": "电竞",
-    "content_title_guide": "新手引导",
-    "content_title_esports": "投币时间将根据实际比赛时间调整"
-  },
-  "en": {
-    "content_title_word_cup": "Soccer",
-    "content_title_number_coin": "Cryptocurrency",
-    "funny_guessing": "Prediction",
-    "esports": "eSports",
-    "content_title_detail": "Game Rules",
-    "content_title_guide": "Beginner's Guide",
-    "content_title_esports": "The deadline for forecast will be adjusted based on the actual start time of the game."
-  },
-  "ja": {
-    "content_title_word_cup": "サッカー",
-    "content_title_number_coin": "デジタル通貨",
-    "funny_guessing": "面白いクイズ",
-    "esports": "eスポーツ",
-    "content_title_detail": "ベッティングの細則",
-    "content_title_guide": "初心者の手引き",
-    "content_title_esports": "ベッティング時間は実際の試合時間による調整されます"
-  },
-  "ko": {
-    "content_title_word_cup": "축구",
-    "content_title_number_coin": "디지털 화폐",
-    "funny_guessing": "예측 규정",
-    "esports": "e스포츠",
-    "content_title_detail": "예측 규칙",
-    "content_title_guide": "신규회원 가이드",
-    "content_title_esports": "배팅시간은 실제 경기시간에 따라 조정할 것이다"
-  },
-  "ru": {
-    "content_title_word_cup": "Футбол",
-    "content_title_number_coin": "Цифровая валюта",
-    "funny_guessing": "Прогнозирование",
-    "esports": "eСпорт",
-    "content_title_detail": "Правила прогноза",
-    "content_title_guide": "Руководство для начинающих ",
-    "content_title_esports": "Крайний срок подачи ставок будет скорректирован в зависимости от времени начала игры."
-  },
-  "vi": {
-    "content_title_word_cup": "Bóng đá",
-    "content_title_number_coin": "Chữ số tiền tệ",
-    "esports": "eSports",
-    "funny_guessing": "Thi đố thú vị",
-    "content_title_detail": "Chi tiết thi đố",
-    "content_title_guide": "Hướng dẫn người mới",
-    "content_title_esports": "Thời hạn cá cược sẽ được điều chỉnh tùy thuộc vào thời gian bắt đầu trò chơi thực tế."
-  },
-  "zh-Hant": {
-    "content_title_word_cup": "足球",
-    "content_title_number_coin": "數字貨幣",
-    "content_title_detail": "競猜細則",
-    "funny_guessing": "趣味競猜",
-    "esports": "電競",
-    "content_title_guide": "新手引導",
-    "content_title_esports": "投币時間將根據實際比賽時間調整."
-  }
+	"zh": {
+		"content_title_word_cup": "足球",
+		"content_title_number_coin": "数字货币",
+		"content_title_detail": "预测细则",
+		"funny_guessing": "趣味预测",
+		"esports": "电竞",
+		"content_title_guide": "新手引导",
+		"content_title_esports": "投币时间将根据实际比赛时间调整"
+	},
+	"en": {
+		"content_title_word_cup": "Soccer",
+		"content_title_number_coin": "Cryptocurrency",
+		"funny_guessing": "Prediction",
+		"esports": "eSports",
+		"content_title_detail": "Game Rules",
+		"content_title_guide": "Beginner's Guide",
+		"content_title_esports": "The deadline for forecast will be adjusted based on the actual start time of the game."
+	},
+	"ja": {
+		"content_title_word_cup": "サッカー",
+		"content_title_number_coin": "デジタル通貨",
+		"funny_guessing": "面白いクイズ",
+		"esports": "eスポーツ",
+		"content_title_detail": "ベッティングの細則",
+		"content_title_guide": "初心者の手引き",
+		"content_title_esports": "ベッティング時間は実際の試合時間による調整されます"
+	},
+	"ko": {
+		"content_title_word_cup": "축구",
+		"content_title_number_coin": "디지털 화폐",
+		"funny_guessing": "예측 규정",
+		"esports": "e스포츠",
+		"content_title_detail": "예측 규칙",
+		"content_title_guide": "신규회원 가이드",
+		"content_title_esports": "배팅시간은 실제 경기시간에 따라 조정할 것이다"
+	},
+	"ru": {
+		"content_title_word_cup": "Футбол",
+		"content_title_number_coin": "Цифровая валюта",
+		"funny_guessing": "Прогнозирование",
+		"esports": "eСпорт",
+		"content_title_detail": "Правила прогноза",
+		"content_title_guide": "Руководство для начинающих ",
+		"content_title_esports": "Крайний срок подачи ставок будет скорректирован в зависимости от времени начала игры."
+	},
+	"vi": {
+		"content_title_word_cup": "足球",
+		"content_title_number_coin": "数字货币",
+		"content_title_detail": "预测细则",
+		"funny_guessing": "趣味预测",
+		"esports": "电竞",
+		"content_title_guide": "新手引导",
+		"content_title_esports": "投币时间将根据实际比赛时间调整"
+	},
+	"zh-Hant": {
+		"content_title_word_cup": "足球",
+		"content_title_number_coin": "數字貨幣",
+		"content_title_detail": "競猜細則",
+		"funny_guessing": "趣味競猜",
+		"esports": "電競",
+		"content_title_guide": "新手引導",
+		"content_title_esports": "投币時間將根據實際比賽時間調整."
+	}
 }

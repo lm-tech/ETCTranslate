@@ -1,58 +1,58 @@
 ﻿{
-  "zh": {
-    "soccer": "足球",
-    "digital_currency": "数字货币",
-    "funny_prediction": "趣味预测",
-    "funny_guessing": "趣味预测",
-    "esports": "电竞",
-    "tip_link": "6月11号之前的比赛请点击此处"
-  },
-  "en": {
-    "soccer": "Soccer",
-    "digital_currency": "Cryptocurrency",
-    "funny_prediction": "Prediction",
-    "funny_guessing": "Prediction",
-    "esports": "eSports",
-    "tip_link": "Please click here for predictions before June 11th."
-  },
-  "ja": {
-    "soccer": "サッカー",
-    "digital_currency": "デジタル通貨",
-    "funny_prediction": "おもしろいベッティング",
-    "funny_guessing": "おもしろいベッティング",
-    "esports": "eスポーツ",
-    "tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
-  },
-  "ko": {
-    "soccer": "축구",
-    "digital_currency": "암호화폐",
-    "funny_prediction": "예측 규정",
-    "funny_guessing": "예측 규정",
-    "esports": "e스포츠",
-    "tip_link": "6월 11일 이전의 경기는 여기를 클릭해주세요"
-  },
-  "ru": {
-    "soccer": "Футбол",
-    "digital_currency": "Цифровая валюта",
-    "funny_prediction": "Прогнозирование",
-    "funny_guessing": "Прогнозирование",
-    "esports": "eСпорт",
-    "tip_link": "Прогнозы до 11 июня нажмите здесь"
-  },
-  "vi": {
-    "soccer": "Bóng đá",
-    "digital_currency": "Chữ số tiền tệ",
-    "funny_prediction": "Thi đố thú vị",
-    "funny_guessing": "Thi đố thú vị",
-    "esports": "eSports",
-    "tip_link": "Trước cuộc thi đấu ngày 11 tháng 6 mời bấm vào đây"
-  },
-  "zh-Hant": {
-    "soccer": "足球",
-    "digital_currency": "數字貨幣",
-    "funny_prediction": "趣味競猜",
-    "funny_guessing": "趣味競猜",
-    "esports": "電競",
-    "tip_link": "6月11號之前的比賽請點擊此處"
-  }
+	"zh": {
+		"soccer": "足球",
+		"digital_currency": "数字货币",
+		"funny_prediction": "趣味预测",
+		"funny_guessing": "趣味预测",
+		"esports": "电竞",
+		"tip_link": "6月11号之前的比赛请点击此处"
+	},
+	"en": {
+		"soccer": "Soccer",
+		"digital_currency": "Cryptocurrency",
+		"funny_prediction": "Prediction",
+		"funny_guessing": "Prediction",
+		"esports": "eSports",
+		"tip_link": "Please click here for predictions before June 11th."
+	},
+	"ja": {
+		"soccer": "サッカー",
+		"digital_currency": "デジタル通貨",
+		"funny_prediction": "おもしろいベッティング",
+		"funny_guessing": "おもしろいベッティング",
+		"esports": "eスポーツ",
+		"tip_link": "6月11日前のベッティング履歴に関してはここをクリックしてください"
+	},
+	"ko": {
+		"soccer": "축구",
+		"digital_currency": "암호화폐",
+		"funny_prediction": "예측 규정",
+		"funny_guessing": "예측 규정",
+		"esports": "e스포츠",
+		"tip_link": "6월 11일 이전의 경기는 여기를 클릭해주세요"
+	},
+	"ru": {
+		"soccer": "Футбол",
+		"digital_currency": "Цифровая валюта",
+		"funny_prediction": "Прогнозирование",
+		"funny_guessing": "Прогнозирование",
+		"esports": "eСпорт",
+		"tip_link": "Прогнозы до 11 июня нажмите здесь"
+	},
+	"vi": {
+		"soccer": "足球",
+		"digital_currency": "数字货币",
+		"funny_prediction": "趣味预测",
+		"funny_guessing": "趣味预测",
+		"esports": "电竞",
+		"tip_link": "6月11号之前的比赛请点击此处"
+	},
+	"zh-Hant": {
+		"soccer": "足球",
+		"digital_currency": "數字貨幣",
+		"funny_prediction": "趣味競猜",
+		"funny_guessing": "趣味競猜",
+		"esports": "電競",
+		"tip_link": "6月11號之前的比賽請點擊此處"
+	}
 }

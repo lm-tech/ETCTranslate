@@ -1,23 +1,23 @@
 {
-  "zh": {
-    "detail_history_no_data": "暂无数据"
-  },
-  "en": {
-    "detail_history_no_data": "No data"
-  },
-  "ja": {
-    "detail_history_no_data": "データ無し"
-  },
-  "ko": {
-    "detail_history_no_data": "데이터 없음"
-  },
-  "ru": {
-    "detail_history_no_data": "Никакие данные"
-  },
-  "vi": {
-    "detail_history_no_data": "tạm thời không có dự liệu"
-  },
-  "zh-Hant": {
-    "detail_history_no_data": "暫無數據"
-  }
+	"zh": {
+		"detail_history_no_data": "暂无数据"
+	},
+	"en": {
+		"detail_history_no_data": "No data"
+	},
+	"ja": {
+		"detail_history_no_data": "データ無し"
+	},
+	"ko": {
+		"detail_history_no_data": "데이터 없음"
+	},
+	"ru": {
+		"detail_history_no_data": "Никакие данные"
+	},
+	"vi": {
+		"detail_history_no_data": "暂无数据"
+	},
+	"zh-Hant": {
+		"detail_history_no_data": "暫無數據"
+	}
 }

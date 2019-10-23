@@ -1,17 +1,20 @@
 {
-  "zh": {
-    "start_game": "开始游戏"
-  },
-  "en": {
-    "start_game": "Paly"
-  },
-  "ja": {
-    "start_game": "ゲーム開始"
-  },
-  "ko": {
-    "start_game": "게임 시작"
-  },
-  "zh-Hant": {
-    "start_game": "開始遊戲"
-  }
+	"zh": {
+		"start_game": "开始游戏"
+	},
+	"en": {
+		"start_game": "Paly"
+	},
+	"ja": {
+		"start_game": "ゲーム開始"
+	},
+	"ko": {
+		"start_game": "게임 시작"
+	},
+	"zh-Hant": {
+		"start_game": "開始遊戲"
+	},
+	"vi": {
+		"start_game": "开始游戏"
+	}
 }

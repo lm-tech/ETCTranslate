@@ -1,32 +1,38 @@
 {
-  "zh": {
-    "smart_title_1": "智能合约",
-    "smart_title_2": "投币",
-    "member_title_1": "账户",
-    "member_title_2": "投币"
-  },
-  "en": {
-    "smart_title_1": "Smart ",
-    "smart_title_2": "Contract",
-    "member_title_1": "Membership",
-    "member_title_2": " "
-  },
-  "ko": {
-    "smart_title_1": "Smart ",
-    "smart_title_2": "Contract",
-    "member_title_1": "Membership",
-    "member_title_2": " "
-  },
-  "ja": {
-    "smart_title_1": "直接ベット",
-    "smart_title_2": " ",
-    "member_title_1": "会員ベット",
-    "member_title_2": " "
-  },
-  "zh-Hant": {
-    "smart_title_1": "合約投幣",
-    "smart_title_2": " ",
-    "member_title_1": "賬戶投幣",
-    "member_title_2": " "
-  }
+	"zh": {
+		"smart_title_1": "智能合约",
+		"smart_title_2": "投币",
+		"member_title_1": "账户",
+		"member_title_2": "投币"
+	},
+	"en": {
+		"smart_title_1": "Smart ",
+		"smart_title_2": "Contract",
+		"member_title_1": "Membership",
+		"member_title_2": " "
+	},
+	"ko": {
+		"smart_title_1": "Smart ",
+		"smart_title_2": "Contract",
+		"member_title_1": "Membership",
+		"member_title_2": " "
+	},
+	"ja": {
+		"smart_title_1": "直接ベット",
+		"smart_title_2": " ",
+		"member_title_1": "会員ベット",
+		"member_title_2": " "
+	},
+	"zh-Hant": {
+		"smart_title_1": "合約投幣",
+		"smart_title_2": " ",
+		"member_title_1": "賬戶投幣",
+		"member_title_2": " "
+	},
+	"vi": {
+		"smart_title_1": "智能合约",
+		"smart_title_2": "投币",
+		"member_title_1": "账户",
+		"member_title_2": "投币"
+	}
 }

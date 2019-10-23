@@ -1,23 +1,23 @@
 {
-  "zh": {
-    "non_centralization": "合约投币"
-  },
-  "en": {
-    "non_centralization": "Smart Contract Prediction"
-  },
-  "ja": {
-    "non_centralization": "コントラクトベッティング"
-  },
-  "ko": {
-    "non_centralization": "간편베팅"
-  },
-  "ru": {
-    "non_centralization": "Contract prediction"
-  },
-  "vi": {
-    "non_centralization": "Contract prediction"
-  },
-  "zh-Hant": {
-    "non_centralization": "合約投币"
-  }
+	"zh": {
+		"non_centralization": "合约投币"
+	},
+	"en": {
+		"non_centralization": "Smart Contract Prediction"
+	},
+	"ja": {
+		"non_centralization": "コントラクトベッティング"
+	},
+	"ko": {
+		"non_centralization": "간편베팅"
+	},
+	"ru": {
+		"non_centralization": "Contract prediction"
+	},
+	"vi": {
+		"non_centralization": "合约投币"
+	},
+	"zh-Hant": {
+		"non_centralization": "合約投币"
+	}
 }

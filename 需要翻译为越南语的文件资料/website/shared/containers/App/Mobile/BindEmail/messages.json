@@ -1,22 +1,26 @@
 {
-  "zh": {
-    "bind_email_title": "账号绑定",
-    "bind_email_cancel": "取消"
-  },
-  "en": {
-    "bind_email_title": "Account Linking",
-    "bind_email_cancel": "Cancel"
-  },
-  "ko": {
-    "bind_email_title": "이메일 연동",
-    "bind_email_cancel": "취소"
-  },
-  "ja": {
-    "bind_email_title": "アカウントの関連",
-    "bind_email_cancel": "取り消す"
-  },
-  "zh-Hant": {
-    "bind_email_title": "賬號綁定",
-    "bind_email_cancel": "取消"
-  }
+	"zh": {
+		"bind_email_title": "账号绑定",
+		"bind_email_cancel": "取消"
+	},
+	"en": {
+		"bind_email_title": "Account Linking",
+		"bind_email_cancel": "Cancel"
+	},
+	"ko": {
+		"bind_email_title": "이메일 연동",
+		"bind_email_cancel": "취소"
+	},
+	"ja": {
+		"bind_email_title": "アカウントの関連",
+		"bind_email_cancel": "取り消す"
+	},
+	"zh-Hant": {
+		"bind_email_title": "賬號綁定",
+		"bind_email_cancel": "取消"
+	},
+	"vi": {
+		"bind_email_title": "账号绑定",
+		"bind_email_cancel": "取消"
+	}
 }

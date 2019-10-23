@@ -1,37 +1,37 @@
 {
-  "zh": {
-    "forecast_record_title": "我的投币",
-    "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自定义"
-  },
-  "en": {
-    "forecast_record_title": "My predictions",
-    "forecast_record_recent_30_day": "Recent 30 days",
-    "forecast_record_custom": "Custom"
-  },
-  "ja": {
-    "forecast_record_title": "私のベッティング",
-    "forecast_record_recent_30_day": "過去30日",
-    "forecast_record_custom": "カスタムインストール"
-  },
-  "ko": {
-    "forecast_record_title": "나의 베팅 기록",
-    "forecast_record_recent_30_day": "최근30일",
-    "forecast_record_custom": "날짜 선택"
-  },
-  "ru": {
-    "forecast_record_title": "Запись прогноза",
-    "forecast_record_recent_30_day": "В последние 30 дней",
-    "forecast_record_custom": "Настроить самостоятельно"
-  },
-  "vi": {
-    "forecast_record_title": "Hồ sơ dự đoán",
-    "forecast_record_recent_30_day": "Gần nhất 30 ngày",
-    "forecast_record_custom": "Tuỳ chỉnh"
-  },
-  "zh-Hant": {
-    "forecast_record_title": "我的投註",
-    "forecast_record_recent_30_day": "最近30天",
-    "forecast_record_custom": "自訂"
-  }
+	"zh": {
+		"forecast_record_title": "我的投币",
+		"forecast_record_recent_30_day": "最近30天",
+		"forecast_record_custom": "自定义"
+	},
+	"en": {
+		"forecast_record_title": "My predictions",
+		"forecast_record_recent_30_day": "Recent 30 days",
+		"forecast_record_custom": "Custom"
+	},
+	"ja": {
+		"forecast_record_title": "私のベッティング",
+		"forecast_record_recent_30_day": "過去30日",
+		"forecast_record_custom": "カスタムインストール"
+	},
+	"ko": {
+		"forecast_record_title": "나의 베팅 기록",
+		"forecast_record_recent_30_day": "최근30일",
+		"forecast_record_custom": "날짜 선택"
+	},
+	"ru": {
+		"forecast_record_title": "Запись прогноза",
+		"forecast_record_recent_30_day": "В последние 30 дней",
+		"forecast_record_custom": "Настроить самостоятельно"
+	},
+	"vi": {
+		"forecast_record_title": "我的投币",
+		"forecast_record_recent_30_day": "最近30天",
+		"forecast_record_custom": "自定义"
+	},
+	"zh-Hant": {
+		"forecast_record_title": "我的投註",
+		"forecast_record_recent_30_day": "最近30天",
+		"forecast_record_custom": "自訂"
+	}
 }
