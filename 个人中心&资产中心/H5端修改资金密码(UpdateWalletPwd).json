@@ -3,15 +3,15 @@
         "title": "修改资金密码"
     },
     "en": {
-        "title": "修改资金密码"
+        "title": "Reset Payment Password"
     },
     "ko": {
-        "title": "修改资金密码"
+        "title": "출금 비밀번호 변경"
     },
     "ja": {
-        "title": "修改资金密码"
+        "title": "ファンドのパスワードを変更する"
     },
     "zh-Hant": {
-        "title": "修改资金密码"
+        "title": "修改資金密碼"
     }
 }
