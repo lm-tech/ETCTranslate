@@ -87,20 +87,20 @@
   }
     },
   "vi": {
-    "title": "账号绑定",
-    "input_label_email": "邮箱：",
-    "input_validate_empty_email": "请输入邮箱地址",
-    "input_label_vcode": "邮箱验证码:",
-    "input_label_vcode_empty":"请输入邮箱验证码",
-    "input_send_vCode":"发送验证码",
-    "input_confirm":"确定",
-    "input_cancel":"取消",
-    "email_info": "此{info}账号关联的邮箱账号在系统中已存在，需要进行目标邮箱验证进行账户绑定。或者可以使用关联的邮箱账号直接登录",
-    "email_bind_info":"为了您的账号安全，强烈建议绑定邮箱账号",
-    "login_success": "登录成功",
-    "email_vcode_error":"邮箱验证码不正确",
-    "system_error": "系统异常",
-    "accountBind_error_1":"邮箱已存在，无法绑定",
-    "account_error_1": "账号被冻结，冻结时长2小时"
+    "title": "Account Linking",
+    "input_label_email": "Email:",
+    "input_validate_empty_email": "Please enter Email address",
+    "input_label_vcode": "Email verification code:",
+    "input_label_vcode_empty":"Enter email verification code",
+    "input_send_vCode":"Validation code",
+    "input_confirm":"Confirm",
+    "input_cancel":"Cancel",
+    "email_info": "The Email address of this {info} account already exists in the system. It is required to verify the address for account linking.You can also log in directly using the Coingame account with this Email address.",
+    "email_bind_info":"For the security of your account, it is highly recommended to link the Email address.",
+    "login_success": "Login successful",
+    "email_vcode_error":"Invalid verification code",
+    "system_error": "System exception",
+    "accountBind_error_1":"This Email address already exists and cannot be used for account linking.",
+    "account_error_1": "User lockout for 2 hours"
   }
 }
