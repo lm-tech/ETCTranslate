@@ -98,7 +98,7 @@
 		"login_success": "Đăng nhập thành công",
 		"email_vcode_error": "Mã xác minh không đúng",
 		"system_error": "Hệ thống bất thường",
-		"accountBind_error_1": "Địa chỉ Email này đã tồn tại và không thể được sử dụng để liên kết tài khoản. "",
+		"accountBind_error_1": "Địa chỉ Email này đã tồn tại và không thể được sử dụng để liên kết tài khoản. ",
 		"account_error_1": "tài khoản đã bị khóa,thời gian khóa 2 tiếng"
 	}
 }
