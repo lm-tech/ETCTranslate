@@ -85,20 +85,21 @@
 		"account_error_1": "用戶鎖定2小時"
 	},
 	"vi": {
-		"title": "账号绑定",
-		"input_label_email": "邮箱：",
-		"input_validate_empty_email": "请输入邮箱地址",
-		"input_label_vcode": "邮箱验证码:",
-		"input_label_vcode_empty": "请输入邮箱验证码",
-		"input_send_vCode": "发送验证码",
-		"input_confirm": "确定",
-		"input_cancel": "取消",
-		"email_info": "此{info}账号关联的邮箱账号在系统中已存在，需要进行目标邮箱验证进行账户绑定。或者可以使用关联的邮箱账号直接登录",
-		"email_bind_info": "为了您的账号安全，强烈建议绑定邮箱账号",
-		"login_success": "登录成功",
-		"email_vcode_error": "邮箱验证码不正确",
-		"system_error": "系统异常",
-		"accountBind_error_1": "邮箱已存在，无法绑定",
-		"account_error_1": "账号被冻结，冻结时长2小时"
+		"title": "Liên kết tài khoản",
+		"input_label_email": "Email：",
+		"input_validate_empty_email": "Vui lòng nhập địa chỉ Email",
+		"input_label_vcode": " mã xác nhận Email:",
+		"input_label_vcode_empty": "Vui lòng nhập mã xác nhận Email",
+		"input_send_vCode": "Gửi mã xác nhận",
+		"input_confirm": "Xác Nhận",
+		"input_cancel": "Hủy Bỏ",
+		"email_info": "Địa chỉ Email của tài khoản {thông tin} này đã tồn tại trong hệ thống. Cần phải xác minh địa chỉ để liên kết tài khoản. Bạn cũng có thể đăng nhập trực tiếp bằng tài khoản Coingame bằng địa chỉ Email này. ",
+"email_bind_info": "Để bảo mật tài khoản của bạn, bạn nên liên kết với địa chỉ Email",
+		"email_bind_info": "Để bảo mật tài khoản của bạn, rất nên liên kết địa chỉ Email. ",
+		"login_success": "Đăng nhập thành công",
+		"email_vcode_error": "Mã xác minh không đúng",
+		"system_error": "Hệ thống bất thường",
+		"accountBind_error_1": "Địa chỉ Email này đã tồn tại và không thể được sử dụng để liên kết tài khoản. "",
+		"account_error_1": "tài khoản đã bị khóa,thời gian khóa 2 tiếng"
 	}
 }
