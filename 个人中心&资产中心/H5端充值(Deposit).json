@@ -87,7 +87,7 @@
     "error_currency": "주소가 틀렸습니다.",
     "error_messages_networks": "인터넷 오류가  발생하였습니다.",
     "currency_statement": "암호화폐 면책조항",
-    "code_save": "QR코드 보존"
+    "code_save": "QR코드 저장"
   },
   "ja": {
     "deposit_address_title": "{currency} ウオレットアドレス",
