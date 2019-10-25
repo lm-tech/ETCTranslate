@@ -25,7 +25,7 @@
 		"set_login_password_btn": "設置登錄密碼"
 	},
 	"vi": {
-		"loginInfo": "Tài khoản {thông tin} với địa chỉ Email đã nhập đã được đăng ký trên Coingame. Rất khuyến khích thiết lập mật khẩu đăng nhập để bạn có thể đăng nhập trực tiếp bằng địa chỉ Email của mình . ",。",
+		"loginInfo": "Tài khoản {thông tin} với địa chỉ Email đã nhập đã được đăng ký trên Coingame. Rất khuyến khích thiết lập mật khẩu đăng nhập để bạn có thể đăng nhập trực tiếp bằng địa chỉ Email của mình . ",
 		"account_login_btn": "Đăng nhập bằng tài khoản bên thứ ba",
 		"set_login_password_btn": "Thiết lập lại mật khẩu đăng nhập"
 	}
