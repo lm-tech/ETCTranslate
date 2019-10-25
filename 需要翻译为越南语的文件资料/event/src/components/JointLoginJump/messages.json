@@ -25,8 +25,8 @@
 		"set_login_password_btn": "設置登錄密碼"
 	},
 	"vi": {
-		"loginInfo": "您输入的账号所关联的第三方{info}账户已在我们平台完成注册。我们强烈建议您设置登录密码，以便使用邮箱和登录密码进行直接登录。",
-		"account_login_btn": "第三方账号直接登录",
-		"set_login_password_btn": "设置登录密码"
+		"loginInfo": "Tài khoản {thông tin} với địa chỉ Email đã nhập đã được đăng ký trên Coingame. Rất khuyến khích thiết lập mật khẩu đăng nhập để bạn có thể đăng nhập trực tiếp bằng địa chỉ Email của mình . ",。",
+		"account_login_btn": "Đăng nhập bằng tài khoản bên thứ ba",
+		"set_login_password_btn": "Thiết lập lại mật khẩu đăng nhập"
 	}
 }
