@@ -51,7 +51,7 @@
     "assets_center_nofrozen": "이용 가능 자산",
     "assets_center_go_to_all_balance": "총 자산을 확인합니다.",
     "assets_center_go_to_nofrozen_balance": "이용 가능 자산을 확인합니다.",
-    "assets_center_portable_assets": "可提：",
+    "assets_center_portable_assets": "출금 가능:",
     "assets_center_cannot_portable_assets": "출금 불가능:",
     "assets_center_fronzen_assets": "동결:",
     "assets_center_portable_assets_hover": "현재 출금 가능자산",
