@@ -52,8 +52,8 @@
         "record_table_cancel_forecast": "撤销"
     },
     "en": {
-        "deposit_title": "充值记录",
-        "withdraw_title": "提币记录",
+        "deposit_title": "Deposit Records",
+        "withdraw_title": "Withdrawal Records",
         "record_table_bets_time": "Time of predicting",
         "record_table_confirm_time": "Time of confirming",
         "record_table_time": "Time",
@@ -104,8 +104,8 @@
         "record_table_cancel_forecast": "Cancel"
     },
     "ko": {
-        "deposit_title": "充值记录",
-        "withdraw_title": "提币记录",
+        "deposit_title": "충전 기록",
+        "withdraw_title": "출금 기록",
         "record_table_bets_time": "배팅 시간",
         "record_table_confirm_time": "시간 확인",
         "record_table_time": "시간",
@@ -156,8 +156,8 @@
         "record_table_cancel_forecast": "취소"
     },
     "ja": {
-        "deposit_title": "充值记录",
-        "withdraw_title": "提币记录",
+        "deposit_title": "チャージ記録",
+        "withdraw_title": "コイン引出記録",
         "record_table_bets_time": "ベッティングをする時間",
         "record_table_confirm_time": "確認する時間",
         "record_table_time": "時間",
@@ -208,8 +208,8 @@
         "record_table_cancel_forecast": "キャンセル"
     },
     "zh-Hant": {
-        "deposit_title": "充值记录",
-        "withdraw_title": "提币记录",
+        "deposit_title": "充值記錄",
+        "withdraw_title": "提幣記錄",
         "record_table_bets_time": "投币時間",
         "record_table_confirm_time": "確定時間",
         "record_table_time": "時間",
