@@ -57,17 +57,17 @@
   },
 
   "zh-Hant": {
-    "emailAccount":"邮箱账号",
-    "emailTip":"若验证码邮件没有顺利到达您的收件箱，请注意检查垃圾箱内的邮件",
-    "googleAccount":"谷歌验证码",
+    "emailAccount":"郵箱賬號",
+    "emailTip":"若驗證碼郵件沒有順利到達您的收件箱，請註意檢查垃圾箱內的郵件",
+    "googleAccount":"谷歌驗證碼",
     "submit_ok":"完成",
-    "back":"返回上一步",
-    "use_google":"使用谷歌验证",
-    "use_email":"使用邮箱验证",
-    "security_item_lost":"安全项丢失？",
-    "security_tip1":"任意双重身份验证方式丢失，请立即联系客服",
-    "withdraw_form_password":"资金密码",
-    "input_validate_empty_validation_code":"验证码",
+    "back":"返回上壹步",
+    "use_google":"使用谷歌驗證",
+    "use_email":"使用郵箱驗證",
+    "security_item_lost":"安全項丟失？",
+    "security_tip1":"任意雙重身份驗證方式丟失，請立即聯系客服",
+    "withdraw_form_password":"資金密碼",
+    "input_validate_empty_validation_code":"驗證碼",
     "input_send_success": "發送成功， 請查收"
   }
 }
