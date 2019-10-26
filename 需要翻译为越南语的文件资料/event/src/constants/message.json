@@ -479,7 +479,7 @@
 		"ethRole621": "",
 		"ethRole63": "3. Tất cả user mỗi lần sài coin",
 		"ethCounts": "Thống kê của tôi",
-		"ethAmount": "["Tổng số vé", "Số vé đã nạp, "số vé mời", "Lượt mời "]",
+		"ethAmount": ["Tổng số vé", "Số vé đã nạp", "số vé mời", "Lượt mời "],
 		"ethInviteAddress": "Địa chỉ mời：",
 		"ethCopy": "Nhấp để Coppy",
 		"ethInviteCount": "Số lượng lượt mời：",
