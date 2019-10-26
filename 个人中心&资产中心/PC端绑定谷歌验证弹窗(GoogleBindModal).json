@@ -5,23 +5,23 @@
     "email_verify":"邮箱验证"
   },
   "en": {
-    "google_verify_title":"绑定谷歌验证",
-    "bind_google":"绑定谷歌",
-    "email_verify":"邮箱验证"
+    "google_verify_title":"Enable Google Authenticator",
+    "bind_google":"Enable Google Authenticator",
+    "email_verify":"Email Authentication"
   },
   "ko": {
-    "google_verify_title":"绑定谷歌验证",
-    "bind_google":"绑定谷歌",
-    "email_verify":"邮箱验证"
+    "google_verify_title":"구글 OTP 연동",
+    "bind_google":"구글 연동",
+    "email_verify":"이메일 인증"
   },
   "ja": {
-    "google_verify_title":"绑定谷歌验证",
-    "bind_google":"绑定谷歌",
-    "email_verify":"邮箱验证"
+    "google_verify_title":"Google認証バインディング",
+    "bind_google":"Google連携",
+    "email_verify":"メールアドレス認証"
   },
   "zh-Hant": {
-    "google_verify_title":"绑定谷歌验证",
-    "bind_google":"绑定谷歌",
-    "email_verify":"邮箱验证"
+    "google_verify_title":"綁定谷歌驗證",
+    "bind_google":"綁定谷歌",
+    "email_verify":"郵箱驗證"
   }
 }
