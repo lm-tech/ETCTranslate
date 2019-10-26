@@ -442,7 +442,7 @@
 		"inputSignUpSuc": "Sau đó, hệ thống sẽ chuyển đến trang hoạt động cho bạn.",
 		"rules": "Quy tắc hoạt động",
 		"rule1": "1. Thời gian hoạt động：14.12.2018 00:00:00-1.1.2019 23:59:59（UTC/GMT8)",
-		"rule2": "2. Thời hạn hoạt động，Số tiền tích lũy càng cao, thứ hạng của danh sách BXH triệu phú càng cao, nếu số tiền tích lũy bằng nhau, mức độ ưu tiên sẽ nằm trong top, 10 người dùng hàng đầu có thể nhận được phần thưởng tiền kỹ thuật số phong phú
+		"rule2": "2. Thời hạn hoạt động，Số tiền tích lũy càng cao, thứ hạng của danh sách BXH triệu phú càng cao, nếu số tiền tích lũy bằng nhau, mức độ ưu tiên sẽ nằm trong top, 10 người dùng hàng đầu có thể nhận được phần thưởng tiền kỹ thuật số phong phú；",
 		"rule3": "3. Chỉ có số lượng tiền trong giai đoạn sự kiện được đưa vào danh sách triệu phú (tài sản tiền tệ không được tài trợ không được tính vào danh sách triệu phú)）；",
 		"rule4": "4. Giải thưởng sự kiện được phát hành cho Trung tâm tài sản người dùng trong vòng 72 giờ sau khi kết thúc sự kiện；",
 		"rule5": "5. Coingame có quyền giải thích cho  sự kiện này sau khi kết thúc, vui lòng liên hệ với support@coingame.com nếu bạn có bất kỳ câu hỏi nào.  ",
