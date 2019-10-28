@@ -20,10 +20,10 @@
     "google_key_error":"GoogleKey失效"
   },
   "en": {
-    "bind_google_step1_tip":"谷歌验证器是一款动态口令工具，工作原理类似短信动态验证。绑定后每30s生成一个动态验证码，验证码可用于登录、提现、修改安全设置等操作的安全验证。",
-    "step1_text":"下载并安装谷歌验证器APP",
-    "step1_1":"1.iOS用户登录App Store搜索“Authenticator”下载。",
-    "step1_2":"2.安卓用户登录应用商店或使用手机浏览器搜索“谷验证器”下载。",
+    "bind_google_step1_tip":"GA(Google Authenticator) generates dynamic passwords and it is similar to SMS dynamic verification. Google Authenticator generates a new code every 30 seconds after you bind it to apps. This verification code can be used for login, withdrawal, and changing security settings to achieve maximum security.",
+    "step1_text":"Download GA",
+    "step1_1":"1.iOS users can log into App Store and search “Authenticator” to download.。",
+    "step1_2":"2.Android users can log into Google Play or search “Google Authenticator” in your mobile browser to download.",
     "step2_text":"Add the key in Google Authenticator and back it up",
     "scan_code":"Scan to add authentication key",
     "google_copied":"Copied",
