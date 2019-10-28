@@ -1,0 +1,44 @@
+{
+	"zh": {
+		"select_all": "全选",
+		"reverse": "反选",
+		"ok": "确定",
+		"cancel": "取消"
+	},
+	"en": {
+		"select_all": "Select All",
+		"reverse": "Inverse",
+		"ok": "Confirm",
+		"cancel": "Cancel"
+	},
+	"ja": {
+		"select_all": "一括選択",
+		"reverse": "選択を解除",
+		"ok": "確認",
+		"cancel": "キャンセル"
+	},
+	"ko": {
+		"select_all": "모두 선택",
+		"reverse": "모두 취소",
+		"ok": "확인",
+		"cancel": "취소"
+	},
+	"ru": {
+		"select_all": "Select All",
+		"reverse": "Inverse",
+		"ok": "Confirm",
+		"cancel": "Cancel"
+	},
+	"vi": {
+		"select_all": "全选",
+		"reverse": "反选",
+		"ok": "确定",
+		"cancel": "取消"
+	},
+	"zh-Hant": {
+		"select_all": "全選",
+		"reverse": "反選",
+		"ok": "確認",
+		"cancel": "取消"
+	}
+}

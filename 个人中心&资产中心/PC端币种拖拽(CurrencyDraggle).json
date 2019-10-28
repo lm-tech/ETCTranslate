@@ -1,0 +1,27 @@
+{
+  "zh": {
+    "cancel": "取消",
+    "save":"保存",
+    "long_press_sort":"*长按任意币种图标可进行拖动排序*"
+  },
+  "en": {
+    "cancel": "Cancel",
+    "save":"Save",
+    "long_press_sort":"*Long press and drag any asset icon to rearrange*"
+  },
+  "ko": {
+    "cancel": "취소",
+    "save":"저장",
+    "long_press_sort":"*암호화폐 로고를 길게 눌러 정렬 가능*"
+  },
+  "ja": {
+    "cancel": "キャンセルする",
+    "save":"保存",
+    "long_press_sort":"*通貨アイコンを長押しすると、ドラッグしてソートできます*"
+  },
+  "zh-Hant": {
+    "cancel": "取消",
+    "save":"保存",
+    "long_press_sort":"*長按任意幣種圖標可進行拖動排序*"
+  }
+}

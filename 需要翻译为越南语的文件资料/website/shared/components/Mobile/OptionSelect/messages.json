@@ -1,0 +1,84 @@
+{
+	"zh": {
+		"detail_forecast_title": "{currency} 预测",
+		"detail_forecast_title_link": "点我查看如何参与预测",
+		"detail_forecast_choose": "选择",
+		"detail_forecast_odds": "倍数",
+		"detail_forecast_address": "请将ETC打入智能合约地址完成投币",
+		"detail_forecast_notice": "禁止从交易所直接提币至预测地址,请使用官方或私人钱包充值 {currency} 到预测地址, 建议将Gas Limit设置为150,000以确保 {currency} 能成功转币到预测地址",
+		"detail_forecast_all": "最小单笔预测金额：{amount} {currency}",
+		"detail_forecast_copied": "已复制",
+		"detail_game_qrcode_tip": "智能合约二维码"
+	},
+	"en": {
+		"detail_forecast_title": "{currency} Forecast",
+		"detail_forecast_choose": "Option",
+		"detail_forecast_odds": "Multiple",
+		"detail_forecast_address": "Please transfer your ETC into the smart contract address to complete your prediction",
+		"detail_forecast_notice": "Direct withdrawal from an exchange address to the forecast address is prohibited.",
+		"detail_forecast_notice_two": "Transfer of ETC is only allowed from official or private wallet to the forecast address",
+		"detail_forecast_all": "Minimum forecast stake amount: {amount} {currency}",
+		"detail_forecast_copied": "Copied",
+		"detail_game_qrcode_tip": "Smart Contract QR Code",
+		"detail_forecast_title_link": "Click here to see how to participate in prediction"
+	},
+	"ja": {
+		"detail_forecast_title": "{currency} 予測",
+		"detail_forecast_choose": "選択",
+		"detail_forecast_odds": "倍率",
+		"detail_forecast_address": "悬赏クイズのベッティングのアドレス",
+		"detail_forecast_notice": "取引所から直接予測アドレスまでにコインを引き出すことは禁止されている.",
+		"detail_forecast_notice_two": "公式または個人の財布を使用してETCを予測アドレスまでにチャージしてください. Gas Limitを150,000に設定するのはお勧め、すると、 ETCを予測アドレスまでにチャージの確保できる",
+		"detail_forecast_all": "毎回最小の予測金額： {amount} {currency}",
+		"detail_forecast_copied": "コピーした",
+		"detail_game_qrcode_tip": "スマートコントラクトQRコード",
+		"detail_forecast_title_link": "クリックしてどのように予測に参加することをチェックする"
+	},
+	"ko": {
+		"detail_forecast_title": "{currency} 예측",
+		"detail_forecast_choose": "선택",
+		"detail_forecast_odds": "배당률",
+		"detail_forecast_address": "ETC를 스마트 컨트랙트 주소로 입금하여 예측을 완료하세요.",
+		"detail_forecast_notice": "거래소에서 직접 예측주소로 코인을 입금하는건 금지사항입니다.",
+		"detail_forecast_notice_two": "공식 지갑 또는 개인 지갑을 사용하여 ETC를 예측주소로 입금하세요. Gas Limit를 150,000으로 설정을 추천합니다. 이는 ETC가 정확히 예측주소로 입금됨을 위함입니다",
+		"detail_forecast_all": "최소 베팅 금액:{amount}{currency}",
+		"detail_forecast_copied": "복사됨",
+		"detail_game_qrcode_tip": "스마트 컨트렉트 QR코드",
+		"detail_forecast_title_link": "여기를 클릭하여 예측방법을 확인하세요"
+	},
+	"ru": {
+		"detail_forecast_title": "{currency} Прогноз",
+		"detail_forecast_choose": "Опцион",
+		"detail_forecast_odds": "Шансы",
+		"detail_forecast_address": "Адрес смарт-контракта",
+		"detail_forecast_notice": "Запретить прямой вывод средств с биржи на прогнозный адрес.",
+		"detail_forecast_notice_two": "Перевод ETC допускается только с официального или личного кошелька на прогнозный адрес. Рекомендуется установить《Gas Limit》на 150,000, чтобы обеспечить успешную передачу прогнозируемого адреса.",
+		"detail_forecast_all": "Минимальная сумма прогноза： {amount} {currency}",
+		"detail_forecast_copied": "скопированный",
+		"detail_game_qrcode_tip": "Смарт-контракт QR-код",
+		"detail_forecast_title_link": "Щелкните меня, чтобы посмотреть, как участвовать в прогнозировании"
+	},
+	"vi": {
+		"detail_forecast_title": "{currency} 预测",
+		"detail_forecast_title_link": "点我查看如何参与预测",
+		"detail_forecast_choose": "选择",
+		"detail_forecast_odds": "倍数",
+		"detail_forecast_address": "请将ETC打入智能合约地址完成投币",
+		"detail_forecast_notice": "禁止从交易所直接提币至预测地址,请使用官方或私人钱包充值 {currency} 到预测地址, 建议将Gas Limit设置为150,000以确保 {currency} 能成功转币到预测地址",
+		"detail_forecast_all": "最小单笔预测金额：{amount} {currency}",
+		"detail_forecast_copied": "已复制",
+		"detail_game_qrcode_tip": "智能合约二维码"
+	},
+	"zh-Hant": {
+		"detail_forecast_title": "{currency} 預測",
+		"detail_forecast_title_link": "點我查看如何參與預測",
+		"detail_forecast_choose": "選擇",
+		"detail_forecast_odds": "賠率",
+		"detail_forecast_address": "請將ETC打入智能合約地址完成投币",
+		"detail_forecast_notice": "禁止從交易所直接提幣至預測地址.",
+		"detail_forecast_notice_two": "請使用官方或私人錢包充值ETC到預測地址. 建議將Gas Limit設置為150,000以確保ETC能成功轉幣到預測地址",
+		"detail_forecast_all": "最小單筆預測金額：{amount} {currency}",
+		"detail_forecast_copied": "已複製",
+		"detail_game_qrcode_tip": "智能合約二維碼"
+	}
+}

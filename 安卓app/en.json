@@ -35,6 +35,7 @@
     "noLottery": "Awaiting result",
     "lottery": "Result announced",
     "orderNumber": "Order ID: {orderNumber}",
+    "orderNumber": "Order ID: ",
     "standoff": "Draw",
     "game": "Game",
     "filter": "Filter",
@@ -48,6 +49,7 @@
     "exceedingTheMaximumAmountOfBet": "Exceeding maximum total amount on this option",
     "betExceedBalanceOfTheAccount": "The bet amount should not be higher than available account balance",
     "tooLittleAmountToBet":"Minimum bet amount: {limit}",
+    "tooLittleAmountToBet": "Minimum bet amount: {limit}",
     "invalidOrBetAmountFull": "Expired / Reached maximum total amount",
     "marqueeInvest": "User {account} placed a bet on [{playNames}] with {amount}. Come and check it out!",
     "marqueeEarn": "Congratulations to user {account} on winning {amount} in [{playNames}]!",
@@ -108,7 +110,7 @@
     "viewAll": "View All",
     "playWayOption": "Market-Options",
     "forecastAddressSearch": "Forecast Address Search",
-    "gameSupportCurrency":"Support {currency} Forecast Only"
+    "gameSupportCurrency": "Support {currency} Forecast Only"
   },
   "user": {
     "logout": "Logout",
@@ -208,6 +210,7 @@
     "availableBalance": "Available Balance",
     "registerAgree": "By registering you agree to ",
     "coinGameTermsOfService": "[Coingame Terms of Services]",
+    "connectOne": "",
     "hasAccount": "Existing Account",
     "directLogin": "Log In",
     "pleaseInputMailAddress": "Please enter Email address",
@@ -378,7 +381,6 @@
   },
   "validate": {
     "userNotExist": "This username does not exist",
-    "phoneExisted": "This phone number has already been registered",
     "mailInvalid": "Invalid email address",
     "mailHasRegistered": "Email already registered, please login",
     "nicknameHasExisted": "This username already exists",
@@ -434,3 +436,4 @@
     "networkError": "Network error"
   }
 }
+

@@ -1,0 +1,44 @@
+{
+	"zh": {
+		"activity_goto_home": "返回首页",
+		"activity_goto_register": "注册送",
+		"activity_goto_deposit": "首充送",
+		"activity_goto_invite": "邀请送"
+	},
+	"en": {
+		"activity_goto_home": "Back to Homepage",
+		"activity_goto_register": "Welcome Offer",
+		"activity_goto_deposit": "First Deposit Offer",
+		"activity_goto_invite": "Invitation Offer"
+	},
+	"ko": {
+		"activity_goto_home": "홈페이지 돌아가기 ",
+		"activity_goto_register": "회원가입 이벤트",
+		"activity_goto_deposit": "최초 충전 이벤트 ",
+		"activity_goto_invite": "요청 이벤트"
+	},
+	"ja": {
+		"activity_goto_home": "ホームページへ戻る",
+		"activity_goto_register": "登録によるボーナス",
+		"activity_goto_deposit": "最初のチャージによるボーナス",
+		"activity_goto_invite": "招待によるボーナス"
+	},
+	"ru": {
+		"activity_goto_home": "Back to Homepage",
+		"activity_goto_register": "Welcome Offer",
+		"activity_goto_deposit": "First Deposit Offer",
+		"activity_goto_invite": "Invitation Offer"
+	},
+	"vi": {
+		"activity_goto_home": "返回首页",
+		"activity_goto_register": "注册送",
+		"activity_goto_deposit": "首充送",
+		"activity_goto_invite": "邀请送"
+	},
+	"zh-Hant": {
+		"activity_goto_home": "返回首頁",
+		"activity_goto_register": "註冊送",
+		"activity_goto_deposit": "首充送",
+		"activity_goto_invite": "邀請送"
+	}
+}

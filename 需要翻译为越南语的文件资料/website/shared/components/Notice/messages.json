@@ -1,0 +1,30 @@
+{
+	"zh": {
+		"i_know": "知道了",
+		"notice": "公告"
+	},
+	"en": {
+		"i_know": "I understand",
+		"notice": "Notice"
+	},
+	"ko": {
+		"i_know": "확인",
+		"notice": "공지"
+	},
+	"ja": {
+		"i_know": "かしこまりました",
+		"notice": "通知"
+	},
+	"ru": {
+		"i_know": "Понял",
+		"notice": "Объявление"
+	},
+	"vi": {
+		"i_know": "知道了",
+		"notice": "公告"
+	},
+	"zh-Hant": {
+		"i_know": "知道了",
+		"notice": "公告"
+	}
+}

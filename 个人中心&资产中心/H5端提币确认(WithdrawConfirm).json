@@ -1,0 +1,32 @@
+{
+    "zh": {
+        "amount_back": "预计到账",
+        "widthdraw_fee": "手续费",
+        "button_confirm": "确定",
+        "title": "提币确认"
+    },
+    "en": {
+        "amount_back": "Actual Receiving",
+        "widthdraw_fee": "Withdrawal Fee",
+        "button_confirm": "OK",
+        "title": "Withdraw"
+    },
+    "ko": {
+        "amount_back": "예상 전송 금액",
+        "widthdraw_fee": "수수료",
+        "button_confirm": "확인",
+        "title": "출금하기"
+    },
+    "ja": {
+        "amount_back": "到着予定",
+        "widthdraw_fee": "手数料",
+        "button_confirm": "決定する",
+        "title": "コイン引出の確認"
+    },
+    "zh-hant": {
+        "amount_back": "預計到賬",
+        "widthdraw_fee": "手續費",
+        "button_confirm": "確定",
+        "title": "提幣確認"
+    }
+}

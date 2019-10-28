@@ -1,0 +1,401 @@
+{
+  "zh": {
+    "infoSlider_text": [{
+        "name": "新手指导"
+      },
+      {
+        "name": "预测细则"
+      },
+      {
+        "name": "常见问题"
+      },
+      {
+        "name": "使用条款"
+      },
+      {
+        "name": "隐私声明"
+      },
+      {
+        "name": "币种声明"
+      }
+    ],
+    "sliderGuideChildText": [{
+        "name": "账号投币"
+      },
+      {
+        "name": "智能合约投币"
+      }
+    ],
+    "infoSlider_child_text": [{
+        "name": "足球"
+      },
+      {
+        "name": "电竞"
+      },
+      {
+        "name": "篮球"
+      },
+      {
+        "name": "棒球"
+      },
+      {
+        "name": "网球"
+      },
+      {
+        "name": "排球"
+      },
+      {
+        "name": "斯诺克"
+      },
+      {
+        "name": "飞镖"
+      },
+      {
+        "name": "彩票"
+      },
+      {
+        "name": "金融"
+      },
+      {
+        "name": "滚球"
+      },
+      {
+        "name": "过关"
+      }
+    ]
+  },
+  "en": {
+    "infoSlider_text": [{
+        "name": "Beginner’s Guide"
+      },
+      {
+        "name": "Game Rule"
+      },
+      {
+        "name": "FAQ"
+      },
+      {
+        "name": "Terms of Use"
+      },
+      {
+        "name": "Privacy Policy"
+      },
+      {
+        "name": "Token Disclaimer"
+      },
+      {
+        "name": "Responsible Game"
+      },
+      {
+        "name": "Coingame Self-Exclusion Terms and Conditions"
+      }
+    ],
+    "sliderGuideChildText": [{
+        "name": "Membership"
+      },
+      {
+        "name": "Smart contract"
+      }
+    ],
+    "infoSlider_child_text": [{
+        "name": "Soccer"
+      },
+      {
+        "name": "E-sports"
+      },
+      {
+        "name": "Basketball"
+      },
+      {
+        "name": "Baseball"
+      },
+      {
+        "name": "Tennis"
+      },
+      {
+        "name": "Volleyball"
+      },
+      {
+        "name": "Snooker"
+      },
+      {
+        "name": "Darts"
+      },
+      {
+        "name": "Lottery"
+      },
+      {
+        "name": "Finance"
+      },
+      {
+        "name": "In-Play"
+      },
+      {
+        "name": "Parlay"
+      }
+    ]
+  },
+  "ja": {
+    "infoSlider_text": [{
+        "name": "チュートリアル"
+      },
+      {
+        "name": "予測ルール"
+      },
+      {
+        "name": "FAQ"
+      },
+      {
+        "name": "利用契約"
+      },
+      {
+        "name": "プライバシー規約"
+      },
+      {
+        "name": "重要な声明"
+      }
+    ],
+    "sliderGuideChildText": [{
+        "name": "会員ベット"
+      },
+      {
+        "name": "直接ベット"
+      }
+    ],
+    "infoSlider_child_text": [{
+        "name": "サッカー"
+      },
+      {
+        "name": "E-sports"
+      },
+      {
+        "name": "バスケットボール"
+      },
+      {
+        "name": "野球"
+      },
+      {
+        "name": "テニス"
+      },
+      {
+        "name": "バレーボール"
+      },
+      {
+        "name": "スヌーカー"
+      },
+      {
+        "name": "ダーツ"
+      },
+      {
+        "name": "宝くじ"
+      },
+      {
+        "name": "金融"
+      },
+      {
+        "name": "インプレイベッティング"
+      },
+      {
+        "name": "パーレイ"
+      }
+    ]
+  },
+  "ko": {
+    "promotion_area": "홍보원 관리",
+    "play_guide": "이용 안내",
+    "and_down": "스캔하여 다운",
+    "infoSlider_text": [{
+        "name": "신규회원 가이드"
+      },
+      {
+        "name": "예측 규정"
+      },
+      {
+        "name": "FAQ"
+      },
+      {
+        "name": "이용약관"
+      },
+      {
+        "name": "보안약관"
+      },
+      {
+        "name": "암호화폐 면책조항"
+      }
+    ],
+    "sliderGuideChildText": [{
+        "name": "계정으로 베팅하기"
+      },
+      {
+        "name": "스마트 컨트랙트로 베팅하기"
+      }
+    ],
+    "infoSlider_child_text": [{
+        "name": "축구"
+      },
+      {
+        "name": "E-sports"
+      },
+      {
+        "name": "농구"
+      },
+      {
+        "name": "야구"
+      },
+      {
+        "name": "테니스"
+      },
+      {
+        "name": "배구"
+      },
+      {
+        "name": "스누커"
+      },
+      {
+        "name": "다트"
+      },
+      {
+        "name": "복권"
+      },
+      {
+        "name": "금융"
+      },
+      {
+        "name": "실시간 게임"
+      },
+      {
+        "name": "다폴"
+      }
+    ]
+  },
+  "zh-Hant": {
+    "infoSlider_text": [{
+        "name": "新手指導"
+      },
+      {
+        "name": "競猜細則"
+      },
+      {
+        "name": "常見問題"
+      },
+      {
+        "name": "使用條款"
+      },
+      {
+        "name": "隱私條款"
+      },
+      {
+        "name": "幣種聲明"
+      }
+    ],
+    "sliderGuideChildText": [{
+        "name": "賬號投幣"
+      },
+      {
+        "name": "智能合約投幣"
+      }
+    ],
+    "infoSlider_child_text": [{
+        "name": "足球"
+      },
+      {
+        "name": "電競"
+      },
+      {
+        "name": "籃球"
+      },
+      {
+        "name": "棒球"
+      },
+      {
+        "name": "網球"
+      },
+      {
+        "name": "排球"
+      },
+      {
+        "name": "斯諾克"
+      },
+      {
+        "name": "飛鏢"
+      },
+      {
+        "name": "彩票"
+      },
+      {
+        "name": "金融"
+      },
+      {
+        "name": "滾球"
+      },
+      {
+        "name": "過關"
+      }
+    ]
+  },
+  "vi": {
+    "infoSlider_text": [{
+        "name": "新手指导"
+      },
+      {
+        "name": "预测细则"
+      },
+      {
+        "name": "常见问题"
+      },
+      {
+        "name": "使用条款"
+      },
+      {
+        "name": "隐私声明"
+      },
+      {
+        "name": "币种声明"
+      }
+    ],
+    "sliderGuideChildText": [{
+        "name": "账号投币"
+      },
+      {
+        "name": "智能合约投币"
+      }
+    ],
+    "infoSlider_child_text": [{
+        "name": "足球"
+      },
+      {
+        "name": "电竞"
+      },
+      {
+        "name": "篮球"
+      },
+      {
+        "name": "棒球"
+      },
+      {
+        "name": "网球"
+      },
+      {
+        "name": "排球"
+      },
+      {
+        "name": "斯诺克"
+      },
+      {
+        "name": "飞镖"
+      },
+      {
+        "name": "彩票"
+      },
+      {
+        "name": "金融"
+      },
+      {
+        "name": "滚球"
+      },
+      {
+        "name": "过关"
+      }
+    ]
+  },
+}

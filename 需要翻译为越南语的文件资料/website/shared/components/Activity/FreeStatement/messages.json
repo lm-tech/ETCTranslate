@@ -1,0 +1,58 @@
+{
+	"zh": {
+		"activity_statement_title": "免责声明",
+		"activity_statement_content_one": "1. 获得活动奖励的用户，活动期间及结束后7日内均无任何平台账户充值行为的，官方将有权回收其账号内的活动奖励。",
+		"activity_statement_content_two": "2. 官方对于利用系统漏洞谋取不正当利益的用户及账号保留撤销资格、资产追溯及法律诉讼的权利。",
+		"activity_statement_content_three": "3. 官方保留在用户不知情的情况下添加、修改或中止任一活动的权利。",
+		"activity_statement_content_four": "4. 官方拥有活动的最终解释权。如有任何疑问请联系官方客服：support@coingame.com。",
+		"activity_invite_top_title": "一人邀请、双方获利、单笔最高10ETH！"
+	},
+	"en": {
+		"activity_statement_title": "Disclaimer",
+		"activity_statement_content_one": "1. Rewarded user with no deposit to the platform account during the activity time and within 7 days after such activity will entitle the official party to reclaim his/her activity rewards in the account.",
+		"activity_statement_content_two": "2. The official party reserves the right to revoke eligibility, trace asset and initiate legal proceedings against users and accounts that attack systematic vulnerabilities to gain undue advantage.",
+		"activity_statement_content_three": "3. The official party reserves the right to add, modify or suspend any activity without the user's knowledge.",
+		"activity_statement_content_four": "4. The official party has the final interpretation of the activity. If you have any questions, please contact the official customer service via support@coingame.com.",
+		"activity_invite_top_title": "One invite, double interest, Max 10ETH each!"
+	},
+	"ko": {
+		"activity_statement_title": "면책 사항",
+		"activity_statement_content_one": "1. 이벤트 보상을 받은 유저가 이벤트 시간 및 끝난 후 7일 이내에 플랫폼 계정에 충전하지 않을 경우, 코인게임은 해당 유저 계정의 이벤트 보상을 회수할 권리가 있습니다.",
+		"activity_statement_content_two": "2. 코인게임은 유저가 시스템 버그를 악용해서 부당 이익을 추구하는 경우 유저의 자격을 취소하고, 법률 소송의 권한을 보유합니다.",
+		"activity_statement_content_three": "3. 코인게임은 유저에게 공지하지 않고 이벤트를 추가, 수정 또는 중단할 권리를 보유합니다",
+		"activity_statement_content_four": "4. 코인게임은 이벤트에 대한 최종 해석을 진행할 권리가 있습니다. 질문이 있으면 고객서비스 이메일로( support@coingame.com) 문의하십시오.",
+		"activity_invite_top_title": "한 사람이 요청하면 요청한 유저와 요청받은 유저 모두 최대 10ETH 보상을 받을 수 있습니다!"
+	},
+	"ja": {
+		"activity_statement_title": "免責声明",
+		"activity_statement_content_one": "1. イベントでボーナスを得たユーザーは、イベント期間及び終了後7日以内にプラットフォームへのチャージ行為がない者は、当サイトはその奨励を回収する権利を持っています。",
+		"activity_statement_content_two": "2. 当サイトは、バグの不正利用して利益を得るユーザー及びアカウントに、資格、資産税の遡及および法律訴訟の権限を留保します。",
+		"activity_statement_content_three": "3. 当サイトには、ユーザーが知らない状況でいずれかのイベントの追加、更正また中止する権限を留保します。",
+		"activity_statement_content_four": "4. 当サイトにはイベントについて最終解釈権を持っています。ご不明な点がありましたら、カスタマーサービスsupport@coingame.comまでご連絡下さい。",
+		"activity_invite_top_title": "友達一人を誘い、二人で利益獲得、ベッティング一回で最高10ETH！"
+	},
+	"ru": {
+		"activity_statement_title": "Disclaimer",
+		"activity_statement_content_one": "1. Rewarded user with no deposit to the platform account during the activity time and within 7 days after such activity will entitle the official party to reclaim his/her activity rewards in the account.",
+		"activity_statement_content_two": "2. The official party reserves the right to revoke eligibility, trace asset and initiate legal proceedings against users and accounts that attack systematic vulnerabilities to gain undue advantage.",
+		"activity_statement_content_three": "3. The official party reserves the right to add, modify or suspend any activity without the user's knowledge.",
+		"activity_statement_content_four": "4. The official party has the final interpretation of the activity. If you have any questions, please contact the official customer service via support@coingame.com.",
+		"activity_invite_top_title": "One invite, double interest, Max 10ETH each!"
+	},
+	"vi": {
+		"activity_statement_title": "免责声明",
+		"activity_statement_content_one": "1. 获得活动奖励的用户，活动期间及结束后7日内均无任何平台账户充值行为的，官方将有权回收其账号内的活动奖励。",
+		"activity_statement_content_two": "2. 官方对于利用系统漏洞谋取不正当利益的用户及账号保留撤销资格、资产追溯及法律诉讼的权利。",
+		"activity_statement_content_three": "3. 官方保留在用户不知情的情况下添加、修改或中止任一活动的权利。",
+		"activity_statement_content_four": "4. 官方拥有活动的最终解释权。如有任何疑问请联系官方客服：support@coingame.com。",
+		"activity_invite_top_title": "一人邀请、双方获利、单笔最高10ETH！"
+	},
+	"zh-Hant": {
+		"activity_statement_title": "免責聲明",
+		"activity_statement_content_one": "1. 獲得活動獎勵的用戶，活動期間及結束後7日內均無任何平臺帳戶充值行為的，官方將有權回收其帳號內的活動獎勵。",
+		"activity_statement_content_two": "2. 官方對於利用系統漏洞謀取不正當利益的用戶及帳號保留撤銷資格、資產追溯及法律訴訟的權利。",
+		"activity_statement_content_three": "3. 官方保留在使用者不知情的情況下添加、修改或中止任一活動的權力。",
+		"activity_statement_content_four": "4. 官方擁有活動的最終解釋權。如有任何疑問請聯繫官方客服：support@coingame.com。",
+		"activity_invite_top_title": "一人邀請、雙方獲利、單筆最高10ETH！"
+	}
+}

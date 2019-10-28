@@ -1,0 +1,47 @@
+{
+  "zh": {
+    "recharge_records": "充值记录",
+    "coin_records":"提币记录",
+    "platform_gift":"平台赠送",
+    "picker_30_days":"最近30天",
+    "picker_7_days":"最近7天",
+    "startTime":"开始时间",
+    "endTime":"结束时间"
+  },
+  "en": {
+    "recharge_records": "Deposit Records",
+    "coin_records":"Withdrawal Records",
+    "platform_gift":"Coingame Gifts",
+    "picker_30_days":"Recent 30 days",
+    "picker_7_days":"Recent 7 days",
+    "startTime":"From",
+    "endTime":"To"
+  },
+  "ko": {
+    "recharge_records": "충전 기록",
+    "coin_records":"출금 기록",
+    "platform_gift":"이벤트 보상",
+    "picker_30_days":"최근 30일",
+    "picker_7_days":"최근 7일",
+    "startTime":"시작 시간",
+    "endTime":"종료 시간"
+  },
+  "ja": {
+    "recharge_records": "チャージ記録",
+    "coin_records":"コイン引出記録",
+    "platform_gift":"プラットフォームギフト",
+    "picker_30_days":"過去30日間",
+    "picker_7_days":"過去7日間",
+    "startTime":"開始時間",
+    "endTime":"終了時間"
+  },
+  "zh-Hant": {
+    "recharge_records": "充值記錄",
+    "coin_records":"提現記錄",
+    "platform_gift":"平臺贈送",
+    "picker_30_days":"最近30天",
+    "picker_7_days":"最近7天",
+    "startTime":"開始時間",
+    "endTime":"結束時間"
+  }
+}

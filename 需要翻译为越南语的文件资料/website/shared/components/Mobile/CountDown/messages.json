@@ -1,0 +1,51 @@
+{
+	"zh": {
+		"forcast_time_title": "预测时间：剩余",
+		"forcast_time_day": "天",
+		"forcast_time_hour": "时",
+		"forcast_time_minite": "分",
+		"forcast_time_seconds": "秒"
+	},
+	"en": {
+		"forcast_time_title": "Remaining Time for Forecast：",
+		"forcast_time_day": "Day",
+		"forcast_time_hour": "Hour",
+		"forcast_time_minite": "Minute",
+		"forcast_time_seconds": "Second"
+	},
+	"ja": {
+		"forcast_time_title": "ベッティング締切まで：残り",
+		"forcast_time_day": "日",
+		"forcast_time_hour": "時",
+		"forcast_time_minite": "分",
+		"forcast_time_seconds": "秒"
+	},
+	"ko": {
+		"forcast_time_title": "예측시간: 남음",
+		"forcast_time_day": "일",
+		"forcast_time_hour": "시",
+		"forcast_time_minite": "분",
+		"forcast_time_seconds": "초"
+	},
+	"ru": {
+		"forcast_time_title": "Время прогноза: оставшееся",
+		"forcast_time_day": "день",
+		"forcast_time_hour": "часа",
+		"forcast_time_minite": "минуты",
+		"forcast_time_seconds": "секунды"
+	},
+	"vi": {
+		"forcast_time_title": "预测时间：剩余",
+		"forcast_time_day": "天",
+		"forcast_time_hour": "时",
+		"forcast_time_minite": "分",
+		"forcast_time_seconds": "秒"
+	},
+	"zh-Hant": {
+		"forcast_time_title": "競猜時間：剩餘",
+		"forcast_time_day": "天",
+		"forcast_time_hour": "時",
+		"forcast_time_minite": "分",
+		"forcast_time_seconds": "秒"
+	}
+}

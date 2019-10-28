@@ -1,0 +1,47 @@
+{
+  "zh": {
+    "tab_deposit": "充值记录",
+    "tab_withdraw": "提币记录",
+    "tab_give": "平台赠送",
+    "timeChoose_title": "选择时间",
+    "time_choose": "最近{date}天",
+    "personal": "自定义",
+    "start_choose": "请选择"
+  },
+  "en": {
+    "tab_deposit": "Deposit Records",
+    "tab_withdraw": "Withdrawal Records",
+    "tab_give": "Coingame Gifts",
+    "timeChoose_title": "Select Time",
+    "time_choose": "Recent {date} days",
+    "personal": "Customize",
+    "start_choose": "Please select"
+  },
+  "ko": {
+    "tab_deposit": "충전 기록",
+    "tab_withdraw": "출금 기록",
+    "tab_give": "이벤트 보상",
+    "timeChoose_title": "기간 설정",
+    "time_choose": "최근 {date}일",
+    "personal": "날짜 선택",
+    "start_choose": "선택해주세요"
+  },
+  "ja": {
+    "tab_deposit": "チャージ記録",
+    "tab_withdraw": "コイン引出記録",
+    "tab_give": "プラットフォームギフト",
+    "timeChoose_title": "時間を選ぶ",
+    "time_choose": "過去{date}日間",
+    "personal": "カスタム",
+    "start_choose": "選択してください"
+  },
+  "zh-Hant": {
+    "tab_deposit": "充值記錄",
+    "tab_withdraw": "提幣記錄",
+    "tab_give": "平臺贈送",
+    "timeChoose_title": "選擇時間",
+    "time_choose": "最近{date}天",
+    "personal": "自定義",
+    "start_choose": "請選擇"
+  }
+}

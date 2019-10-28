@@ -1,0 +1,79 @@
+{
+	"zh": {
+		"content_title_detail": "斯诺克",
+		"detail_big_title": "斯诺克（英式桌球）",
+		"detail_paragraph_one": "比赛投币",
+		"detail_paragraph_one1": "对抗赛博彩的输赢是取决于您能否正确地挑选出一位球员， 以主办机构的裁判结果为准， 为赛事的胜出者。 在某场赛事中， 如果因为不确切的原因未能打完一整个回合， 则升级到下个一回合的选手 （或者由主办机构宣布为赛事/锦标得胜者）将发奖计算中被认定为的获胜者。 当发生整个赛事没有实际进行比赛的情形时， 则将退还本金。",
+		"detail_paragraph_one2": "投币在正确点数比的预测， 其发奖是跟据对于该局英式桌球最终比分的预测准确与否进行计算的。 发生该赛事开赛之后， 由于不明原因而未能进行到结束， 或者根本没有比赛的情形时， 则所有预测的本金将获得退还。",
+		"detail_paragraph_one3": "在彩池制度中， 当盘口内容是 “锦标夺冠的倍数” 时， 被投币的球员如果没有出赛， 则该注预测将被当作输掉处理。",
+		"detail_paragraph_one4": ".对于由多个比赛阶段组成的英式桌球比赛，Coingame在每个阶段开打前都可能开出盘口。所有下在英式桌球比赛的注单都将依据整场比赛的赛果进行返奖，而不是依据个别阶段的赛果的。",
+		"detail_paragraph_two": "投币金的结算",
+		"detail_paragraph_two1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
+	},
+	"en": {
+		"content_title_detail": "Snooker",
+		"detail_big_title": "Snooker",
+		"detail_paragraph_one": "Wagers of snooker",
+		"detail_paragraph_one1": "Match-up prediction is based upon correctly selecting the player who officially wins the match. In the event of a match starting – with the break for the first frame - but not being completed for whatever reason, the player progressing to the next round (or being declared winner of the competition/championship) will be deemed the winner. In the event of a match not starting at all, all predictions are refunded.",
+		"detail_paragraph_one2": "Frame prediction is based upon correctly selecting the final score of a snooker match. In the event of a match starting but not being completed for whatever reason or a match not starting at all, all predictions are refunded.",
+		"detail_paragraph_one3": "For multi-way markets of the type “Multiple to win the Championship” wagers on a non-starting player will be graded as a loss.",
+		"detail_paragraph_one4": ".For Snooker matches that contain multiple sessions, Pinnacle may offer multiple at the start of each session. All wagers placed on Snooker matches are graded based on the outcome of the entire match, not on the outcome of an individual session.",
+		"detail_paragraph_two": "Settlement of Wagers",
+		"detail_paragraph_two1": "All predictions will be settled after the time and dates specified in the prediction.Market trading data and results will be obtained from reputable third parties.If the market does not have valid data based on technical issues, or the data cannot be confirmed, the platform has the right to retain the delayed payout until it is confirmed by a trusted third party."
+	},
+	"ko": {
+		"content_title_detail": "스누커",
+		"detail_big_title": "스누커",
+		"detail_paragraph_one": "경기 베팅",
+		"detail_paragraph_one1": "일대일 매치업 베팅은 경기에서 공식적으로 승리하는 선수를 정확히 선택하는 데 있습니다. 어떤 사유로든 경기가시작되었으나(첫 프레임의 브레이크와 함께) 완료되지 않는 경우, 다음 라운드에 진출하는 선수(또는 경기/챔피언십의 승자로 선언되는 선수)가 승자로 간주됩니다. 경기가 전혀 시작되지 않으면 모든 베팅은 환불됩니다.",
+		"detail_paragraph_one2": "프레임 베팅은 스누커 경기의 최종 점수를 정확하게 선택하는 데 있습니다. 경기가 시작되었으나 어떤 사유로든 종료되지 않거나 경기가 아예 시작되지 않을 경우, 모든 베팅은 환불됩니다.",
+		"detail_paragraph_one3": "“대회 우승 확률” 유형의 다중 방식 마켓의 경우, 시작하지 않는 선수에 대한 베팅은 손실로 평가될 것입니다.",
+		"detail_paragraph_one4": ".여러 세션이 포함된 스누커 경기를 대상으로 코인게임(Coingame)이 각 세션의 시작 시점에 배당률을 제시할 수 있습니다. 스누커 경기에 대한 모든 베팅은 개별 세션이 아닌 경기 전체의 결과를 토대로 평가됩니다.",
+		"detail_paragraph_two": "베팅 금액 정산",
+		"detail_paragraph_two1": "예측 결제는 해당 경기의 공식 스코어 공급업체 또는 홈페이지에서 발표한 데이터를 근거로 한다. 공식 스코어 공급업체 및 홈페이지가 존재하지 않거나 제공된 데이터에 명확한 오류가 있음을 증명할 증거가 존재할 경우 독자적인 자료를 근거로 정산을 진행한다."
+	},
+	"ja": {
+		"content_title_detail": "スヌーカー",
+		"detail_big_title": "スヌーカー",
+		"detail_paragraph_one": "マッチベッティング：",
+		"detail_paragraph_one1": "Match-up賭けは、試合の公式な勝者を正確に選択するものです。最初のフレームのブレイクが放たれて開始された試合で、何らかの理由により試合が完了されない場合、次のラウンドへ進む選手を勝者（または競技／チャンピオンシップの公然たる勝者）とみなします。試合が全く始まっていない場合、全ての賭け金は返還されます。",
+		"detail_paragraph_one2": "フレーム賭けは、試合の正確な最終スコアに基づきます。最初のフレームのブレイクが放たれて開始された試合で、何らかの理由により完了されない、または試合が全く始まっていない場合、全ての賭け金は返還されます。",
+		"detail_paragraph_one3": "形式がマルチウェイマーケットの「勝利するオッズ」 賭けは、選手が試合を開始しなかった場合、賭けは負けた事になります。",
+		"detail_paragraph_one4": ".複数のセッションを含むスヌーカー試合の場合、Pinnacleは各セッションの始まりで、オッズを提供します。スヌーカー試合の全ての賭けは、個々のセッションの結果ではなく、全ての試合結果に基づいて等級分けされま。",
+		"detail_paragraph_two": "決済について：",
+		"detail_paragraph_two1": "決済は、関連する試合またはイベントの公式サイトに掲載されているデータに基づいて行われます。公式サイトが存在しない、または公式サイトのデータが不正確であると証明される場合、当社は関連する独立した情報に基づいて決済します。一貫性のある独立した証拠がない、または証拠に矛盾がする場合、当社はうちのデータに基づいて決済します。"
+	},
+	"ru": {
+		"content_title_detail": "斯诺克",
+		"detail_big_title": "斯诺克（英式桌球）",
+		"detail_paragraph_one": "比赛投币",
+		"detail_paragraph_one1": "对抗赛博彩的输赢是取决于您能否正确地挑选出一位球员， 以主办机构的裁判结果为准， 为赛事的胜出者。 在某场赛事中， 如果因为不确切的原因未能打完一整个回合， 则升级到下个一回合的选手 （或者由主办机构宣布为赛事/锦标得胜者）将发奖计算中被认定为的获胜者。 当发生整个赛事没有实际进行比赛的情形时， 则将退还本金。",
+		"detail_paragraph_one2": "投币在正确点数比的预测， 其发奖是跟据对于该局英式桌球最终比分的预测准确与否进行计算的。 发生该赛事开赛之后， 由于不明原因而未能进行到结束， 或者根本没有比赛的情形时， 则所有预测的本金将获得退还。",
+		"detail_paragraph_one3": "在彩池制度中， 当盘口内容是 “锦标夺冠的倍数” 时， 被投币的球员如果没有出赛， 则该注预测将被当作输掉处理。",
+		"detail_paragraph_one4": ".对于由多个比赛阶段组成的英式桌球比赛，Coingame在每个阶段开打前都可能开出盘口。所有下在英式桌球比赛的注单都将依据整场比赛的赛果进行返奖，而不是依据个别阶段的赛果的。",
+		"detail_paragraph_two": "投币金的结算",
+		"detail_paragraph_two1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
+	},
+	"vi": {
+		"content_title_detail": "斯诺克",
+		"detail_big_title": "斯诺克（英式桌球）",
+		"detail_paragraph_one": "比赛投币",
+		"detail_paragraph_one1": "对抗赛博彩的输赢是取决于您能否正确地挑选出一位球员， 以主办机构的裁判结果为准， 为赛事的胜出者。 在某场赛事中， 如果因为不确切的原因未能打完一整个回合， 则升级到下个一回合的选手 （或者由主办机构宣布为赛事/锦标得胜者）将发奖计算中被认定为的获胜者。 当发生整个赛事没有实际进行比赛的情形时， 则将退还本金。",
+		"detail_paragraph_one2": "投币在正确点数比的预测， 其发奖是跟据对于该局英式桌球最终比分的预测准确与否进行计算的。 发生该赛事开赛之后， 由于不明原因而未能进行到结束， 或者根本没有比赛的情形时， 则所有预测的本金将获得退还。",
+		"detail_paragraph_one3": "在彩池制度中， 当盘口内容是 “锦标夺冠的倍数” 时， 被投币的球员如果没有出赛， 则该注预测将被当作输掉处理。",
+		"detail_paragraph_one4": ".对于由多个比赛阶段组成的英式桌球比赛，Coingame在每个阶段开打前都可能开出盘口。所有下在英式桌球比赛的注单都将依据整场比赛的赛果进行返奖，而不是依据个别阶段的赛果的。",
+		"detail_paragraph_two": "投币金的结算",
+		"detail_paragraph_two1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
+	},
+	"zh-Hant": {
+		"content_title_detail": "斯諾克",
+		"detail_big_title": "斯諾克（英式桌球）",
+		"detail_paragraph_one": "比賽投幣：",
+		"detail_paragraph_one1": "對抗賽博彩的輸贏是取決於您能否正確地挑選出一位球員， 以主辦機構的裁判結果為准， 為賽事的勝出者。 在某場賽事中， 如果因為不確切的原因未能打完一整個回合， 則升級到下個一回合的選手 （或者由主辦機構宣佈為賽事/錦標得勝者）將發獎計算中被認定為的獲勝者。 當發生整個賽事沒有實際進行比賽的情形時， 則將退還本金。",
+		"detail_paragraph_one2": "投幣在正確點數比的預測， 其發獎是跟據對於該局英式桌球最終比分的預測準確與否進行計算的。 發生該賽事開賽之後， 由於不明原因而未能進行到結束， 或者根本沒有比賽的情形時， 則所有預測的本金將獲得退還。",
+		"detail_paragraph_one3": "在彩池制度中， 當盤口內容是 “錦標奪冠的倍數” 時， 被投幣的球員如果沒有出賽， 則該注預測將被當作輸掉處理。",
+		"detail_paragraph_one4": ".對於由多個比賽階段組成的英式桌球比賽，Coingame在每個階段開打前都可能開出盤口。所有下在英式桌球比賽的注單都將依據整場比賽的賽果進行返獎，而不是依據個別階段的賽果的。",
+		"detail_paragraph_two": "投幣金的結算",
+		"detail_paragraph_two1": "投幣結算將以相關比賽或賽事的官方比分提供商或官方網站所公佈的資料為根據。當官方比分提供商或官方網站不存在或有重要證據證明官方比分提供商或官方網站的資料有誤時，我們將依據相關獨立資料進行結算。"
+	}
+}

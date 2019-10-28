@@ -1,0 +1,42 @@
+{
+    "zh": {
+        "title": "充值提币",
+        "all_amount": "总资产折合",
+        "hide_coin": "隐藏没有余额的币种",
+        "search": "搜索",
+        "shrink_coin": "已冻结：",
+        "operate_failed": "操作失败"
+    },
+    "en": {
+        "title": "Deposit&more",
+        "all_amount": "Total Asset Value",
+        "hide_coin": "Hide 0 Balance Assets",
+        "search": "Search",
+        "shrink_coin": "Locked:",
+        "operate_failed": "Failed"
+    },
+    "ko": {
+        "title": "충전/출금",
+        "all_amount": "총 자산 환산",
+        "hide_coin": "보유하지 않은 자산 숨기기",
+        "search": "검색",
+        "shrink_coin": "동결 완료:",
+        "operate_failed": "실패"
+    },
+    "ja": {
+        "title": "チャージ",
+        "all_amount": "総資産相当額",
+        "hide_coin": "残高のない通貨を非表示にする",
+        "search": "検索する",
+        "shrink_coin": "フリーズされた：",
+        "operate_failed": "操作失敗"
+    },
+    "zh-Hant": {
+        "title": "充值提幣",
+        "all_amount": "總資產折合",
+        "hide_coin": "隱藏沒有余額的幣種",
+        "search": "搜索",
+        "shrink_coin": "已凍結：",
+        "operate_failed": "操作失敗"
+    }
+}

@@ -1,0 +1,78 @@
+{
+	"zh": {
+		"home": "首页",
+		"content_bet_365": " ",
+		"content_coin_mark": "数字货币预测数据均参考自coinmarketcap",
+		"content_esports": "投币时间将根据实际比赛时间调整",
+		"tip_link": "6月11号之前的比赛请点击此处",
+		"hot": "热门投币",
+		"opening": "即将开赛",
+		"detail_history_no_data": "暂无数据",
+		"detail_history_toBottom": "已经到达底线"
+	},
+	"en": {
+		"home": "Home",
+		"content_bet_365": " ",
+		"content_coin_mark": "All data has been referenced from CoinMarketCap",
+		"content_esports": "The deadline for predictions will be adjusted based on the actual start time of the game.",
+		"tip_link": "Please click here to find predictions before June 11th.",
+		"hot": "Popular",
+		"opening": "Coming soon",
+		"detail_history_no_data": "No data",
+		"detail_history_toBottom": "End of the list"
+	},
+	"ja": {
+		"home": "トップページ",
+		"content_bet_365": " ",
+		"content_coin_mark": "",
+		"content_esports": "ベッティング時間は実際の試合時間による調整されます",
+		"tip_link": "6月11日前の試合に関してはここをクリックしてください",
+		"hot": "人気ベッティング",
+		"opening": "間もなく開始",
+		"detail_history_no_data": "データなし",
+		"detail_history_toBottom": "ボトムラインに到達しました"
+	},
+	"ko": {
+		"home": "홈페이지",
+		"content_bet_365": " ",
+		"content_coin_mark": "암호화폐 예측 관련 데이터는 모두 coinmarketcap 데이터에 의거합니다",
+		"content_esports": "베팅시간은 실제 경기시간에 맞춰 조정됩니다",
+		"tip_link": "6월 11일 이전의 경기는 여기를 클릭해주세요",
+		"hot": "핫 베팅항목",
+		"opening": "런칭 예정",
+		"detail_history_no_data": "데이터 없음",
+		"detail_history_toBottom": "더 이상 표시할 내용이 없습니다"
+	},
+	"ru": {
+		"home": "Home",
+		"content_bet_365": " ",
+		"content_coin_mark": "На этот тип коэффициентов прогнозирования ссылаются из coinmaketcap",
+		"content_esports": "Крайний срок подачи ставок будет скорректирован в зависимости от времени начала игры.",
+		"tip_link": "Прогнозы до 11 июня нажмите здесь",
+		"hot": "Горячая ставка",
+		"opening": "Coming soon",
+		"detail_history_toBottom": "End of the list"
+	},
+	"vi": {
+		"home": "首页",
+		"content_bet_365": " ",
+		"content_coin_mark": "数字货币预测数据均参考自coinmarketcap",
+		"content_esports": "投币时间将根据实际比赛时间调整",
+		"tip_link": "6月11号之前的比赛请点击此处",
+		"hot": "热门投币",
+		"opening": "即将开赛",
+		"detail_history_no_data": "暂无数据",
+		"detail_history_toBottom": "已经到达底线"
+	},
+	"zh-Hant": {
+		"home": "首頁",
+		"content_bet_365": " ",
+		"content_coin_mark": "數字貨幣競猜數據均參考自coinmarketcap",
+		"content_esports": "投币時間將根據實際比賽時間調整",
+		"tip_link": "6月11號之前的比賽請點擊此處",
+		"hot": "熱門投币",
+		"opening": "即将开赛",
+		"detail_history_no_data": "暫無數據",
+		"detail_history_toBottom": "已經到達底線"
+	}
+}

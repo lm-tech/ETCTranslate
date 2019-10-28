@@ -1,0 +1,57 @@
+{
+  "zh": {
+    "bind_auth_verify": "绑定双重身份验证",
+    "bind_ath_tip":"用于提币时进行安全验证，为了保障账户资金安全，请至少再开启1项身份验证",
+    "google_bind":"谷歌验证器绑定",
+    "email_bind":"邮箱验证绑定",
+    "google_bind_tip":"提现安全验证，请绑定谷歌验证器",
+    "email_bind_tip":"提现安全验证，请绑定手机",
+    "bind":" 已绑定",
+    "no_bind":"未绑定",
+    "footer_no_bind":"暂不绑定"
+  },
+  "en": {
+    "bind_auth_verify": "绑定双重身份验证",
+    "bind_ath_tip":"To ensure asset security, please enable at least one authentication method for withdrawal.",
+    "google_bind":"Enable Google Authenticator",
+    "email_bind":"Enable Email Authentication",
+    "google_bind_tip":"Please enable Google Authenticator to complete withdrawal authentication",
+    "email_bind_tip":"Please enable SMS Authenticationr to complete withdrawal authentication",
+    "bind":" Enabled",
+    "no_bind":"Inactive",
+    "footer_no_bind":"暂不绑定"
+  },
+  "ko": {
+    "bind_auth_verify": "绑定双重身份验证",
+    "bind_ath_tip":"출금 시 보안 인증에 사용되며 자산 보안을 위해 최소 1가지 2차 보안 인증 활성화가 필요합니다",
+    "google_bind":"구글 OTP 연동",
+    "email_bind":"이메일 인증 연동",
+    "google_bind_tip":"출금 보안을 위해 구글 OTP를 연동해주세요",
+    "email_bind_tip":"출금 보안을 위해 휴대폰을 연동해주세요",
+    "bind":" 연동 완료",
+    "no_bind":"미연동",
+    "footer_no_bind":"暂不绑定"
+  },
+  "ja": {
+    "bind_auth_verify": "绑定双重身份验证",
+    "bind_ath_tip":"アカウント資金のセキュリティを保護するために、コインを引き出す際のセキュリティ認証には、少なくとももう一つの認証をオンにしてください。",
+    "google_bind":"Google認証システム連携",
+    "email_bind":"メールアドレス認証連携",
+    "google_bind_tip":"コイン引出のセキュリティを認証するため、Google認証システム連携をしてください",
+    "email_bind_tip":"コイン引出のセキュリティを認証するため、携帯連携をしてください",
+    "bind":" 연동 완료",
+    "no_bind":"連携なし",
+    "footer_no_bind":"暂不绑定"
+  },
+  "zh-Hant": {
+    "bind_auth_verify": "綁定雙重身份驗證",
+    "bind_ath_tip":"用於提幣時進行安全驗證，為了保障賬戶資金安全，請至少再開啟1項身份驗證",
+    "google_bind":"谷歌驗證器綁定",
+    "email_bind":"郵箱驗證綁定",
+    "google_bind_tip":"提現安全驗證，請綁定谷歌驗證器",
+    "email_bind_tip":"提現安全驗證，請綁定手機",
+    "bind":" 連携済み",
+    "no_bind":"未綁定",
+    "footer_no_bind":"暫不綁定"
+  }
+}

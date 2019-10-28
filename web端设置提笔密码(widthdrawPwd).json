@@ -1,0 +1,57 @@
+{
+  "zh": {
+    "pwd_title": "设置资金密码",
+    "pwd_label": "资金密码:",
+    "pwd_label_confirm": "确认密码:",
+    "button_confirm": "确定",
+    "pwd_tips": "为了您的资金安全,此密码将作为您提币重要凭证.",
+    "pwd_require": "请输入密码",
+    "pwd_confirm_require": "请输入确认密码",
+    "pwd_confirm_error": "密码不一致",
+    "pwd_submit_success": "设置资金密码成功"
+  },
+  "en": {
+    "pwd_title": "设置资金密码",
+    "pwd_label": "资金密码:",
+    "pwd_label_confirm": "确认密码:",
+    "button_confirm": "确定",
+    "pwd_tips": "为了您的资金安全,此密码将作为您提币重要凭证.",
+    "pwd_require": "请输入密码",
+    "pwd_confirm_require": "请输入确认密码",
+    "pwd_confirm_error": "密码不一致",
+    "pwd_submit_success": "设置资金密码成功"
+  },
+  "ko": {
+    "pwd_title": "设置资金密码",
+    "pwd_label": "资金密码:",
+    "pwd_label_confirm": "确认密码:",
+    "button_confirm": "确定",
+    "pwd_tips": "为了您的资金安全,此密码将作为您提币重要凭证.",
+    "pwd_require": "请输入密码",
+    "pwd_confirm_require": "请输入确认密码",
+    "pwd_confirm_error": "密码不一致",
+    "pwd_submit_success": "设置资金密码成功"
+  },
+  "ja": {
+    "pwd_title": "设置资金密码",
+    "pwd_label": "资金密码:",
+    "pwd_label_confirm": "确认密码:",
+    "button_confirm": "确定",
+    "pwd_tips": "为了您的资金安全,此密码将作为您提币重要凭证.",
+    "pwd_require": "请输入密码",
+    "pwd_confirm_require": "请输入确认密码",
+    "pwd_confirm_error": "密码不一致",
+    "pwd_submit_success": "设置资金密码成功"
+  },
+  "zh-Hant": {
+    "pwd_title": "设置资金密码",
+    "pwd_label": "资金密码:",
+    "pwd_label_confirm": "确认密码:",
+    "button_confirm": "确定",
+    "pwd_tips": "为了您的资金安全,此密码将作为您提币重要凭证.",
+    "pwd_require": "请输入密码",
+    "pwd_confirm_require": "请输入确认密码",
+    "pwd_confirm_error": "密码不一致",
+    "pwd_submit_success": "设置资金密码成功"
+  }
+}

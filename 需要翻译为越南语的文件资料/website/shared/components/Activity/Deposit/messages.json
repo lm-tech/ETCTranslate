@@ -1,0 +1,86 @@
+{
+	"zh": {
+		"activity_register_title": "活动规则：",
+		"activity_register_title_close": "展开可查看活动规则",
+		"activity_deposit_content_one": "1. 活动时间：",
+		"activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
+		"activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投币额才能获得奖励，最高返奖1000ETH；",
+		"activity_deposit_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
+		"activity_deposit_content_five": "5. 根据用户首充及完成投币额的比例进行返奖，具体返奖比例如下：",
+		"activity_deposit_content_six": "6. 活动结束后，投币额未达到首充额的用户获得投币额1%的奖励，投币额小于0.3ETH的无法获得奖励；",
+		"activity_deposit_content_seven": "7. 系统将在活动结束1小时后，对未领取奖励的用户逐一发奖。",
+		"activity_deposit_top_title": "充值投币、巨额返奖、最高返1000ETH！"
+	},
+	"en": {
+		"activity_register_title": "Promotion rules: ",
+		"activity_register_title_close": "Unfold to check more rules",
+		"activity_deposit_content_one": "1. Activity time: ",
+		"activity_deposit_content_two": "2. Only applies to the first qualifying deposit of ETH within the promotion period;",
+		"activity_deposit_content_three": "3. Within 14 days after first deposit, the user needs to place the predicting amount equal to the first deposit amount for the reward which can be up to 1000ETH;",
+		"activity_deposit_content_four": "4. One user one participation; any user with the same IP, MAC and email box will be deemed as the same user;",
+		"activity_deposit_content_five": "5. Reward subject to user first deposit and the placed predicting amount, details are as below:",
+		"activity_deposit_content_six": "6. Upon ending of the activity, the user with the predicting amount less than first deposit gets 1% of such predicting amount as the reward; predicting amount less than 0.3ETH will not be rewarded;",
+		"activity_deposit_content_seven": "7. Within 1 hours after the activity ends, users not claiming rewards will be rewarded",
+		"activity_deposit_top_title": "Deposit, Predict, Get Huge Returns of up to 1000 ETH!"
+	},
+	"ko": {
+		"activity_register_title": "이벤트 규칙：",
+		"activity_register_title_close": "이벤트 규칙 보기",
+		"activity_deposit_content_one": "1. 이벤트 시간: ",
+		"activity_deposit_content_two": "2. 이벤트 시간 내 플랫폼 계정에 ETH를 처음 충전하는 경우에만 유효합니다；",
+		"activity_deposit_content_three": "3. 첫 충전 후 14일 내에 첫 충전 금액과 같은 금액으로 베팅할 경우 보상을 받게 되며, 최대 보상은 1000ETH입니다；",
+		"activity_deposit_content_four": "4. 유저는 1인당 1회 이벤트 참여가 가능하며, 동일한 IP, MAC, 이메일 주소 사용 시, 동일한 유저로 간주됩니다；",
+		"activity_deposit_content_five": "5. 보상는 첫 충전 및 완료된 베팅 금액에 따라 배당되며, 상세 내역은 다음과 같습니다：",
+		"activity_deposit_content_six": "6. 이벤트가 끝난 후 베팅 금액이 최초 충전 금액보다 적을 경우 베팅한 금액의 1%보상을 획득하며 베팅금액이 0.3ETH보다  적을 경우 보상을 받을 수 없습니다；",
+		"activity_deposit_content_seven": "7. 시스템은 이벤트 끝난 1시간 후에 보상을  수령하지 않은 유저에게 차례로 보상을 드리겠습니다.",
+		"activity_deposit_top_title": "충전하고 베팅하면 최고 1000ETH 보상을 드립니다!"
+	},
+	"ja": {
+		"activity_register_title": "イベント・ルール：",
+		"activity_register_title_close": "イベント・ルールをチェック",
+		"activity_deposit_content_one": "1. イベント：",
+		"activity_deposit_content_two": "2. イベント期間中限定、初めてプラットフォームのアカウントへETHをチャージする行為のみ有効；",
+		"activity_deposit_content_three": "3. ユーザーは、最初のチャージ完了から14日以内に、ベッティング金額は最初のチャージ金額と同じ金額でボーナスをもらえる、最高額は1000ETH；",
+		"activity_deposit_content_four": "4. 各ユーザーは1回のみイベントに参加可能で、IP、MAC、メールの同じユーザーは同一ユーザーとみなされる；",
+		"activity_deposit_content_five": "5. 初チャージ及びベッティング金額による、ボーナスの比例配分は以下の通りです：",
+		"activity_deposit_content_six": "6. イベント終了後、ベッティング金額は最初のチャージ金額に達していないユーザーが、ベッティング金額の1%ボーナスをもらえる、ベッティング金額は0.3ETHより低いユーザーがボーナスをもらえない；",
+		"activity_deposit_content_seven": "7. システムはイベント終了1時間後に、まだボーナスを受け取っていないユーザーに逐一支給する。",
+		"activity_deposit_top_title": "チャージとベッティング、高額なボーナス、最高額はなんと1000ETH！"
+	},
+	"ru": {
+		"activity_register_title": "Promotion rules: ",
+		"activity_register_title_close": "Unfold to check more rules",
+		"activity_deposit_content_one": "1. Activity time: ",
+		"activity_deposit_content_two": "2. Only applies to the first qualifying deposit of ETH within the promotion period;",
+		"activity_deposit_content_three": "3. Within 14 days after first deposit, the user needs to place the predicting amount equal to the first deposit amount for the reward which can be up to 1000ETH;",
+		"activity_deposit_content_four": "4. One user one participation; any user with the same IP, MAC and email box will be deemed as the same user;",
+		"activity_deposit_content_five": "5. Reward subject to user first deposit and the placed predicting amount, details are as below:",
+		"activity_deposit_content_six": "6. Upon ending of the activity, the user with the predicting amount less than first deposit gets 1% of such predicting amount as the reward; predicting amount less than 0.3ETH will not be rewarded;",
+		"activity_deposit_content_seven": "7. Within 1 hours after the activity ends, users not claiming rewards will be rewarded",
+		"activity_deposit_top_title": "Deposit, Predict, Get Huge Returns of up to 1000 ETH!"
+	},
+	"vi": {
+		"activity_register_title": "活动规则：",
+		"activity_register_title_close": "展开可查看活动规则",
+		"activity_deposit_content_one": "1. 活动时间：",
+		"activity_deposit_content_two": "2. 仅限活动期间首次对平台账户ETH充值有效；",
+		"activity_deposit_content_three": "3. 用户需在首充后14天内，完成与首充相同数额的投币额才能获得奖励，最高返奖1000ETH；",
+		"activity_deposit_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
+		"activity_deposit_content_five": "5. 根据用户首充及完成投币额的比例进行返奖，具体返奖比例如下：",
+		"activity_deposit_content_six": "6. 活动结束后，投币额未达到首充额的用户获得投币额1%的奖励，投币额小于0.3ETH的无法获得奖励；",
+		"activity_deposit_content_seven": "7. 系统将在活动结束1小时后，对未领取奖励的用户逐一发奖。",
+		"activity_deposit_top_title": "充值投币、巨额返奖、最高返1000ETH！"
+	},
+	"zh-Hant": {
+		"activity_register_title": "活動規則：",
+		"activity_register_title_close": "展開可查看活動規則",
+		"activity_deposit_content_one": "1. 活動時間：",
+		"activity_deposit_content_two": "2. 僅限活動期間首次對平臺帳戶ETH充值有效；",
+		"activity_deposit_content_three": "3. 用戶需在首充後14天內，完成與首充相同數額的投币額才能獲得獎勵，最高返獎1000ETH；",
+		"activity_deposit_content_four": "4. 每個用戶只能參與一次活動，同IP、MAC、郵箱用戶將視作同一用戶；",
+		"activity_deposit_content_five": "5. 根據使用者首充及完成投币額的比例進行返獎，具體返獎比例如下：",
+		"activity_deposit_content_six": "6. 活動結束後，投币額未達到首充額的用戶獲得投币額1%的獎勵，投币額小於0.3ETH的無法獲得獎勵；",
+		"activity_deposit_content_seven": "7. 系統將在活動結束1小時後，對未領取獎勵的用戶逐一發獎。",
+		"activity_deposit_top_title": "充值投币、巨額返獎、最高返1000ETH！"
+	}
+}

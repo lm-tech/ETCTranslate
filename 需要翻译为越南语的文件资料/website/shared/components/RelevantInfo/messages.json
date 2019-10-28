@@ -1,0 +1,23 @@
+{
+	"zh": {
+		"detail_message_title": "相关信息"
+	},
+	"en": {
+		"detail_message_title": "Relevant Information"
+	},
+	"ja": {
+		"detail_message_title": "関連情報"
+	},
+	"ko": {
+		"detail_message_title": "관련 정보"
+	},
+	"ru": {
+		"detail_message_title": "Соответствующая информация"
+	},
+	"vi": {
+		"detail_message_title": "相关信息"
+	},
+	"zh-Hant": {
+		"detail_message_title": "相關信息"
+	}
+}

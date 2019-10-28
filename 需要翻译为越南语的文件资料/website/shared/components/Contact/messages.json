@@ -1,0 +1,44 @@
+{
+	"zh": {
+		"contact_emial": "客服邮箱",
+		"contact_marking": "商务合作",
+		"menu_appdownload": "Android App",
+		"menu_appdownload_desc": "浏览器扫描下载APP"
+	},
+	"en": {
+		"contact_emial": "CS",
+		"contact_marking": "Marketing",
+		"menu_appdownload": "Android App",
+		"menu_appdownload_desc": "Scan QR code with browser to download APP"
+	},
+	"ja": {
+		"contact_emial": "メール",
+		"contact_marking": "業務提携",
+		"menu_appdownload": "Android App",
+		"menu_appdownload_desc": "ブラウザアプリのダウンロード"
+	},
+	"ko": {
+		"contact_emial": "이메일",
+		"contact_marking": "제휴문의",
+		"menu_appdownload": "Android App",
+		"menu_appdownload_desc": "브라우저로 스캔하여 APP다운로드"
+	},
+	"ru": {
+		"contact_emial": "Обслуживание клиентов",
+		"contact_marking": "бизнес",
+		"menu_appdownload": "Android App",
+		"menu_appdownload_desc": "Браузер сканирования скачать приложение"
+	},
+	"vi": {
+		"contact_emial": "客服邮箱",
+		"contact_marking": "商务合作",
+		"menu_appdownload": "Android App",
+		"menu_appdownload_desc": "浏览器扫描下载APP"
+	},
+	"zh-Hant": {
+		"contact_emial": "客服郵箱",
+		"contact_marking": "商務合作",
+		"menu_appdownload": "Android App",
+		"menu_appdownload_desc": "瀏覽器掃描下載APP"
+	}
+}

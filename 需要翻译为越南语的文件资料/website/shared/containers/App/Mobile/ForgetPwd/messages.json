@@ -1,0 +1,38 @@
+{
+	"zh": {
+		"forget_get_pwd": "找回密码",
+		"forget_password_step1": "账号验证",
+		"forget_password_step2": "重设密码",
+		"forget_password_step3": "操作成功"
+	},
+	"en": {
+		"forget_get_pwd": "Get back password",
+		"forget_password_step1": "账号验证",
+		"forget_password_step2": "Reset password",
+		"forget_password_step3": "操作成功"
+	},
+	"ko": {
+		"forget_get_pwd": "비밀번호 찾기",
+		"forget_password_step1": "账号验证",
+		"forget_password_step2": "비밀번호 재설정",
+		"forget_password_step3": "操作成功"
+	},
+	"ja": {
+		"forget_get_pwd": "パスワードを取り戻す",
+		"forget_password_step1": "账号验证",
+		"forget_password_step2": "パスワードを再設定",
+		"forget_password_step3": "操作成功"
+	},
+	"zh-Hant": {
+		"forget_get_pwd": "找回密碼",
+		"forget_password_step1": "账号验证",
+		"forget_password_step2": "重設密碼",
+		"forget_password_step3": "操作成功"
+	},
+	"vi": {
+		"forget_get_pwd": "找回密码",
+		"forget_password_step1": "账号验证",
+		"forget_password_step2": "重设密码",
+		"forget_password_step3": "操作成功"
+	}
+}

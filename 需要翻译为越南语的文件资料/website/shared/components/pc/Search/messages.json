@@ -1,0 +1,20 @@
+{
+	"zh": {
+		"search_place": "请输入队伍或联赛名"
+	},
+	"en": {
+		"search_place": "Enter name of team or game"
+	},
+	"ja": {
+		"search_place": "チーム名かリーグ戦名をご入力ください"
+	},
+	"ko": {
+		"search_place": "팀 또는 리그 이름을 입력해주세요"
+	},
+	"zh-Hant": {
+		"search_place": "請輸入隊伍或聯賽名"
+	},
+	"vi": {
+		"search_place": "请输入队伍或联赛名"
+	}
+}

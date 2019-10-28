@@ -1,0 +1,30 @@
+{
+	"zh": {
+		"soccer": "足球",
+		"register_title": "注册"
+	},
+	"en": {
+		"soccer": "Soccer",
+		"register_title": "Sign Up"
+	},
+	"ja": {
+		"soccer": "サッカー",
+		"register_title": "新規登録"
+	},
+	"ko": {
+		"soccer": "축구",
+		"register_title": "회원가입"
+	},
+	"ru": {
+		"soccer": "Футбол",
+		"register_title": "Зарегистрированный"
+	},
+	"vi": {
+		"soccer": "足球",
+		"register_title": "注册"
+	},
+	"zh-Hant": {
+		"soccer": "足球",
+		"register_title": "註冊"
+	}
+}

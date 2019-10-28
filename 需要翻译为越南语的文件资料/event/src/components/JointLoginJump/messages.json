@@ -1,0 +1,32 @@
+{
+	"zh": {
+		"loginInfo": "您输入的账号所关联的第三方{info}账户已在我们平台完成注册。我们强烈建议您设置登录密码，以便使用邮箱和登录密码进行直接登录。",
+		"account_login_btn": "第三方账号直接登录",
+		"set_login_password_btn": "设置登录密码"
+	},
+	"en": {
+		"loginInfo": "The {info} account with the entered Email address has been registered on Coingame.It is highly recommended to set up a login password so that you can log in directly with your Email address along with it.",
+		"account_login_btn": "3rd-party Account Login",
+		"set_login_password_btn": "Set Login Password"
+	},
+	"ko": {
+		"loginInfo": "입력하신 이메일은 이미 서드파티({info}) 계정으로 로그인을 진행한 계정입니다. 비밀번호를 설정하면 직접 Coingame에 로그인할 수 있습니다.",
+		"account_login_btn": "서드파티 계정으로 로그인",
+		"set_login_password_btn": "비밀번호 설정"
+	},
+	"ja": {
+		"loginInfo": "ご入力いただいた電子メールが関連しているサードパーティ{info}のアカウントがすでにこちらのプラットフォームに登録成功しました。電子メールとログインパスワードを利用して直接にログインするには、ログインパスワードの設定を強くお勧めします。",
+		"account_login_btn": "サードパーティのアカウントで直接にログインする",
+		"set_login_password_btn": "ログインパスワードの設定"
+	},
+	"zh-Hant": {
+		"loginInfo": "您輸入的郵箱所關聯的第三方{info}賬號已在我們平臺完成註冊。強烈建議您設置登錄密碼，以便使用郵箱和登錄密碼直接登錄。",
+		"account_login_btn": "第三方賬號直接登錄",
+		"set_login_password_btn": "設置登錄密碼"
+	},
+	"vi": {
+		"loginInfo": "Tài khoản {thông tin} với địa chỉ Email đã nhập đã được đăng ký trên Coingame. Rất khuyến khích thiết lập mật khẩu đăng nhập để bạn có thể đăng nhập trực tiếp bằng địa chỉ Email của mình . ",
+		"account_login_btn": "Đăng nhập bằng tài khoản bên thứ ba",
+		"set_login_password_btn": "Thiết lập lại mật khẩu đăng nhập"
+	}
+}

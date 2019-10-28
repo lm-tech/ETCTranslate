@@ -1,0 +1,43 @@
+{
+  "zh": {
+    "recharge_text": "充值",
+    "coin_text":"提币",
+    "assets_amount":"总资产折合：",
+    "recharge_tip":"重要提示：禁止向{currency}地址充值除{currency}之外的资产，任何充入{currency}地址的非{currency}资产将不可找回",
+    "coin_tip":"重要提示：不支持平台内部地址转账，请不要将{currency}提币至非{currency}地址",
+    "assets_center_currency_statement": "币种声明"
+  },
+  "en": {
+    "recharge_text": "Deposit",
+    "coin_text":"Withdraw",
+    "assets_amount":"Total Asset Value:",
+    "recharge_tip":"IMPORTANT: Depositing non-ETH assets to an ETH address is prohibited and any deposited assets will be irretrievable",
+    "coin_tip":"IMPORTANT: Coingame internal addresses are not supported for making or receiving transactions, please don't withdraw {currency}  to any non-{currency} address.",
+    "currency":"Assets",
+    "assets_center_currency_statement": "Token Disclaimer"
+  },
+  "ko": {
+    "recharge_text": "충전",
+    "coin_text":"출금",
+    "assets_amount":"총 자산 환산:",
+    "recharge_tip":"중요 공지:{currency} 코인 주소로 {currency}가 아닌 다른 코인을 입금할 경우 환불이 불가능합니다.",
+    "coin_tip":"중요 공지:코인게임 계정 간의 암호화폐 전송은 지원하지 않습니다. {currency}을/를 {currency} 외의 다른 암호화폐 주소로 전송하지 마세요.",
+    "assets_center_currency_statement": "암호화폐 면책조항"
+  },
+  "ja": {
+    "recharge_text": "チャージ",
+    "coin_text":"コイン引出",
+    "assets_amount":"総資産相当額：",
+    "recharge_tip":"重要な注意事項：{currency}以外の資産を{currency}アドレスにチャージすることは禁じられています。チャージされたETH以外の資産は回収できません。",
+    "coin_tip":"重要な注意事項：プラットフォームの内部アドレス間の振り込みはサポートされていません。{currency}を非{currency}のアドレスに出金しないでください。",
+    "assets_center_currency_statement": "重要な声明"
+  },
+  "zh-Hant": {
+    "recharge_text": "充值",
+    "coin_text":"提幣",
+    "assets_amount":"總資產折合：",
+    "recharge_tip":"重要提示：禁止向{currency}地址充值除{currency}之外的資產，任何充入{currency}地址的非{currency}資產將不可找回",
+    "coin_tip":"重要提示：不支持平臺內部地址轉賬，請不要將{currency}提幣至非{currency}地址",
+    "assets_center_currency_statement": "幣種聲明"
+  }
+}

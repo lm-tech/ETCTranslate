@@ -1,0 +1,37 @@
+{
+	"zh": {
+		"forecast_record_title": "平台赠送",
+		"forecast_record_recent_30_day": "最近30天",
+		"forecast_record_custom": "自定义"
+	},
+	"en": {
+		"forecast_record_title": "Presented by the platform",
+		"forecast_record_recent_30_day": "Recent 30 days",
+		"forecast_record_custom": "Custom"
+	},
+	"ja": {
+		"forecast_record_title": "プラットフォームからのギフト",
+		"forecast_record_recent_30_day": "過去30日",
+		"forecast_record_custom": "カスタムインストール"
+	},
+	"ko": {
+		"forecast_record_title": "코인게임의 서비스",
+		"forecast_record_recent_30_day": "최근30일",
+		"forecast_record_custom": "날짜 선택"
+	},
+	"ru": {
+		"forecast_record_title": "Presented by the platform",
+		"forecast_record_recent_30_day": "Recent 30 days",
+		"forecast_record_custom": "Custom"
+	},
+	"vi": {
+		"forecast_record_title": "平台赠送",
+		"forecast_record_recent_30_day": "最近30天",
+		"forecast_record_custom": "自定义"
+	},
+	"zh-Hant": {
+		"forecast_record_title": "平臺贈送",
+		"forecast_record_recent_30_day": "最近30天",
+		"forecast_record_custom": "自訂"
+	}
+}

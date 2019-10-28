@@ -1,0 +1,26 @@
+{
+	"zh": {
+		"login": "登录",
+		"register": "注册"
+	},
+	"en": {
+		"login": "Login",
+		"register": "Sign Up"
+	},
+	"ko": {
+		"login": "로그인",
+		"register": "회원가입"
+	},
+	"ja": {
+		"login": "ログイン",
+		"register": "新規登録"
+	},
+	"zh-Hant": {
+		"login": "登録",
+		"register": "註冊"
+	},
+	"vi": {
+		"login": "登录",
+		"register": "注册"
+	}
+}

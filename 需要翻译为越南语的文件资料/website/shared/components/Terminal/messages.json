@@ -1,0 +1,23 @@
+{
+	"zh": {
+		"terminal_time": "{time}s后自动关闭"
+	},
+	"en": {
+		"terminal_time": "Closing in {time}s"
+	},
+	"ja": {
+		"terminal_time": "Closing in {time}s"
+	},
+	"ko": {
+		"terminal_time": "{time}초후 종료"
+	},
+	"ru": {
+		"terminal_time": "Closing in {time}s"
+	},
+	"vi": {
+		"terminal_time": "{time}s后自动关闭"
+	},
+	"zh-Hant": {
+		"terminal_time": "{time}s後自動關閉"
+	}
+}

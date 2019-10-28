@@ -1,0 +1,32 @@
+{
+  "zh": {
+    "email_verify_title":"关闭邮箱验证",
+    "google_verify_title":"关闭谷歌验证",
+    "confirm_text":"为了保障账户资金安全，至少需要开启1项双重身份验证方式。可在开启其他验证方式后再进行关闭。",
+    "button_confirm":"确认"
+  },
+  "en": {
+    "email_verify_title":"Disable Email Authentication",
+    "google_verify_title":"Disable Google Authenticator",
+    "confirm_text":"To ensure asset security, at least one 2FA method is required. You can disable one after enabling another.",
+    "button_confirm":"OK"
+  },
+  "ko": {
+    "email_verify_title":"이메일 인증 비활성화",
+    "google_verify_title":"구글 인증 비활성화",
+    "confirm_text":"자산 보안을 위해 최소 1가지 2차 보안 인증 활성화가 필요합니다. 다른 2차 보안 인증 활성화 후 다시 시도해주세요.",
+    "button_confirm":"확인"
+  },
+  "ja": {
+    "email_verify_title":"メールアドレス認証をオフにする",
+    "google_verify_title":"Google認証をオフにする",
+    "confirm_text":"アカウント資金のセキュリティを保護するために、少なくとも1つの二要素認証方法をオンにする必要があります。 他の認証方法をオンにした後にオフにすることができます。",
+    "button_confirm":"決定する"
+  },
+  "zh-Hant": {
+    "email_verify_title":"關閉郵箱驗證",
+    "google_verify_title":"關閉谷歌驗證",
+    "confirm_text":"為了保障賬戶資金安全，至少需要開啟1項雙重身份驗證方式。可在開啟其他驗證方式後再進行關閉。",
+    "button_confirm":"確認"
+  }
+}

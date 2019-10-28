@@ -1,0 +1,51 @@
+{
+	"zh": {
+		"login_to_register": "立即注册",
+		"login_forgot_password": "忘记密码",
+		"login_title": "登录",
+		"login_token_fail": "身份验证失效",
+		"netWorkError": "网络异常，请稍后再试！"
+	},
+	"en": {
+		"login_to_register": "Register Now",
+		"login_forgot_password": "Forgot password",
+		"login_title": "Login",
+		"login_token_fail": "Authentication is invalid",
+		"netWorkError": "Network error. Please retry later."
+	},
+	"ko": {
+		"login_to_register": "회원가입하기",
+		"login_forgot_password": "비밀번호 찾기",
+		"login_title": "로그인",
+		"login_token_fail": "자격 심사 무효입니다",
+		"netWorkError": "네트워크 오류, 잠시 후 다시 시도해주세요!"
+	},
+	"ja": {
+		"login_to_register": "登録",
+		"login_forgot_password": "パスワードを忘れた",
+		"login_title": "ログイン",
+		"login_token_fail": "ID認証は失効となりましたので、",
+		"netWorkError": "Network error. Please retry later."
+	},
+	"ru": {
+		"login_to_register": "Зарегистрироваться сейчас",
+		"login_forgot_password": "Забыть пароль",
+		"login_title": "Авторизоваться",
+		"login_token_fail": "Аутентификация недействительна, обновите страницу и войдите снова",
+		"netWorkError": "网络异常，请稍后再试！"
+	},
+	"vi": {
+		"login_to_register": "立即注册",
+		"login_forgot_password": "忘记密码",
+		"login_title": "登录",
+		"login_token_fail": "身份验证失效",
+		"netWorkError": "网络异常，请稍后再试！"
+	},
+	"zh-Hant": {
+		"login_to_register": "立即註冊",
+		"login_forgot_password": "忘記密碼",
+		"login_title": "登錄",
+		"login_token_fail": "身份驗證失效",
+		"netWorkError": "網絡異常，請稍後再試！"
+	}
+}

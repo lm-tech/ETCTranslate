@@ -1,0 +1,37 @@
+{
+  "zh": {
+    "currency":"币种",
+    "assets_amount_name":"{currency}总资产",
+    "assets_coinable_name":"可提资产({currency})",
+    "assets_no_coinable_name":"不可提资产({currency})",
+    "assets_frozen_name":"冻结资产({currency})"
+  },
+  "en": {
+    "currency":"Asset",
+    "assets_amount_name":"Total Assets: {currency} ",
+    "assets_coinable_name":"Available Assets ({currency})",
+    "assets_no_coinable_name":"Unavailable Assets ({currency})",
+    "assets_frozen_name":"Locked ({currency})"
+  },
+  "ko": {
+    "currency":"암호화폐",
+    "assets_amount_name":"{currency}총 자산",
+    "assets_coinable_name":"출금 가능 자산({currency})",
+    "assets_no_coinable_name":"출금 불가능 자산({currency})",
+    "assets_frozen_name":"동결 자산({currency})"
+  },
+  "ja": {
+    "currency":"通貨",
+    "assets_amount_name":"{currency}総資産",
+    "assets_coinable_name":"引出可({currency})",
+    "assets_no_coinable_name":"引出不可({currency})",
+    "assets_frozen_name":"フリーズ({currency})"
+  },
+  "zh-Hant": {
+    "currency":"幣種",
+    "assets_amount_name":"{currency}總資產",
+    "assets_coinable_name":"可提資產({currency})",
+    "assets_no_coinable_name":"不可提資產({currency})",
+    "assets_frozen_name":"凍結資產({currency})"
+  }
+}

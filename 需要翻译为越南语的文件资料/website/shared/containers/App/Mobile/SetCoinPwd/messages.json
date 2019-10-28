@@ -1,0 +1,23 @@
+{
+	"zh": {
+		"set_coin_pwd": "设置资金密码"
+	},
+	"en": {
+		"set_coin_pwd": "Set Fund Password"
+	},
+	"ko": {
+		"set_coin_pwd": "출금 비밀번호 설정"
+	},
+	"ja": {
+		"set_coin_pwd": "資金パスワードを設定"
+	},
+	"ru": {
+		"set_coin_pwd": "Set Fund Password"
+	},
+	"vi": {
+		"set_coin_pwd": "设置资金密码"
+	},
+	"zh-Hant": {
+		"set_coin_pwd": "设置资金密码"
+	}
+}

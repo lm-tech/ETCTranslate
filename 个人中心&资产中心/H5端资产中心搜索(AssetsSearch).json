@@ -1,0 +1,32 @@
+{
+    "zh": {
+        "input_place": "输入搜索币种名",
+        "cancel": "取消",
+        "hot_search": "热门搜索",
+        "shrink_coin": "已冻结："
+    },
+    "en": {
+        "input_place": "Search asset name",
+        "cancel": "Cancel",
+        "hot_search": "Top Searches",
+        "shrink_coin": "Locked:"
+    },
+    "ko": {
+        "input_place": "암호화폐 검색",
+        "cancel": "취소",
+        "hot_search": "인기 검색",
+        "shrink_coin": "동결 완료:"
+    },
+    "ja": {
+        "input_place": "通貨名を入力して検索してください",
+        "cancel": "キャンセルする",
+        "hot_search": "人気の検索",
+        "shrink_coin": "フリーズされた："
+    },
+    "zh-Hant": {
+        "input_place": "輸入搜索幣種名",
+        "cancel": "取消",
+        "hot_search": "熱門搜索",
+        "shrink_coin": "已凍結："
+    }
+}

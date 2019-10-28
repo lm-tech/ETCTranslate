@@ -7,17 +7,17 @@
   "en": {
     "marquee_invest": "User {account}, bet on【{playname}】with {amount} {currency}, take a look!",
     "marquee2_earn": "User {account}, bet on【{playname}】 and win {amount} {currency}, let's congratulate him!",
-    "promotion_notice": "公告"
+    "promotion_notice": "Announcement"
   },
   "ko": {
     "marquee_invest": "{account}님이 【{playname}】에서 {amount} {currency}를 베팅하였습니다.자세한 정보 보기",
     "marquee2_earn": "{account}님이 【{playname}】에서 {amount} {currency}를 획득하였습니다.축하드립니다.",
-    "promotion_notice": "公告"
+    "promotion_notice": "공지"
   },
   "ja": {
     "marquee_invest": "ユーザーの{account}さんは、【{playname}】に{amount} {currency}をオーダーしました。",
     "marquee2_earn": "ユーザーの{account}さんは、【{playname}】により{amount} {currency}を取得しました。おめでとうございます！",
-    "promotion_notice": "公告"
+    "promotion_notice": "お知らせ"
   },
   "ru": {
     "marquee_invest": "User{account},bet on【{playname}】with {amount} {currency}, take a look!",

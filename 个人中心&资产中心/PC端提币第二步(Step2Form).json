@@ -1,0 +1,38 @@
+{
+  "zh": {
+    "coin_confirm":"{currency}提币确认",
+    "coin_amount":"提币金额：",
+    "fee":"手续费：",
+    "submit_confirm":"确认",
+    "back":"返回上一步"
+  },
+  "en": {
+    "coin_confirm":"Confirm to withdraw {currency}",
+    "coin_amount":"Withdrawal Amount:",
+    "fee":"Withdrawal Fee: ",
+    "submit_confirm":"OK",
+    "back":"Back"
+  },
+  "ko": {
+    "coin_confirm":"{currency}출금 확인",
+    "coin_amount":"출금 금액:",
+    "fee":"수수료：",
+    "submit_confirm":"확인",
+    "back":"이전"
+  },
+  "ja": {
+    "coin_confirm":"{currency}コイン引出の確認",
+    "coin_amount":"コイン引出金額：",
+    "fee":"手数料：",
+    "submit_confirm":"決定する",
+    "back":"前ステップに戻る"
+  },
+
+  "zh-Hant": {
+    "coin_confirm":"{currency}提幣確認",
+    "coin_amount":"提幣金額：",
+    "fee":"手續費：",
+    "submit_confirm":"確認",
+    "back":"返回上壹步"
+  }
+}

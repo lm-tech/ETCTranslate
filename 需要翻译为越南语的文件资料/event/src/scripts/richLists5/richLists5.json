@@ -1,0 +1,98 @@
+{
+	"zh": {
+		"thead": ["账户名", "累计投币USDT"],
+		"myAccount": ["我的账户", "累计投币USDT"],
+		"noUser": "虚位以待",
+		"roles": {
+			"rule1": "1. 活动时间：2019.05.01 00:00:00-2019.05.31 23:59:59（UTC/GMT8)",
+			"rule2": "2. 活动期间，累计投币金额越高，富豪榜排名越前；若累计投币金额相同时，优先到达者排名靠前；最终排名前10用户可获得丰厚数字货币奖励；",
+			"rule3": "3. 只有活动期间内的投币金额计入富豪榜；",
+			"rule4": "4. 活动奖励于活动结束后72小时内发放至用户资产中心；",
+			"rule5": "5. Coingame保留对此活动的最终解释权，如有疑问请联系support@coingame.com ",
+			"rule6": "6. 快捷客服通道：",
+			"rule31": "所投币任意币种的金额以CoinMarketCap实时汇率转化为等值USDT计入富豪榜；"
+		},
+		"startTip": "该活动尚未开始，敬请期待",
+		"endTip": "活动已结束，请等待下一期"
+	},
+	"en": {
+		"thead": ["Account number", "Accumulated predictions (USDT)"],
+		"myAccount": ["My account number", "Accumulated predictions (USDT)"],
+		"noUser": "reserve a seat",
+		"roles": {
+			"rule1": "1. Promotion period：2019.05.01 00:00:00-2019.05.31 23:59:59（UTC/GMT8)",
+			"rule2": "2. During the promotion period, the higher the accumulated prediction amount, the higher your ranking on the rich list. If the cumulative prediction amount is the same, whoever reaches the limit first will rank higher. Finally, the top 10 users can avail considerable digital currency rewards.",
+			"rule3": "3. Only predictions placed during the promotion are counted on the rich list.",
+			"rule4": "4. Rewards during promotion shall be distributed to the user asset center within 72 hours of the end of the event.",
+			"rule5": "5. Coingame reserves the right to modify or change this activity. If you have any questions, please contact support@coingame.com",
+			"rule6": "6. CS channel：",
+			"rule31": " The prediction amount will be converted to equivalent USDT according to the real-time exchange rate on CoinMarketCap and included into the Rich List."
+		},
+		"startTip": "The event has not started yet. Stay tuned for more information.",
+		"endTip": "The event is over, please wait for  next one."
+	},
+	"ko": {
+		"thead": ["계정", "누적 베팅금(USDT)"],
+		"myAccount": ["내 계정", "누적 베팅금(USDT)"],
+		"noUser": "지금은 순위 데이터가 없음",
+		"roles": {
+			"rule1": "1. 이벤트 기간:2019.05.01 00:00:00-2019.05.31 23:59:59（UTC/GMT8)",
+			"rule2": "2. 이벤트 기간 내 누적 베팅금액에 따라 랭킹이 결정됩니다. 누적 베팅금액이 같은 경우 먼저 해당 베팅금액을 베팅한 유저가 더 높은 순위를 부여받습니다. 최종 TOP10에 해당하는 유저들에게는 막대한 상금을 지급해 드립니다..",
+			"rule3": "3. 누적 베팅금액은 이벤트 기간에 진행된 베팅금액만 계산됩니다.",
+			"rule4": "4. 이벤트 상금은 이벤트 종료 후 72시간 이내에 지급됩니다.",
+			"rule5": "5. 본 이벤트의 최종 해석권은 Coingame이 보유합니다. 문의 사항이 있을 경우 support@coingame.com으로 연락해주세요.",
+			"rule6": "6. 고객센터:",
+			"rule31": " 베팅한 암호화폐 금액은 Coinmarketcap의 실시간 환율을 기준으로 USDT로 계산되어 랭킹표에 등록됩니다."
+		},
+		"startTip": "해당 이벤트는 시작하지 않습니다. 기대해주기를 바랍니다.",
+		"endTip": "해당 이벤트는 종료되었습니다. 다음 회를 기대해주기를 바랍니다."
+	},
+	"ja": {
+		"thead": ["アカウント", "オーダー総額（USDT）"],
+		"myAccount": ["私のアカウント", "オーダー総額（USDT）"],
+		"noUser": "ランキングに入る",
+		"roles": {
+			"rule1": "1. キャンペーン期間：2019.05.01 00:00:00-2019.05.31 23:59:59（UTC/GMT8)",
+			"rule2": "2. キャンペーン期間内に、オーダー金額が多いほど、富豪ランキングの順位が上昇する；オーダー金額が同じである場合、その金額に到達する順位によってランクインする；最終的に、トップ10のユーザーは豊富な仮想通貨ボーナスを得ることができる。",
+			"rule3": "3. キャンペーン期間内のオーダー金額のみがた富豪ランキングに記入される。",
+			"rule4": "4. ボーナスはキャンペーン終了後72時間以内にユーザーの資産センターに送付される。",
+			"rule5": "5. このキャンペーンの最終解釈権はCoingameが所有する；もし問題があれば、support@coingame.comまでご連絡ください。",
+			"rule6": "6. カスタマーサポート：",
+			"rule31": "投书された金额は、リアルタイムのCoinMarketCapの为替レートを値USDTに転换して富豪入りした。"
+		},
+		"startTip": "キャンペーンはまだ開始していない、どうぞお楽しみに",
+		"endTip": "キャンペーン終了、次回をお楽しみに"
+	},
+	"zh-Hant": {
+		"thead": ["賬戶名", "累計投币USDT"],
+		"myAccount": ["我的賬戶", "累計投币USDT"],
+		"noUser": "虚位以待",
+		"roles": {
+			"rule1": "1. 活動時間：2019.05.01 00:00:00-2019.05.31 23:59:59（UTC/GMT8)",
+			"rule2": "2. 活動期間，累計投币金額越高，富豪榜排名越前；若累計投币金額相同時，優先到達者排名靠前；最終排名前10用戶可獲得豐厚數字貨幣獎勵；",
+			"rule3": "3. 只有活動期間內的投币金額計入富豪榜；",
+			"rule4": "4. 活動獎勵於活動結束後72小時內發放至用戶資產中心；",
+			"rule5": "5. Coingame保留對此活動的最終解釋權，如有疑問請聯系support@coingame.com",
+			"rule6": "6. 快捷客服通道：",
+			"rule31": "所投註任意幣種的金額以CoinMarketCap實時匯率轉化為等值USDT計入富豪榜；"
+		},
+		"startTip": "該活動尚未開始，敬請期待",
+		"endTip": "活動已結束，請等待下壹期"
+	},
+	"vi": {
+		"thead": ["账户名", "累计投币USDT"],
+		"myAccount": ["我的账户", "累计投币USDT"],
+		"noUser": "虚位以待",
+		"roles": {
+			"rule1": "1. 活动时间：2019.05.01 00:00:00-2019.05.31 23:59:59（UTC/GMT8)",
+			"rule2": "2. 活动期间，累计投币金额越高，富豪榜排名越前；若累计投币金额相同时，优先到达者排名靠前；最终排名前10用户可获得丰厚数字货币奖励；",
+			"rule3": "3. 只有活动期间内的投币金额计入富豪榜；",
+			"rule4": "4. 活动奖励于活动结束后72小时内发放至用户资产中心；",
+			"rule5": "5. Coingame保留对此活动的最终解释权，如有疑问请联系support@coingame.com ",
+			"rule6": "6. 快捷客服通道：",
+			"rule31": "所投币任意币种的金额以CoinMarketCap实时汇率转化为等值USDT计入富豪榜；"
+		},
+		"startTip": "该活动尚未开始，敬请期待",
+		"endTip": "活动已结束，请等待下一期"
+	}
+}

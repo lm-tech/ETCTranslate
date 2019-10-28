@@ -1,0 +1,30 @@
+{
+	"zh": {
+		"bets_success_title": "预测投币中",
+		"bets_success_info": "因为数字货币的特殊性，请稍后在ETC区块链上面查询是否投币成功"
+	},
+	"en": {
+		"bets_success_title": "Forecast made",
+		"bets_success_info": "Please check the ETC blockchain to confirm successful forecast."
+	},
+	"ja": {
+		"bets_success_title": "ベッティング",
+		"bets_success_info": "仮想通貨の特殊性のため、後ほどETCブロックチェーンで操作が成功したかどうかを確認してください。"
+	},
+	"ko": {
+		"bets_success_title": "예측배팅 중",
+		"bets_success_info": "디지털 캐시 특수성때문에，잠시후 ETC블록체인에서 배팅성공하는지 확인해주세요"
+	},
+	"ru": {
+		"bets_success_title": "Будучи ставку",
+		"bets_success_info": "Из-за особенностей цифровой валюты, пожалуйста, проверьте, является ли ставка успешной на блокчейне ETC позже."
+	},
+	"vi": {
+		"bets_success_title": "预测投币中",
+		"bets_success_info": "因为数字货币的特殊性，请稍后在ETC区块链上面查询是否投币成功"
+	},
+	"zh-Hant": {
+		"bets_success_title": "預測投币中",
+		"bets_success_info": "因為數字貨幣的特殊性，請稍後在ETC區塊鏈上面查詢是否下住成功"
+	}
+}

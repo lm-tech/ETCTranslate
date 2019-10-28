@@ -1,0 +1,72 @@
+﻿{
+	"zh": {
+		"guide_bottom_goto_home": "返回首页",
+		"guide_bottom_goto_front": "上一步",
+		"guide_bottom_goto_login": "立即登录",
+		"guide_bottom_goto_ETC_home": "立即预测",
+		"guide_bottom_goto_after": "下一步",
+		"guide_vip_buttom": "会员预测引导",
+		"guide_normal_buttom": "非会员预测引导",
+		"content_title_guide": "新手引导"
+	},
+	"en": {
+		"guide_bottom_goto_home": "Back to homepage",
+		"guide_bottom_goto_front": "Back",
+		"guide_bottom_goto_login": "Login",
+		"guide_bottom_goto_ETC_home": "Go predict",
+		"guide_bottom_goto_after": "Next step",
+		"guide_vip_buttom": "Member guide",
+		"guide_normal_buttom": "Non-member guide",
+		"content_title_guide": "Beginner's guide"
+	},
+	"ja": {
+		"guide_bottom_goto_home": "トップページに戻る",
+		"guide_bottom_goto_front": "前のステップに戻る",
+		"guide_bottom_goto_login": "すぐログインする",
+		"guide_bottom_goto_ETC_home": "すぐベットする",
+		"guide_bottom_goto_after": "次のステップに進む",
+		"guide_vip_buttom": "VIP会員への手引き",
+		"guide_normal_buttom": "普通会員への手引き",
+		"content_title_guide": "初心者の手引き"
+	},
+	"ko": {
+		"guide_bottom_goto_home": "홈페이지로 돌아가기",
+		"guide_bottom_goto_front": "이전 페이지",
+		"guide_bottom_goto_login": "지금 로그인하기",
+		"guide_bottom_goto_ETC_home": "즉시 베팅하기",
+		"guide_bottom_goto_after": "다음 페이지",
+		"guide_vip_buttom": "회원 예측안내",
+		"guide_normal_buttom": "비회원 예측안내",
+		"content_title_guide": "신규회원 가이드"
+	},
+	"ru": {
+		"guide_bottom_goto_home": "Вернуться на главную страницу",
+		"guide_bottom_goto_front": "назад",
+		"guide_bottom_goto_login": "Войдите ",
+		"guide_bottom_goto_ETC_home": "Прогнозирование",
+		"guide_bottom_goto_after": "Следующий шаг",
+		"guide_vip_buttom": "Руководство по прогнозированию членов",
+		"guide_normal_buttom": "Руководство для прогнозирования, не являющееся членом",
+		"content_title_guide": "Руководство для начинающих "
+	},
+	"vi": {
+		"guide_bottom_goto_home": "返回首页",
+		"guide_bottom_goto_front": "上一步",
+		"guide_bottom_goto_login": "立即登录",
+		"guide_bottom_goto_ETC_home": "立即预测",
+		"guide_bottom_goto_after": "下一步",
+		"guide_vip_buttom": "会员预测引导",
+		"guide_normal_buttom": "非会员预测引导",
+		"content_title_guide": "新手引导"
+	},
+	"zh-Hant": {
+		"guide_bottom_goto_home": "返回首頁",
+		"guide_bottom_goto_front": "上一步",
+		"guide_bottom_goto_login": "立即登錄",
+		"guide_bottom_goto_ETC_home": "立即競猜",
+		"guide_bottom_goto_after": "下一步",
+		"guide_vip_buttom": "會員競猜引導",
+		"guide_normal_buttom": "非會員競猜引導",
+		"content_title_guide": "新手引導"
+	}
+}

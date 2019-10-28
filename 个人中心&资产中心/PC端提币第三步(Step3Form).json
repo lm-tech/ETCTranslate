@@ -1,0 +1,73 @@
+{
+  "zh": {
+    "emailAccount":"邮箱账号",
+    "emailTip":"若验证码邮件没有顺利到达您的收件箱，请注意检查垃圾箱内的邮件",
+    "googleAccount":"谷歌验证码",
+    "submit_ok":"完成",
+    "back":"返回上一步",
+    "use_google":"使用谷歌验证",
+    "use_email":"使用邮箱验证",
+    "security_item_lost":"安全项丢失？",
+    "security_tip1":"任意双重身份验证方式丢失，请立即联系客服",
+    "withdraw_form_password":"资金密码",
+    "input_validate_empty_validation_code":"验证码",
+    "input_send_success": "发送成功， 请查收"
+  },
+  "en": {
+    "emailAccount":"Email",
+    "emailTip":"If you do not receive an email, please check your junk or spam folders",
+    "googleAccount":"Google Authenticator Code",
+    "submit_ok":"Done",
+    "back":"Back",
+    "use_google":"Use Google Authenticator",
+    "use_email":"User Email Verification",
+    "security_item_lost":"Lost 2FA?",
+    "security_tip1":"Once you lose any 2FA method, please contact customer service as soon as possible.",
+    "withdraw_form_password":"Payment Password",
+    "input_validate_empty_validation_code":"Verification Code",
+    "input_send_success": "Successfully sent, please check"
+  },
+  "ko": {
+    "emailAccount":"계정 이메일",
+    "emailTip":"인증 메일을 받지 못한 경우 스팸 메일함도 확인해주세요",
+    "googleAccount":"구글 인증번호",
+    "submit_ok":"완료",
+    "back":"이전",
+    "use_google":"구글 OTP 사용하기",
+    "use_email":"이메일 인증 사용하기",
+    "security_item_lost":"보안 인증 분실?",
+    "security_tip1":"2차 보안 인증을 분실한 경우 고객센터에 문의해주세요",
+    "withdraw_form_password":"출금 비밀번호",
+    "input_validate_empty_validation_code":"인증번호",
+    "input_send_success": "메일을 발송하였습니다. 확인해주세요."
+  },
+  "ja": {
+    "emailAccount":"メールアカウント",
+    "emailTip":"メールが届かない可能性があるため、一度「迷惑メール」フォルダをご確認ください",
+    "googleAccount":"Google認証コード",
+    "submit_ok":"完了する",
+    "back":"前ステップに戻る",
+    "use_google":"Google認証を使用する",
+    "use_email":"メールアドレス認証を使用する",
+    "security_item_lost":"セキュリティアイテムを紛失しましたか？",
+    "security_tip1":"如何なる二要素認証方式が失われた場合は、すぐにカスタマーサポートに連絡してください",
+    "withdraw_form_password":"資金のパスワード",
+    "input_validate_empty_validation_code":"認証コード",
+    "input_send_success": "送信成功、ご確認ください"
+  },
+
+  "zh-Hant": {
+    "emailAccount":"郵箱賬號",
+    "emailTip":"若驗證碼郵件沒有順利到達您的收件箱，請註意檢查垃圾箱內的郵件",
+    "googleAccount":"谷歌驗證碼",
+    "submit_ok":"完成",
+    "back":"返回上壹步",
+    "use_google":"使用谷歌驗證",
+    "use_email":"使用郵箱驗證",
+    "security_item_lost":"安全項丟失？",
+    "security_tip1":"任意雙重身份驗證方式丟失，請立即聯系客服",
+    "withdraw_form_password":"資金密碼",
+    "input_validate_empty_validation_code":"驗證碼",
+    "input_send_success": "發送成功， 請查收"
+  }
+}

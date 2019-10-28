@@ -1,0 +1,22 @@
+{
+  "zh": {
+    "input_currency": "请输入币种",
+    "no_currency":"暂未搜到该币种！"
+  },
+  "en": {
+    "input_currency": "Enter asset name",
+    "no_currency":"No result found"
+  },
+  "ko": {
+    "input_currency": "암호화폐 입력",
+    "no_currency":"해당 암호화폐를 찾을 수 없습니다"
+  },
+  "ja": {
+    "input_currency": "通貨をご入力ください",
+    "no_currency":"この通貨はまだ見つからなかった！"
+  },
+  "zh-Hant": {
+    "input_currency": "請輸入幣種",
+    "no_currency":"暫未搜到該幣種！"
+  }
+}

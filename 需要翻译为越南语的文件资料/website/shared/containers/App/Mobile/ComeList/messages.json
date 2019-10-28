@@ -1,0 +1,29 @@
+{
+	"zh": {
+		"title": "即将开赛",
+		"detail_history_no_data": "暂无数据"
+	},
+	"en": {
+		"title": "Coming soon",
+		"detail_history_no_data": "No data"
+	},
+	"ko": {
+		"title": "런칭 예정",
+		"detail_history_no_data": "데이터 없음"
+	},
+	"ja": {
+		"title": "間もなく開始",
+		"detail_history_no_data": "データ無し"
+	},
+	"ru": {
+		"title": "Coming soon"
+	},
+	"vi": {
+		"title": "即将开赛",
+		"detail_history_no_data": "暂无数据"
+	},
+	"zh-Hant": {
+		"title": "即將開賽",
+		"detail_history_no_data": "暫無數據"
+	}
+}

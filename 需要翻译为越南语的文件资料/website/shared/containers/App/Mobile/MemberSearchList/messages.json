@@ -1,0 +1,37 @@
+{
+	"zh": {
+		"confirm": "搜索：",
+		"search_result": "搜索结果共{result}条",
+		"detail_history_no_data": "暂无数据"
+	},
+	"en": {
+		"confirm": "Search:",
+		"search_result": "{result} search results",
+		"detail_history_no_data": "No data"
+	},
+	"ko": {
+		"confirm": "조회:",
+		"search_result": "총{result}개의 검색결과",
+		"detail_history_no_data": "데이터 없음"
+	},
+	"ja": {
+		"confirm": "検索：",
+		"search_result": "検査結果合計{result}",
+		"detail_history_no_data": "データ無し"
+	},
+	"ru": {
+		"confirm": "Search:",
+		"search_result": "搜索结果共{result}条",
+		"detail_history_no_data": "暂无数据"
+	},
+	"vi": {
+		"confirm": "搜索：",
+		"search_result": "搜索结果共{result}条",
+		"detail_history_no_data": "暂无数据"
+	},
+	"zh-Hant": {
+		"confirm": "搜索：",
+		"search_result": "搜索結果共{result}條",
+		"detail_history_no_data": "暫無數據"
+	}
+}
