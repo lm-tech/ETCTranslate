@@ -70,7 +70,7 @@
     "copy":"コピーする",
     "pwd_tip":"秘密鍵は、携帯を置き換えまたは紛失したときにGoogle認証システムを取り戻すために使用する。連携する前に、必ず次の秘密鍵のバックアップを保存してください。",
     "step3_text":"Google認証システムに6桁の認証コードを入力する",
-    "googleVcode":"Google验证码",
+    "googleVcode":"Google認証コード",
     "vcode":"認証コード",
     "email_label":"メールアカウント",
     "vcode_label":"認証コード",
