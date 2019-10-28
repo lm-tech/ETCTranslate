@@ -39,7 +39,7 @@
     "email_bind":"メールアドレス認証連携",
     "google_bind_tip":"コイン引出のセキュリティを認証するため、Google認証システム連携をしてください",
     "email_bind_tip":"コイン引出のセキュリティを認証するため、携帯連携をしてください",
-    "bind":" 연동 완료",
+    "bind":" 連携済み",
     "no_bind":"連携なし",
     "footer_no_bind":"まだ連携しない"
   },
@@ -50,7 +50,7 @@
     "email_bind":"郵箱驗證綁定",
     "google_bind_tip":"提現安全驗證，請綁定谷歌驗證器",
     "email_bind_tip":"提現安全驗證，請綁定手機",
-    "bind":" 連携済み",
+    "bind":" 已綁定",
     "no_bind":"未綁定",
     "footer_no_bind":"暫不綁定"
   }
