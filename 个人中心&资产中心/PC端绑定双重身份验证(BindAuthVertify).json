@@ -11,7 +11,7 @@
     "footer_no_bind":"暂不绑定"
   },
   "en": {
-    "bind_auth_verify": "绑定双重身份验证",
+    "bind_auth_verify": "At least two types of authentication method are required.",
     "bind_ath_tip":"To ensure asset security, please enable at least one authentication method for withdrawal.",
     "google_bind":"Enable Google Authenticator",
     "email_bind":"Enable Email Authentication",
@@ -19,7 +19,7 @@
     "email_bind_tip":"Please enable SMS Authenticationr to complete withdrawal authentication",
     "bind":" Enabled",
     "no_bind":"Inactive",
-    "footer_no_bind":"暂不绑定"
+    "footer_no_bind":"Not Now"
   },
   "ko": {
     "bind_auth_verify": "绑定双重身份验证",
@@ -30,10 +30,10 @@
     "email_bind_tip":"출금 보안을 위해 휴대폰을 연동해주세요",
     "bind":" 연동 완료",
     "no_bind":"미연동",
-    "footer_no_bind":"暂不绑定"
+    "footer_no_bind":"다음에 설정"
   },
   "ja": {
-    "bind_auth_verify": "绑定双重身份验证",
+    "bind_auth_verify": "二要素認証を連携する",
     "bind_ath_tip":"アカウント資金のセキュリティを保護するために、コインを引き出す際のセキュリティ認証には、少なくとももう一つの認証をオンにしてください。",
     "google_bind":"Google認証システム連携",
     "email_bind":"メールアドレス認証連携",
@@ -41,7 +41,7 @@
     "email_bind_tip":"コイン引出のセキュリティを認証するため、携帯連携をしてください",
     "bind":" 연동 완료",
     "no_bind":"連携なし",
-    "footer_no_bind":"暂不绑定"
+    "footer_no_bind":"まだ連携しない"
   },
   "zh-Hant": {
     "bind_auth_verify": "綁定雙重身份驗證",
