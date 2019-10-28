@@ -182,10 +182,10 @@
 			"part5": "ảnh chụp màn hình của đơn hàng"
 		},
 		"rules": {
-			"rule1": "Thời gian sự kiện：1/6/2019 đến hết mùa hè khi giải LOL kết thúc。",
-			"rule2": "Sự kiện này áp dụng cho người dùng Coingame đã đăng ký. ",。",
+			"rule1": "Thời gian sự kiện：1/6/2019 đến hết mùa hè khi giải LOL kết thúc.",
+			"rule2": "Sự kiện này áp dụng cho người dùng Coingame đã đăng ký.",
 			"rule3": "Đơn hàng có số lượng dự đoán", 
-			"rule3_1": "ở mức 30 USDT trở lên và bội số dự đoán cao hơn 1,50 ",",
+			"rule3_1": "ở mức 30 USDT trở lên và bội số dự đoán cao hơn 1,50 ",
 			"rule3_2": "trong tất cả các loại tiền tệ, được áp dụng cho sự kiện này. Tỷ giá USDT của các loại tiền tệ phải tuân theo dữ liệu của CoinMarketCap vào lúc 10:00 sáng (UTC + 8) vào ngày thứ hai của trận đấu và dự đoán số tiền sẽ được tính từ đó。",
 			"rule4": "Số tiền thưởng：",
 			"rule4_1": ["Kills", "Bonus"],
