@@ -674,8 +674,8 @@
       "rule3": "Quy cách tính điểm：",
       "rule3_1": "Phương thức tính điểm = (Tổng của mỗi đơn hàng Nhiều lần - Đơn hàng hiệu quả) × (1 + Đơn hàng hiệu quả × 0,02)。",
       "rule41": "Phương thức tính đơn hàng nhiều：",
-      "rule41_1": "Nếu bội số ≤ 5, phương pháp tính toán sẽ theo bội số thực tế, nếu bội số> 5, phương pháp tính toán sẽ dựa trên nhiều điểm bằng 5",",
-      "rule41_2": "（chẳng hạn như bội số dự đoán của người dùng là 11,7, nhiều điểm bằng 5).
+      "rule41_1": "Nếu bội số ≤ 5, phương pháp tính toán sẽ theo bội số thực tế, nếu bội số> 5, phương pháp tính toán sẽ dựa trên nhiều điểm bằng 5",
+      "rule41_2": "（chẳng hạn như bội số dự đoán của người dùng là 11,7, nhiều điểm bằng 5).",
       "rule4": "Phương pháp tính toán các đơn đặt hàng hiệu quả: Bất kỳ đơn hàng nào cũng được yêu cầu để đạt được số tiền dự đoán nhất định bằng loại tiền được sử dụng để được tính là một đơn hàng hiệu quả. Vui lòng tham khảo Phụ lục 1 để biết thêm chi tiết。",
       "rule4_1_1": "（1）Đơn đặt hàng với các loại trò chơi khác nhau trong một trò chơi có thể được tính là",
       "rule4_1_1_1": "nhiều đơn hàng hiệu quả；",
@@ -738,7 +738,7 @@
         "10 USDT"
       ],
       "rule6": "Coingame bảo lưu quyền  giải thích cuối cùng sau khi sự kiện kết thúc.",
-      "rule7": "Kênh khách hàng nhanh
+      "rule7": "Kênh khách hàng nhanh",
     "startTip": "Sự kiện chưa bắt đầu , vui lòng chờ đợi",
     "endTip": "Sự kiện đã kết thúc，Xin vui lòng đợi",
     "start": [
