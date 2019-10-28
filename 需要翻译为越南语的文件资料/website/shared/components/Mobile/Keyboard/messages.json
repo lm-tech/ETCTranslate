@@ -1,24 +1,23 @@
 {
-  "zh": {
-    "confirm": "确认"
-  },
-  "en": {
-    "confirm": "Confirm"
-  },
-  "ko": {
-    "confirm": "확인"
-  },
-  "ja": {
-    "confirm": "確認"
-  },
-  "ru": {
-    "confirm": "Confirm"
-  },
-  "vi": {
-    "confirm": "Confirm"
-  },
-  "zh-Hant": {
-    "confirm": "確認"
-  }
+	"zh": {
+		"confirm": "确认"
+	},
+	"en": {
+		"confirm": "Confirm"
+	},
+	"ko": {
+		"confirm": "확인"
+	},
+	"ja": {
+		"confirm": "確認"
+	},
+	"ru": {
+		"confirm": "Confirm"
+	},
+	"vi": {
+		"confirm": "确认"
+	},
+	"zh-Hant": {
+		"confirm": "確認"
+	}
 }
-

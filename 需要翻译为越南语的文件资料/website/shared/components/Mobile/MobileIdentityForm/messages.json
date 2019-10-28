@@ -1,51 +1,51 @@
 {
-  "zh": {
-    "withdraw_form_email": "邮箱",
-    "withdraw_form_vcode": "验证码",
-    "withdraw_form_vcode_input": "请输入验证码",
-    "withdraw_form_success": "验证成功",
-    "input_send_success": "发送成功"
-  },
-  "en": {
-    "withdraw_form_email": "Email address",
-    "withdraw_form_vcode": "Verification code",
-    "withdraw_form_vcode_input": "Enter the validation code",
-    "withdraw_form_success": "Verified",
-    "input_send_success": "Sent. Please review."
-  },
-  "ko": {
-    "withdraw_form_email": "이메일",
-    "withdraw_form_vcode": "인증코드 발송",
-    "withdraw_form_vcode_input": "인증코드를 입력해주세요",
-    "withdraw_form_success": "인증 성공",
-    "input_send_success": "발송성공"
-  },
-  "ja": {
-    "withdraw_form_email": "メールアドレス",
-    "withdraw_form_vcode": "認証コード",
-    "withdraw_form_vcode_input": "認証コードを入力してください",
-    "withdraw_form_success": "検証完了",
-    "input_send_success": "送信成功、ご確認ください"
-  },
-  "ru": {
-    "withdraw_form_email": "Электронная почта",
-    "withdraw_form_vcode": "Проверочный код",
-    "withdraw_form_vcode_input": "Пожалуйста, введите проверочный код",
-    "withdraw_form_success": "验证成功",
-    "input_send_success": "Успешно отправлено, пожалуйста, проверьте"
-  },
-  "vi": {
-    "withdraw_form_email": "hộp thư",
-    "withdraw_form_vcode": "mã xác nhận",
-    "withdraw_form_vcode_input": "请输入验证码",
-    "withdraw_form_success": "验证成功",
-    "input_send_success": "gửi thành công"
-  },
-  "zh-Hant": {
-    "withdraw_form_email": "邮箱",
-    "withdraw_form_vcode": "驗證碼",
-    "withdraw_form_vcode_input": "sai mã xác nhận",
-    "withdraw_form_success": "驗證成功",
-    "input_send_success": "發送成功"
-  }
+	"zh": {
+		"withdraw_form_email": "邮箱",
+		"withdraw_form_vcode": "验证码",
+		"withdraw_form_vcode_input": "请输入验证码",
+		"withdraw_form_success": "验证成功",
+		"input_send_success": "发送成功"
+	},
+	"en": {
+		"withdraw_form_email": "Email address",
+		"withdraw_form_vcode": "Verification code",
+		"withdraw_form_vcode_input": "Enter the validation code",
+		"withdraw_form_success": "Verified",
+		"input_send_success": "Sent. Please review."
+	},
+	"ko": {
+		"withdraw_form_email": "이메일",
+		"withdraw_form_vcode": "인증코드 발송",
+		"withdraw_form_vcode_input": "인증코드를 입력해주세요",
+		"withdraw_form_success": "인증 성공",
+		"input_send_success": "발송성공"
+	},
+	"ja": {
+		"withdraw_form_email": "メールアドレス",
+		"withdraw_form_vcode": "認証コード",
+		"withdraw_form_vcode_input": "認証コードを入力してください",
+		"withdraw_form_success": "検証完了",
+		"input_send_success": "送信成功、ご確認ください"
+	},
+	"ru": {
+		"withdraw_form_email": "Электронная почта",
+		"withdraw_form_vcode": "Проверочный код",
+		"withdraw_form_vcode_input": "Пожалуйста, введите проверочный код",
+		"withdraw_form_success": "验证成功",
+		"input_send_success": "Успешно отправлено, пожалуйста, проверьте"
+	},
+	"vi": {
+		"withdraw_form_email": "邮箱",
+		"withdraw_form_vcode": "验证码",
+		"withdraw_form_vcode_input": "请输入验证码",
+		"withdraw_form_success": "验证成功",
+		"input_send_success": "发送成功"
+	},
+	"zh-Hant": {
+		"withdraw_form_email": "邮箱",
+		"withdraw_form_vcode": "驗證碼",
+		"withdraw_form_vcode_input": "sai mã xác nhận",
+		"withdraw_form_success": "驗證成功",
+		"input_send_success": "發送成功"
+	}
 }

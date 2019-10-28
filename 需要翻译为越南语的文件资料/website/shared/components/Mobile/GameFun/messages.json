@@ -1,30 +1,30 @@
 {
-  "zh": {
-    "hot_title": "游戏",
-    "more": "更多"
-  },
-  "en": {
-    "hot_title": "Game",
-    "more": "More"
-  },
-  "ja": {
-    "hot_title": "ゲーム",
-    "more": "もっと見る"
-  },
-  "ko": {
-    "hot_title": "게임",
-    "more": "더보기"
-  },
-  "ru": {
-    "hot_title": "Game",
-    "more": "More"
-  },
-  "vi": {
-    "hot_title": "Game",
-    "more": "More"
-  },
-  "zh-Hant": {
-    "hot_title": "遊戲",
-    "more": "更多"
-  }
+	"zh": {
+		"hot_title": "游戏",
+		"more": "更多"
+	},
+	"en": {
+		"hot_title": "Game",
+		"more": "More"
+	},
+	"ja": {
+		"hot_title": "ゲーム",
+		"more": "もっと見る"
+	},
+	"ko": {
+		"hot_title": "게임",
+		"more": "더보기"
+	},
+	"ru": {
+		"hot_title": "Game",
+		"more": "More"
+	},
+	"vi": {
+		"hot_title": "游戏",
+		"more": "更多"
+	},
+	"zh-Hant": {
+		"hot_title": "遊戲",
+		"more": "更多"
+	}
 }

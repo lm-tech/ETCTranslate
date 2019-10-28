@@ -1,22 +1,26 @@
 {
-    "zh": {
-      "domain_tips": "您也可以通过以下链接进入官网:",
-      "show_choose": "一周内不再显示"
-    },
-    "en": {
-       "domain_tips": "You may also enter our website by clicking the link below:",
-       "show_choose": "Don't show again within a week"
-    },
-    "ja": {
-       "domain_tips": "次のリンクから公式ウェブサイトに入ることもできます:",
-       "show_choose": "一週間以内に提示しない"
-    },
-    "ko": {
-       "domain_tips": "아래 링크를 통해서도 홈페이지 방문 가능:",
-       "show_choose": "일주일간 보지 않기"
-    },
-    "zh-Hant": {
-       "domain_tips": "您也可以通過以下鏈接進入官網:",
-       "show_choose": "壹周內不再顯示"
-    }
-  }
+	"zh": {
+		"domain_tips": "您也可以通过以下链接进入官网:",
+		"show_choose": "一周内不再显示"
+	},
+	"en": {
+		"domain_tips": "You may also enter our website by clicking the link below:",
+		"show_choose": "Don't show again within a week"
+	},
+	"ja": {
+		"domain_tips": "次のリンクから公式ウェブサイトに入ることもできます:",
+		"show_choose": "一週間以内に提示しない"
+	},
+	"ko": {
+		"domain_tips": "아래 링크를 통해서도 홈페이지 방문 가능:",
+		"show_choose": "일주일간 보지 않기"
+	},
+	"zh-Hant": {
+		"domain_tips": "您也可以通過以下鏈接進入官網:",
+		"show_choose": "壹周內不再顯示"
+	},
+	"vi": {
+		"domain_tips": "您也可以通过以下链接进入官网:",
+		"show_choose": "一周内不再显示"
+	}
+}

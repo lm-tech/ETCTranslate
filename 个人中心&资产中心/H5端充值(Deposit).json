@@ -57,7 +57,7 @@
     "error_currency": "Address error",
     "error_messages_networks": "Network error",
     "currency_statement": "Token Disclaimer",
-    "code_save": "保存二维码"
+    "code_save": "Save QR code"
   },
   "ko": {
     "deposit_address_title": "{currency} 코인 입금 주소",
@@ -87,7 +87,7 @@
     "error_currency": "주소가 틀렸습니다.",
     "error_messages_networks": "인터넷 오류가  발생하였습니다.",
     "currency_statement": "암호화폐 면책조항",
-    "code_save": "保存二维码"
+    "code_save": "QR코드 저장"
   },
   "ja": {
     "deposit_address_title": "{currency} ウオレットアドレス",
@@ -117,7 +117,7 @@
     "error_currency": "アドレスが間違っている",
     "error_messages_networks": "ネットワークエラー",
     "currency_statement": "重要な声明",
-    "code_save": "保存二维码"
+    "code_save": "QRコードを保存"
   },
   "ru": {
     "deposit_address_title": "{currency} Адрес перезарядки：",
@@ -205,6 +205,6 @@
     "error_currency": "地址錯誤",
     "error_messages_networks": "網絡錯誤",
     "currency_statement": "幣種聲明",
-    "code_save": "保存二维码"
+    "code_save": "保存二維碼"
   }
 }

@@ -39,7 +39,7 @@
     "pc_input_new_email": "Please enter new Email address",
     "input_old_vcode": "Please enter the old verification code",
     "input_new_vcode": "Please enter the new verification code",
-    "old_email": "邮箱:"
+    "old_email": "Email:"
   },
   "ko": {
     "change_email_form_validate_empty_email": "이메일을 입력해주세요",
@@ -60,7 +60,7 @@
     "pc_input_new_email": "새로운 이메일 주소를 입력해주세요",
     "input_old_vcode": "기존 이메일 인증코드를 입력해주세요",
     "input_new_vcode": "새 이메일 인증코드를 입력해주세요",
-    "old_email": "邮箱:"
+    "old_email": "이메일:"
   },
   "ja": {
     "change_email_form_validate_empty_email": "メールアドレスを入力してください",
@@ -81,7 +81,7 @@
     "pc_input_new_email": "新しいメールアドレスをご記入ください",
     "input_old_vcode": "メールの元検証コードを入力してください",
     "input_new_vcode": "メールの新検証コードを入力してください",
-    "old_email": "邮箱:"
+    "old_email": "Eメール:"
   },
   "zh-Hant": {
     "change_email_form_validate_empty_email": "請輸入郵箱",
@@ -102,6 +102,6 @@
     "pc_input_new_email": "請輸入新郵箱地址",
     "input_old_vcode": "請輸入原郵箱驗證碼",
     "input_new_vcode": "請輸入新郵箱驗證碼",
-    "old_email": "邮箱:"
+    "old_email": "郵箱:"
   }
 }

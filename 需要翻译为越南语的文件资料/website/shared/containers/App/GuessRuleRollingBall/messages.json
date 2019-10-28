@@ -1,72 +1,72 @@
 {
-  "zh": {
-    "content_title_detail": "滚球",
-    "detail_big_title": "滚球",
-    "detail_big_title1": "滚球预测是指对正在进行比赛进行预测。投币单会在赛事进行期间继续收订单并且在关盘后停止收单。",
-    "detail_paragraph_one": "以下是针对现场投币类别所制订的通用规则：",
-    "detail_paragraph_one1": "1、所有的盘口都将根据全场赛果计算。",
-    "detail_paragraph_one2": "2、平台有全权决定盘口。在赛事进行中，不能保证连续时间都有盘口提供。",
-    "detail_paragraph_one3": "3、投币在明显错误盘口的预测，平台保留取消权。",
-    "detail_paragraph_one4": "4、除此之外，现场投币单的受理将依据平台对于该种赛事现场投币所制订的规则执行。"
-  },
-  "en": {
-    "content_title_detail": "In-play Prediction",
-    "detail_big_title": "In-play Prediction",
-    "detail_big_title1": "In-play prediction means predicting on an event that is in progress. Prediction orders are continuously accepted during the event until the prediction closes.",
-    "detail_paragraph_one": "The followings are general rules for in-play predictions：",
-    "detail_paragraph_one1": "1. All predictions will be determined on full-time results of the events.",
-    "detail_paragraph_one2": "2. Coingame has full discretion over the availability of predictions. There is no guarantee of continuous availability during the event.",
-    "detail_paragraph_one3": "3. Coingame reserves the right to cancel prediction orders with obviously wrong multiples.",
-    "detail_paragraph_one4": "4. In addition, in-play orders will be accepted according to the rules made by Coingame for any certain type of event."
-  },
-  "ko": {
-    "content_title_detail": "실시간 게임 규칙",
-    "detail_big_title": "실시간 게임 규칙",
-    "detail_big_title1": "실시간 게임은 현재 진행 중인 경기의 결과를 예측하는 베팅 방식입니다. 경기 진행 중에도 지속적으로 베팅 신청이 가능합니다.",
-    "detail_paragraph_one": "다음은 모든 실시간 게임 종류에 해당하는 통용 규칙입니다.",
-    "detail_paragraph_one1": "1. 모든 베팅은 최종 경기 결과에 따라 정산됩니다.",
-    "detail_paragraph_one2": "2. 플랫폼은 베팅 세부 사항을 결정할 권한이 있으며 경기 진행 중에 항상 베팅 항목이 제공된다고 보장할 수는 없습니다.",
-    "detail_paragraph_one3": "3. 명확한 오류가 있는 베팅 항목에 베팅한 경우 플랫폼은 해당 베팅을 취소할 권한이 있습니다.",
-    "detail_paragraph_one4": "4. 그 외에도 실시간 게임 관련 처리는 플랫폼이 해당 경기의 실시간 게임에 대해 제정한 규칙에 따라 진행됩니다."
-  },
-  "ja": {
-    "content_title_detail": "インプレイベッティングベッティングルール",
-    "detail_big_title": "インプレイベッティングベッティングルール",
-    "detail_big_title1": "ローリングボール予測は、進行中のゲームの予測を指します。 ベット伝票は、イベントの間、注文を受け取り続け、終了後に注文を停止します。",
-    "detail_paragraph_one": "下記はライブカテゴリーのイベントに適用される全般的なルールです：",
-    "detail_paragraph_one1": "1、 全てのライブラインは完了した試合の得点です。",
-    "detail_paragraph_one2": "2、ラインはラインメーカーの裁量で提供されます。当社は試合において、如何なる要素も保証致しません。",
-    "detail_paragraph_one3": "3、Coingameはラインが明確な間違いのある、どの様な賭けもキャンセルする権利を保有します。",
-    "detail_paragraph_one4": "4、更に、ライブベッティング賭けはそのスポーツの為に、Coingameにより指定されたライブベッティング賭け規則に従って決定されます。"
-  },
-  "ru": {
-    "content_title_detail": "滚球",
-    "detail_big_title": "滚球",
-    "detail_big_title1": "滚球预测是指对正在进行比赛进行预测。投币单会在赛事进行期间继续收订单并且在关盘后停止收单。",
-    "detail_paragraph_one": "以下是针对现场投币类别所制订的通用规则：",
-    "detail_paragraph_one1": "1、所有的盘口都将根据全场赛果计算。",
-    "detail_paragraph_one2": "2、平台有全权决定盘口。在赛事进行中，不能保证连续时间都有盘口提供。",
-    "detail_paragraph_one3": "3、投币在明显错误盘口的预测，平台保留取消权。",
-    "detail_paragraph_one4": "4、除此之外，现场投币单的受理将依据平台对于该种赛事现场投币所制订的规则执行。"
-  },
-  "vi": {
-    "content_title_detail": "滚球",
-    "detail_big_title": "滚球",
-    "detail_big_title1": "滚球预测是指对正在进行比赛进行预测。投币单会在赛事进行期间继续收订单并且在关盘后停止收单。",
-    "detail_paragraph_one": "以下是针对现场投币类别所制订的通用规则：",
-    "detail_paragraph_one1": "1、所有的盘口都将根据全场赛果计算。",
-    "detail_paragraph_one2": "2、平台有全权决定盘口。在赛事进行中，不能保证连续时间都有盘口提供。",
-    "detail_paragraph_one3": "3、投币在明显错误盘口的预测，平台保留取消权。",
-    "detail_paragraph_one4": "4、除此之外，现场投币单的受理将依据平台对于该种赛事现场投币所制订的规则执行。"
-  },
-  "zh-Hant": {
-    "content_title_detail": "滾球",
-    "detail_big_title": "滾球",
-    "detail_big_title1": "滾球預測是指對正在進行比賽進行預測。投幣單會在賽事進行期間繼續收訂單並且在關盤後停止收單。",
-    "detail_paragraph_one": "以下是針對現場投幣類別所制訂的通用規則：",
-    "detail_paragraph_one1": "1、所有的盤口都將根據全場賽果計算。",
-    "detail_paragraph_one2": "2、平臺有全權決定盤口。在賽事進行中，不能保證連續時間都有盤口提供。",
-    "detail_paragraph_one3": "3、投幣在明顯錯誤盤口的預測，平臺保留取消權。",
-    "detail_paragraph_one4": "4、除此之外，現場投幣單的受理將依據平臺對於該種賽事現場投幣所制訂的規則執行。"
-  }
+	"zh": {
+		"content_title_detail": "滚球",
+		"detail_big_title": "滚球",
+		"detail_big_title1": "滚球预测是指对正在进行比赛进行预测。投币单会在赛事进行期间继续收订单并且在关盘后停止收单。",
+		"detail_paragraph_one": "以下是针对现场投币类别所制订的通用规则：",
+		"detail_paragraph_one1": "1、所有的盘口都将根据全场赛果计算。",
+		"detail_paragraph_one2": "2、平台有全权决定盘口。在赛事进行中，不能保证连续时间都有盘口提供。",
+		"detail_paragraph_one3": "3、投币在明显错误盘口的预测，平台保留取消权。",
+		"detail_paragraph_one4": "4、除此之外，现场投币单的受理将依据平台对于该种赛事现场投币所制订的规则执行。"
+	},
+	"en": {
+		"content_title_detail": "In-play Prediction",
+		"detail_big_title": "In-play Prediction",
+		"detail_big_title1": "In-play prediction means predicting on an event that is in progress. Prediction orders are continuously accepted during the event until the prediction closes.",
+		"detail_paragraph_one": "The followings are general rules for in-play predictions：",
+		"detail_paragraph_one1": "1. All predictions will be determined on full-time results of the events.",
+		"detail_paragraph_one2": "2. Coingame has full discretion over the availability of predictions. There is no guarantee of continuous availability during the event.",
+		"detail_paragraph_one3": "3. Coingame reserves the right to cancel prediction orders with obviously wrong multiples.",
+		"detail_paragraph_one4": "4. In addition, in-play orders will be accepted according to the rules made by Coingame for any certain type of event."
+	},
+	"ko": {
+		"content_title_detail": "실시간 게임 규칙",
+		"detail_big_title": "실시간 게임 규칙",
+		"detail_big_title1": "실시간 게임은 현재 진행 중인 경기의 결과를 예측하는 베팅 방식입니다. 경기 진행 중에도 지속적으로 베팅 신청이 가능합니다.",
+		"detail_paragraph_one": "다음은 모든 실시간 게임 종류에 해당하는 통용 규칙입니다.",
+		"detail_paragraph_one1": "1. 모든 베팅은 최종 경기 결과에 따라 정산됩니다.",
+		"detail_paragraph_one2": "2. 플랫폼은 베팅 세부 사항을 결정할 권한이 있으며 경기 진행 중에 항상 베팅 항목이 제공된다고 보장할 수는 없습니다.",
+		"detail_paragraph_one3": "3. 명확한 오류가 있는 베팅 항목에 베팅한 경우 플랫폼은 해당 베팅을 취소할 권한이 있습니다.",
+		"detail_paragraph_one4": "4. 그 외에도 실시간 게임 관련 처리는 플랫폼이 해당 경기의 실시간 게임에 대해 제정한 규칙에 따라 진행됩니다."
+	},
+	"ja": {
+		"content_title_detail": "インプレイベッティングベッティングルール",
+		"detail_big_title": "インプレイベッティングベッティングルール",
+		"detail_big_title1": "ローリングボール予測は、進行中のゲームの予測を指します。 ベット伝票は、イベントの間、注文を受け取り続け、終了後に注文を停止します。",
+		"detail_paragraph_one": "下記はライブカテゴリーのイベントに適用される全般的なルールです：",
+		"detail_paragraph_one1": "1、 全てのライブラインは完了した試合の得点です。",
+		"detail_paragraph_one2": "2、ラインはラインメーカーの裁量で提供されます。当社は試合において、如何なる要素も保証致しません。",
+		"detail_paragraph_one3": "3、Coingameはラインが明確な間違いのある、どの様な賭けもキャンセルする権利を保有します。",
+		"detail_paragraph_one4": "4、更に、ライブベッティング賭けはそのスポーツの為に、Coingameにより指定されたライブベッティング賭け規則に従って決定されます。"
+	},
+	"ru": {
+		"content_title_detail": "滚球",
+		"detail_big_title": "滚球",
+		"detail_big_title1": "滚球预测是指对正在进行比赛进行预测。投币单会在赛事进行期间继续收订单并且在关盘后停止收单。",
+		"detail_paragraph_one": "以下是针对现场投币类别所制订的通用规则：",
+		"detail_paragraph_one1": "1、所有的盘口都将根据全场赛果计算。",
+		"detail_paragraph_one2": "2、平台有全权决定盘口。在赛事进行中，不能保证连续时间都有盘口提供。",
+		"detail_paragraph_one3": "3、投币在明显错误盘口的预测，平台保留取消权。",
+		"detail_paragraph_one4": "4、除此之外，现场投币单的受理将依据平台对于该种赛事现场投币所制订的规则执行。"
+	},
+	"vi": {
+		"content_title_detail": "滚球",
+		"detail_big_title": "滚球",
+		"detail_big_title1": "滚球预测是指对正在进行比赛进行预测。投币单会在赛事进行期间继续收订单并且在关盘后停止收单。",
+		"detail_paragraph_one": "以下是针对现场投币类别所制订的通用规则：",
+		"detail_paragraph_one1": "1、所有的盘口都将根据全场赛果计算。",
+		"detail_paragraph_one2": "2、平台有全权决定盘口。在赛事进行中，不能保证连续时间都有盘口提供。",
+		"detail_paragraph_one3": "3、投币在明显错误盘口的预测，平台保留取消权。",
+		"detail_paragraph_one4": "4、除此之外，现场投币单的受理将依据平台对于该种赛事现场投币所制订的规则执行。"
+	},
+	"zh-Hant": {
+		"content_title_detail": "滾球",
+		"detail_big_title": "滾球",
+		"detail_big_title1": "滾球預測是指對正在進行比賽進行預測。投幣單會在賽事進行期間繼續收訂單並且在關盤後停止收單。",
+		"detail_paragraph_one": "以下是針對現場投幣類別所制訂的通用規則：",
+		"detail_paragraph_one1": "1、所有的盤口都將根據全場賽果計算。",
+		"detail_paragraph_one2": "2、平臺有全權決定盤口。在賽事進行中，不能保證連續時間都有盤口提供。",
+		"detail_paragraph_one3": "3、投幣在明顯錯誤盤口的預測，平臺保留取消權。",
+		"detail_paragraph_one4": "4、除此之外，現場投幣單的受理將依據平臺對於該種賽事現場投幣所制訂的規則執行。"
+	}
 }

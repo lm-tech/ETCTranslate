@@ -39,7 +39,7 @@
     "smart_member": "Smart Contract",
     "server_center": "Customer Service",
     "server_play": "Tutorials",
-    "cancel_set": "暂不设置"
+    "cancel_set": "Later"
   },
   "ja": {
     "header_title_guide": "初心者ブックガイド",
@@ -60,7 +60,7 @@
     "smart_member": "直接ベット",
     "server_center": "カスタマーサービス",
     "server_play": "プレイガイド",
-    "cancel_set": "暂不设置"
+    "cancel_set": "まだ設定しません"
   },
   "ko": {
     "header_title_guide": "신규회원 가이드",
@@ -81,7 +81,7 @@
     "smart_member": "Smart Contract",
     "server_center": "고객 서비스",
     "server_play": "이용 안내",
-    "cancel_set": "暂不设置"
+    "cancel_set": "다음에 설정하기"
   },
   "ru": {
     "header_title_guide": "Руководство для начинающих ",
@@ -114,7 +114,7 @@
     "language_android": "Android App",
     "save": "保存",
     "search_place": "请输入队伍或联赛名"
-  },
+},
   "zh-Hant": {
     "header_title_guide": "新手引導",
     "header_all_forecast_history": "全網預測歷史",
@@ -134,6 +134,6 @@
     "smart_member": "合約投幣",
     "server_center": "客服中心",
     "server_play": "玩法指南",
-    "cancel_set": "暂不设置"
+    "cancel_set": "暫不設置"
   }
 }

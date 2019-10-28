@@ -1,23 +1,23 @@
 {
-  "zh": {
-    "bet_record_title": "投币记录"
-  },
-  "en": {
-    "bet_record_title": "Forecast History"
-  },
-  "ko": {
-    "bet_record_title": "베팅기록"
-  },
-  "ja": {
-    "bet_record_title": "‐ベッティング記録"
-  },
-  "ru": {
-    "bet_record_title": "投币记录"
-  },
-  "vi": {
-    "bet_record_title": "投币记录"
-  },
-  "zh-Hant": {
-    "bet_record_title": "投币記錄"
-  }
+	"zh": {
+		"bet_record_title": "投币记录"
+	},
+	"en": {
+		"bet_record_title": "Forecast History"
+	},
+	"ko": {
+		"bet_record_title": "베팅기록"
+	},
+	"ja": {
+		"bet_record_title": "‐ベッティング記録"
+	},
+	"ru": {
+		"bet_record_title": "投币记录"
+	},
+	"vi": {
+		"bet_record_title": "投币记录"
+	},
+	"zh-Hant": {
+		"bet_record_title": "投币記錄"
+	}
 }

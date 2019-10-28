@@ -9,39 +9,39 @@
     "error_only_one":"至少保留一种验证方式"
   },
   "en": {
-    "email_verify_title":"关闭邮箱验证",
-    "google_verify_title":"关闭谷歌验证",
-    "button_confirm":"确认",
-    "email_label":"邮箱账号",
-    "vcode_label":"验证码",
+    "email_verify_title":"Disable Email Authentication",
+    "google_verify_title":"Disable Google Authenticator",
+    "button_confirm":"OK",
+    "email_label":"Email",
+    "vcode_label":"Verification Code",
     "input_send_success": "Sent. Please review.",
-    "error_only_one":"验证至少保留一种"
+    "error_only_one":"At least one authentication method is required"
   },
   "ko": {
-    "email_verify_title":"关闭邮箱验证",
-    "google_verify_title":"关闭谷歌验证",
-    "button_confirm":"确认",
-    "email_label":"邮箱账号",
-    "vcode_label":"验证码",
+    "email_verify_title":"이메일 인증 비활성화",
+    "google_verify_title":"구글 인증 비활성화",
+    "button_confirm":"확인",
+    "email_label":"계정 이메일",
+    "vcode_label":"인증번호",
     "input_send_success": "이메일을 발송하였습니다. 확인해주세요.",
-    "error_only_one":"验证至少保留一种"
+    "error_only_one":"최소 1가지 2차 보안 인증 활성화 필요"
   },
   "ja": {
-    "email_verify_title":"关闭邮箱验证",
-    "google_verify_title":"关闭谷歌验证",
-    "button_confirm":"确认",
-    "email_label":"邮箱账号",
-    "vcode_label":"验证码",
+    "email_verify_title":"メールアドレス認証をオフにする",
+    "google_verify_title":"Google認証をオフにする",
+    "button_confirm":"決定する",
+    "email_label":"メールアカウント",
+    "vcode_label":"認証コード",
     "input_send_success": "送信成功、ご確認ください",
-    "error_only_one":"验证至少保留一种"
+    "error_only_one":"少なくとも1つの認証方法を保持する"
   },
   "zh-Hant": {
-    "email_verify_title":"关闭邮箱验证",
-    "google_verify_title":"关闭谷歌验证",
-    "button_confirm":"确认",
-    "email_label":"邮箱账号",
-    "vcode_label":"验证码",
+    "email_verify_title":"關閉郵箱驗證",
+    "google_verify_title":"關閉谷歌驗證",
+    "button_confirm":"確認",
+    "email_label":"郵箱賬號",
+    "vcode_label":"驗證碼",
     "input_send_success": "發送成功，請查收",
-    "error_only_one":"验证至少保留一种"
+    "error_only_one":"驗證至少保留壹種"
   }
 }

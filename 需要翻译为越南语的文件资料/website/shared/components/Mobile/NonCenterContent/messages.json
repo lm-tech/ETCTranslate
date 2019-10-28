@@ -1,44 +1,44 @@
 {
-  "zh": {
-    "content_title_word_cup": "足球",
-    "content_title_number_coin": "数字货币",
-    "content_title_detail": "预测细则",
-    "content_title_guide": "新手引导"
-  },
-  "en": {
-    "content_title_word_cup": "Soccer",
-    "content_title_number_coin": "Cryptocurrency",
-    "content_title_detail": "Game Rule",
-    "content_title_guide": "Beginner's Guide"
-  },
-  "ja": {
-    "content_title_word_cup": "サッカー",
-    "content_title_number_coin": "デジタル通貨",
-    "content_title_detail": "悬赏クイズの細かいルール",
-    "content_title_guide": "初心者ブックガイド"
-  },
-  "ko": {
-    "content_title_word_cup": "축구",
-    "content_title_number_coin": "디지털 화폐",
-    "content_title_detail": "예측 규칙",
-    "content_title_guide": "신규회원 가이드"
-  },
-  "ru": {
-    "content_title_word_cup": "Футбол",
-    "content_title_number_coin": "Цифровая валюта",
-    "content_title_detail": "Правила прогноза",
-    "content_title_guide": "Руководство для начинающих "
-  },
-  "vi": {
-    "content_title_word_cup": "word_cup",
-    "content_title_number_coin": "Chữ số tiền tệ",
-    "content_title_detail": "Chi tiết thi đố",
-    "content_title_guide": "Hướng dẫn người mới"
-  },
-  "zh-Hant": {
-    "content_title_word_cup": "足球",
-    "content_title_number_coin": "數字貨幣",
-    "content_title_detail": "競猜細則",
-    "content_title_guide": "新手引導"
-  }
+	"zh": {
+		"content_title_word_cup": "足球",
+		"content_title_number_coin": "数字货币",
+		"content_title_detail": "预测细则",
+		"content_title_guide": "新手引导"
+	},
+	"en": {
+		"content_title_word_cup": "Soccer",
+		"content_title_number_coin": "Cryptocurrency",
+		"content_title_detail": "Game Rule",
+		"content_title_guide": "Beginner's Guide"
+	},
+	"ja": {
+		"content_title_word_cup": "サッカー",
+		"content_title_number_coin": "デジタル通貨",
+		"content_title_detail": "悬赏クイズの細かいルール",
+		"content_title_guide": "初心者ブックガイド"
+	},
+	"ko": {
+		"content_title_word_cup": "축구",
+		"content_title_number_coin": "디지털 화폐",
+		"content_title_detail": "예측 규칙",
+		"content_title_guide": "신규회원 가이드"
+	},
+	"ru": {
+		"content_title_word_cup": "Футбол",
+		"content_title_number_coin": "Цифровая валюта",
+		"content_title_detail": "Правила прогноза",
+		"content_title_guide": "Руководство для начинающих "
+	},
+	"vi": {
+		"content_title_word_cup": "足球",
+		"content_title_number_coin": "数字货币",
+		"content_title_detail": "预测细则",
+		"content_title_guide": "新手引导"
+	},
+	"zh-Hant": {
+		"content_title_word_cup": "足球",
+		"content_title_number_coin": "數字貨幣",
+		"content_title_detail": "競猜細則",
+		"content_title_guide": "新手引導"
+	}
 }

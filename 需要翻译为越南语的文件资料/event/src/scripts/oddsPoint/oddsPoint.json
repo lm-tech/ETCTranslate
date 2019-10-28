@@ -622,5 +622,128 @@
       "活動將於",
       "開始"
     ]
-  }
+  },
+  "vi": {
+    "title": "BXH điểm cao",
+    "rankingUpdate": "Cập nhật BXH",
+    "dataUpdate": "Cập nhật dữ liệu",
+    "thead": [
+      "Username",
+      "Nhiều điểm"
+    ],
+    "period": "Vòng",
+    "curr": "Hiện tại",
+    "userRankinList": {
+      "title": [
+        "Thứ hạng",
+        "Dữ liệu chi tiết"
+      ],
+      "currTitle": "Dữ liệu thực của vòng này",
+      "betTotal": "Tổng đơn hàng hiện tại",
+      "validBetTotal": "Số đơn hàng hiệu quả",
+      "oddPoint": "Số điểm của bạn",
+      "rank": "Xếp hạng của bạn",
+      "isOnRank": "(Không có trong BXH)"
+    },
+    "isJoin": [
+      "Đã tham gia",
+      "Lập tức tham gia"
+    ],
+    "joinAndLook": "Tham gia ngay để kiểm tra xem thứ hạng của bạn",
+    "loginAndLook": "Đăng nhập ngay để xem thứ hạng của bạn",
+    "winWarn": "Những bất ngờ trong BXH và sẽ giành được những phần thưởng cho người chiến thắng",
+    "winCont": [
+      "Vẫn cần「Thắng liên tiếp",
+      "Vòng」thắng liên tiếp「trong 4 vòng chơi」"
+    ],
+    "winWarnGet": [
+      "Bạn có",
+      "Tiền thưởng có sẵn có thể nhận liền"
+    ],
+    "noUser": "Đang chờ người tham gia",
+    "joinAndApplyWarn": "Nhanh chóng tham gia sự kiện，để liên tiếp nhận được phần thưởng",
+    "loginBtnWin": "Đăng nhập ngay，Để xem bxh thắng liển tiếp",
+    "goToWinReward": "Tham gia ngay，Để nhận được phần thưởng liên tiếp",
+    "endActivityWarn": "Thời gian sự kiện đã kết thúc，vui lòng chờ đợi sự kiện tiếp theo",
+    "confirmEndBtn": "Xác nhận",
+    "roles": {
+      "schedule": "Phụ lục",
+      "rule1": "Thời gian sự kiện diễn ra：",
+      "rule1_1": "3.6.2019 00:00:00 - 9.6.2019 23:59:59（UTC/GMT8）",
+      "rule2": "Vui lòng tham gia ngay để nhận「 Nhiều điểm 」. Người chơi sẽ thi được nhiều điểm và xếp hạng từ cao hơn đến thấp hơn. 10 người chơi xếp hạng top 10 của mỗi vòng sẽ được thưởng。",
+      "rule3": "Quy cách tính điểm：",
+      "rule3_1": "Phương thức tính điểm = (Tổng của mỗi đơn hàng Nhiều lần - Đơn hàng hiệu quả) × (1 + Đơn hàng hiệu quả × 0,02)。",
+      "rule41": "Phương thức tính đơn hàng nhiều：",
+      "rule41_1": "Nếu bội số ≤ 5, phương pháp tính toán sẽ theo bội số thực tế, nếu bội số> 5, phương pháp tính toán sẽ dựa trên nhiều điểm bằng 5",
+      "rule41_2": "（chẳng hạn như bội số dự đoán của người dùng là 11,7, nhiều điểm bằng 5).",
+      "rule4": "Phương pháp tính toán các đơn đặt hàng hiệu quả: Bất kỳ đơn hàng nào cũng được yêu cầu để đạt được số tiền dự đoán nhất định bằng loại tiền được sử dụng để được tính là một đơn hàng hiệu quả. Vui lòng tham khảo Phụ lục 1 để biết thêm chi tiết。",
+      "rule4_1_1": "（1）Đơn đặt hàng với các loại trò chơi khác nhau trong một trò chơi có thể được tính là",
+      "rule4_1_1_1": "nhiều đơn hàng hiệu quả；",
+      "rule4_1_2": "（2） trong khi các đơn hàng có cùng loại trò chơi trong một trò chơi sẽ được tính",
+      "rule4_1_2_1": "chỉ một lần (đơn hàng đầu tiên)；",
+      "rule4_2": [
+        "ETC",
+        "ETH",
+        "BTC",
+        "EOS",
+        "USDT",
+        "XRP",
+        "BCH",
+        "LTC",
+        "QTUM",
+        "TRX",
+        "NULS",
+        "SWTC",
+        "HPB",
+        "ULAM",
+        "GQ",
+        "CZT",
+        "GECT"
+      ],
+      "rule4_3": [
+        "5",
+        "0.2",
+        "0.01",
+        "5",
+        "30",
+        "80",
+        "0.1",
+        "0.5",
+        "10",
+        "1000",
+        "30",
+        "25000",
+        "60",
+        "1000",
+        "35000",
+        "50",
+        "350"
+      ],
+      "rule5": "Quy tắc nhận thưởng：",
+      "rule5_1": "（1） Danh sách xếp hạng sẽ bị khóa vào cuối vòng hiện tại và phần thưởng sẽ được phát  theo danh sách. Vui lòng xem Phụ lục 2 để biết chi tiết；",
+      "rule5_2": "（2）Phần thưởng sẽ được gửi đến Trung tâm tài sản của bạn trong vòng 72 giờ sau khi kết thúc sự kiện；",
+      "rule5_2_3": "（3）Phần thưởng sự kiện có thể được sử dụng để dự đoán. Nó sẽ có sẵn để rút tiền sau khi được sử dụng trong các dự đoán.；",
+      "rule5_3": [
+        "BXH",
+        "TOP 1",
+        "TOP 2",
+        "TOP 3",
+        "TOP 4 đến TOP 10"
+      ],
+      "rule5_4": [
+        "giải thưởng",
+        "100 USDT",
+        "50 USDT",
+        "30 USDT",
+        "10 USDT"
+      ],
+      "rule6": "Coingame bảo lưu quyền  giải thích cuối cùng sau khi sự kiện kết thúc.",
+      "rule7": "Kênh khách hàng nhanh",
+    "startTip": "Sự kiện chưa bắt đầu , vui lòng chờ đợi",
+    "endTip": "Sự kiện đã kết thúc，Xin vui lòng đợi",
+    "start": [
+      "Sự kiện sẽ",
+      "Bắt đầu"
+    ]
+  },
 }

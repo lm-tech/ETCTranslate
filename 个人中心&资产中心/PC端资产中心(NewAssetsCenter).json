@@ -28,7 +28,7 @@
     "assets_center_go_to_nofrozen_balance": "Check available assets",
     "assets_center_portable_assets": "Withdrawable assets",
     "assets_center_cannot_portable_assets": "Non-withdrawable assets",
-    "assets_center_fronzen_assets": "Frozen assets",
+    "assets_center_fronzen_assets": "Locked assets",
     "assets_center_portable_assets_hover": "Current withdrawable assets",
     "assets_center_cannot_portable_assets_hover": "Assets gained in the event can be withdrawn once any prediction has been placed.",
     "assets_center_fronzen_assets_hover": "Prediction in transit, Funds in transit, In process"

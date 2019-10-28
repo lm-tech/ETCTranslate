@@ -5,23 +5,23 @@
     "email_verify":"邮箱验证"
   },
   "en": {
-    "edit_google_verify_title":"修改谷歌验证",
-    "bind_google":"绑定谷歌",
-    "email_verify":"邮箱验证"
+    "edit_google_verify_title":"Change Google Authenticator",
+    "bind_google":"Enable Google Authenticator",
+    "email_verify":"Email Authentication"
   },
   "ko": {
-    "edit_google_verify_title":"修改谷歌验证",
-    "bind_google":"绑定谷歌",
-    "email_verify":"邮箱验证"
+    "edit_google_verify_title":"구글 OTP 변경",
+    "bind_google":"구글 연동",
+    "email_verify":"이메일 인증"
   },
   "ja": {
-    "edit_google_verify_title":"修改谷歌验证",
-    "bind_google":"绑定谷歌",
-    "email_verify":"邮箱验证"
+    "edit_google_verify_title":"Google認証を変更する",
+    "bind_google":"Google連携",
+    "email_verify":"メールアドレス認証"
   },
   "zh-Hant": {
-    "edit_google_verify_title":"修改谷歌验证",
-    "bind_google":"绑定谷歌",
-    "email_verify":"邮箱验证"
+    "edit_google_verify_title":"修改谷歌驗證",
+    "bind_google":"綁定谷歌",
+    "email_verify":"郵箱驗證"
   }
 }

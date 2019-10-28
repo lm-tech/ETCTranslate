@@ -1,51 +1,51 @@
 {
-  "zh": {
-    "login_tip": "登录后使用投币功能",
-    "contact_tip": "非会员直接投币",
-    "click_tip": "请点击这里",
-    "refuse": "再看看",
-    "login": "登录"
-  },
-  "en": {
-    "login_tip": "Login and use the prediction function",
-    "contact_tip": "Non-member direct prediction",
-    "click_tip": "Click here",
-    "refuse": "Not now",
-    "login": "Login"
-  },
-  "ja": {
-    "login_tip": "ログインして、ベッティング機能をご利用ください。",
-    "contact_tip": "非会員向け",
-    "click_tip": "クリック",
-    "refuse": "考慮する",
-    "login": "ログイン"
-  },
-  "ko": {
-    "login_tip": "로그인 후 베팅하세요",
-    "contact_tip": "비회원일 경우 직접 베팅하세요",
-    "click_tip": "여기를 클릭하세요",
-    "refuse": "더보기",
-    "login": "로그인"
-  },
-  "ru": {
-    "login_tip": "Login and use the prediction function",
-    "contact_tip": "Non-member direct prediction",
-    "click_tip": "Click here",
-    "refuse": "Not now",
-    "login": "Login"
-  },
-  "vi": {
-    "login_tip": "Login and use the prediction function",
-    "contact_tip": "Non-member direct prediction",
-    "click_tip": "Click here",
-    "refuse": "Not now",
-    "login": "Login"
-  },
-  "zh-Hant": {
-    "login_tip": "登錄後使用投币功能",
-    "contact_tip": "非會員直接投币",
-    "click_tip": "請點擊這裡",
-    "refuse": "再看看",
-    "login": "登錄"
-  }
+	"zh": {
+		"login_tip": "登录后使用投币功能",
+		"contact_tip": "非会员直接投币",
+		"click_tip": "请点击这里",
+		"refuse": "再看看",
+		"login": "登录"
+	},
+	"en": {
+		"login_tip": "Login and use the prediction function",
+		"contact_tip": "Non-member direct prediction",
+		"click_tip": "Click here",
+		"refuse": "Not now",
+		"login": "Login"
+	},
+	"ja": {
+		"login_tip": "ログインして、ベッティング機能をご利用ください。",
+		"contact_tip": "非会員向け",
+		"click_tip": "クリック",
+		"refuse": "考慮する",
+		"login": "ログイン"
+	},
+	"ko": {
+		"login_tip": "로그인 후 베팅하세요",
+		"contact_tip": "비회원일 경우 직접 베팅하세요",
+		"click_tip": "여기를 클릭하세요",
+		"refuse": "더보기",
+		"login": "로그인"
+	},
+	"ru": {
+		"login_tip": "Login and use the prediction function",
+		"contact_tip": "Non-member direct prediction",
+		"click_tip": "Click here",
+		"refuse": "Not now",
+		"login": "Login"
+	},
+	"vi": {
+		"login_tip": "登录后使用投币功能",
+		"contact_tip": "非会员直接投币",
+		"click_tip": "请点击这里",
+		"refuse": "再看看",
+		"login": "登录"
+	},
+	"zh-Hant": {
+		"login_tip": "登錄後使用投币功能",
+		"contact_tip": "非會員直接投币",
+		"click_tip": "請點擊這裡",
+		"refuse": "再看看",
+		"login": "登錄"
+	}
 }

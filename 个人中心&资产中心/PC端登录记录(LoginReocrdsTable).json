@@ -11,47 +11,47 @@
     "endTime":"结束时间"
   },
   "en": {
-    "login_record_title":"登录记录",
-    "login_record_loginTime": "登录时间",
-    "login_record_loginStyle": "登录方式",
-    "login_record_IPAddress": "IP地址",
-    "login_record_no_data":"暂无数据",
-    "picker_30_days":"最近30天",
-    "picker_7_days":"最近7天",
-    "startTime":"开始时间",
-    "endTime":"结束时间"
+    "login_record_title":"Login Records",
+    "login_record_loginTime": "Login Time",
+    "login_record_loginStyle": "Login Type",
+    "login_record_IPAddress": "IP Address",
+    "login_record_no_data":"No data",
+    "picker_30_days":"Recent 30 days",
+    "picker_7_days":"Recent 7 days",
+    "startTime":"From",
+    "endTime":"To"
   },
   "ko": {
-    "login_record_title":"登录记录",
-    "login_record_loginTime": "登录时间",
-    "login_record_loginStyle": "登录方式",
-    "login_record_IPAddress": "IP地址",
-    "login_record_no_data":"暂无数据",
-    "picker_30_days":"最近30天",
-    "picker_7_days":"最近7天",
-    "startTime":"开始时间",
-    "endTime":"结束时间"
+    "login_record_title":"로그인 기록",
+    "login_record_loginTime": "로그인 시간",
+    "login_record_loginStyle": "로그인 방식",
+    "login_record_IPAddress": "IP 주소",
+    "login_record_no_data":"데이터 없음",
+    "picker_30_days":"최근 30일",
+    "picker_7_days":"최근 7일",
+    "startTime":"시작 시간",
+    "endTime":"종료 시간"
   },
   "ja": {
-    "login_record_title":"登录记录",
-    "login_record_loginTime": "登录时间",
-    "login_record_loginStyle": "登录方式",
-    "login_record_IPAddress": "IP地址",
+    "login_record_title":"ログイン記録",
+    "login_record_loginTime": "ログイン時間",
+    "login_record_loginStyle": "ログイン方法",
+    "login_record_IPAddress": "IPアドレス",
     "login_record_no_data":"暂无数据",
-    "picker_30_days":"最近30天",
-    "picker_7_days":"最近7天",
-    "startTime":"开始时间",
-    "endTime":"结束时间"
+    "picker_30_days":"過去30日間",
+    "picker_7_days":"過去7日間",
+    "startTime":"開始時間",
+    "endTime":"終了時間"
   },
   "zh-Hant": {
-    "login_record_title":"登录记录",
-    "login_record_loginTime": "登录时间",
-    "login_record_loginStyle": "登录方式",
+    "login_record_title":"登錄記錄",
+    "login_record_loginTime": "登錄時間",
+    "login_record_loginStyle": "登錄方式",
     "login_record_IPAddress": "IP地址",
-    "login_record_no_data":"暂无数据",
+    "login_record_no_data":"暫無數據",
     "picker_30_days":"最近30天",
     "picker_7_days":"最近7天",
-    "startTime":"开始时间",
-    "endTime":"结束时间"
+    "startTime":"開始時間",
+    "endTime":"結束時間"
   }
 }

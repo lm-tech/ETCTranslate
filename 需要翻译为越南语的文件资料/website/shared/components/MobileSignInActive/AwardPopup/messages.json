@@ -1,22 +1,26 @@
 {
-  "zh": {
-    "received_1": "恭喜您，已连续签到",
-    "received_2": "天额外获得"
-  },
-  "en": {
-    "received_1": "You have continuously checked in for ",
-    "received_2": " days, receiving"
-  },
-  "ja": {
-    "received_1": "You have continuously checked in for ",
-    "received_2": " days, receiving"
-  },
-  "ko": {
-    "received_1": "축하합니다! ",
-    "received_2": " 일 연속 출석하여 추가 보상 획득"
-  },
-  "zh-Hant": {
-    "received_1": "喜您，已連續簽到",
-    "received_2": "天額外獲得"
-  }
+	"zh": {
+		"received_1": "恭喜您，已连续签到",
+		"received_2": "天额外获得"
+	},
+	"en": {
+		"received_1": "You have continuously checked in for ",
+		"received_2": " days, receiving"
+	},
+	"ja": {
+		"received_1": "You have continuously checked in for ",
+		"received_2": " days, receiving"
+	},
+	"ko": {
+		"received_1": "축하합니다! ",
+		"received_2": " 일 연속 출석하여 추가 보상 획득"
+	},
+	"zh-Hant": {
+		"received_1": "喜您，已連續簽到",
+		"received_2": "天額外獲得"
+	},
+	"vi": {
+		"received_1": "恭喜您，已连续签到",
+		"received_2": "天额外获得"
+	}
 }

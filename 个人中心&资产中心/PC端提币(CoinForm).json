@@ -5,23 +5,23 @@
     "recharge_check_confirm":"二次验证"
   },
   "en": {
-    "recharge_info":"提币信息",
-    "recharge_confirm":"提币确认",
-    "recharge_check_confirm":"二次验证"
+    "recharge_info":"Withdrawal Info",
+    "recharge_confirm":"Confirm Withdrawal",
+    "recharge_check_confirm":"2-Factor Authentication"
   },
   "ko": {
-    "recharge_info":"提币信息",
-    "recharge_confirm":"提币确认",
-    "recharge_check_confirm":"二次验证"
+    "recharge_info":"출금 정보",
+    "recharge_confirm":"출금 확인",
+    "recharge_check_confirm":"2차 인증"
   },
   "ja": {
-    "recharge_info":"提币信息",
-    "recharge_confirm":"提币确认",
-    "recharge_check_confirm":"二次验证"
+    "recharge_info":"コイン引出の情報",
+    "recharge_confirm":"コイン引出の確認",
+    "recharge_check_confirm":"二次認証"
   },
   "zh-Hant": {
-    "recharge_info":"提币信息",
-    "recharge_confirm":"提币确认",
-    "recharge_check_confirm":"二次验证"
+    "recharge_info":"提幣信息",
+    "recharge_confirm":"提幣確認",
+    "recharge_check_confirm":"二次驗證"
   }
 }
