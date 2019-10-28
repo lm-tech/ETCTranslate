@@ -40,12 +40,12 @@
     "google_key_error":"GoogleKey has expired"
   },
   "ko": {
-    "bind_google_step1_tip":"谷歌验证器是一款动态口令工具，工作原理类似短信动态验证。绑定后每30s生成一个动态验证码，验证码可用于登录、提现、修改安全设置等操作的安全验证。",
-    "step1_text":"下载并安装谷歌验证器APP",
-    "step1_1":"1.iOS用户登录App Store搜索“Authenticator”下载。",
-    "step1_2":"2.安卓用户登录应用商店或使用手机浏览器搜索“谷验证器”下载。",
-    "step2_text":"구글 OTP에 보안키와 디바이스를 추가해주세요",
-    "scan_code":"스캔하여 연동하기",
+    "bind_google_step1_tip":"구글 OTP는 동적 비밀번호를 생성하는 APP로 작동 원리는 SMS 인증 방식과 유사합니다. 연동 후 30초마다 새 코드가 생성되며 인증코드는 로그인, 출금, 보안 설정 변경 시 보안인증에 사용됩니다.",
+    "step1_text":"구글 OTP 다운",
+    "step1_1":"1. iOS 사용자는 App Store에 “Authenticator”를 검색하여 다운로드할 수 있습니다.",
+    "step1_2":"2. Android 사용자는 플레이 스토어 혹은 모바일 브라우저에서 “Google Authenticator”를 검색하여 다운로드할 수 있습니다.",
+    "step2_text":"구글 OTP를 통해 보안키를 추가하고 백업하세요.",
+    "scan_code":"구글 OTP 열어 아래의 QR 코드를 스캔하거나 직접 KEY를 입력하여 보안 토큰을 추가하세요",
     "google_copied":"복사 완료",
     "copy":"복사하기",
     "pwd_tip":"보안키는 스마트폰 변경 혹은 분실 시 구글 OTP를 찾는데 사용됩니다. 연동 전 반드시 보안키를 안전하게 백업 및 보관해주세요.",
