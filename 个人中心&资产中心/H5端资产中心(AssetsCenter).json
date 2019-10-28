@@ -129,13 +129,13 @@
     "assets_center_go_to_nofrozen_balance": "查看可用資產",
     "assets_center_portable_assets": "可提：",
     "assets_center_cannot_portable_assets": "不可提：",
-    "assets_center_fronzen_assets": "冻结：",
+    "assets_center_fronzen_assets": "凍結：",
     "assets_center_portable_assets_hover": "當前可提幣資產",
     "assets_center_cannot_portable_assets_hover": "活動免費贈送資產，投註後即可提幣",
-    "assets_center_fronzen_assets_hover": "投币在途資產，獎金在途資產，提幣待審核資產",
-    "assets_history": "历史记录",
-    "vertify_tips": "您的账号安全等级较低，我们强烈建议您前往安全中心，开启Google验证！",
-    "vertify_set": "立即设置",
-    "vertify_cancel": "暂不设置"
+    "assets_center_fronzen_assets_hover": "投幣在途資產，獎金在途資產，提幣待審核資產",
+    "assets_history": "歷史記錄",
+    "vertify_tips": "您的賬號安全等級較低，我們強烈建議您前往安全中心，開啟Google驗證！",
+    "vertify_set": "立即設置",
+    "vertify_cancel": "暫不設置"
   }
 }
