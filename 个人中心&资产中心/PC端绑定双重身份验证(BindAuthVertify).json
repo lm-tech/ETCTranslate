@@ -7,7 +7,7 @@
     "google_bind_tip":"提现安全验证，请绑定谷歌验证器",
     "email_bind_tip":"提现安全验证，请绑定手机",
     "bind":" 已绑定",
-    "no_bind":"未绑定",
+    "no_bind":"绑定",
     "footer_no_bind":"暂不绑定"
   },
   "en": {
@@ -18,7 +18,7 @@
     "google_bind_tip":"Please enable Google Authenticator to complete withdrawal authentication",
     "email_bind_tip":"Please enable SMS Authenticationr to complete withdrawal authentication",
     "bind":" Enabled",
-    "no_bind":"Inactive",
+    "no_bind":"Enable",
     "footer_no_bind":"Not Now"
   },
   "ko": {
@@ -29,7 +29,7 @@
     "google_bind_tip":"출금 보안을 위해 구글 OTP를 연동해주세요",
     "email_bind_tip":"출금 보안을 위해 휴대폰을 연동해주세요",
     "bind":" 연동 완료",
-    "no_bind":"미연동",
+    "no_bind":"연동하기",
     "footer_no_bind":"다음에 설정"
   },
   "ja": {
@@ -40,7 +40,7 @@
     "google_bind_tip":"コイン引出のセキュリティを認証するため、Google認証システム連携をしてください",
     "email_bind_tip":"コイン引出のセキュリティを認証するため、携帯連携をしてください",
     "bind":" 連携済み",
-    "no_bind":"連携なし",
+    "no_bind":"連携",
     "footer_no_bind":"まだ連携しない"
   },
   "zh-Hant": {
