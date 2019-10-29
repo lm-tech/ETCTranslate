@@ -278,7 +278,7 @@
 		"register_error_1": "Tài khoản đã tồn tại",
 		"register_error_2": "Mã xác nhận không chính xác",
 		"register_error_3": "nhập mật khẩu sai quá 5 lần，Tài khoán sẽ khóa 2 tiếng đồng hồ",
-		"register_jump_info": "Tài khoản {thông tin} của bên thứ ba được liên kết với tài khoản bạn đã được nhập và được đăng ký trong Coingame . Chúng tôi khuyên bạn nên đặt mật khẩu đăng nhập để đăng nhập trực tiếp bằng Email và mật khẩu đăng nhập。",
+		"register_jump_info": "Tài khoản {info} của bên thứ ba được liên kết với tài khoản bạn đã được nhập và được đăng ký trong Coingame . Chúng tôi khuyên bạn nên đặt mật khẩu đăng nhập để đăng nhập trực tiếp bằng Email và mật khẩu đăng nhập。",
 		"set_login_password": "Thiết lập mật khẩu đăng nhập",
 		"thirdPartLogin": "Đăng nhập với tài khoản của bên thứ ba",
 		"input_cancel": "Hủy bỏ",
