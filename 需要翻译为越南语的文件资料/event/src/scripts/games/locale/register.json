@@ -242,7 +242,7 @@
 	"vi": {
 		"locale": "zh",
 		"login_forgot_password": "Quên mật khẩu",
-		"email": "Vui lòng nhập Email,
+		"email": "Vui lòng nhập Email",
 		"pwdAgain": "Vui lòng nhập lại mật khẩu đăng nhập",
 		"inviteCode": "Vui lòng nhập mã mời",
 		"inviteCodeOptional": "（Chọn để điền）",
@@ -254,7 +254,7 @@
 		"read4": "《Chính xác bảo mật cá nhân》",
 		"read5": " ",
 		"footer1": "giải trí gấp trăm lần",
-		"footer2": " gấp Nghàn lần lợi ích,
+		"footer2": " gấp Nghàn lần lợi ích",
 		"errorEmail": "Vui lòng nhập mã xác nhận Email",
 		"errorPwd": "Vui lòng nhập 8 đến 32 ký tự bao gồm chữ cái",
 		"pwdMismatch": "Hai lần nhập mật khẩu không nhất quán",
