@@ -191,40 +191,40 @@
   },
   "vi": {
     "thead": [
-      "账户名",
-      "累计投币USDT"
+      "Tên tài khoản",
+      "Dự đóan tích lũy USDT"
     ],
     "myAccount": [
-      "我的账户",
-      "累计投币USDT"
+      "Tài khoản của tôi",
+      "Dự đoán tích lũy USDT"
     ],
-    "noUser": "虚位以待",
+    "noUser": "Đặt chỗ",
     "roles": {
-      "rule0": "活动规则：",
-      "rule1": "1. 活动时间：",
-      "rule01": "2019.5.27 00:00:00-2019.6.2 02:00:00(UTC/GMT8)",
-      "rule2": "2. 此活动适用于平台注册用户。",
-      "rule3": "3. 此活动只限 ",
-      "rule031": "热刺vs利物浦/ 切尔西vs阿森纳 ",
-      "rule032": "的投币单。",
-      "rule4": "4. 平台所有币种的中奖订单均可参与此活动，中奖金额以CoinMarketCap 2019.06.03 10:00（UTC/GMT8）的汇率转化为等值USDT，并计算出加奖金额；活动加奖奖励与投币币种相同，加奖金额无上限。",
-      "rule5": "5. 加奖金额：",
-      "rule6": "6. 奖励发放时间：",
-      "rule7": "活动奖励于",
+      "rule0": "Quy tắc sự kiện：",
+      "rule1": "1. Thời gian hoạt động：",
+      "rule01": "27.5.2019 00:00:00-2.6.2019 02:00:00(UTC/GMT8)",
+      "rule2": "2. Sự kiện này dành cho người dùng đã đăng ký trên nền tảng Coingame của chúng tôi。",
+      "rule3": "3. Sự kiện này được giới hạn trong các đơn đặt hàng dự đoán phía trên ",
+      "rule031": "Tottenham vs Liverpool / Chelsea vs Arsenal ",
+      "rule032": "Đơn đặt hàng của。",
+      "rule4": "4. Bằng tất cả các loại tiền tệ giành được đơn hàng trên  platform của Coingame đều có thể tham gia vào sự kiện này。",
+      "rule5": "5. Tiền bunus：",
+      "rule6": "6. Thời gian bonus：",
+      "rule7": "Phần thuong của sự kiện sẽ được gửi đến Asset center của user",
       "rule071": "2019.06.03 14:00（UTC/GMT8）",
-      "rule072": "发放至用户资产中心。",
-      "rule8": "7. 活动奖励可直接用于投币。",
-      "rule9": "8.  快捷客服通道：",
-      "tab1": "中奖金额（等值USDT）",
-      "tab2": "加奖比例",
-      "tab3": "中奖金额≥300",
-      "fan1": "30≤中奖金额<100",
-      "fan2": "100≤中奖金额<300"
+      "rule072": "Phát đến trung tâm Asset center của user心。",
+      "rule8": "7. Tiền thưởng có thể sử dụng trực tiếp để dự đoán。",
+      "rule9": "8.  Kênh dịch vụ khách hàng nhanh：",
+      "tab1": "Số tiền thưởng（tương đươngcUSDT）",
+      "tab2": "Tỷ lệ tiền thưởng",
+      "tab3": "Số tiền thưởng≥300",
+      "fan1": "30≤Số tiền thưởng<100",
+      "fan2": "100≤Số tiền thưởng<300"
     },
-    "startTip": "该活动尚未开始，敬请期待",
-    "endTip": "活动已结束，请等待下一期",
-    "europeanKingTitle1": "活动期间，投币",
-    "europeanKingTitle2": "热刺vs利物浦/切尔西vs阿森纳",
-    "europeanKingTitle3": "，中奖金额满足活动要求，最高可获赠6%中奖加奖奖励。"
+    "startTip": "Sự kiện vẫn chưa bắt đầu，Vui lòng chờ",
+    "endTip": "Sự kiện đã kết thúc，Vui lòng chờ đợi sự kiện tiếp theo của chúng tôi",
+    "europeanKingTitle1": "Trong suốt thời gian sự kiện diễn ra , người dùng có thể dự đoán kết quả ở đây",
+    "europeanKingTitle2": "Tottenham vs Liverpool / Chelsea vs Arsenal",
+    "europeanKingTitle3": "，Người chiến thắng đáp ứng hoàn toàn yêu cầu của sự kiện đưa ra，Sẽ nhận được phần thưởng chiến thắng lên tới 6%。"
   },
 }
