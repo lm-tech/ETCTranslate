@@ -161,8 +161,7 @@
 			"rule6": "Ⅲ. 부적절한 방법이나 악의적으로 보상 획득을 시도할 경우 Coingame은 해당 계정이 획득한 보상 및 이윤을 무기한 동결시킬 권한이 있으며 정도가 심할 경우 관련된 모든 계정을 동결시킬 수 있습니다. 본 이벤트의 최종 해석권은 Coingame이 보유하고 있으며 문제가 있을 경우",
 			"rule7": "Ⅳ. 고객센터:"
 		}
-	},Daily Free Tokens ",
-		"more_tit": "100% Win 
+	},
 	"en": {
 		"title": "Lucky Wheel",
 		"every_tit": "Daily Free Tokens ",
@@ -218,7 +217,7 @@
 		}
 	},
 	"zh-Hant": {
-		"title": "幸运大转盘",
+		"title": "幸運大轉盤",
 		"every_tit": "每日免費領幣",
 		"more_tit": "百分百中獎",
 		"notStarted": "活動暫未開始，敬請期待",
@@ -294,7 +293,7 @@
 		"model_span_r": "Lập tức đăng nhập",
 		"await": "Vui lòng chờ",
 		"notData": "Không có dữ liệu",
-		"numOnline": "Đạt đến giới hạn hàng ngày của tổng số tiền thanh toán.",",
+		"numOnline": "Đạt đến giới hạn hàng ngày của tổng số tiền thanh toán.",
 		"reward": "Chúc mừng，Bạn đã nhận dược giải",
 		"thanksTack": "Thật đáng tiếc , chúc bạn may mắn lần sau",
 		"notActivityNum": "Bạn không còn cơ hội quay vòng nào nữa.Hãy Cố gắng tăng thêm vòng quay.",
