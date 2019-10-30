@@ -40,12 +40,12 @@
 		"activity_invite_top_title": "One invite, double interest, Max 10ETH each!"
 	},
 	"vi": {
-		"activity_statement_title": "免责声明",
-		"activity_statement_content_one": "1. 获得活动奖励的用户，活动期间及结束后7日内均无任何平台账户充值行为的，官方将有权回收其账号内的活动奖励。",
-		"activity_statement_content_two": "2. 官方对于利用系统漏洞谋取不正当利益的用户及账号保留撤销资格、资产追溯及法律诉讼的权利。",
-		"activity_statement_content_three": "3. 官方保留在用户不知情的情况下添加、修改或中止任一活动的权利。",
-		"activity_statement_content_four": "4. 官方拥有活动的最终解释权。如有任何疑问请联系官方客服：support@coingame.com。",
-		"activity_invite_top_title": "一人邀请、双方获利、单笔最高10ETH！"
+		"activity_statement_title": "Tuyên cố từ chối trách nhiệm",
+		"activity_statement_content_one": "1. Người dùng nhận được phần thưởng  sẽ không được nạp tiền vào tài khoản nền tảng trong thời gian hoạt động và trong vòng 7 ngày sau khi kết thúc sự kiện. Nếu làm trái chúng tôi có quyền thu lại số tiền thưởng trong tài khoản của người nhận giải.。",
+		"activity_statement_content_two":  "2.Bên liên quan chính thức có quyền thu hồi đủ điều kiện, theo dõi tài sản và khởi xướng tố tụng pháp lý chống lại người dùng và tài khoản tấn công các lỗ hổng hệ thống để đạt được lợi ích không đáng có. ",
+		"activity_statement_content_three": "3.Bên chính thức có quyền thêm, sửa đổi hoặc tạm dừng bất kỳ hoạt động nào mà không cần thông qua ý kiến của người dùng. ", 。",
+		"activity_statement_content_four": "4.Bên chính thức có quyề giải thích cuối cùng về sự kiện. Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với dịch vụ khách hàng chính thức qua support@coingame.com.", 
+		"activity_invite_top_title": "Một lời mời, đôi bên cùng có lợi、tối đa mỗi lần nhận 10ETH！"
 	},
 	"zh-Hant": {
 		"activity_statement_title": "免責聲明",
@@ -53,6 +53,6 @@
 		"activity_statement_content_two": "2. 官方對於利用系統漏洞謀取不正當利益的用戶及帳號保留撤銷資格、資產追溯及法律訴訟的權利。",
 		"activity_statement_content_three": "3. 官方保留在使用者不知情的情況下添加、修改或中止任一活動的權力。",
 		"activity_statement_content_four": "4. 官方擁有活動的最終解釋權。如有任何疑問請聯繫官方客服：support@coingame.com。",
-		"activity_invite_top_title": "一人邀請、雙方獲利、單筆最高10ETH！"
+		"activity_invite_top_title": "一人邀請、雙方獲利、单笔最高10ETH！"
 	}
 }
