@@ -139,7 +139,7 @@
 		}
 	},
 	"vi": {
-		"content1": "Trong thời gian diễn ra sự kiện này, người dùng Coingame đặt dự đoán và giành chiến thắng trong bất kỳ trận đấu nào của lượt trận chung kết giải NBA,
+		"content1": "Trong thời gian diễn ra sự kiện này, người dùng Coingame đặt dự đoán và giành chiến thắng trong bất kỳ trận đấu nào của lượt trận chung kết giải NBA",
 		"content2": "（Chỉ dành cho điểm chấp và điểm cuối）",
 		"content3": "，có thể nhận được tiền thưởng nếu bất kỳ người chơi nào trong đội chiến thắng đạt được thành tích dưới đây.",
 		"tableleft": "Thành tích",
@@ -160,7 +160,7 @@
 			"rule32": "được áp dụng cho sự kiện này. các loại tiền tệ phải tuân theo tỷ giá của USDT",
 			"rule33": "Trận đấu kết thúc ngày thứ hai 10:00AM（UTC+8）CoinMarketCap",
 			"rule34": ", số tiền dự đoán sẽ được tính từ đó.",
-			"rule4": "Nếu đơn hàng đáp ứng nhiều cấp độ thành tích cùng một lúc, chỉ có phần thưởng cấp cao nhất sẽ được thưởng. Ví dụ, trong cuộc cạnh tranh của Golden Golden Warriors vs Toronto Raptors, thành tích của người chơi đáp ứng điểm số của 30 điểm trở lên, và cũng thỏa mãn cú đánh 6 three-pointers. Giải thưởng tiền thưởng sự kiện được phát hành theo cú đánh 6 three-pointers và phát hành 15 USDT tiền thưởng. 。",
+			"rule4": "Nếu đơn hàng đáp ứng nhiều cấp độ thành tích cùng một lúc, chỉ có phần thưởng cấp cao nhất sẽ được thưởng. Ví dụ, trong cuộc cạnh tranh của Golden Golden Warriors vs Toronto Raptors, thành tích của người chơi đáp ứng điểm số của 30 điểm trở lên, và cũng thỏa mãn cú đánh 6 three-pointers. Giải thưởng tiền thưởng sự kiện được phát hành theo cú đánh 6 three-pointers và phát hành 15 USDT tiền thưởng. ",
 			"rule5": "Dự đoán không xác định không được áp dụng cho sự kiện này. Người dùng có đơn hàng đủ điều kiện sẽ nhận được tiền thưởng trong vòng 3 ngày làm việc sau khi kết thúc",
 			"rule6": "Phần thưởng sự kiện có thể được sử dụng để dự đoán. Nó sẽ có sẵn để rút tiền sau khi được sử dụng trong dự đoán。",
 			"rule7": "Kênh dịch vụ khách hàng nhanh："
