@@ -45,13 +45,13 @@
 		"guide_step_three_vip": "Быстро делать ставку, просто и удобно"
 	},
 	"vi": {
-		"banner_order_title": "已开奖金额：",
-		"guide_step_one": "注册并购买虚拟货币",
-		"guide_step_two": "将虚拟货币转入您的私人钱包",
-		"guide_step_three": "将钱包中的虚拟货币转入预测选项的合约地址中",
-		"guide_step_one_vip": "完成注册并登录",
-		"guide_step_two_vip": "设置提币密码并完成账户充值",
-		"guide_step_three_vip": "快速投币简单快捷"
+		"banner_order_title": "Đã mở giải thưởng：",
+		"guide_step_one": "Đăng ký để mua tiền ảo",
+		"guide_step_two": "Chuyển tiền ảo vào wallet của bạn",
+		"guide_step_three": "Chuyển tiền ảo trong ví sang địa chỉ hợp đồng tùy chọn dự đoán ",
+		"guide_step_one_vip": "Hoàn thành đăng ký và đăng nhập",
+		"guide_step_two_vip": "Đặt mật khẩu rút tiền và gửi tiền vào tài khoản của bạn",
+		"guide_step_three_vip": "Dự đoán  nhanh chóng và đơn giản"
 	},
 	"zh-Hant": {
 		"banner_order_title": "已開獎金額：",
