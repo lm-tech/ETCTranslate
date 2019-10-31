@@ -30,10 +30,10 @@
 		"no_data": "No data"
 	},
 	"vi": {
-		"win_user": "获奖用户",
-		"win_amount": "获奖金额",
-		"loading_data": "正在加载数据...",
-		"no_data": "暂无数据"
+		"win_user": "Usser nhận thưởng",
+		"win_amount": "Số tiền thưởng",
+		"loading_data": "Đang cập nhật...",
+		"no_data": "Số liệu chưa cập nhật xong"
 	},
 	"zh-Hant": {
 		"win_user": "獲獎用戶",
