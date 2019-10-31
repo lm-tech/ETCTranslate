@@ -60,16 +60,16 @@
 		"activity_register_top_title": "Play Slots, Register, and Win the Bonus up to 499!"
 	},
 	"vi": {
-		"activity_register_title": "活动规则：",
-		"activity_register_title_close": "展开可查看活动规则",
-		"activity_register_content_one": "1. 活动时间：",
-		"activity_register_content_two": "2. 活动共分七期，每期奖励有限，但每期未发出奖励也将累计到下一期；",
-		"activity_register_content_three": "3. 每期都将持续24小时，不受奖励额度影响；",
-		"activity_register_content_four": "4. 每个用户只能参与一次活动，同IP、MAC、邮箱用户将视作同一用户；",
-		"activity_register_content_five": "5. 登录用户才能立即获得奖励，未注册或未登录用户以最终注册、登录时到账的奖励为准；",
-		"activity_register_content_six": "6. 存在用户转完拉霸，但登录后无法获奖的情况，建议用户先注册或登录后再来玩拉霸；",
-		"activity_register_content_seven": "7. 最高奖励0.0499ETH，该活动奖励只能用于投币，获奖后请留意平台账户。",
-		"activity_register_top_title": "玩拉霸、抢注册、最大赢499！"
+		"activity_register_title": "Quy tắc sự kiện：",
+		"activity_register_title_close": "Nhấn mở để xem nhiều hơn các quy tắc",
+		"activity_register_content_one": "1. Thời gian sự kiện：",
+		"activity_register_content_two": "2. Sự kiện này được chia thành bảy vòng, mỗi vòng giải thưởng có giới hạn, những phần thưởng nào không được được phát hành trong mỗi vòng sẽ được tích lũy cho vòng tiếp theo.；",
+		"activity_register_content_three": "3. Mỗi vòng được chia làm 24 giờ，và không bị ảnh hưởng bởi số tiền thưởng；",
+		"activity_register_content_four": "4. Mỗi người dùng chỉ có thể tham gia một lần，cùng tài khoản IP、MAC、Email sẽ được xem là cùng một user；",
+		"activity_register_content_five": "5. Đăng nhập user mới nhận được phần thưởng，người dùng chưa đăng nhập hoặc đăng ký phần thưởng sẽ được tính từ lúc tài khoản được đăng ký；",
+		"activity_register_content_six": "6. Người dùng có thể không nhận được phần thưởng kịp thời nếu đăng nhập sau khi chơi các vị trí; chúng tôi khuyên bạn nên đăng ký hoặc đăng nhập trước；",
+		"activity_register_content_seven": "7. giải thưởng cao nhất 0.0499ETH，Phần thưởng ở sự kiện này chỉ có thể dùng để đặt cược，Vui lòng check lại tài khoản sau khi có thông báo nhận thưởng。",
+		"activity_register_top_title": "Chơi Slots, Đăng ký và giành được Tiền thưởng lên tới 499！"
 	},
 	"zh-Hant": {
 		"activity_register_title": "活動規則：",
