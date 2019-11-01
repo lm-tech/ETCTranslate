@@ -150,7 +150,7 @@
 		"input_success": "Hoàn thành",
 		"input_send_success": "Đã gửi thành công，vui lòng kiểm tra",
 		"input_validate_empty_validation_code": "Vui lòng nhập mã xác nhận",
-		"pc_input_validate_empty_validation_code": "vui lòng nhập mã xác nhận Email,
+		"pc_input_validate_empty_validation_code": "vui lòng nhập mã xác nhận Email",
 		"change_password_label_new_password": "Mật khẩu rút tiền mới：",
 		"pc_change_password_label_new_password": "Mật khẩu mới：",
 		"change_password_label_confirm_new_password": "xác nhận mật khẩu thanh toán mới：",
