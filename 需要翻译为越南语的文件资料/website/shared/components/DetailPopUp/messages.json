@@ -337,7 +337,7 @@
 		"record_table_predict_out": "chi phí dự đoán",
 		"record_table_recharg": "nạp tiền",
 		"record_table_status_paying": "đang rút tiền",
-		"record_table_status_auto_confirm": "đang xác nhận hợp đồng,
+		"record_table_status_auto_confirm": "đang xác nhận hợp đồng",
 		"record_table_status_not_frozen": "không đóng băng",
 		"record_table_status_pending": "đang chờ xử lý",
 		"record_table_status_rejected": "rút tiền thất bại，Quay lại",
