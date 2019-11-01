@@ -70,18 +70,18 @@
 		"first_set_password_focus": "Чтобы ваша учетная запись была защищена, сначала установите пароль для монет, он будет использоваться в качестве важного документа для вашей монеты."
 	},
 	"vi": {
-		"input_validate_empty_trade_password": "请输入6位数提币密码",
-		"input_validate_error_trade_password": "请确认6位数提币密码",
-		"input_validate_mismatch_trade_password": "两次输入密码不一致",
-		"input_label_trade_password": "提币密码：",
-		"input_label_confirm_trade_password": "确认提币密码：",
-		"input_completed": "完成",
-		"first_set_password_title": "设置提币密码",
-		"modify_asset_password_success": "设置密码成功！！",
-		"input_sign_up_notice": "后跳转至首页！",
-		"input_transaction_asset_password": "请输入6位数密码",
-		"input_transaction_asset_password_repeat": "请再次输入您的提币密码",
-		"first_set_password_focus": "为了保证您的账户安全，请先设置提币密码，它将作为您提币的重要凭证"
+		"input_validate_empty_trade_password": "vui lòng nhập mật khẩu 6 chữ số để rút tiền",
+		"input_validate_error_trade_password": "Vui lòng xác nhận mật khẩu",
+		"input_validate_mismatch_trade_password": "hai lần nhập không nhất quán",
+		"input_label_trade_password": "mật khẩu rút tièn：",
+		"input_label_confirm_trade_password": "xác nhận mật khẩu rút tiền：",
+		"input_completed": "hoàn thành",
+		"first_set_password_title": "Thiết lập mật khẩu rút tiền",
+		"modify_asset_password_success": "thiết lập mật khẩu thành công！！",
+		"input_sign_up_notice": "Vui lòng đợi một lát rồi đi đến trang đăng nhập！",
+		"input_transaction_asset_password": "Vui lòng nhập mật khẩu gồm 6 chữ số của bạn",
+		"input_transaction_asset_password_repeat": "vui lòng nhập lại mật khẩu rút tiền của bạn",
+		"first_set_password_focus": "Để bảo vệ an toàn tài khoản của bạn, trước tiên hãy đặt mật khẩu rút tiền!"
 	},
 	"zh-Hant": {
 		"input_validate_empty_trade_password": "請輸入6位數提幣密碼",
