@@ -233,7 +233,7 @@
 		"invite_code": "Vui lòng nhập mã mời",
 		"invite_code_optional": "（điền vào）",
 		"invite_code_max_used": "mã mới đã quá hạn",
-		"invite_code_format_error": "Mã thư mời không tồn tại hoặc không khớp với quy tắc",",
+		"invite_code_format_error": "Mã thư mời không tồn tại hoặc không khớp với quy tắc",
 		"input_auto_login_notice": "hệ thống sẽ tự động đăng nhập cho bạn",
 		"input_intive_notice": "Chúc mừng bạn đã nhận được phần thưởng lời mời {amount} ETH, bạn có thể đến asset center để kiểm tra",
 		"wait_check_invite_rward": "Kiểm tra xem bạn đã giành được phần thưởng chưa, vui lòng đợi ...",
