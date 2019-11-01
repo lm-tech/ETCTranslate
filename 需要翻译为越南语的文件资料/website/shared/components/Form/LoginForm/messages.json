@@ -60,16 +60,16 @@
 		"login_title": "Добро пожаловать чтобы залогиниться! Coingame"
 	},
 	"vi": {
-		"input_validate_empty_email": "请输入邮箱",
-		"input_validate_empty_login_password": "请输入登录密码",
-		"input_validate_empty_validation_code": "请输入验证码",
-		"input_send_success": "发送成功， 请查收",
-		"input_label_email": "邮箱：",
-		"input_label_password": "密码：",
-		"input_label_validation_code": "验证码：",
-		"input_button_sign_in": "登录",
-		"input_button_security_notice": "此账号已开启安全策略，请输入验证码后登录",
-		"login_title": "欢迎登录Coingame"
+		"input_validate_empty_email": "Vui lòng nhập Email",
+		"input_validate_empty_login_password": "Vui lòng nhập mật khẩu đăng nhập",
+		"input_validate_empty_validation_code": "Vui lòng nhập mã xác nhaajn",
+		"input_send_success": "Đã gửi， vui lòng kiểm tra lại",
+		"input_label_email": "Email：",
+		"input_label_password": "Mật khẩu：",
+		"input_label_validation_code": "Mã xác nhận：",
+		"input_button_sign_in": "Đăng nhập",
+		"input_button_security_notice": "Tài khoản này có chính sách bảo mật được kích hoạt. Vui lòng nhập mã xác minh để đăng nhập.",
+		"login_title": "Chào mừng đến với Coingame"
 	},
 	"zh-Hant": {
 		"input_validate_empty_email": "請輸入郵箱",
