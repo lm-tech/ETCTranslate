@@ -45,13 +45,13 @@
 		"refresh": "Re-load"
 	},
 	"vi": {
-		"guide_link": "新手引导",
-		"services_link": "使用条款",
-		"personal_link": "隐私条款",
-		"guess_detail": "预测细则",
-		"menu_home": "首页",
-		"loading_error": "加载失败",
-		"refresh": "重新加载"
+		"guide_link": "hướng dẫn cho người mới bắt đầu",
+		"services_link": "điều khoản sử dụng",
+		"personal_link": "điều khoản cá nhân",
+		"guess_detail": "dự đoán chi tiết",
+		"menu_home": "Trang chủ",
+		"loading_error": "cập nhật thất bại",
+		"refresh": "cập nhật lại"
 	},
 	"zh-Hant": {
 		"guide_link": "新手引導",
