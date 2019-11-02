@@ -64,23 +64,23 @@
 		"median_2": "Median",
 		"goal_2": "Goal",
 		"magnate_2": "Magnate",
-		"roll_pd": "滾球盤",
-		"rolling": "滾球中",
-		"roll_forecast": "滾球預告",
+		"roll_pd": "滚球盘",
+		"rolling": "滚球中",
+		"roll_forecast": "滚球预告",
 		"index": "Index"
 	},
 	"vi": {
-		"menu_home": "所有赛事",
-		"game_1": "游戏 (6)",
+		"menu_home": "Tất cả các trận đấu",
+		"game_1": "Game (6)",
 		"bjl_2": "Baccarat",
 		"mining_2": "Mining",
 		"rocket_2": "Rocket",
 		"median_2": "Median",
 		"goal_2": "Goal",
 		"magnate_2": "Magnate",
-		"roll_pd": "滚球盘",
-		"rolling": "滚球中",
-		"roll_forecast": "滚球预告",
+		"roll_pd": "có sẵn",
+		"rolling": "đang chơi",
+		"roll_forecast": "sắp ra mắt",
 		"index": "Index"
 	}
 }
