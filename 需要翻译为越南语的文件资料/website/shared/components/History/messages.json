@@ -70,18 +70,18 @@
 		"detail_history_peding_kj": "上链中"
 	},
 	"vi": {
-		"detail_all_forecast_history": "全网预测历史",
-		"detail_history_title_time": "预测时间",
-		"detail_history_title_address": "预测地址",
-		"detail_history_title_amount": "预测数量",
-		"detail_history_no_data": "暂无数据",
-		"detail_history_title_amount_two": "投币数额",
-		"detail_history_title_amount_award": "中奖奖金数额",
-		"detail_history_title_amount_back": "退回",
-		"detail_history_title_odds": "投币倍数",
-		"detail_history_title_handicap": "盘口信息",
-		"detail_history_loading": "加载中",
-		"detail_history_peding_kj": "上链中"
+		"detail_all_forecast_history": "Lịch sử dự đón mạng",
+		"detail_history_title_time": "thời gian dự đoán",
+		"detail_history_title_address": "địa chỉ dự đoán",
+		"detail_history_title_amount": "số lượng dự đoán",
+		"detail_history_no_data": "dữ liệu chưa cập nhật",
+		"detail_history_title_amount_two": "số lượng dự đoán",
+		"detail_history_title_amount_award": "số tiền thưởng",
+		"detail_history_title_amount_back": "trở lại",
+		"detail_history_title_odds": "bội số dự đoán",
+		"detail_history_title_handicap": "số liệu thị trường",
+		"detail_history_loading": "đang load",
+		"detail_history_peding_kj": "Đang kết nối"
 	},
 	"zh-Hant": {
 		"detail_all_forecast_history": "全網預測歷史",
