@@ -30,10 +30,10 @@
 		"cancel": "Cancel"
 	},
 	"vi": {
-		"select_all": "全选",
-		"reverse": "反选",
-		"ok": "确定",
-		"cancel": "取消"
+		"select_all": "Chọn tất cả",
+		"reverse": "Chọn ngược lại",
+		"ok": "Xác nhận",
+		"cancel": "Hủy bỏ"
 	},
 	"zh-Hant": {
 		"select_all": "全選",
