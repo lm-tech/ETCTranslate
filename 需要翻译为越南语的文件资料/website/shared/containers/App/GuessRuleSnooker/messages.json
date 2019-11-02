@@ -55,15 +55,15 @@
 		"detail_paragraph_two1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
 	},
 	"vi": {
-		"content_title_detail": "斯诺克",
-		"detail_big_title": "斯诺克（英式桌球）",
-		"detail_paragraph_one": "比赛投币",
-		"detail_paragraph_one1": "对抗赛博彩的输赢是取决于您能否正确地挑选出一位球员， 以主办机构的裁判结果为准， 为赛事的胜出者。 在某场赛事中， 如果因为不确切的原因未能打完一整个回合， 则升级到下个一回合的选手 （或者由主办机构宣布为赛事/锦标得胜者）将发奖计算中被认定为的获胜者。 当发生整个赛事没有实际进行比赛的情形时， 则将退还本金。",
-		"detail_paragraph_one2": "投币在正确点数比的预测， 其发奖是跟据对于该局英式桌球最终比分的预测准确与否进行计算的。 发生该赛事开赛之后， 由于不明原因而未能进行到结束， 或者根本没有比赛的情形时， 则所有预测的本金将获得退还。",
-		"detail_paragraph_one3": "在彩池制度中， 当盘口内容是 “锦标夺冠的倍数” 时， 被投币的球员如果没有出赛， 则该注预测将被当作输掉处理。",
-		"detail_paragraph_one4": ".对于由多个比赛阶段组成的英式桌球比赛，Coingame在每个阶段开打前都可能开出盘口。所有下在英式桌球比赛的注单都将依据整场比赛的赛果进行返奖，而不是依据个别阶段的赛果的。",
-		"detail_paragraph_two": "投币金的结算",
-		"detail_paragraph_two1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
+		"content_title_detail": "Snooker",
+		"detail_big_title": "snooker（bida kiểu Anh）",
+		"detail_paragraph_one": "dự đoán trận đấu",
+		"detail_paragraph_one1": "Dự đoán trận đấu dựa trên việc chọn chính xác người chơi chính thức thắng trận đấu. Trong trường hợp trận đấu bắt đầu - với thời gian nghỉ cho khung đầu tiên - nhưng không được hoàn thành vì bất kỳ lý do gì, người chơi tiến tới vòng tiếp theo (hoặc được tuyên bố là người chiến thắng trong cuộc thi / chức vô địch) sẽ được coi là người chiến thắng. Trong trường hợp trận đấu không bắt đầu, tất cả các dự đoán đều được hoàn trả。",
+		"detail_paragraph_one2": "Dự đoán khung dựa trên việc chọn chính xác điểm cuối cùng của trận đấu bi da. Trong trường hợp trận đấu bắt đầu nhưng không được hoàn thành vì bất kỳ lý do nào hoặc trận đấu không bắt đầu, tất cả các dự đoán đều được hoàn trả。",
+		"detail_paragraph_one3": "trong hệ thống tiền cược, khi nội dung cược chấp là nhiều lần vô địch， nếu VĐV bạn chọn không thi đấu thì kết quả dự doán sẽ là thua。",
+		"detail_paragraph_one4": ". Các trận đấu của Snooker có nhiều phiên, Pinnacle có thể cung cấp nhiều điểm vào đầu mỗi phiên. Tất cả các cược được đặt trên các trận đấu của Snooker đều được phân loại dựa trên kết quả của toàn bộ trận đấu, không phải dựa trên kết quả của một phiên riêng lẻ。",
+		"detail_paragraph_two": "đang tính toán ",
+		"detail_paragraph_two1": "Tất cả các dự đoán sẽ được giải quyết sau thời gian và ngày được chỉ định trong dự đoán. Dữ liệu và kết quả giao dịch tiếp thị sẽ được lấy từ các bên thứ ba có uy tín. Nếu thị trường không có dữ liệu hợp lệ dựa trên các vấn đề kỹ thuật, hoặc dữ liệu không thể được xác nhận, nền tảng có quyền giữ lại khoản thanh toán bị trì hoãn cho đến khi được xác nhận bởi một bên thứ ba đáng tin cậy。"
 	},
 	"zh-Hant": {
 		"content_title_detail": "斯諾克",
