@@ -35,11 +35,11 @@
 		"netWorkError": "网络异常，请稍后再试！"
 	},
 	"vi": {
-		"login_to_register": "立即注册",
-		"login_forgot_password": "忘记密码",
-		"login_title": "登录",
-		"login_token_fail": "身份验证失效",
-		"netWorkError": "网络异常，请稍后再试！"
+		"login_to_register": "Đăng nhập ngay",
+		"login_forgot_password": "quên mật khẩu",
+		"login_title": "đăng nhập",
+		"login_token_fail": "xác minh không thành công",
+		"netWorkError": "lỗi mạng, vui lòng thử lại sau！"
 	},
 	"zh-Hant": {
 		"login_to_register": "立即註冊",
