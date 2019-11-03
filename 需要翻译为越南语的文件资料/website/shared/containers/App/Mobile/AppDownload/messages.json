@@ -70,18 +70,18 @@
 		"app_download_content": "Coingame, go!"
 	},
 	"vi": {
-		"app_download_title": "下载安卓客户端",
-		"app_download_tip1_title": "方法一",
-		"app_download_tip1_text": "点击右上角 ... 按钮，在下方选择“用浏览器”打开。",
-		"app_download_tip2_title": "方法二",
-		"app_download_tip2_text": "复制以下链接至浏览器打开，",
-		"app_download_copy": "点击复制",
-		"app_download_already_copy": "已复制",
-		"app_info_up": "点击右上角",
-		"app_info_browser": "在浏览器中",
-		"app_info_open": "打开",
-		"goto_android_address": "下载安卓App",
-		"app_download_content": "百倍乐趣，千倍收益！"
+		"app_download_title": "Download ứng dụng android",
+		"app_download_tip1_title": "cách 1",
+		"app_download_tip1_text": "Nhấp vào nút " ...  "ở góc trên bên phải, chọn  Mở bằng trình duyệt  bên dưới。",
+		"app_download_tip2_title": "cách 2",
+		"app_download_tip2_text": "Sao chép liên kết sau vào trình duyệt để mở，",
+		"app_download_copy": "click copy",
+		"app_download_already_copy": "đã copy",
+		"app_info_up": "Nhấp vào góc trên bên phải",
+		"app_info_browser": "trong trình duyệt",
+		"app_info_open": "mở",
+		"goto_android_address": "Download App android",
+		"app_download_content": "vui vẻ trăm lần, thu về nghàn lần lợi ích！"
 	},
 	"zh-Hant": {
 		"app_download_title": "下載安卓用戶端",
