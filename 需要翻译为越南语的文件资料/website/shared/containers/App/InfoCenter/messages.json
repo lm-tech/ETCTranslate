@@ -20,8 +20,8 @@
 		"infoSlider_text": [{ "name": "投币记录", "path": "/my-Center/bet-record" }, { "name": "账户管理", "path": "/my-Center/user-center" }, { "name": "消息中心", "path": "/my-Center/message-center" }]
 	},
 	"vi": {
-		"infoCenter_top_img_Text": "打造区块链最全面的互动娱乐平台",
-		"infoSlider_text": [{ "name": "投币记录", "path": "/my-Center/bet-record" }, { "name": "账户管理", "path": "/my-Center/user-center" }, { "name": "消息中心", "path": "/my-Center/message-center" }]
+		"infoCenter_top_img_Text": "Xây dựng nền tảng blockchain giải trí tương tác toàn diện nhất",
+		"infoSlider_text": [{ "name": "danh sách dự đoán", "path": "/my-Center/bet-record" }, { "name": "quản lý tài khoản", "path": "/my-Center/user-center" }, { "name": "trung tâm thong tin", "path": "/my-Center/message-center" }]
 	},
 	"zh-Hant": {
 		"infoCenter_top_img_Text": "打造區塊鏈最全面的互動娛樂平臺",
