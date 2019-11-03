@@ -54,15 +54,15 @@
 		"detail_history_toBottom": "End of the list"
 	},
 	"vi": {
-		"home": "首页",
+		"home": "Trang chủ",
 		"content_bet_365": " ",
-		"content_coin_mark": "数字货币预测数据均参考自coinmarketcap",
-		"content_esports": "投币时间将根据实际比赛时间调整",
-		"tip_link": "6月11号之前的比赛请点击此处",
-		"hot": "热门投币",
-		"opening": "即将开赛",
-		"detail_history_no_data": "暂无数据",
-		"detail_history_toBottom": "已经到达底线"
+		"content_coin_mark": "Tất cả dữ liệu đã được tham chiếu từ CoinMarketCap",
+		"content_esports": "Thời hạn dự đoán sẽ được điều chỉnh dựa trên thời gian bắt đầu thực tế của trò chơi",
+		"tip_link": "Vui lòng bấm vào đây để tìm dự đoán trước ngày 11 tháng Sáu",
+		"hot": "cược nóng",
+		"opening": "lập tức bắt đầu",
+		"detail_history_no_data": "số liệu chuă cập nhật",
+		"detail_history_toBottom": "Kết thúc danh sách"
 	},
 	"zh-Hant": {
 		"home": "首頁",
