@@ -25,9 +25,9 @@
 		"forecast_record_custom": "Настроить самостоятельно"
 	},
 	"vi": {
-		"forecast_record_title": "我的投币",
-		"forecast_record_recent_30_day": "最近30天",
-		"forecast_record_custom": "自定义"
+		"forecast_record_title": "Dự đoán của tôi",
+		"forecast_record_recent_30_day": "30 ngày gần nhất",
+		"forecast_record_custom": "tự thiết lập"
 	},
 	"zh-Hant": {
 		"forecast_record_title": "我的投註",
