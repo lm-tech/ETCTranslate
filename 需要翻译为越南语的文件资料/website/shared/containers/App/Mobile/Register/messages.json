@@ -30,9 +30,9 @@
 		"register_right_title": "去登录"
 	},
 	"vi": {
-		"register_title": "新用户注册",
-		"register_step1": "账号注册",
-		"register_step2": "注册验证",
-		"register_right_title": "去登录"
+		"register_title": "người dùng mới đăng ký",
+		"register_step1": "đăng ký tài khoản",
+		"register_step2": "xác nhận đăng ký",
+		"register_right_title": "đăng nhập"
 	}
 }
