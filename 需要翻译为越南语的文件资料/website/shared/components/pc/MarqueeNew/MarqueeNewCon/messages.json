@@ -25,9 +25,9 @@
 		"promotion_notice": "公告"
 	},
 	"vi": {
-		"marquee_invest": "用户{account},在【{playname}】投币了{amount} {currency}，大家快来围观！",
-		"marquee2_earn": "用户{account},在【{playname}】赢得了{amount} {currency}，让我们恭喜他！",
-		"promotion_notice": "公告"
+		"marquee_invest": "người dùng{account},ở【{playname}】đã dự đoán{amount} {currency}，mau đến tham gia nào！",
+		"marquee2_earn": "người dùng{account},ở【{playname}】đã thắng{amount} {currency}，hãy chúc mừng nào！",
+		"promotion_notice": "thông báo"
 	},
 	"zh-Hant": {
 		"marquee_invest": "用戶{account},在【{playname}】投币了{amount} {currency},大家快來圍觀！",
