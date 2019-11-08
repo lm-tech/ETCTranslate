@@ -55,14 +55,14 @@
 		"enterPromoter": "推廣有禮"
 	},
 	"vi": {
-		"title": "活动中心",
-		"documentTitle": "活动详情",
-		"activity_rule_tit": "活动规则",
-		"activity_look_detail": "查看详情",
-		"activity_hide_detail": "收起",
-		"activity_go_to_join": "立即参与",
-		"is_long_term_show": "长期",
-		"enterSignIn": "签到领币",
-		"enterPromoter": "推广有礼"
+		"title": "trung tâm sự kiện",
+		"documentTitle": "chi tiết sự kiện",
+		"activity_rule_tit": "quy tắc sự kiện",
+		"activity_look_detail": "xem chi tiết",
+		"activity_hide_detail": "thu lại",
+		"activity_go_to_join": "tham gia ngay",
+		"is_long_term_show": "dài hạn",
+		"enterSignIn": "đăng ký hàng ngày",
+		"enterPromoter": "khu vực khuyến mãi"
 	}
 }
