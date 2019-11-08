@@ -25,9 +25,9 @@
 		"detail_history_no_data": "暂无数据"
 	},
 	"vi": {
-		"confirm": "搜索：",
-		"search_result": "搜索结果共{result}条",
-		"detail_history_no_data": "暂无数据"
+		"confirm": "tìm kiếm：",
+		"search_result": "kết quqr tìm kiếm{result}",
+		"detail_history_no_data": "số liệu chưa cập nhật"
 	},
 	"zh-Hant": {
 		"confirm": "搜索：",
