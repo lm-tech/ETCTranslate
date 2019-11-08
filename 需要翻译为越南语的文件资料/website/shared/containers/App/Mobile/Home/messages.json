@@ -40,12 +40,12 @@
 		"esports": "eСпорт"
 	},
 	"vi": {
-		"content_coin_mark": "数字货币预测数据均参考自coinmarketcap",
-		"content_coin_world_mark": "本类预测数据均参考自prediction365",
-		"content_title_esports": "投币时间将根据实际比赛时间调整",
-		"soccer": "足球",
-		"funny_guessing": "趣味预测",
-		"esports": "电竞"
+		"content_coin_mark": "Dữ liệu tiền điện tử được tham khảo từ CoinMarketCap",
+		"content_coin_world_mark": "Tất cả dữ liệu được tham chiếu từ prediction365",
+		"content_title_esports": "Thời hạn dự đoán sẽ được điều chỉnh tùy thuộc vào thời gian bắt đầu trò chơi chính thức",
+		"soccer":" bóng đá",
+		"funny"": "dự đoán thú vị",
+		"esports": "E-sport"
 	},
 	"zh-Hant": {
 		"content_coin_mark": "數字貨幣競猜數據均參考自coinmarketcap",
