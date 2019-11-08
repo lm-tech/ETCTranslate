@@ -190,41 +190,41 @@
 		"header_see_detail": "查看詳情"
 	},
 	"vi": {
-		"promotion_area": "推广专区",
-		"play_guide": "玩法指南",
-		"and_down": "扫描即可下载",
-		"to_signIn": "每日签到",
+		"promotion_area": "khu vực khuyến mãi",
+		"play_guide": "cách chơi",
+		"and_down": "quét mã QR để tải xuống",
+		"to_signIn": "check=in mõi ngày",
 		"infoSlider_text": [
 			{
-				"name": "新手引导-账号投币"
+				"name": "hướng dẫn ngừi chơi mới-địa chỉ dự đoán"
 			},
 			{
-				"name": "新手引导-智能合约投币"
+				"name": "hướn dẫn người chơi mới-dự đoán hợp đồng thông minh"
 			},
 			{
-				"name": "预测细则"
+				"name": "chi tiết dự đoán"
 			},
 			{
-				"name": "使用条款"
+				"name": "điều khoản sử dụng"
 			},
 			{
-				"name": "隐私条款"
+				"name": "điều khoản bảo mật cá nhân"
 			}
 		],
-		"index": "首页",
-		"games": "游戏",
-		"events": "赛事",
-		"activities": "活动",
-		"app_download": "APP下载",
-		"header_login": "登录",
-		"header_register": "注册",
-		"header_assetCenter": "资产中心",
-		"header_recharge": "充值/提币",
-		"header_bet_record": "投币记录",
-		"header_userAccount": "个人账户",
-		"header_accountManage": "账号管理",
-		"header_messageCenter": "消息中心",
-		"header_logout": "退出",
-		"header_see_detail": "查看详情"
+		"index": "trang chủ",
+		"games": "Game",
+		"events": "trận đấu",
+		"activities": "sự kiện",
+		"app_download": "tải APP",
+		"header_login": "đăng nhập",
+		"header_register": "đăng ký",
+		"header_assetCenter": "Asset center",
+		"header_recharge": "nạp tiền/dự đoán",
+		"header_bet_record": "danh sách dự đoán",
+		"header_userAccount": "tài khoản cá nhân",
+		"header_accountManage": "quản lý tài khoản",
+		"header_messageCenter": "trung tâm message",
+		"header_logout": "thoát ra",
+		"header_see_detail": "xem chi tiết"
 	}
 }
