@@ -45,13 +45,13 @@
 		"forecast_record_custom": "Настроить самостоятельно"
 	},
 	"vi": {
-		"deposit_address_title": "{currency} 充值地址：",
-		"deposit_address_focus_one": "重要提示：禁止向 {currency} 地址充值除 {currency} 之外的资产，任何充入 {currency} 地址的非 {currency} 资产将不可找回。",
-		"deposit_qrcode": "充值二维码",
-		"detail_forecast_copied": "已复制",
-		"forecast_record_title": "提币记录",
-		"forecast_record_recent_30_day": "最近30天",
-		"forecast_record_custom": "自定义"
+		"deposit_address_title": "{currency} địa chỉ nạp tiền：",
+		"deposit_address_focus_one": "Xin lưu ý: Việc gửi tài sản không phải {currency} vào địa chỉ {currency} đều bị cấm và mọi tài sản ký gửi đều không thể khắc phục được。",
+		"deposit_qrcode": "Mã QR nạp tiền",
+		"detail_forecast_copied": "đã copy"
+		"forecast_record_title": "danh sách rút"
+		"forecast_record_recent_30_day": "30 ngày gần đây",
+		"forecast_record_custom": "tùy chỉnh"
 	},
 	"zh-Hant": {
 		"deposit_address_title": "{currency} 充值地址：",
