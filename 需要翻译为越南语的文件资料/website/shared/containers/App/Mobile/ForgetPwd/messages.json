@@ -30,9 +30,9 @@
 		"forget_password_step3": "操作成功"
 	},
 	"vi": {
-		"forget_get_pwd": "找回密码",
-		"forget_password_step1": "账号验证",
-		"forget_password_step2": "重设密码",
-		"forget_password_step3": "操作成功"
+		"forget_get_pwd": "tìm lại mật khẩu",
+		"forget_password_step1": "xác minh tài khoản",
+		"forget_password_step2": "thiết lập lại mật khẩu",
+		"forget_password_step3": "thao tác thành công"
 	}
 }
