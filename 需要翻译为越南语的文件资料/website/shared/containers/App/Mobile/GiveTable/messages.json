@@ -25,9 +25,9 @@
 		"forecast_record_custom": "Custom"
 	},
 	"vi": {
-		"forecast_record_title": "平台赠送",
-		"forecast_record_recent_30_day": "最近30天",
-		"forecast_record_custom": "自定义"
+		"forecast_record_title": "giải thưởng thắng cuộc ",
+		"forecast_record_recent_30_day": "30 ngày gần nhất",
+		"forecast_record_custom": "tùy chỉnh"
 	},
 	"zh-Hant": {
 		"forecast_record_title": "平臺贈送",
