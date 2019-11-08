@@ -50,14 +50,14 @@
 		"content_title_guide": "Руководство для начинающих "
 	},
 	"vi": {
-		"guide_bottom_goto_home": "返回首页",
-		"guide_bottom_goto_front": "上一步",
-		"guide_bottom_goto_login": "立即登录",
-		"guide_bottom_goto_ETC_home": "立即预测",
-		"guide_bottom_goto_after": "下一步",
-		"guide_vip_buttom": "会员预测引导",
-		"guide_normal_buttom": "非会员预测引导",
-		"content_title_guide": "新手引导"
+		"guide_bottom_goto_home": "về trang chủ",
+		"guide_bottom_goto_front": "trở vè",
+		"guide_bottom_goto_login": "đăng nhập ngay",
+		"guide_bottom_goto_ETC_home": "dự đoán ngay",
+		"guide_bottom_goto_after": "bước tiếp theo",
+		"guide_vip_buttom": "hướng dẫ dự đoán cho hội viên",
+		"guide_normal_buttom": "hướng dẫ dự đoán cho người dùng không phải hội viên",
+		"content_title_guide": "hướng dẫn cho người dùng mới"
 	},
 	"zh-Hant": {
 		"guide_bottom_goto_home": "返回首頁",
