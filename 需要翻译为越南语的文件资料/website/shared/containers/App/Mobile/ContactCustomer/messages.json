@@ -43,7 +43,7 @@
 			}
 		],
 		"cancel": "Cancel",
-		"copied": "Copied to clipboard"
+		"copied": "Copied to clipoard"
 	},
 	"ja": {
 		"contact_title": "コールセンターに連絡",
@@ -115,10 +115,10 @@
 		"copied": "已拷贝到粘贴板"
 	},
 	"vi": {
-		"contact_title": "联系客服",
+		"contact_title": "liên hệ trung tâm dịch vụ khách hàng",
 		"contacts": [
 			{
-				"name": "微信",
+				"name": "Wechat",
 				"content": "coingame_official"
 			},
 			{
@@ -134,8 +134,8 @@
 				"content": "https://t.me/Coingame_official"
 			}
 		],
-		"cancel": "取消",
-		"copied": "已拷贝到粘贴板"
+		"cancel": "hủy bỏ",
+		"copied": "Copied to clipoard"
 	},
 	"zh-Hant": {
 		"contact_title": "聯系客服",
