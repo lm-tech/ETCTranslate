@@ -35,11 +35,11 @@
 		"confirm": "Confirm"
 	},
 	"vi": {
-		"title": "选择比赛",
-		"select": "全选",
-		"unselect": "反选",
-		"cancel": "取消",
-		"confirm": "确定"
+		"title": "trận đấu tự chọn",
+		"select": "chọ hết",
+		"unselect": "không chọn",
+		"cancel": "hủy bỏ",
+		"confirm": "xác nhận"
 	},
 	"zh-Hant": {
 		"title": "選擇比賽",
