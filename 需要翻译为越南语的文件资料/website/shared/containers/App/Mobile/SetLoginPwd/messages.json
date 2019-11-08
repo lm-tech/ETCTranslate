@@ -20,7 +20,7 @@
 		"bind_email_cancel": "取消"
 	},
 	"vi": {
-		"bind_email_title": "设置登录密码",
-		"bind_email_cancel": "取消"
+		"bind_email_title": "thiết lập mật khẩu đăng nhập",
+		"bind_email_cancel": "hủy bỏ"
 	}
 }

@@ -70,18 +70,18 @@
 		"url_label": "推广链接"
 	},
 	"vi": {
-		"user_center_title": "账户管理",
-		"user_center_account": "账号：",
-		"user_center_login_password": "登录密码：",
-		"user_center_withdraw_password": "资金密码：",
-		"user_center_register_time": "注册时间：",
-		"register_time": "{year}年{month}月{day}日",
-		"user_center_invite_code": "邀请码",
-		"user_center_invite_code_copy": "复制邀请码",
-		"user_center_invite_code_already_copy": "已复制",
-		"pc_user_center_invite_code_already_copy": "复制成功！",
-		"code_label": "推广码",
-		"url_label": "推广链接"
+		"user_center_title": "quản lý tài khoản",
+		"user_center_account": "tài khoản：",
+		"user_center_login_password": "mật khẩu đăng nhập：",
+		"user_center_withdraw_password": "mật khẩu tài khoản：",
+		"user_center_register_time": "thời gian đăng ký：",
+		"register_time": "{year}năm{month}tháng{day}ngày",
+		"user_center_invite_code": "mã mời",
+		"user_center_invite_code_copy": "copy mã mời",
+		"user_center_invite_code_already_copy": "đã copy",
+		"pc_user_center_invite_code_already_copy": "copy thành công！",
+		"code_label": "mã khuyến mãi",
+		"url_label": "link khuyến mãi"
 	},
 	"zh-Hant": {
 		"user_center_title": "帳戶管理",
