@@ -261,7 +261,7 @@
 	"vi": {
 		"content_title_detail": "Những vấn đề thường gặp",
 		"detail_title1": "Chưa đăng ký có thể tham gia dự đoán không？",
-		"detail_content1": "Người dùng chưa đăng ký có thể nhấp"hợp đồng thông minh" đẻ tham gia dự đoán。",
+		"detail_content1": "Người dùng chưa đăng ký có thể nhấp“hợp đồng thông minh” đẻ tham gia dự đoán。",
 		"detail_title2": "Tại sao không nhận đươc mã xác nhận？",
 		"detail_content2": "nếu không nhậ được mã xác nhận，vui lòng kiểm tra lại hộp thư rác，nếu vẫn chưa nhận được，vui lòng click lại【gửi mã xác nhận】，hoặc đổi Email để đăng ký lại。",
 		"detail_title3": "tại sao đăng nhập thất bại？",
@@ -276,7 +276,7 @@
 		"detail_content7": "Thời gian nạp lại phụ thuộc vào tốc độ block. Nói chung, sẽ có 5-10 phút thời gian đến. Xin hãy kiên nhẫn. Tuy nhiên, do một số lý do đặc biệt như kẹt chuỗi hoặc sự cố nút, bạn vẫn chưa nhận được. Vui lòng cung cấp cho chúng tôi tài khoản của bạn và giá trị băm của giao dịch nạp tiền. Chúng tôi sẽ xử lý cho bạn sớm nhất có thể.。",
 		"detail_title8": "Khi nào tôi có thể rút tiền?？",
 		"detail_content8": "Khi bạn nộp đơn xin một khoản tiền nhỏ, không cần phải xem xét . Thời gian đến phụ thuộc vào tốc độ block. Nói chung, sẽ có 5-15 phút thời gian đến. Nếu đơn xin rút tiền của bạn vượt quá một số tiền cho phép nhất định, bạn sẽ cần phải cần được xem xét . Kiểm toán viên sẽ hoàn tất việc rút tiền của bạn trong vòng 24 giờ. Xin hãy kiên nhẫn chờ đợi。",
-		"detail_title9": "Tại sao trạng thái yêu cầu rút tiền của tôi được hiển thị là "xem xét không thành công”？",
+		"detail_title9": "Tại sao trạng thái yêu cầu rút tiền của tôi được hiển thị là “xem xét không thành công”？",
 		"detail_content9": "nếu trạng thái hiển thị là xem xét rút tiền không thành công thì có nghĩa là địa chỉ mà bạn cung cấp không chính xác bạn có thể tiền hành xem xét lại。",
 		"detail_title10": "Có mất phí cho việc rút tiền không?？",
 		"detail_content10": "Cần phải trả một khoản phí xử lý nhất định cho loại Coin và số tiền phí được trả bằng các loạiCoin khác nhau . Bạn có thể kiểm tra số tiền cụ thể của phí rút tiền trên trang rút tiền。",
