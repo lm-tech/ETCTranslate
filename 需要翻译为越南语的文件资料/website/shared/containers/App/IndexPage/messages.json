@@ -40,11 +40,11 @@
 		"footer_partner": "合作夥伴"
 	},
 	"vi": {
-		"footer_hot_game": "热门游戏",
-		"footer_recent_play": "最近玩过",
-		"footer_more_game": "更多游戏",
-		"footer_sport_events": "体育赛事",
-		"footer_sport_events_more": "更多赛事",
-		"footer_partner": "合作伙伴"
+		"footer_hot_game": "Game hot",
+		"footer_recent_play": "đã chơi gần đây",
+		"footer_more_game": "nhiều Game hơn",
+		"footer_sport_events": "Trận đấu thể thao",
+		"footer_sport_events_more": "nhiều trận đấu hơn",
+		"footer_partner": "đối tác"
 	}
 }
