@@ -45,13 +45,13 @@
 		"detail_history_toBottom": "End of the list"
 	},
 	"vi": {
-		"detail_history_no_data": "暂无数据",
-		"hot": "热门投币",
-		"forthcoming": "即将开赛",
-		"search": "搜索",
-		"main": "首页",
-		"search_result": "搜索结果共{result}条",
-		"detail_history_toBottom": "已经到达底线"
+		"detail_history_no_data": "số liệu chưa cập nhậ",
+		"hot": "cược nóng",
+		"forthcoming": "bắt đầu ngay lập tức",
+		"search": "tìm kiếm",
+		"main": "trang chủ",
+		"search_result": "tổng số kết quả tìm kiếm{result}",
+		"detail_history_toBottom": "kết thúc danh sách"
 	},
 	"zh-Hant": {
 		"detail_history_no_data": "暫無數據",
