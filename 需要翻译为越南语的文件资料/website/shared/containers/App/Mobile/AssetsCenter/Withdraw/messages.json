@@ -48,8 +48,8 @@
 		"deposit_address_title": "{currency} địa chỉ nạp tiền：",
 		"deposit_address_focus_one": "Xin lưu ý: Việc gửi tài sản không phải {currency} vào địa chỉ {currency} đều bị cấm và mọi tài sản ký gửi đều không thể khắc phục được。",
 		"deposit_qrcode": "Mã QR nạp tiền",
-		"detail_forecast_copied": "đã copy"
-		"forecast_record_title": "danh sách rút"
+		"detail_forecast_copied": "đã copy",
+		"forecast_record_title": "danh sách rút",
 		"forecast_record_recent_30_day": "30 ngày gần đây",
 		"forecast_record_custom": "tùy chỉnh"
 	},
