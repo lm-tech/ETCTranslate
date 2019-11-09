@@ -55,15 +55,15 @@
 		"detail_paragraph_three1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
 	},
 	"vi": {
-		"content_title_detail": "飞镖",
-		"detail_big_title": "飞镖赛",
-		"detail_big_title1": "投币在最终胜出者 (冠军倍数) 的预测，永不失效。不幸投币在半途退出的选手的投币，将做赌输论。",
-		"detail_paragraph_one": "淘汰赛投币",
-		"detail_paragraph_one1": "只要在第一循环中，有选手掷标，则那位被升上去下一轮循环赛的选手，即被确定为胜出者。若无人掷标，则所有投币作废。",
-		"detail_paragraph_two": "全场赛投币",
-		"detail_paragraph_two1": "事先规定的全部场次, 必须都打完。如因任何原因这些场次未能打完，尽管有选手获奖或夺冠，所有投币仍然作废。",
-		"detail_paragraph_three": "投币结算",
-		"detail_paragraph_three1": "投币结算将以相关比赛或赛事的官方比分提供商或官方网站所公布的数据为根据。当官方比分提供商或官方网站不存在或有重要证据证明官方比分提供商或官方网站的数据有误时，我们将依据相关独立资料进行结算。"
+		"content_title_detail": "phi tiêu",
+		"detail_big_title": "phi tiêu",
+		"detail_big_title1": "Khi dự đoán về người chiến thắng giải đấu hoàn toàn, tất cả các cược đều có dự đoán; không có khoản hoàn trả nào. Nếu người chơi rút tiền trước khi giải đấu bắt đầu, mọi dự đoán về việc người chơi đó thắng giải sẽ được xếp loại thua。",
+		"detail_paragraph_one": "loại bỏ dự đoán",
+		"detail_paragraph_one1": "Người chơi tiến vào vòng tiếp theo sẽ được coi là người chiến thắng, cung cấp một trong những người chơi đã ném phi tiêu vào đầu chặng đầu tiên. Nếu phi tiêu đầu tiên không bị ném, mọi dự đoán sẽ bị hủy.。",
+		"detail_paragraph_two": "dự đoán của toàn trận,
+		"detail_paragraph_two1": "Toàn bộ số bộ cần thiết để thắng trận đấu phải được hoàn thành. Nếu vì bất kỳ lý do nào, trận đấu được trao cho một thí sinh trước khi hoàn thành đủ số bộ, tất cả các bộ cược trên trận đấu sẽ bị hủy。",
+		"detail_paragraph_three": "tính toán dự đoán",
+		"detail_paragraph_three1": "Tất cả các dự đoán sẽ được giải quyết sau thời gian và ngày được chỉ định trong dự đoán. Dữ liệu và kết quả giao dịch tiếp thị sẽ được lấy từ các bên thứ ba có uy tín. Nếu thị trường không có dữ liệu hợp lệ dựa trên các vấn đề kỹ thuật, hoặc dữ liệu không thể được xác nhận, nền tảng có quyền giữ lại khoản thanh toán bị trì hoãn cho đến khi được xác nhận bởi bên thứ ba đáng tin cậy.。"
 	},
 	"zh-Hant": {
 		"content_title_detail": "飛鏢",
