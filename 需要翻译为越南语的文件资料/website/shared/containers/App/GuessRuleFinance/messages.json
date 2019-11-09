@@ -75,19 +75,19 @@
 		"detail_paragraph_two3": "市场交易数据、交易结果以https://coinmarketcap.com/为准。"
 	},
 	"vi": {
-		"content_title_detail": "金融",
-		"detail_big_title": "金融",
-		"detail_paragraph_one": "投币结算",
-		"detail_paragraph_one1": "所有投币在预测规定的时间和日期后结算。",
-		"detail_paragraph_one2": "市场交易数据、交易结果将从信誉良好的第三方取得。",
-		"detail_paragraph_one3": "如果市场基于技术问题未获得有效数据或数据无法得到确认，平台有权利保留延迟发奖直至得到可信任第三方的数据确认。",
-		"detail_paragraph_one4": "如果市场找不到可信第三方数据确认，预测无效，投币将退还。",
-		"detail_paragraph_one5": "本平台有权在任何时候纠正错误发奖。",
-		"detail_paragraph_one6": "如果倍数明显有误，本平台保留取消该投币的权利。",
-		"detail_paragraph_two": "数字资产市场涨跌",
-		"detail_paragraph_two1": "收盘时间以世界统一时间（UTC) 0点为准。收盘价按各市场成交量加权平均值计算得出。",
-		"detail_paragraph_two2": "投币项目只有上涨或下跌两种结果；如果遇到涨跌幅为0%，投币将退还。",
-		"detail_paragraph_two3": "市场交易数据、交易结果以https://coinmarketcap.com/为准。"
+		"content_title_detail": "Dự đoán tài chính",
+		"detail_big_title": "Dự đoán tài chính",
+		"detail_paragraph_one": "tính toán dự đoán",
+		"detail_paragraph_one1": "Tất cả các dự đoán sẽ được giải quyết sau thời gian và ngày được chỉ định trong dự đoán。",
+		"detail_paragraph_one2": "Dữ liệu và kết quả giao dịch thị trường sẽ được lấy từ các bên thứ ba có uy tín。",
+		"detail_paragraph_one3": "Nếu thị trường không có dữ liệu hợp lệ dựa trên các vấn đề kỹ thuật hoặc dữ liệu không thể được xác nhận, nền tảng có quyền giữ lại khoản thanh toán bị trì hoãn cho đến khi được xác nhận bởi bên thứ ba đáng tin cậy.。",
+		"detail_paragraph_one4": "Nếu thị trường không thể tìm thấy xác nhận dữ liệu từ bên thứ ba đáng tin cậy, dự đoán sẽ không hợp lệ và cổ phần sẽ được hoàn trả。",
+		"detail_paragraph_one5": "Nền tảng có quyền sửa các khoản thanh toán sai bất cứ lúc nào。",
+		"detail_paragraph_one6": "Nếu bội số rõ ràng là sai, nền tảng có quyền hủy dự đoán có liên quan.。",
+		"detail_paragraph_two": "Giá / thị trường tài sản kỹ thuật số tăng / giảm",
+		"detail_paragraph_two1": "Thời gian đóng cửa dựa trên 00:00 UTC. Giá đóng cửa được tính dựa trên mức trung bình có trọng số của khối lượng của mỗi thị trường。",
+		"detail_paragraph_two2": "Lựa chọn dự đoán chỉ có hai kết quả: tăng hoặc giảm; nếu có 0% tăng / giảm, dự đoán sẽ được hoàn trả。",
+		"detail_paragraph_two3": "Dữ liệu và kết quả giao dịch thị trường được lấy từ https://coinmarketcap.com/。"
 	},
 	"zh-Hant": {
 		"content_title_detail": "金融",
