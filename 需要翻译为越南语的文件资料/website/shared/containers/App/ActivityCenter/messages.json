@@ -39,12 +39,12 @@
 		"hide_detail": "View less"
 	},
 	"vi": {
-		"activity_center_title": "活动中心",
-		"is_long_term_show": "长期",
-		"go_to_join": "立即参与",
-		"show_detail": "查看全部",
-		"hide_detail": "收起",
-		"rule_title": "活动规则:"
+		"activity_center_title": "trung tâm sự kiện",
+		"is_long_term_show": "dài hạn",
+		"go_to_join": "lập tức tham gia",
+		"show_detail": "xem toàn bộ",
+		"hide_detail": "thu hồi",
+		"rule_title": "quy tắc sự kiện:"
 	},
 	"zh-Hant": {
 		"activity_center_title": "活動中心",
