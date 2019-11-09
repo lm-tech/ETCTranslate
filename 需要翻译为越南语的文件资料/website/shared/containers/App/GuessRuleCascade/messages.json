@@ -70,18 +70,18 @@
 		"detail_paragraph_three": "如遇到任何问题，请通过客服email与我们联系：support@coingame.com。"
 	},
 	"vi": {
-		"content_title_detail": "过关",
-		"detail_big_title": "过关",
-		"detail_paragraph_one": "串关是指选择二个或更多的赛事在一个单一的注单中。串关里面的所有赛事必须获胜，注单才视为“胜利”。如果组合的其中一单是获胜的，即会添加到下一个投币选项，直到该串关所有的单都获胜或直到有一场失败为结束。",
-		"detail_paragraph_one1": "如果组合中的一个或者多个选择被取消，该串关注单仍然有效，但被取消的预测项目的倍数将以1计算。",
-		"detail_paragraph_two": "串关的通用规则：",
-		"detail_paragraph_two1": "1、一个注单中最多为十串一。",
-		"detail_paragraph_two2": "2、串关注单中所投币的赛事皆需根据Coingame的预测规则为准。",
-		"detail_paragraph_two3": "3、串关不能有同一赛事的组合或相互影响的串关投币组合。",
-		"detail_paragraph_two4": "4、即使比赛时间不一致，串关所有投币的赛事也不能有同一球队或球员。 ",
-		"detail_paragraph_two5": "5、福利彩票、趣味预测以及各项赛事的滚球盘均无法参与串关投币。",
-		"detail_paragraph_two6": "6、Coingame保留有关赛事是否可以串关的权利。",
-		"detail_paragraph_three": "如遇到任何问题，请通过客服email与我们联系：support@coingame.com。"
+		"content_title_detail": "Parlay",
+		"detail_big_title": "Parlay",
+		"detail_paragraph_one": "Parlay là một đơn hàng liên quan đến hai hoặc nhiều sự kiện thể thao. Toàn bộ đơn hàng sẽ chỉ được coi là Chuyện giành chiến thắng khi mọi tùy chọn được chọn trong parlay thắng. Nếu một trong các tùy chọn thắng, khoản thanh toán của nó sẽ là được quảng cáo cho tùy chọn tiếp theo cho đến khi mọi tùy chọn được chọn trong parlay thắng hoặc bất kỳ tùy chọn nào bị mất。",
+		"detail_paragraph_one1": "Nếu một hoặc nhiều tùy chọn trong parlay bị hủy, thứ tự parlay sẽ vẫn hợp lệ, nhưng bội số của các tùy chọn bị hủy sẽ được tính là 1。",
+		"detail_paragraph_two": "Quy tắc chung cho Parlays：",
+		"detail_paragraph_two1": "1、Một đơn hàng parlay có thể chứa tối đa 10 tùy chọn。",
+		"detail_paragraph_two2": "2、 Tất cả các sự kiện thể thao được bao gồm trong thứ tự parlay đều phải áp dụng cho các quy tắc dự đoán của Coingame。",
+		"detail_paragraph_two3": "3、 Parlay không thể chứa các tùy chọn của cùng một sự kiện thể thao hoặc tùy chọn tương tác。",
+		"detail_paragraph_two4": "4、Ngay cả khi các sự kiện diễn ra vào thời điểm khác nhau, tất cả các tùy chọn được chọn trong parlay không thể chứa cùng một đội hoặc người chơi.。 ",
+		"detail_paragraph_two5": "5、 Xổ số, sự kiện đặc biệt và tất cả các trận đấu trong trò chơi không có sẵn để tham gia.。",
+		"detail_paragraph_two6": "6、Coingame có quyền xác định tính khả dụng của các sự kiện thể thao có liên quan。",
+		"detail_paragraph_three": "Nếu bạn có bất kỳ vấn đề thắc mắc nào, vui lòng liên hệ với dịch vụ khách hàng tại: support@coingame.com。"
 	},
 	"zh-Hant": {
 		"content_title_detail": "串關",
