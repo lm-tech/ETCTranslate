@@ -30,10 +30,10 @@
 		"activity_goto_invite": "Invitation Offer"
 	},
 	"vi": {
-		"activity_goto_home": "返回首页",
-		"activity_goto_register": "注册送",
-		"activity_goto_deposit": "首充送",
-		"activity_goto_invite": "邀请送"
+		"activity_goto_home": "trở về trang chủ",
+		"activity_goto_register": "ưu đãi đăng ký",
+		"activity_goto_deposit": "ưu đãi nạp",
+		"activity_goto_invite": "ưu đãi khi mời"
 	},
 	"zh-Hant": {
 		"activity_goto_home": "返回首頁",
