@@ -20,8 +20,8 @@
 		"record_detail_custom": "Настроить"
 	},
 	"vi": {
-		"record_detail_later_30": "最近30天",
-		"record_detail_custom": "自定义"
+		"record_detail_later_30": "30 ngày gần nhất",
+		"record_detail_custom": "tùy chỉnh"
 	},
 	"zh-Hant": {
 		"record_detail_later_30": "最近30天",
