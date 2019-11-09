@@ -75,18 +75,18 @@
 		"category-game8": "街機"
 	},
 	"vi": {
-		"title-1": "热门游戏",
-		"title-2": "全部游戏",
-		"title-3": "最近玩过",
-		"btn-1": "开始游戏",
-		"history-desc": "猜你喜欢",
-		"category-game1": "棋牌",
-		"category-game2": "体育",
-		"category-game3": "休闲",
-		"category-game4": "射击",
-		"category-game5": "竞速",
-		"category-game6": "冒险",
-		"category-game7": "益智",
-		"category-game8": "街机"
+		"title-1": "Game hot",
+		"title-2": "toàn bộ Game",
+		"title-3": "gần đây đã chơi",
+		"btn-1": "bắt đầu chơi",
+		"history-desc": "game bạn yêu thích",
+		"category-game1": "Cards",
+		"category-game2": "Sports",
+		"category-game3": "casual",
+		"category-game4": "Shooting",
+		"category-game5": "racing",
+		"category-game6": "Adventure",
+		"category-game7": "câu đố",
+		"category-game8": "Arcade"
 	}
 }
