@@ -30,10 +30,10 @@
 		"detail_game_sessions": "{sessions} раунд"
 	},
 	"vi": {
-		"coming_title": "即将开赛",
-		"update": "换一换",
-		"more": "更多",
-		"detail_game_sessions": "第{sessions}轮"
+		"coming_title": "coming soon",
+		"update": "switch",
+		"more": "more",
+		"detail_game_sessions": "số{sessions}vòng"
 	},
 	"zh-Hant": {
 		"coming_title": "即将开赛",
