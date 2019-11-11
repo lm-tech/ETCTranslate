@@ -82,12 +82,12 @@
 		"service_center_content_paragraph_7": "Any future wagers, Bonus funds and entries in any promotions during in a requested self-exclusion time will be forfeited, resulting in no return of stakes or payment of winnings. We will not be able to reinstate these if the account is reopened after the self-exclusion period.",
 		"service_center_content_paragraph_8": "Any remaining funds left in your account, less any active bonus, will be returned to your Digital Currency wallet upon request. You will not be able to access your account to withdraw any digital currencies during your requested self-exclusion.",
 		"service_center_content_paragraph_9": "You acknowledge that:",
-		"service_center_content_paragraph_10": "1. Bạn không nên cố gắng hoặc thực tế đặt bất kỳ cược nào vào bất kỳ tài khoản nào mà bạn đã yêu cầu loại trừ trong quá trình tự loại trừ đã chọn.",
-		"service_center_content_paragraph_11": "2. Bạn không nên cố gắng hoặc thực tế tiến hành mở bất kỳ tài khoản mới nào trong khoảng thời gian tự loại trừ của bạn.",
-		"service_center_content_paragraph_12": "3.Nếu bạn thành công trong việc mở tài khoản mới trong thời gian tự loại trừ, chúng tôi sẽ đóng tài khoản trong thời gian sớm nhất .",
-		"service_center_content_paragraph_13": "4. Trách nhiệm của Coingame chỉ là thực hiện các bước hợp lý để ngăn bạn đánh bạc trên bất kỳ sản phẩm nào của chúng tôi.",
-		"service_center_content_paragraph_14": "5. Đây là yêu cầu tự nguyện của bạn. Nếu bạn tiến hành vi phạm thỏa thuận này, Coingame hoặc bất kỳ nhân viên nào của công ty không chịu trách nhiệm hoặc chịu trách nhiệm cho bất kỳ tổn thất nào bạn có thể phải chịu. thời gian loại trừ sẽ không được hoàn trả.",
-		"service_center_content_paragraph_15":" Khi tự loại trừ  của bạn kết thúc, tài khoản của bạn sẽ tự động được mở lại, tuy nhiên, bạn sẽ nhận được email xác nhận thông tin này sẽ được gửi đến địa chỉ email đã đăng ký của bạn"
+		"service_center_content_paragraph_10": "1. You should not attempt to or in fact place any wager on any of your accounts that you have requested to be excluded from during your selected self-exclusion.",
+		"service_center_content_paragraph_11": "2. You should not attempt or in fact proceed to open any new accounts during your self-exclusion period.",
+		"service_center_content_paragraph_12": "3. If you succeed in opening a new account during a self-exclusion period, we will close the account at our earliest detection.",
+		"service_center_content_paragraph_13": "4. Coingame’s responsibility is only to take reasonable steps to prevent you from gambling on any of our products.",
+		"service_center_content_paragraph_14": "5. This is a voluntary request made by you. If you proceed to breach this agreement, Coingame or any of its employees are not held accountable or liable for any losses you may suffer. Any losses acquired during your self-exclusion period will not be refunded.",
+		"service_center_content_paragraph_15": "Once your selected self-exclusion comes to an end your account will automatically be reopened, however, you will receive an email confirmation of this information which will be sent to your registered email address."
 	},
 	"vi": {
 		"service_center_content_title": "Điều khoản và điều kiện tự loại trừ của Coingame",
@@ -100,11 +100,11 @@
 		"service_center_content_paragraph_7": "Bất kỳ cược nào trong tương lai, tiền thưởng và các mục trong bất kỳ chương trình khuyến mãi nào trong thời gian tự loại trừ được yêu cầu sẽ bị hủy bỏ, dẫn đến không trả lại tiền đặt cược hoặc thanh toán tiền thắng cược. Chúng tôi sẽ không thể khôi phục các khoản này nếu tài khoản được mở lại sau thời gian tự loại trừ.",
 		"service_center_content_paragraph_8": ".Mọi khoản tiền còn lại trong tài khoản của bạn, trừ bất kỳ phần thưởng hoạt động nào, sẽ được trả lại vào ví Tiền tệ kỹ thuật số của bạn theo yêu cầu. Bạn sẽ không thể truy cập vào tài khoản của mình để rút bất kỳ loại tiền kỹ thuật số nào trong khi bạn tự loại trừ",
 		"service_center_content_paragraph_9": "điều cần biết:",
-		"service_center_content_paragraph_10": "1. You should not attempt to or in fact place any wager on any of your accounts that you have requested to be excluded from during your selected self-exclusion.",
-		"service_center_content_paragraph_11": "2. You should not attempt or in fact proceed to open any new accounts during your self-exclusion period.",
-		"service_center_content_paragraph_12": "3. If you succeed in opening a new account during a self-exclusion period, we will close the account at our earliest detection.",
-		"service_center_content_paragraph_13": "4. Coingame’s responsibility is only to take reasonable steps to prevent you from gambling on any of our products.",
-		"service_center_content_paragraph_14": "5. This is a voluntary request made by you. If you proceed to breach this agreement, Coingame or any of its employees are not held accountable or liable for any losses you may suffer. Any losses acquired during your self-exclusion period will not be refunded.",
-		"service_center_content_paragraph_15": "6. Once your selected self-exclusion comes to an end your account will automatically be reopened, however, you will receive an email confirmation of this information which will be sent to your registered email address."
-	}
+		"service_center_content_paragraph_10": "1. Bạn không nên cố gắng hoặc thực tế đặt bất kỳ cược nào vào bất kỳ tài khoản nào mà bạn đã yêu cầu loại trừ trong quá trình tự loại trừ đã chọn.",
+		"service_center_content_paragraph_11": "2. Bạn không nên cố gắng hoặc thực tế tiến hành mở bất kỳ tài khoản mới nào trong khoảng thời gian tự loại trừ của bạn.",
+		"service_center_content_paragraph_12": "3.Nếu bạn thành công trong việc mở tài khoản mới trong thời gian tự loại trừ, chúng tôi sẽ đóng tài khoản trong thời gian sớm nhất .",
+		"service_center_content_paragraph_13": "4. Trách nhiệm của Coingame chỉ là thực hiện các bước hợp lý để ngăn bạn đánh bạc trên bất kỳ sản phẩm nào của chúng tôi.",
+		"service_center_content_paragraph_14": "5. Đây là yêu cầu tự nguyện của bạn. Nếu bạn tiến hành vi phạm thỏa thuận này, Coingame hoặc bất kỳ nhân viên nào của công ty không chịu trách nhiệm hoặc chịu trách nhiệm cho bất kỳ tổn thất nào bạn có thể phải chịu. thời gian loại trừ sẽ không được hoàn trả.",
+		"service_center_content_paragraph_15":" Khi tự loại trừ  của bạn kết thúc, tài khoản của bạn sẽ tự động được mở lại, tuy nhiên, bạn sẽ nhận được email xác nhận thông tin này sẽ được gửi đến địa chỉ email đã đăng ký của bạn"
+	},
 }
