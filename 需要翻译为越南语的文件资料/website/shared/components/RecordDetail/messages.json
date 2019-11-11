@@ -40,12 +40,12 @@
 		"record_detail_give": "Подарено платформой"
 	},
 	"vi": {
-		"record_detail_later_30": "最近30天",
-		"record_detail_custom": "自定义",
-		"record_detail_forecast": "预测记录",
-		"record_detail_input": "充值记录",
-		"record_detail_output": "提币记录",
-		"record_detail_give": "平台赠送"
+		"record_detail_later_30": "30 ngày gần nhất",
+		"record_detail_custom": "tùy chỉnh",
+		"record_detail_forecast": "lịch sử dự đoán",
+		"record_detail_input": "lịch sử nạp",
+		"record_detail_output": "lịch sử rút",
+		"record_detail_give": "giải thưởng"
 	},
 	"zh-Hant": {
 		"record_detail_later_30": "最近30天",
