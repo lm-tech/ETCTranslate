@@ -45,13 +45,13 @@
 		"content_title_esports": "Крайний срок подачи ставок будет скорректирован в зависимости от времени начала игры."
 	},
 	"vi": {
-		"content_title_word_cup": "足球",
-		"content_title_number_coin": "数字货币",
-		"content_title_detail": "预测细则",
-		"funny_guessing": "趣味预测",
-		"esports": "电竞",
-		"content_title_guide": "新手引导",
-		"content_title_esports": "投币时间将根据实际比赛时间调整"
+		"content_title_word_cup": "bóng đá",
+		"content_title_number_coin": "tiền điện tử kỹ thuật số",
+		"content_title_detail": "chi tiết dự đoán",
+		"funny_guessing": "dự đoán",
+		"esports": "E-sport",
+		"content_title_guide": "hướng dẫn cho người dùng mới",
+		"content_title_esports": "thời gian dự đoán sẽ được điều chỉnh theo thời gian thực tế của trận đấu"
 	},
 	"zh-Hant": {
 		"content_title_word_cup": "足球",
