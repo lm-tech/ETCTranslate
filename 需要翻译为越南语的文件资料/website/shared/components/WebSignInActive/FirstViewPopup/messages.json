@@ -50,13 +50,13 @@
 		"change_currency": "更換幣種"
 	},
 	"vi": {
-		"rules": "活动规则",
-		"check_able": "签到",
-		"check_done": "已领取",
-		"check_max": "名额已满",
-		"continues_1": "连续签到最高可额外获得 ",
+		"rules": "quy tắc sự kiện",
+		"check_able": "đăng ký",
+		"check_done": "đã nhận",
+		"check_max": "danh sách đã đầy",
+		"continues_1": "đăng ký liên tục để nhạn thưởng ",
 		"continues_2": "",
-		"received": "恭喜您，获得",
-		"change_currency": "更换币种"
+		"received": "chúc mừng，nhận",
+		"change_currency": "đổi coin"
 	}
 }

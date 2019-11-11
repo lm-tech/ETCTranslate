@@ -45,13 +45,13 @@
 		"detail_history_toBottom": "已经到达底线"
 	},
 	"vi": {
-		"forcast_bet_single_number": "投币单号",
-		"forcast_bet_single_time": "投币时间",
-		"forcast_bet_single_amount": "投币数",
-		"forcast_bet_single_money": "投币金额",
-		"forcast_bet_single_Non_assets": "不可提资产抵扣",
-		"record_table_no_data": "暂无数据",
-		"detail_history_toBottom": "已经到达底线"
+		"forcast_bet_single_number": "mã đơn dự đoán",
+		"forcast_bet_single_time": "thời gian dự đoán",
+		"forcast_bet_single_amount": "số lượng đoán",
+		"forcast_bet_single_money": "số tiền dự đoán",
+		"forcast_bet_single_Non_assets": "Phần bù tài sản không thể rút được",
+		"record_table_no_data": "dữ liệu chưa cập nhật",
+		"detail_history_toBottom": "kết thúc danh sách"
 	},
 	"zh-Hant": {
 		"forcast_bet_single_number": "投币單號",
