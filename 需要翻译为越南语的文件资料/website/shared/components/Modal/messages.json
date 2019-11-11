@@ -44,12 +44,12 @@
 		"detail_forecast_copied": "скопированный"
 	},
 	"vi": {
-		"dtail_forecast_title": "ETC预测",
-		"detail_forecast_choose": "选择：",
-		"detail_forecast_address": "预测充币地址：",
-		"detail_forecast_notice": "禁止从交易所直接提币至预测地址,请使用官方或私人钱包充值ETC到预测地址",
-		"detail_forecast_all": "最小单笔预测金额： 0.5ETC",
-		"detail_forecast_copied": "已复制"
+		"dtail_forecast_title": " dự đoán ETC",
+		"detail_forecast_choose": "tự chọn：",
+		"detail_forecast_address": "địa chỉ nạp tiền dự đoán：",
+		"detail_forecast_notice": "Rút tiền trực tiếp từ địa chỉ trao đổi sang địa chỉ dự báo đều bị cấm",
+		"detail_forecast_all": "số iền dự đoán tối thiểu： 0.5ETC",
+		"detail_forecast_copied": "đã copy"
 	},
 	"zh-Hant": {
 		"dtail_forecast_title": "ETC預測",
