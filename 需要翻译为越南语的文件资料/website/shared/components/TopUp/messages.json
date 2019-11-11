@@ -50,14 +50,14 @@
 		"topUp_wx": "Wechat:"
 	},
 	"vi": {
-		"guide_link": "新手引导",
-		"services_link": "使用条款",
-		"personal_link": "隐私条款",
-		"guess_detail": "预测细则",
-		"menu_home": "首页",
-		"loading_error": "加载失败",
-		"refresh": "重新加载",
-		"topUp_wx": "微信:"
+		"guide_link": "hướng dẫn cho người dùng mới",
+		"services_link": "điều khoản sử dụng",
+		"personal_link": "điều khoản cá nhân",
+		"guess_detail": "chi tiết dự đoán",
+		"menu_home": "trang chủ",
+		"loading_error": "loading error",
+		"refresh": "refresh",
+		"topUp_wx": "Wechat:"
 	},
 	"zh-Hant": {
 		"guide_link": "新手引導",
