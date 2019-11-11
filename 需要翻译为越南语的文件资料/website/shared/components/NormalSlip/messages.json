@@ -334,7 +334,7 @@
 		"bet_range": "phạm vi dự đoán:",
 		"bet_text": "dự đoán",
 		"bet_game_address": "Vui lòng chuyển {curency} của bạn vào địa chỉ hợp đồng thông minh để hoàn thành dự đoán của bạn：",
-		"bet_warning": "Không thể hỗ trợ rút tiền trực tiếp từ các trao đổi đến các địa chỉ dự đoán. Vui lòng đảm bảo gửi tiền bằng ví chính thức hoặc riêng tư. Nên đặt Giới hạn Gas là"",
+		"bet_warning": "Không thể hỗ trợ rút tiền trực tiếp từ các trao đổi đến các địa chỉ dự đoán. Vui lòng đảm bảo gửi tiền bằng ví chính thức hoặc riêng tư. Nên đặt Giới hạn Gas là",
 		"bet_warning2": "150,000",
 		"bet_warning3": "để đảm bảo giao dịch thành công。",
 		"bet_login": "đăng nhập hội viên",
