@@ -15,7 +15,7 @@
 		"terminal_time": "Closing in {time}s"
 	},
 	"vi": {
-		"terminal_time": "{time}s后自动关闭"
+		"terminal_time": "{time}stự động đóng"
 	},
 	"zh-Hant": {
 		"terminal_time": "{time}s後自動關閉"

@@ -65,16 +65,16 @@
 		"pwd_confirm_valid": "確認新資金密碼"
 	},
 	"vi": {
-		"pwd_title": "设置资金密码",
-		"pwd_label": "资金密码:",
-		"pwd_label_confirm": "确认密码:",
-		"button_confirm": "确定",
-		"pwd_tips": "*为了您的资金安全，此密码将作为您提币重要凭证。",
-		"pwd_require": "请输入密码",
-		"pwd_confirm_require": "请确认密码",
-		"pwd_confirm_error": "密码不一致",
-		"pwd_submit_success": "设置成功",
-		"pwd_valid": "请输入6位数字资金密码",
-		"pwd_confirm_valid": "确认新资金密码"
+		"pwd_title": "thiết lập mật khẩu quỹ",
+		"pwd_label": "mật khẩu quỹ:",
+		"pwd_label_confirm": "xác nhận mật khẩu:",
+		"button_confirm": "xác nhận",
+		"pwd_tips": "*vì sự an toàn tài khoản của bạn，mật khẩu này sẽ được làm xác minh để bạn rút tiền。",
+		"pwd_require": "vui lòng nhập mật khẩu",
+		"pwd_confirm_require": "vui lòng xác nhận mật khẩu",
+		"pwd_confirm_error": "mật khẩu không đồng nhất",
+		"pwd_submit_success": "thiết lập thành công",
+		"pwd_valid": "vui lòng nhập 6 ký tự số mật khẩu",
+		"pwd_confirm_valid": "xác nhận mật khẩu mới"
 	}
 }
