@@ -80,19 +80,19 @@
 		"tab_home": "我的"
 	},
 	"vi": {
-		"header_title_word_cup": "足球",
-		"header_title_funny_guessing": "趣味预测",
-		"esports": "电竞",
-		"user_center": "个人中心",
-		"activity_center": "活动中心",
-		"centralization": "会员投币",
-		"non_centralization": "合约投币",
-		"guess_competition": "账号投币",
-		"contract_bet": "合约投币",
-		"guess_content": "游戏大厅",
-		"tab_sports": "赛事",
-		"tab_activity": "活动",
-		"tab_wallet": "资产",
-		"tab_home": "我的"
+		"header_title_word_cup": "bóng đá",
+		"header_title_funny_guessing": "dự đoán",
+		"esports": "E-sport",
+		"user_center": "trung tâm cá nhân",
+		"activity_center": "trung tâm sự kiện",
+		"centralization": "dự đoán của hội viên",
+		"non_centralization": "hợp đồng dự đoán",
+		"guess_competition": "tài khoản dự đoán",
+		"contract_bet": "hợp đồng dự đoán",
+		"guess_content": "khu vực game",
+		"tab_sports": "sport",
+		"tab_activity": "sự kiện",
+		"tab_wallet": "asset",
+		"tab_home": "của tôi"
 	}
 }
