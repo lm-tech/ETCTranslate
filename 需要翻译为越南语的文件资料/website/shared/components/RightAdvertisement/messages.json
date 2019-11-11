@@ -35,11 +35,11 @@
 		"go_bets": "Прямая ставка"
 	},
 	"vi": {
-		"back_normal_bets": "返回智能合约投币",
-		"back_quick_bets": "返回会员投币",
-		"login_and_quick_bets": "登录会员即刻享受极速投币",
-		"go_login": "会员登录",
-		"go_bets": "直接投币"
+		"back_normal_bets": "trở về trang dự đoán hợp đồng thông minh",
+		"back_quick_bets": "trở về trang hội viên dự đoán",
+		"login_and_quick_bets": "Đăng nhập để đặt dự báo",
+		"go_login": "đăng nhập hội viên",
+		"go_bets": "dự đoán trực tiếp"
 	},
 	"zh-Hant": {
 		"back_normal_bets": "返回智能合約投币",
