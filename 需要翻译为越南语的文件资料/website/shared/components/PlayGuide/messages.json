@@ -335,66 +335,66 @@
   },
   "vi": {
     "infoSlider_text": [{
-        "name": "新手指导"
+        "name": "hướng dẫn cho người dùng mới"
       },
       {
-        "name": "预测细则"
+        "name": "chi  tiết dự đoán"
       },
       {
-        "name": "常见问题"
+        "name": "vấn đề thường gặp"
       },
       {
-        "name": "使用条款"
+        "name": "điều khoản sử dụng"
       },
       {
-        "name": "隐私声明"
+        "name": "tuyên bố quyền riêng tư"
       },
       {
-        "name": "币种声明"
+        "name": "trò chơi trách nhiệm"
       }
     ],
     "sliderGuideChildText": [{
-        "name": "账号投币"
+        "name": "tài khoản dự đoán"
       },
       {
-        "name": "智能合约投币"
+        "name": "dự đoán hợp đồng thông minh"
       }
     ],
     "infoSlider_child_text": [{
-        "name": "足球"
+        "name": "bóng đá"
       },
       {
-        "name": "电竞"
+        "name": "E-sport"
       },
       {
-        "name": "篮球"
+        "name": "bóng rổ"
       },
       {
-        "name": "棒球"
+        "name": "bóng chày"
       },
       {
-        "name": "网球"
+        "name": "tennis"
       },
       {
-        "name": "排球"
+        "name": "bóng chuyền"
       },
       {
-        "name": "斯诺克"
+        "name": "snooker"
       },
       {
-        "name": "飞镖"
+        "name": "phi tiêu"
       },
       {
-        "name": "彩票"
+        "name": "lotterry"
       },
       {
-        "name": "金融"
+        "name": "tài chính"
       },
       {
-        "name": "滚球"
+        "name": "bowling ball"
       },
       {
-        "name": "过关"
+        "name": "parlay"
       }
     ]
   },
