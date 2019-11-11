@@ -25,8 +25,8 @@
 		"abord_password": "設置登錄密碼"
 	},
 	"vi": {
-		"abord_tips": "您输入的账号所关联的第三方{info}账户已在我们平台完成注册。我们强烈建议您设置登录密码，以便使用邮箱和登录密码进行直接登录。",
-		"abord_login": "第三方账号登录",
-		"abord_password": "设置登录密码"
+		"abord_tips": "Tài khoản {thông tin} với địa chỉ Email đã nhập đã được đăng ký trên Coingame. Rất khuyến khích thiết lập mật khẩu đăng nhập để bạn có thể đăng nhập trực tiếp bằng địa chỉ Email của mình cùng với nó。",
+		"abord_login": "tài khoản đăng nhập của bên thử ba",
+		"abord_password": "thiết lập mật khẩu đăng nhập"
 	}
 }
