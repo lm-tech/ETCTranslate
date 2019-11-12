@@ -54,7 +54,7 @@
     "no_bind":"未綁定",
     "footer_no_bind":"暫不綁定"
   }
-   "vi": {
+  "vi": {
     "bind_auth_verify": "Ít nhất hai loại phương thức  liên kết xác thực là bắt buộc",
     "bind_ath_tip":"Để đảm bảo an toàn tài sản, vui lòng bật ít nhất một phương thức xác thực để rút tiền",
     "google_bind":"Kích hoạt Google Authenticator",
