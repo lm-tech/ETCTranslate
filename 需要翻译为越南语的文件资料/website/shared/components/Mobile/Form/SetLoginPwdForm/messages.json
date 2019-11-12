@@ -136,7 +136,7 @@
 	},
 	"vi": {
 		"label_repassword": "xác nhận mật khẩu",
-		"label_vcode": "mã xác nhận Email,
+		"label_vcode": "mã xác nhận Email",
 		"input_email_placeholder": "vui lòng xác nhận Email",
 		"label_pwd_placeholder": "mật khẩu 8 đến 32 ký tự",
 		"label_vcode_placeholder": "vui lòng nhập mã xác nhận Email",
