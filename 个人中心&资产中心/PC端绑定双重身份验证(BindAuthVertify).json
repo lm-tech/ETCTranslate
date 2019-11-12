@@ -55,14 +55,14 @@
     "footer_no_bind":"暫不綁定"
   }
   "vi": {
-    "bind_auth_verify": "绑定双重身份验证",
-    "bind_ath_tip":"用于提币时进行安全验证，为了保障账户资金安全，请至少再开启1项身份验证",
-    "google_bind":"谷歌验证器绑定",
-    "email_bind":"邮箱验证绑定",
-    "google_bind_tip":"提现安全验证，请绑定谷歌验证器",
-    "email_bind_tip":"提现安全验证，请绑定手机",
-    "bind":" 已绑定",
-    "no_bind":"绑定",
-    "footer_no_bind":"暂不绑定"
+    "bind_auth_verify": "Ít nhất hai loại phương thức  liên kết xác thực là bắt buộc",
+    "bind_ath_tip":"Để đảm bảo an toàn tài sản, vui lòng bật ít nhất một phương thức xác thực để rút tiền",
+    "google_bind":"Kích hoạt Google Authenticator",
+    "email_bind":"liên kết xác thực Email",
+    "google_bind_tip":"Vui lòng bật Google Authenticator để hoàn tất xác thực rút tiền",
+    "email_bind_tip":"Vui lòng liên kết với số điện thoại xác thực để hoàn tất xác thực rút tiền",
+    "bind":"đã liên kết",
+    "no_bind":"liên kết",
+    "footer_no_bind":"chưa liên kết"
   },
 }
