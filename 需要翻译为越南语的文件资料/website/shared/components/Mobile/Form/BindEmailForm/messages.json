@@ -75,18 +75,18 @@
 		"login_error_other": "系統異常"
 	},
 	"vi": {
-		"input_email_placeholder": "请输入邮箱地址",
-		"input_vcode_placeholder": "请输入邮箱验证码",
-		"send_vcode": "发送验证码",
-		"input_email_empty": "请输入邮箱地址",
-		"input_email_error": "请输入正确的邮箱",
-		"input_vcode_empty": "请输入验证码",
-		"confirm": "确定",
-		"email_tips": "此{info}账号关联的邮箱账号在系统中已存在，需要验证目标邮箱进行账户绑定。您也可以使用关联的邮箱账号直接登录。",
-		"email_force_tips": "为了您的账户安全，强烈建议绑定邮箱账号。",
-		"change_email_form_send_success": "发送成功， 请查收",
-		"login_error_1002": "邮箱验证码不正确",
-		"login_error_1004": "账号被冻结，冻结时长2小时",
-		"login_error_other": "系统异常"
+		"input_email_placeholder": "vui lòng nhập địa chỉ Email",
+		"input_vcode_placeholder": "请输入邮箱验证码vui lòng nhập mã xác nhận Email",
+		"send_vcode": "gửi mã xác nhận",
+		"input_email_empty": "vui lòng nhập địa chỉ Email",
+		"input_email_error": "vui lòng nhập mã xác nận Email",
+		"input_vcode_empty": "vui lòng nhập mã xác nhận",
+		"confirm": "xác nhận",
+		"email_tips": "Địa chỉ Email của tài khoản {info} này đã tồn tại trong hệ thống. Cần phải xác minh địa chỉ để liên kết tài khoản. Bạn cũng có thể đăng nhập trực tiếp bằng tài khoản Coingame bằng địa chỉ Email này。",
+		"email_force_tips": "Để bảo mật tài khoản của bạn, rất nên liên kết địa chỉ Email.。",
+		"change_email_form_send_success": "đã gửi, vui lòng kiểm tra",
+		"login_error_1002": "mã xác nhận Email không chính xác",
+		"login_error_1004": "tài khoản bị đóng băng, thời gian đóng băng 2 tiếng",
+		"login_error_other": "lỗi hệ thống"
 	}
 }
