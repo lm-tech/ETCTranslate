@@ -54,4 +54,15 @@
     "no_bind":"未綁定",
     "footer_no_bind":"暫不綁定"
   }
+  "vi": {
+    "bind_auth_verify": "绑定双重身份验证",
+    "bind_ath_tip":"用于提币时进行安全验证，为了保障账户资金安全，请至少再开启1项身份验证",
+    "google_bind":"谷歌验证器绑定",
+    "email_bind":"邮箱验证绑定",
+    "google_bind_tip":"提现安全验证，请绑定谷歌验证器",
+    "email_bind_tip":"提现安全验证，请绑定手机",
+    "bind":" 已绑定",
+    "no_bind":"绑定",
+    "footer_no_bind":"暂不绑定"
+  },
 }
