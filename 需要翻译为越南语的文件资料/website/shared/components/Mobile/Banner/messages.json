@@ -30,10 +30,10 @@
 		"banner_stpe_three": "Регистрация и покупка ETC"
 	},
 	"vi": {
-		"banner_order_title": "已开奖金额：",
-		"banner_stpe_one": "注册并购买ETC",
-		"banner_stpe_two": "将ETC转入您的私人钱包",
-		"banner_stpe_three": "将钱包中的ETC转入预测选项的合约地址中"
+		"banner_order_title": "đã mở giải：",
+		"banner_stpe_one": "đăng ký để mua ETC",
+		"banner_stpe_two": "đưa ETC vào ví của bạn",
+		"banner_stpe_three": "Chuyển ETC trong ví sang địa chỉ hợp đồng của tùy chọn dự báo"
 	},
 	"zh-Hant": {
 		"banner_order_title": "已開獎金額：",
