@@ -35,11 +35,11 @@
 		"forcast_time_seconds": "секунды"
 	},
 	"vi": {
-		"forcast_time_title": "预测时间：剩余",
-		"forcast_time_day": "天",
-		"forcast_time_hour": "时",
-		"forcast_time_minite": "分",
-		"forcast_time_seconds": "秒"
+		"forcast_time_title": "thời gian dự đoán：còn lại",
+		"forcast_time_day": "ngày",
+		"forcast_time_hour": "giờ",
+		"forcast_time_minite": "phút",
+		"forcast_time_seconds": "giây"
 	},
 	"zh-Hant": {
 		"forcast_time_title": "競猜時間：剩餘",
