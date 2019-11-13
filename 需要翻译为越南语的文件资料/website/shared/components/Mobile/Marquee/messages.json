@@ -20,8 +20,8 @@
 		"marquee2_earn": "User{account},prediction on【{playname}】 and win {amount} {currency}, let's congratulate him!"
 	},
 	"vi": {
-		"marquee_invest": "用户{account},在【{playname}】投币了{amount} {currency},大家快来围观！",
-		"marquee2_earn": "用户{account},在【{playname}】赢得了{amount} {currency},让我们恭喜他！"
+		"marquee_invest": "tài khoản{account},đang【{playname}】dự đoán{amount} {currency},mọi người cùng nhau xem nhé！",
+		"marquee2_earn": "tài khoản{account},đang【{playname}】thắng{amount} {currency},hãy cùng chúc mừng người chiến thắng！"
 	},
 	"zh-Hant": {
 		"marquee_invest": "用戶{account},在【{playname}】投币了{amount} {currency},大家快來圍觀！",
