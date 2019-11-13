@@ -65,16 +65,16 @@
 		"index": "Index"
 	},
 	"vi": {
-		"game_1": "游戏(7)",
+		"game_1": "Game(7)",
 		"mining_2": "Mining",
 		"bjl_2": "Baccarat",
 		"rocket_2": "Rocket",
 		"median_2": "Median",
 		"goal_2": "Goal",
 		"magnate_2": "Magnate",
-		"roll_pd": "滚球盘",
-		"rolling": "滚球中",
-		"roll_forecast": "滚球预告",
+		"roll_pd": "in play",
+		"rolling": "in play",
+		"roll_forecast": "coming soon",
 		"index": "Index"
 	},
 	"zh-Hant": {
