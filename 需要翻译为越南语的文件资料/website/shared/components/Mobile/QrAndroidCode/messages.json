@@ -30,10 +30,10 @@
 		"immediately": "立即下载"
 	},
 	"vi": {
-		"androidMessage": "点击按钮",
-		"androidApp": "下载安卓APP",
-		"androidVersion": "版本号:V",
-		"immediately": "立即下载"
+		"androidMessage": "nhấn vào đây",
+		"androidApp": "dowload APP",
+		"androidVersion": "bản:V",
+		"immediately": "tải ngay"
 	},
 	"zh-Hant": {
 		"androidMessage": "點擊按鈕",
