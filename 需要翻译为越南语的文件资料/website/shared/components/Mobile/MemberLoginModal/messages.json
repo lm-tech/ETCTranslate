@@ -35,11 +35,11 @@
 		"login": "Login"
 	},
 	"vi": {
-		"login_tip": "登录后使用投币功能",
-		"contact_tip": "非会员直接投币",
-		"click_tip": "请点击这里",
-		"refuse": "再看看",
-		"login": "登录"
+		"login_tip":" Đăng nhập và sử dụng chức năng dự đoán",
+		"contact_tip": "Dự đoán trực tiếp khi không phải thành viên",
+		"click_tip": "vui lòng click vào đây",
+		"refuse": "not now",
+		"login": "đăng nhập"
 	},
 	"zh-Hant": {
 		"login_tip": "登錄後使用投币功能",
