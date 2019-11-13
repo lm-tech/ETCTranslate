@@ -202,7 +202,7 @@
 		"input_validate_error_login_password": "Введите пароль длиной 8-32 символа"
 	},
 	"vi": {
-		"input_validation_empty_email": "vui lòng nhập email,
+		"input_validation_empty_email": "vui lòng nhập email,",
 		"input_validation_error_email": "vui lòng nhập mã xác nhận Email",
 		"input_validation_empty_validation_code": "vui lòng nhập mã xác nhận",
 		"input_validation_empty_password": "vui lòng nhập mã xác nhận đăng nhập",
