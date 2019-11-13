@@ -30,10 +30,10 @@
     "wchat_bottom": "让你手里的币，没事多翻几倍！"
   },
   "vi": {
-    "wchat_title": "có câu hỏi？hãy add tôi！",
+    "wchat_title": "có điều thắc mắc？mau mau add tôi！",
     "wchat_code": "ID Wechat：",
-    "wchat_read": "quẹt /mã QR",
-    "wchat_bottom": "hãy để tiền trong ví bạn，ngồi không mà cũng tăng lên như gió！"
+    "wchat_read": "quẹt mã QR/nhận biết mã QR",
+    "wchat_bottom": "Hãy làm cho ví của bạn，không làm gì mà cũng tăng lên như gió！"
   },
   "zh-Hant": {
     "wchat_title": "有问题？快加我！",
