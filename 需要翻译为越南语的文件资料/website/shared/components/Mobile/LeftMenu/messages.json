@@ -60,16 +60,16 @@
 		"promoter_active": "Promotion Zone"
 	},
 	"vi": {
-		"guide_link": "新手引导",
-		"services_link": "使用条款",
-		"personal_link": "隐私条款",
-		"guess_detail": "预测细则",
-		"menu_soccer": "足球",
-		"menu_esports": "电竞",
-		"menu_funny": "趣味预测",
-		"all_menu": "所有分类",
-		"refresh": "请重新加载",
-		"promoter_active": "推广专区"
+		"guide_link": "Hướng dẫn cho người mới bắt đầu",
+		"services_link": "điều khoan sử dụng",
+		"personal_link": "Chính sách bảo mật",
+		"guess_detail": "chi tiết dự đoán",
+		"menu_soccer": "bóng đá",
+		"menu_esports": "E-sport",
+		"menu_funny": "dự đoán",
+		"all_menu": "phân loại toàn bộ",
+		"refresh": "refresh",
+		"promoter_active": "khu vực khuyến mãi"
 	},
 	"zh-Hant": {
 		"guide_link": "新手引導",
