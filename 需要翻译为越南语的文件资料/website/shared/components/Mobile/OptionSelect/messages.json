@@ -59,15 +59,15 @@
 		"detail_forecast_title_link": "Щелкните меня, чтобы посмотреть, как участвовать в прогнозировании"
 	},
 	"vi": {
-		"detail_forecast_title": "{currency} 预测",
-		"detail_forecast_title_link": "点我查看如何参与预测",
-		"detail_forecast_choose": "选择",
-		"detail_forecast_odds": "倍数",
-		"detail_forecast_address": "请将ETC打入智能合约地址完成投币",
-		"detail_forecast_notice": "禁止从交易所直接提币至预测地址,请使用官方或私人钱包充值 {currency} 到预测地址, 建议将Gas Limit设置为150,000以确保 {currency} 能成功转币到预测地址",
-		"detail_forecast_all": "最小单笔预测金额：{amount} {currency}",
-		"detail_forecast_copied": "已复制",
-		"detail_game_qrcode_tip": "智能合约二维码"
+		"detail_forecast_title": "{currency} dự đoán",
+		"detail_forecast_title_link": "nhấp vào đây để xem hướng dẫn tham gia",
+		"detail_forecast_choose": "tự chọn",
+		"detail_forecast_odds": "bội số",
+		"detail_forecast_address": "Vui lòng chuyển ETC của bạn vào địa chỉ hợp đồng thông minh để hoàn thành dự đoán của bạn",
+		"detail_forecast_notice":" Rút tiền trực tiếp từ địa chỉ trao đổi sang địa chỉ dự báo đều bị cấm",
+		"detail_forecast_all": "Số tiền  dự báo tối thiểu：{amount} {currency}",
+		"detail_forecast_copied": "đã copy",
+		"detail_game_qrcode_tip": "mã QR của hợp đồng thông minh"
 	},
 	"zh-Hant": {
 		"detail_forecast_title": "{currency} 預測",
