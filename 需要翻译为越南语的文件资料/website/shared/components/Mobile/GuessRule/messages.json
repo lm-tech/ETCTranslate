@@ -1847,7 +1847,7 @@
 "detail_dota2_content_3": "'Kill' line: Sẽ được giải quyết theo bảng điểm chính thức, phát sóng hoặc API trò chơi.",
 "Detail_dota2_content_4": " 'Creep' dòng:. Sẽ được giải quyết tùy thuộc vào chính thức bảng điểm, phát sóng hoặc trò chơi API",
 "detail_dota2_content_5": "Dòng 'Quái vật': Sẽ được giải quyết theo bảng điểm chính thức, phát sóng hoặc API trò chơi. Kết quả là có thể giết Roshan thay vì nhặt Aegis of the Immortal.", "detail_dota2_content_6": "'Tòa nhà': Đối với mục đích định cư, tất cả các tòa nhà bị phá hủy đều được tính là bị phá hủy bởi đội đối thủ, bất kể đòn cuối cùng đến từ một anh hùng hay một cây leo. Số lượng doanh trại phải chịu Phá hủy doanh trại tầm xa và cận chiến. ",
-"Detail_dota2_content_7": "Trong trường hợp có một sự đầu hàng, các dự báo về" Destroy một tòa "dòng sẽ bị hủy",
+"Detail_dota2_content_7": "Trong trường hợp có một sự đầu hàng, các dự báo về Destroy một tòa “dòng sẽ bị hủy”,
 "detail_dota2_content_8": "Tất cả các dự báo dựa trên thời gian sẽ được giải quyết dựa trên đồng hồ trong trò chơi và không bao gồm thời gian trước khi creep được làm mới. Nếu trò chơi bắt đầu nhưng không hoàn thành, tất cả các dự báo sẽ bị coi là vô hiệu trừ khi kết quả Đã được xác định. ",
 "detail_cs_title": "CS: GO",
 "detail_cs_content_1": "Trong trường hợp làm thêm giờ, nó sẽ được bao gồm trong thanh toán dòng; trừ khi dự báo rút thăm được liệt kê trong dòng được chỉ định trong đó việc giải quyết sẽ chỉ tuân theo thời gian thông thường.",
