@@ -80,19 +80,19 @@
 		"endTip": "活動已結束，請等待下壹期"
 	},
 	"vi": {
-		"thead": ["账户名", "累计投币USDT"],
-		"myAccount": ["我的账户", "累计投币USDT"],
-		"noUser": "虚位以待",
+		"thead": ["tên tài khản", "tích lũy dự đoán USDT"],
+		"myAccount": ["tài khoản của tôi", "tích lũy dự đoán USDT"],
+		"noUser": "reserve a seat",
 		"roles": {
-			"rule1": "1. 活动时间：2019.05.01 00:00:00-2019.05.31 23:59:59（UTC/GMT8)",
-			"rule2": "2. 活动期间，累计投币金额越高，富豪榜排名越前；若累计投币金额相同时，优先到达者排名靠前；最终排名前10用户可获得丰厚数字货币奖励；",
-			"rule3": "3. 只有活动期间内的投币金额计入富豪榜；",
-			"rule4": "4. 活动奖励于活动结束后72小时内发放至用户资产中心；",
-			"rule5": "5. Coingame保留对此活动的最终解释权，如有疑问请联系support@coingame.com ",
-			"rule6": "6. 快捷客服通道：",
-			"rule31": "所投币任意币种的金额以CoinMarketCap实时汇率转化为等值USDT计入富豪榜；"
+			"rule1": "1. thời gian sự kiện：2019.05.01 00:00:00-2019.05.31 23:59:59（UTC/GMT8)",
+			"rule2": "2. trong thời gian khuyến mãi, số tiền dự đoán tích lũy càng cao, thứ hạng của bạn trong danh sách triệu phú càng cao. Nếu số tiền dự đoán tích lũy là như nhau, ai đạt đến giới hạn trước sẽ xếp hạng cao hơn. Cuối cùng, hàng đầu 10 người dùng có thể nhận được phần thưởng tiền kỹ thuật số đáng kể；",
+			"rule3": "3.  Chỉ những dự đoán được đặt trong thời gian khuyến mãi mới được tính vào danh sách người giàu；",
+			"rule4": "4. Phần thưởng trong thời gian khuyến mãi sẽ được phân phối cho trung tâm tài sản người dùng trong vòng 72 giờ sau khi kết thúc sự kiện；",
+			"rule5": "5. Coingame có quyền sửa đổi hoặc thay đổi sự kiện này. Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với support@coingame.com", 
+			"rule6": "6. kênh thông tin khách hàng nhanh：",
+			"rule31": "Số tiền dự đoán sẽ được chuyển đổi thành USDT tương đương theo tỷ giá hối đoái thời gian thực trên CoinMarketCap và được đưa vào Danh sách triệu phú；"
 		},
-		"startTip": "该活动尚未开始，敬请期待",
-		"endTip": "活动已结束，请等待下一期"
+		"startTip": "Sự kiện chưa bắt đầu. Hãy theo dõi để biết thêm thông tin",
+		"endTip": "Sự kiện đã kết thúc, vui lòng đợi lần tiếp theo"
 	}
 }
